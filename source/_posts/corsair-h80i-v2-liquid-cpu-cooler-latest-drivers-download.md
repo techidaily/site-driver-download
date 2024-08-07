@@ -1,7 +1,7 @@
 ---
 title: Corsair H80i V2 Liquid CPU Cooler Latest Drivers Download
-date: 2024-08-05 10:42:58
-updated: 2024-08-06 12:32:28
+date: 2024-08-06T09:31:09.064Z
+updated: 2024-08-07T09:31:09.064Z
 tags:
   - win11
   - win10
@@ -15,16 +15,26 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
 ## Installing Your Corsair K70: Latest Driver Downloads Available Now
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-99.png)
 
  One day when you were playing games, your Corsair K70 RGB mechanical gaming keyboard stopped working, it could be frustrating. To make your K70 work again, you can download and install the latest iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## What’s iCUE driver?  
 
  iCUE drive stands for Intelligent Corsair Utility Engine. It’s a powerful software that connects all your compatible Corsair products together in a single interface. You can use it to control the performance of your Corsair devices, such as Corsair keyboards, mice, headsets. For keyboard, you can control the lighting and custom actions and macros.  
 
  If your K70 gaming keyboard doesn’t work properly, for example, the lighting doesn’t work, you can reinstall the iCUE driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to download and install iCUE driver  
 
  You can go to Corsair’s website to download and install the iCUE driver. Note the steps may be different if the design on the website was changed.  
@@ -37,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  3)**Enter ‘k70’** in the SEARCH box, and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-82.png)
 
  4) Click the download button next to iCUE to download the driver software.
@@ -45,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  5) Double-click on the downloaded file and follow the on-screen instructions to install the software.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## What to do if your K70 still has issues?  
 
  After reinstalling iCUE driver, if your K70 mechanical gaming keyboard still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.  
@@ -63,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b2
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
 
  Hopefully you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.

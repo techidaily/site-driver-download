@@ -1,7 +1,7 @@
 ---
 title: Download & Install Updates for Canon PIXMA MX490 Printer Drivers on Windows
-date: 2024-08-04 23:39:19
-updated: 2024-08-07 12:45:29
+date: 2024-08-06T09:31:37.317Z
+updated: 2024-08-07T09:31:37.317Z
 tags:
   - win11
   - win10
@@ -22,6 +22,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 1. **[Manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Automatically (recommended)](https://www.drivereasy.com/knowledge/konica-minolta-printer-drivers-download-and-install-guide/#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 1 – Download and install the driver manually
 
  Konica Minolta keeps updating drivers for its series of printers. You can go to its website, find the latest driver that corresponds with your operating system, and then download it. This process is a little time-consuming and error-prone, but we’ll show you how to do this step by step.
@@ -30,10 +33,16 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 **2)** Select your product model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-1-1200x169.jpg)
 
 **3)** Click**Drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-2-1200x203.jpg)
 
 **4)** Select your operating system from the list.
@@ -42,6 +51,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 **5)** Select the driver you want and click the**download icon** next to it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/0-4-2-1200x270.jpg)
 
  Once you finished downloading the right driver, double-click the downloaded file. Then, launch the setup file and follow the on-screen instructions to install it.
@@ -50,6 +62,18 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 2 – Automatically install the Konica Minolta printer drivers (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Konica Minolta printer drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,6 +94,9 @@ To make your Konica Minolta printer runs in a perfect condition all the time, it
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2.jpg)
 
  You can do it for free if you like, but it’s partly manual.

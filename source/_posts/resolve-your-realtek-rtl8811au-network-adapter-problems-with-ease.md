@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Realtek RTL8811AU Network Adapter Problems with Ease
-date: 2024-08-06 21:25:31
-updated: 2024-08-07 12:35:30
+date: 2024-08-06T09:31:22.567Z
+updated: 2024-08-07T09:31:22.567Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 1. [**Update network adapter driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/network-adapter-driver-download-in-windows-7/#M1)
 2. **[Update network adapter driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Update network adapter driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the driver for your network adapter manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,14 +47,23 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-175.png)
 
  5) Click **Browse…** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-176.png)
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
  7) Open the folder where you’ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
@@ -72,6 +84,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  12) Click the **Download** button next to your network adapter driver.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-181.png)
 
  13) Wait until the computer completes. When it does, save the downloaded file to your USB drive and transfer it to the target computer.
@@ -89,6 +104,18 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 **Important** : If you can’t access the Internet, you might have to download the driver on an network-equipped computer first and then transfer the file to the target computer to install.
 
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)

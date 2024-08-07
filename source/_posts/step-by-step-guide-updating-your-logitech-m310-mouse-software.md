@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your Logitech M310 Mouse Software"
-date: 2024-08-04 18:33:44
-updated: 2024-08-07 11:33:36
+date: 2024-08-06T09:31:05.238Z
+updated: 2024-08-07T09:31:05.238Z
 tags:
   - win11
   - win10
@@ -33,16 +33,25 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  1) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
  2) Locate and double-click on   **Display adapters** (aka.   **graphics card** ,   **video card** ) to expand it.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f6019606a8.jpg)
 
  3) Right-click on **Radeon RX 580 Series**  and click **Update driver** .
 
  4) Click **Search automatically for updated driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f62d14e6b0.jpg)
 
  5) Your Windows will try its best to find the latest **Radeon RX 580 Series**  driver available for your computer. Then wait a bit and see if you’re provided a driver update:
@@ -64,6 +73,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Click**DRIVERS** **& SUPPORT** .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-19.png)
 
  3) In**or select your product from the list** , choose**Graphics** \>**Radeon 600 Series** \>**Radeon RX 500 Series** \>**Radeon RX 580** accordingly. Then click**SUBMIT** .
@@ -92,10 +104,16 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f734af3268.jpg)
 
  You can also click Update to do it for free if you like, but it’s partly manual.

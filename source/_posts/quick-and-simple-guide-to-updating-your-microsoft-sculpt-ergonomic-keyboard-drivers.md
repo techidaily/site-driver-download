@@ -1,7 +1,7 @@
 ---
 title: Quick and Simple Guide to Updating Your Microsoft Sculpt Ergonomic Keyboard Drivers
-date: 2024-08-04 11:34:38
-updated: 2024-08-06 12:16:20
+date: 2024-08-06T09:31:21.278Z
+updated: 2024-08-07T09:31:21.278Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 
 If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found the function keys and specialty keys didn’t work, you may need to update the driver to fix it. Don’t worry, this post is going to show you how to update driver and set up as you want.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why you need Microsoft Ergonomic keyboard 4000 drivers?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
@@ -25,6 +28,9 @@ If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found th
 
  That’s why when you meet problems, you need to download the related driver to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download Microsoft Ergonomic keyboard 4000 drivers?
 
  There are two ways you can update your driver: manually and automatically.
@@ -40,6 +46,9 @@ OR
  You need to go to[Microsoft official website](https://www.microsoft.com/accessories/en-ca/d/natural-ergonomic-keyboard-4000) to search for the model.  
  Select the operating system you’re using and download the correct driver for your keyboard. Download and install it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/4000.jpg)
 
 #### **Option 2 – Automatically update drivers**
@@ -52,9 +61,15 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/400.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 

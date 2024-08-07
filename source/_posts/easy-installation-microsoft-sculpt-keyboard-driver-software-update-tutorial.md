@@ -1,7 +1,7 @@
 ---
 title: "Easy Installation: Microsoft Sculpt Keyboard Driver Software Update Tutorial"
-date: 2024-08-05 14:38:24
-updated: 2024-08-07 12:20:27
+date: 2024-08-06T09:31:19.140Z
+updated: 2024-08-07T09:31:19.140Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found the function keys and specialty keys didn’t work, you may need to update the driver to fix it. Don’t worry, this post is going to show you how to update driver and set up as you want.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Why you need Microsoft Ergonomic keyboard 4000 drivers?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
@@ -25,6 +29,9 @@ If you have **Microsoft Ergonomic Keyboard 4000** or just bought it but found th
 
  That’s why when you meet problems, you need to download the related driver to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to download Microsoft Ergonomic keyboard 4000 drivers?
 
  There are two ways you can update your driver: manually and automatically.
@@ -40,6 +47,9 @@ OR
  You need to go to[Microsoft official website](https://www.microsoft.com/accessories/en-ca/d/natural-ergonomic-keyboard-4000) to search for the model.  
  Select the operating system you’re using and download the correct driver for your keyboard. Download and install it manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/4000.jpg)
 
 #### **Option 2 – Automatically update drivers**
@@ -52,9 +62,15 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/400.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 

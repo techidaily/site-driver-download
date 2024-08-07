@@ -1,7 +1,7 @@
 ---
 title: Installing the Latest HP LaserJet Pro M4지도력좋은 N Drivers - Get Started
-date: 2024-08-04 13:22:21
-updated: 2024-08-07 12:40:30
+date: 2024-08-06T09:31:31.811Z
+updated: 2024-08-07T09:31:31.811Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
 
 Just purchased the HP LaserJet Pro M404n printer? Then you need to download the driver to enable all the features that your printer supports. And if your printer isn’t functioning properly, updating your printer driver may help. Read on to find out how.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download software & driver for your printer
 
  To download the software and driver for your HP LaserJet Pro M404n, take these steps:
@@ -25,10 +28,20 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Click**Driver-Product Installation Software** to expand the list.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/HP-smart.png)
 
  3) Click**Install** to download and install HP Smart. Then follow the instructions on screen to finish the download and installation.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![how to download and install HP Smart](https://images.drivereasy.com/wp-content/uploads/2021/04/install.png)
 
  HP Smart is what HP recommends to install when you’re trying to set up your printer. It’s a useful application that makes setting up a printer or troubleshooting printer issues become easier. But if you just need that driver for your LaserJet Pro M404n printer, you can download it in the**Basic Drivers** section.
@@ -39,6 +52,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  There are two ways you can update your printer driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually update your printer driver
 
  You can update your printer driver manually by visiting the the manufacturer’s website or go to the Device Manager:
@@ -55,10 +71,16 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  4) Click**Search automatically for drivers** . Then Windows will start updating your driver. You’ll be notified if the update is finished.  
   
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![update printer driver via the Device Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/search-automatically-1.png)
 
  However, you may be told that your driver is already up to date. It’s possible that it still takes time for Microsoft to test and sign the new drivers that just have been submitted. If that’s your case, you can use the driver updater tools such as Driver Easy to automatically update your drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your printer driver (recommended)
 
  If attempting to update drivers via the Device Manager didn’t give you the best results, or if you don’t have the time, patience or computer skills to update your drivers manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .

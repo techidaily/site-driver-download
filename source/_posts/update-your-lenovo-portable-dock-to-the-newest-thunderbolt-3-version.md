@@ -1,7 +1,7 @@
 ---
 title: Update Your Lenovo Portable Dock to the Newest Thunderbolt ^3 Version
-date: 2024-08-05 13:29:23
-updated: 2024-08-07 10:57:15
+date: 2024-08-06T09:31:16.377Z
+updated: 2024-08-07T09:31:16.377Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/1fcdc6cbb778104aee870cc96ea727883cbb745be
 
 ## Download New Updates for Your Lenovo Thunderbolt 3 Portable Docking Station
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-495.png)
 
  Are you trying to update your Lenovo Thunderbolt 3 Dock driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update the Lenovo Thunderbolt 3 Dock driver
 
 To update the Lenovo Thunderbolt 3 Dock driver, you have two options:
@@ -31,6 +37,9 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Lenovo Thunderbolt 3 Dock driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,8 +49,14 @@ OR
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Lenovo Thunderbolt 3 Dock driver for now, simply click the**Update**  button next to it.  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-52-17.jpg)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -55,6 +70,9 @@ OR
  Lenovo keeps updating the Thunderbolt 3 Dock drivers. To get the one you need, you should visit the Lenovo website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually. Here’s how:
 
 1. Click **[here](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpcsupport.lenovo.com%2Fus%2Fen%2Fproducts%2Faccessory%2Fdocks%2Fthunderbolt-3-graphic-dock%2Fdownloads%3FlinkTrack%3DCaps%253ABody%255FSearchProduct%26searchType%3D3%26keyWordSearch%3DLenovo%2520Thunderbolt%25203%2520Graphic%2520Dock)**  to go to the download page of Lenovo Thunderbolt 3 dock drivers.
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. In the upper left corner, select the version of your Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-28-26.jpg)
 3. Expand the list of**Software and Utilities** and select**Thunderbolt 3 Graphics Dock Driver** from the results. To download this driver, simply click the down arrow button below**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-32-54.jpg)
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.

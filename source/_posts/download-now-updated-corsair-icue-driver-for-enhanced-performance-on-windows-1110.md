@@ -1,7 +1,7 @@
 ---
 title: "Download Now: Updated Corsair iCUE Driver for Enhanced Performance on Windows 11/10"
-date: 2024-08-03 16:40:39
-updated: 2024-08-06 12:23:26
+date: 2024-08-06T09:31:04.489Z
+updated: 2024-08-07T09:31:04.489Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
 
  To fix these issues and keep your printer in top condition, you can download or update the most recent correct Canon PIXMA TS3322 driver. In this post, we will show you how to easily do this.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Here are the two methods to try
 
 **[Method 1 – Automatically (Recommended):](https://www.drivereasy.com/knowledge/canon-pixma-ts3322-driver-download-and-update/#h-1)**  Easily and quickly have your printer updated with just a few clicks.
@@ -33,6 +36,9 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
 
 1. Download and install **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/de-scan5.7.3.jpg)
 3. Click the**Update** button next to the flagged Canon printer driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -48,16 +54,28 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
 
 1. Go to **[Canon’s official website](https://www.usa.canon.com/)**  .
 2. Move your cursor to**Support** and select**SOFTWARE & DRIVERS** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver1.jpg)
 3. Scroll down the page and select**Printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver2.1.jpg)
 4. Select the device**PIXMA** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver3.jpg)
 5. Select the device model**TS Series > PIXMA TS3322**  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver4.jpg)
 6. Check if the website’s detected Operating System and Version match your PC. If not, choose the right ones from the drop-down list.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver5.jpg)
 7. Scroll down the page and locate to the file**TS3300 series Driver setup package (Windows)** , then click**DOWNLOAD** .  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver6.jpg)
 8. Double-click on the downloaded file and follow the on-screen instructions to finish the installation.
 

@@ -1,7 +1,7 @@
 ---
 title: How to Seamlessly Update Lenovo System Energy Management Drivers
-date: 2024-08-06 23:14:57
-updated: 2024-08-07 12:12:39
+date: 2024-08-06T09:31:13.517Z
+updated: 2024-08-07T09:31:13.517Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  If you are wondering how and where to**update your Lenovo power management driver** , look no further! In this article, we are offering you two options to get it done, in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 options to update Lenovo Power Management Drivers
 
  There are two ways you can update your Lenovo power management driver in Windows.
@@ -31,6 +34,9 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Update Lenovo power management drivers automatically
 
  If you don’t have the time, patience or computer skills to update the power management driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -43,10 +49,16 @@ As its name suggests, a**Lenovo power management driver** is a tiny computer pro
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-49.png)
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-48.png)
 
 4) Restart your computer for the changes to take effect.
@@ -67,10 +79,16 @@ Here is a step-by-step walkthrough:
 
  2) Scroll down to**Popular Resources** section and under Drivers & Software, click Get Downloads.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-50-1024x218.png)
 
  3) In the pop-up window, enter the model of your Lenovo laptop and press Enter. (Here Yoga 12 is used as an example)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-51.png)
 
  4) In the**Manual Update** tab, locate**Power Management** and click on it.

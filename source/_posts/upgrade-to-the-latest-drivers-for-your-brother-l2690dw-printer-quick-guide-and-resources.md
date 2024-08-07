@@ -1,7 +1,7 @@
 ---
 title: "Upgrade to the Latest Drivers for Your Brother L2690DW Printer: Quick Guide and Resources"
-date: 2024-08-04 23:19:17
-updated: 2024-08-07 11:23:53
+date: 2024-08-06T09:31:23.394Z
+updated: 2024-08-07T09:31:23.394Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f
 
 Looking to update your**Intel NUC drivers** ? If yes, then you’ve come to the right place. Finding the correct drivers online could be a hair-raising adventure, but with this tutorial you should be able to do that quite quickly and easily. Now let’s dive right in and see what’s what.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to update your**Intel NUC** drivers
 
 There’re mainly two options for you:
@@ -29,15 +32,27 @@ There’re mainly two options for you:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Option 1 – Update the drivers manually
 
  Intel keeps updating the NUC drivers. To get them, you need to visit the support website of Intel, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the drivers manually. Follow these steps:
 
 1. Go to the **[Drivers & Software page](https://downloadcenter.intel.com/) [](https://www.asus.com/us/Motherboards/ROG-MAXIMUS-X-HERO/HelpDesk%5FDownload/)**  of Intel.
 2. Under**Select your product** , click**Intel NUC** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_17-44-31.jpg)
 3. On the next page, expand**View by product** and select your model. Go on to expand**Filter by** and select your operating system.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_17-49-40.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then you’ll be presented with a list of available downloads. Take note of their type because only those classified as**Driver** should be your targets, unless you’re also looking for BIOS updates and the like.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-10-18.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click on your desired driver. Then, click**Download** .![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-17-34.jpg)
 6. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 7. **Reboot** your computer for the changes to take effect. (You can do this after all the drivers have been installed.)
@@ -55,6 +70,9 @@ There’re mainly two options for you:
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-23-33.jpg)
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-23-28.jpg)

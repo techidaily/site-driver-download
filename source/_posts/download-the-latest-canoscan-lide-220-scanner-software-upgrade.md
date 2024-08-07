@@ -1,7 +1,7 @@
 ---
 title: Download the Latest CanoScan LiDE 220 Scanner Software Upgrade
-date: 2024-08-06 13:26:32
-updated: 2024-08-07 11:31:43
+date: 2024-08-06T09:31:06.657Z
+updated: 2024-08-07T09:31:06.657Z
 tags:
   - win11
   - win10
@@ -40,18 +40,30 @@ Here’s what you need to do:
 
  2) Click**Support** \>**Drivers & Downloads** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-224.png)
 
 3) Search for imageCLASS D530.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-225.png)
 
  4) Scroll down to the**Drivers & Downloads** section, make sure the detected operating system is correct (in my case it’s Windows 10 64 bit).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-226.png)
 
  5) Click the**Recommended Driver** to download.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-227.png)
 
  5) Run the downloaded file, and follow the on-screen instruction to finish it.
@@ -60,6 +72,9 @@ Now you have installed the latest Canon D530 driver.
 
  If this method doesn’t work for you, don’t worry. Move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Method 2: Update Canon D530 driver automatically
 
  If you don’t have the time or patience, you can update your D530 printer driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -78,6 +93,9 @@ Now you have installed the latest Canon D530 driver.
 
  Or click**Update All** to automatically download and install all the latest correct drivers that are missing or outdated in your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-230.png)
 
 4) Restart your computer to take effect.

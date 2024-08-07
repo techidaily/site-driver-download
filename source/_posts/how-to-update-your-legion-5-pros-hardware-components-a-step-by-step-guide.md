@@ -1,7 +1,7 @@
 ---
 title: "How to Update Your Legion 5 Pro's Hardware Components: A Step-by-Step Guide"
-date: 2024-08-06 20:13:43
-updated: 2024-08-07 10:33:27
+date: 2024-08-06T09:31:19.828Z
+updated: 2024-08-07T09:31:19.828Z
 tags:
   - win11
   - win10
@@ -27,12 +27,18 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 2. **[Update AMD RX 580 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update AMD RX 580 driver automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Update**AMD RX 580**  driver via Device Manager
 
  Device Manager is surely a quick way to update drivers because Windows can help us find the right driver and save us a lot time in finding one. But there’s one niggle: it doesn’t necessarily have the latest version available. Still, let’s give it a go:
 
  1) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
  2) Locate and double-click on   **Display adapters** (aka.   **graphics card** ,   **video card** ) to expand it.
@@ -64,6 +70,10 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Click**DRIVERS** **& SUPPORT** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-19.png)
 
  3) In**or select your product from the list** , choose**Graphics** \>**Radeon 600 Series** \>**Radeon RX 500 Series** \>**Radeon RX 580** accordingly. Then click**SUBMIT** .
@@ -72,6 +82,9 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  4) Click on**your OS** to unfold the corresponding driver package.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-21-1024x311.png)
 
  5) Click**DOWNLOAD** to begin downloading the driver file.
@@ -92,10 +105,16 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f734af3268.jpg)
 
  You can also click Update to do it for free if you like, but it’s partly manual.

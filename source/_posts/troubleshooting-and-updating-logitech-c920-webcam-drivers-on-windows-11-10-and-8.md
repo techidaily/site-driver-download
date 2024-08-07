@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Updating Logitech C920 Webcam Drivers on Windows 11, 10 & 8
-date: 2024-08-05 22:29:49
-updated: 2024-08-07 12:58:56
+date: 2024-08-06T09:31:35.515Z
+updated: 2024-08-07T09:31:35.515Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  No proper Internet access on that computer right now? Don’t worry – we got you covered – c heck out the 2 methods below to get your network up and running again!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## To update network adapter driver
 
  You don’t have to try both methods to get your driver updated; just browse through the list and take your pick:
@@ -52,6 +55,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  6) A window will pop up telling you that the offline scan file has been saved. Click **OK**  to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
  7) Open the folder where you’ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
@@ -60,6 +66,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  9) Run Driver Easy and click **Tools** in the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
@@ -72,6 +81,9 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
  12) Click the **Download** button next to your network adapter driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-181.png)
 
  13) Wait until the computer completes. When it does, save the downloaded file to your USB drive and transfer it to the target computer.
@@ -89,8 +101,14 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 **Important** : If you can’t access the Internet, you might have to download the driver on an network-equipped computer first and then transfer the file to the target computer to install.
 
 1. On the keyboard of the target computer, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50135d9ffd2.jpg)
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)
 3. On the computer with Internet, go to the brand manufacturer’s official website and check out the**Support** section for driver downloads.
 4. Search the model of your graphics card, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.

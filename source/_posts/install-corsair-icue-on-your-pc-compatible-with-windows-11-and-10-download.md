@@ -1,7 +1,7 @@
 ---
 title: Install Corsair iCUE on Your PC - Compatible with Windows 11 and 10 (Download)
-date: 2024-08-04 19:41:28
-updated: 2024-08-06 10:26:42
+date: 2024-08-06T09:31:27.892Z
+updated: 2024-08-07T09:31:27.892Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Wondering where to get the Realtek Asio driver for Windows 10? If yes, then you�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Option 1 – Update the driver manually
 
  To get the Realtek Asio driver, you should first visit the official website of your motherboard manufacturer, such as MSI. Then, browse for the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download it manually.
@@ -33,6 +37,9 @@ Wondering where to get the Realtek Asio driver for Windows 10? If yes, then you�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Option 2 – Automatically update the Realtek Asio driver
 
  Some people may find it hard to locate the correct Realtek Asio driver online. And even if you successfully find it, it’s still time-consuming and error-prone to install the driver. So if you don’t have the time, patience or computer skills to update your Realtek Asio driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,7 +49,13 @@ Wondering where to get the Realtek Asio driver for Windows 10? If yes, then you�
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-444.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Realtek Asio driver for now, simply click the**Update**  button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-513.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
