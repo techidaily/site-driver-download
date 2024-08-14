@@ -1,0 +1,171 @@
+---
+title: Download Brother L2740DW Printer Drivers for Windows - Latest Version
+date: 2024-08-13T11:56:12.545Z
+updated: 2024-08-14T11:56:12.545Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverDownload
+description: This Article Describes Download Brother L2740DW Printer Drivers for Windows - Latest Version
+excerpt: This Article Describes Download Brother L2740DW Printer Drivers for Windows - Latest Version
+thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a361d23570f41841fc2273feb3.jpg
+---
+
+## Effortless Installation: Download Drivers for Brother Printer Models Today
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-31.jpg) Keep looking for the way to download or update the driver for your new Brother printer? This tutorial is exactly for you then. In this post, we will be showing you three safe and true ways to**download & update Brother printer drivers** . The ways are introduced step by step with images. Please take a few minutes on it and choose one way you prefer.
+
+## Pick the way you prefer
+
+1. [**Download Brother printer latest drivers from Brother official website**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update Brother printer drivers via Device Manager**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+### Way 1: Download Brother printer latest drivers from Brother official website
+
+ 1) Go to[Brother Product Support Center](http://www.brother.com.sg/en/support/products) .  
+  
+ 2) Type your Brother printer model number. Then click **Search**  icon.  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-35.jpg)
+  
+ Or you can browse your product .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-34.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ 3) Click **Downloads** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-15.jpg)
+  
+ 4) Choose your operating system under **Downloads**  dialog. Then click **Search** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-24.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+  
+ 5) Click **Printer Driver**  under **Drivers**  dialog.  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-22.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+  
+ 6) Click **Agree to the EULA and Download** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+  
+ 7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
+
+### Way 2: Update Brother printer drivers via Device Manager  
+  
+ 1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+  
+ 2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/win-10-dev.jpg)
+  
+ 3) Find and expand **Printers**  or **Printer queues**  dialog. Then right-click on your Brother Printer Device to choose   **Update Driver Software…**
+  
+**![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-13.jpg)**
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+  
+ 4) Click **Search automatically for updated driver software** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-8.jpg)
+  
+ 5) Now Windows will detect the update automatically for you. Just follow the on-screen instructions.
+
+**Note:**  If you see the   **The best driver software for your device is already installed**  message, choose other way to update your Brother printer driver. That’s because sometimes Microsoft might not detect the update for some reasons.  
+
+### Way 3: Update Brother printer drivers with one-click via Driver Easy automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your Brother printer driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct driver for your exact Brother printer, and your variant of Windows system version, and it will download and install it correctly :
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers, your Brother printer driver is no exception.
+
+ 3) Click the **Update**  button next to the flagged video driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).
+
+Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-32.jpg)
+  
+**Note:**  Some Brother printers have built-in drivers to support basic functions.  
+ How to install the built-in drivers — [Manual to Install Brother Built-in Drivers](https://tools.techidaily.com/drivereasy/download/) .
+
+ Hopefully this helps you, and feel free to comment below with your own experiences.
+
+* [Drivers](https://tools.techidaily.com/drivereasy/download/)
+* [printer](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-dialing-up-the-drama-captivating-tiktok-intros-via-mac/"><u>[New] 2024 Approved  Dialing Up the Drama  Captivating TikTok Intros via Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-building-connections-with-your-channels-audience/"><u>[New] Building Connections with Your Channel's Audience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-lightning-speed-seamless-transformation-from-srt-to-text-format/"><u>[New] Lightning Speed  Seamless Transformation From SRT to Text Format</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-4-unrooted-ways-to-log-internal-android-audio-for-2024/"><u>[Updated] 4 Unrooted Ways to Log Internal Android Audio for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-novice-to-pro-magix-video-pro-x-journey-for-2024/"><u>[Updated] From Novice to Pro  Magix Video Pro X Journey for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/10-visionaries-on-the-evolution-of-ai-technology/"><u>10 Visionaries on the Evolution of AI Technology</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-free-makers-hub-for-top-tier-fb-visuals/"><u>2024 Approved  Free Maker's Hub for Top-Tier FB Visuals</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turn-off-youtube-preview-in-one-easy-step-guide/"><u>2024 Approved  Turn Off YouTube Preview in One Easy Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/audio-technica-driver-update-procedure-improve-sound-quality-with-the-latest-software-upgrade/"><u>Audio-Technica Driver Update Procedure: Improve Sound Quality With The Latest Software Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-wf-3620-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download and Install Epson WF-3620 Printer Drivers: Compatible with Windows 11, 8, & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-ds-530-with-updated-drivers-for-your-windows-11-x64-pc/"><u>Easy Installation of Epson DS-530 with Updated Drivers for Your Windows 11 X64 PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-troubleshooting-for-audio-technica-drivers-on-pc-and-mac/"><u>Easy Troubleshooting for Audio-Technica Drivers on PC and Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977707667-effortless-setup-for-thrustmaster-t150-drivers-get-downloads-now/"><u>Effortless Setup for Thrustmaster T150 Drivers - Get Downloads Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fix-guide-troubleshooting-unrecognized-usb-devices-on-windows-10/"><u>Fix Guide: Troubleshooting Unrecognized USB Devices on Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-for-techkey-bluetooth-device-driver-optimized-for-windows-11-7-and-8-systems/"><u>Free Download for Techkey Bluetooth Device Driver: Optimized for Windows 11, 7 & 8 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-c270-camera-software-webcam-setup-and-drivers-windows-1011-compatible/"><u>Free Logitech C270 Camera Software (Webcam) Setup & Drivers | Windows 10/11 Compatible</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-mbox-2-driver-installation-guide-latest-updates-for-windows-operating-systems/"><u>Free MBox 2 Driver Installation Guide: Latest Updates for Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-realtek-auditory-device-drivers-for-windows-versions-11-10-and-7/"><u>Get the Most Recent Realtek Auditory Device Drivers for Windows Versions: 11, 10, and 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-zebra-printer-software-updates-for-windows-users/"><u>Get the Newest Zebra Printer Software Updates for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-g-pro-controller-on-pc-download-compatible-with-windows-11-10-8-and-7/"><u>Get Your Logitech G PRO Controller on PC - Download Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-msi-bluetooth-driver-now-compatible-with-windows-11-and-10-free-download/"><u>Get Your MSI Bluetooth Driver Now: Compatible with Windows 11 & 10 - Free Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-brother-l2690dw-driver-for-easy-installation/"><u>How to Get the Newest Brother L2690DW Driver for Easy Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-driver-for-your-canon-ts6150-photo-all-in-one/"><u>How to Get the Newest Driver for Your Canon TS6150 Photo All-In-One</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8740-drivers-free-download-for-windows-11-10-and-8/"><u>HP OfficeJet Pro 8740 Drivers: Free Download for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-narzo-n53-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme Narzo N53 Through Google Earth?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quickvideocapture-simple-desktop-app-for-w10/"><u>In 2024, QuickVideoCapture  Simple Desktop App for W10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-setup-guide-how-to-get-latest-drivers-for-your-acer-predator-xb271h-screen/"><u>Instant Setup Guide: How To Get Latest Drivers For Your Acer Predator XB271H Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-lenovo-t430-drivers-seamless-setup-on-windows-1087-systems/"><u>Latest Lenovo T430 Drivers - Seamless Setup on Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-razer-drivers-for-windows-get-the-newest-version-for-win11-win8-win7-xp-and-vista-systems/"><u>Latest Razer Drivers for Windows - Get the Newest Version for Win11, Win8, Win7, XP and Vista Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-data-plans-how-to-assess-your-digital-footprints-impact-on-data-usage/"><u>Navigating Data Plans: How to Assess Your Digital Footprint's Impact on Data Usage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-downloading-and-updating-intel-optane-drivers-on-your-windows-pc/"><u>Successful Guide: Downloading and Updating Intel Optane Drivers on Your Windows PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rt-of-turning-youtube-media-on-its-head-for-2024/"><u>The Art of Turning YouTube Media on Its Head for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-13t-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi 13T</u></a></li>
+</ul></div>
