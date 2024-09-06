@@ -1,7 +1,7 @@
 ---
 title: Find & Download Updated Canon MX490 Printer Drivers Compatible with Windows 10/8/7
-date: 2024-09-01T01:01:33.208Z
-updated: 2024-09-02T01:01:33.208Z
+date: 2024-09-05T05:10:42.975Z
+updated: 2024-09-06T05:10:42.975Z
 tags:
   - win11
   - win10
@@ -34,16 +34,40 @@ There might be several products listed in the screen. Click on your product name
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576b7d71525fc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) The drivers can be downloaded from Downloads section. Click the **Downloads**  tab then drivers and all available software will be listed for you to choose to download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576b7de28fba2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Select the system to Windows 10 then locate the driver from the list. Click the **Download** button to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576b7e2cb92c8.png)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) After the download completes, just double-click on the downloaded file (.exe) and follow the on-screen instructions to install the driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Download and update the driver automatically
 
  To download driver from Logitech website, you need to identify the right driver from the software list. It could be waste of time. It is harder if you don’t know much about computer. So if you would like to download Logitech wireless keyboard drivers more easily, instead of downloading drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  
@@ -58,10 +82,28 @@ There might be several products listed in the screen. Click on your product name
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9255393f15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update** button next to a flagged Logitech keyboard driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae9256f2e99f.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Hopefully you can download and update your Logitech mouse driver easily with the methods above. If you have any questions, please feel free to leave your comments. We’d love to hear of any suggestions and ideas.
 
 * [Logitech](https://tools.techidaily.com/drivereasy/download/)
@@ -119,7 +161,3 @@ There might be several products listed in the screen. Click on your product name
 <li><a href="https://driver-download.techidaily.com/ultimate-solution-step-by-step-tutorial-for-downloading-and-updating-rndis-drivers-in-windows/"><u>Ultimate Solution: Step-by-Step Tutorial for Downloading & Updating RNDIS Drivers in Windows</u></a></li>
 <li><a href="https://driver-download.techidaily.com/usb-to-serial-diver-download-for-windows-easily-and-quickly/"><u>USB to Serial Diver Download for Windows - Easily & Quickly</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Downloading Canon MX Series (MX4) Drivers for Windows Computers | User-Friendly Tips
-date: 2024-08-06T09:31:14.718Z
-updated: 2024-08-07T09:31:14.718Z
+date: 2024-09-05T05:07:56.471Z
+updated: 2024-09-06T05:07:56.471Z
 tags:
   - win11
   - win10
@@ -30,7 +30,10 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 1 – Automatically update your XBOX ACC driver
 
@@ -46,16 +49,40 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox adapter driver for now, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2 – Update your XBOX ACC driver manually
 
  To update your XBOX ACC driver manually, please complete the following procedure:
@@ -64,18 +91,24 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
  2) In the search box located in the upper right corner of the site, type**Xbox wireless** and click **Search** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 
  5) Extract the downloaded driver file.
@@ -88,23 +121,32 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
 
 ![This image has an empty alt attribute; its file name is image-301.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  8) In the next window, select**Browse my computer for driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  9) Click**Browse…** to select the folder where you’ve extracted the driver file. Then click **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
  10) Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -130,3 +172,37 @@ thumbnail: https://thmb.techidaily.com/f86f99b6d8051e2301c0b59b59f0f49d547931786
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-innovating-with-technology-advanced-gopro-4k-editing-techniques/"><u>[New] In 2024, Innovating with Technology  Advanced GoPro 4K Editing Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rally-your-spirit-compiled-list-of-best-exercise-tracks/"><u>[New] Rally Your Spirit  Compiled List of Best Exercise Tracks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-creating-square-instagram-video-tutorial-using-imovie/"><u>[Updated] Creating Square Instagram Video Tutorial Using iMovie</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-formulating-attractive-instagram-post-headlines/"><u>[Updated] Formulating Attractive Instagram Post Headlines</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-the-magic-in-pixelated-photographic-tapestries/"><u>2024 Approved  Discovering the Magic in Pixelated Photographic Tapestries</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpio-interface-driver-secure-your-free-downloads-here/"><u>AMD GPIO Interface Driver - Secure Your Free Downloads Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsairs-liquid-cpu-cooler-h80i-v2-driver-download-and-installation-guide/"><u>Corsair's Liquid CPU Cooler H80i V2: Driver Download & Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-microsoft-wireless-mouse-5000-driver-in-a-snap-easy-steps-inside/"><u>Download the Microsoft Wireless Mouse 5000 Driver in a Snap – Easy Steps Inside!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-graphics-drivers-for-nvidia-rtx-2080-on-windows-1178/"><u>Download the Newest Graphics Drivers for NVIDIA RTX 2080 on Windows 11/7/8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-finding-and-installing-the-right-epson-perfection-v39-drivers-for-your-windows-os-7-8-and-10/"><u>Easy Guide to Finding and Installing the Right Epson Perfection V39 Drivers for Your Windows OS (7, 8 & 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-windows-compatible-sapphire-driver-updates-now/"><u>Get the Latest Windows-Compatible Sapphire Driver Updates Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mp280-working-in-windows-download-latest-drivers-for-windows-1087/"><u>Get Your Canon MP280 Working in Windows - Download Latest Drivers for Windows 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-secure-the-most-recent-wacom-tablet-drivers-downloading-and-installation-guide-for-cintiq-13hd/"><u>How to Secure the Most Recent Wacom Tablet Drivers - Downloading and Installation Guide for Cintiq 13HD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-color-laserjet-pro-m452dn-printer-software-download/"><u>HP Color LaserJet Pro M452dn Printer Software Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-exploring-high-speed-action-a-top-5-game-list/"><u>In 2024, Exploring High-Speed Action  A Top 5 Game List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-up-to-date-graphics-card-drivers-for-gtx-980-ti/"><u>Install Up-to-Date Graphics Card Drivers for GTX 980 Ti</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-software-update-for-nvidia-quadro-rtx-8000-how-to-download-and-install-on-win-10-8-or-7/"><u>Latest Software Update for Nvidia Quadro RTX 8000: How to Download & Install on Win 10, 8 or 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mbox-2-usb-wifi-adapter-freshest-driver-downloads-and-update-steps-for-windows-users/"><u>MBox 2 USB WiFi Adapter: Freshest Driver Downloads and Update Steps for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvme-driver-download-and-install-in-windows/"><u>NVMe Driver Download and Install in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-microsoft-wireless-mouse-5000-compatible-drivers/"><u>Quick Download: Microsoft Wireless Mouse 5000 Compatible Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-download-windows-7-compatible-webcam-software/"><u>Quick Setup: Download Windows 7 Compatible Webcam Software</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-steps-overcoming-lagging-challenges-when-using-a-wireless-keyboard-with-windows-operating-system/"><u>Solution Steps: Overcoming Lagging Challenges When Using a Wireless Keyboard With Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-restoring-your-keyboard-settings/"><u>Step-by-Step Guide: Successfully Restoring Your Keyboard Settings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-updating-thunderbolt-drivers-in-windows/"><u>Step-by-Step Instructions: Updating Thunderbolt Drivers in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-network-issues-free-d-link-driver-solutions-for-windows-devices/"><u>Troubleshoot Network Issues: Free D-Link Driver Solutions for Windows Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-sata-driver-software-for-windows-computers-easily-expert-advice/"><u>Update SATA Driver Software for Windows Computers Easily - Expert Advice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-gameplay-download-the-newest-rtx-2080-graphics-card-drivers-for-win10win11-systems/"><u>Update Your Gameplay: Download the Newest RTX 2080 Graphics Card Drivers for Win10/Win11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-computers-sound-drivers-tips-and-tricks-for-windows-versions-11-10-and/"><u>Updating Your Computer's Sound Drivers: Tips and Tricks for Windows Versions (11, 10, & ^)</u></a></li>
+</ul></div>
