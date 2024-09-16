@@ -1,7 +1,7 @@
 ---
 title: "Latest NVIDIA RTX 3080 Ti Drivers Available: Compatible with Windows 10/8/7 Systems"
-date: 2024-08-06T09:31:18.813Z
-updated: 2024-08-07T09:31:18.813Z
+date: 2024-09-13T17:18:24.668Z
+updated: 2024-09-16T18:56:44.505Z
 tags:
   - win11
   - win10
@@ -21,18 +21,12 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
  Besides, always using the latest graphics driver offers more than just a performance boost. It also keeps your GPU in good condition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -44,17 +38,11 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -64,14 +52,8 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 1. First go to the[NVIDIA drivers download page](https://tools.techidaily.com/drivereasy/download/) .
 2. Under the**NVIDIA Driver Downloads** section, search for your graphics card. Be sure to select the correct operating system. Then click**SEARCH** .  
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 ---
@@ -84,11 +66,40 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>[New] 2024 Approved Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>[New] In 2024, Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-definitive-guide-to-adding-closed-captions-in-vimeo-footage-for-2024/"><u>[Updated] The Definitive Guide to Adding Closed Captions in Vimeo Footage for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-become-a-close-up-connoisseur-advanced-roleplay-tips/"><u>2024 Approved Become a Close-Up Connoisseur Advanced Roleplay Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/advanced-sound-control-elevate-your-listening-experience-with-nahimics-new-audio-solution/"><u>Advanced Sound Control: Elevate Your Listening Experience with Nahimic's New Audio Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-ryzen-5-2600-driver-installation-made-simple-get-started-today/"><u>AMD Ryzen 5 2600 Driver Installation Made Simple - Get Started Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-expert-guide-on-using-corsair-gaming-mice/"><u>Free Download: Expert Guide on Using Corsair Gaming Mice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969065411-get-the-latest-pl2303-usb-to-serial-adapter-drivers-for-windows-pcs-download-now/"><u>Get the Latest PL2303 USB-to-Serial Adapter Drivers for Windows PCs - Download Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-brother-hl-2270dw-printing-software-update-and-driver-download-for-windows-users/"><u>Get the Newest Brother HL-2270DW Printing Software Update & Driver Download for Windows Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fast-track-to-zooming-proficiency/"><u>In 2024, The Fast Track to Zooming Proficiency</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rush-and-reaction-sochis-speed-showdown/"><u>Rush & Reaction Sochi's Speed Showdown</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-latest-video-card-drivers-on-windows-systems/"><u>Step-by-Step Process to Install Latest Video Card Drivers on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-impact-of-climate-change-on-the-future-availability-and-distribution-of-ophiocordyceps-sinensis/"><u>The Impact of Climate Change on the Future Availability and Distribution of Ophiocordyceps Sinensis.</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

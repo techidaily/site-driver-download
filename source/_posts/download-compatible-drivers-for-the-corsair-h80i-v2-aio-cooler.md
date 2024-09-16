@@ -1,7 +1,7 @@
 ---
 title: Download Compatible Drivers for the Corsair H80i V2 AIO Cooler
-date: 2024-08-06T09:31:19.449Z
-updated: 2024-08-07T09:31:19.449Z
+date: 2024-09-12T18:44:34.313Z
+updated: 2024-09-16T16:20:12.972Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/47ffc6f56df8f55aee8393dc2516df4e9eefe4f14
 
 You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What’s the iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -32,20 +29,10 @@ There are two ways to download iCUE.
 1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Download and install iCUE through the homepage  
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
 ### Download iCUE from the product page
@@ -53,16 +40,23 @@ No advertising on the website.
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
 
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What to do if your mouse still has issues?
 
  After reinstalling iCUE driver, if your gaming mouse still doesn’t work, you can use Driver Easy to update all drivers in your computer, as the problem can be caused by faulty drivers installed on your computer.
@@ -75,9 +69,6 @@ No advertising on the website.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
@@ -85,6 +76,19 @@ No advertising on the website.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -100,11 +104,29 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>[New] In 2024, How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-practices-top-5-audio-recording-approaches-on-windows-11-platform/"><u>[Updated] Best Practices Top 5 Audio Recording Approaches on Windows 11 Platform</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-musical-instagram-narratives-without-for-2024/"><u>[Updated] Crafting Musical Instagram Narratives (Without) for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-finding-the-best-meme-ideas-to-create-viral-content/"><u>2024 Approved Finding the Best Meme Ideas to Create Viral Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>2024 Approved Unseen Horizons Hot List of VR Peripherals (Top 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959593424-download-the-newest-intel-irisplus-gpu-drivers-smooth-and-speedy-setup-process/"><u>Download the Newest Intel Iris+ GPU Drivers: Smooth and Speedy Setup Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-fresh-amd-ati-radeon-hd-3450-graphics-card-drivers/"><u>Easy Installation: Fresh AMD ATI Radeon HD 3450 Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-device-ready-with-mediatek-usb-vcom-driver-easy-download-steps/"><u>Get Your Device Ready with MediaTek USB VCOM Driver - Easy Download Steps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-magic-5-lite-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor Magic 5 Lite?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-your-aoc-graphics-card-drivers-on-windows-11108-for-optimal-performance/"><u>How to Get Your AOC Graphics Card Drivers on Windows 11/10/8 for Optimal Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-computer-with-the-newest-usb-c-drivers-for-windows-10-instant-download-options-inside/"><u>Optimize Your Computer with the Newest USB-C Drivers for Windows 10 - Instant Download Options Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2e70-super-graphics-card-update-pack-free-download-for-pcs-running-windows-1110/"><u>RTX 2E70 Super Graphics Card Update Pack: Free Download for PCs Running Windows 11/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-connectivity-with-updated-ralink-drivers-for-windows-download-and-tips-included/"><u>Seamless Connectivity with Updated Ralink Drivers for Windows - Download & Tips Included</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-s18e-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo S18e ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+</ul></div>
+

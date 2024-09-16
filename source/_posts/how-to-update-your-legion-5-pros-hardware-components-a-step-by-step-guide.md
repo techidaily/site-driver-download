@@ -1,7 +1,7 @@
 ---
 title: "How to Update Your Legion 5 Pro's Hardware Components: A Step-by-Step Guide"
-date: 2024-08-06T09:31:19.828Z
-updated: 2024-08-07T09:31:19.828Z
+date: 2024-09-15T16:24:43.576Z
+updated: 2024-09-16T16:32:46.520Z
 tags:
   - win11
   - win10
@@ -27,18 +27,12 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 2. **[Update AMD RX 580 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update AMD RX 580 driver automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Update**AMD RX 580**  driver via Device Manager
 
  Device Manager is surely a quick way to update drivers because Windows can help us find the right driver and save us a lot time in finding one. But there’s one niggle: it doesn’t necessarily have the latest version available. Still, let’s give it a go:
 
  1) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
  2) Locate and double-click on   **Display adapters** (aka.   **graphics card** ,   **video card** ) to expand it.
@@ -70,10 +64,6 @@ It’s always important to**keep your AMD RX 580 driver up to date** to make sur
 
  2) Click**DRIVERS** **& SUPPORT** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-19.png)
 
  3) In**or select your product from the list** , choose**Graphics** \>**Radeon 600 Series** \>**Radeon RX 500 Series** \>**Radeon RX 580** accordingly. Then click**SUBMIT** .
@@ -82,9 +72,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  4) Click on**your OS** to unfold the corresponding driver package.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-21-1024x311.png)
 
  5) Click**DOWNLOAD** to begin downloading the driver file.
@@ -105,17 +92,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**   – you’ll be prompted to upgrade when you click _**Update All**_ ).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0f734af3268.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click Update to do it for free if you like, but it’s partly manual.
 
@@ -133,11 +128,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube-for-2024/"><u>[New] Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[New] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-potential-the-ultimate-guide-to-spectacous-tiktok-openers-mac-for-2024/"><u>[New] Unleash Potential The Ultimate Guide to Spectacous TikTok Openers (Mac) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5oml44ow44os44o844kt44gr44ki44kl44kz44ou44o844km44kp44o844k44o844ot44od44kv44ks6kej6zmk44gn44gn44ga44cb5asj5oplusb44gm5asx5pwx44gx44gf5ac05zci44gu44oi4495/"><u>「手ブレーキによるコピーウォーターロックを解除できず、変換が失敗した場合のトラブルシューティングガイド」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-edge-40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola Edge 40 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-views-a-guide-to-effective-facebook-video-advertising-techniques-for-2024/"><u>Boosting Views A Guide to Effective Facebook Video Advertising Techniques for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/capture-igtv-media-step-by-step-guide-for-pc-and-mac-devices-for-2024/"><u>Capture IGTV Media Step-by-Step Guide for PC & Mac Devices for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-resource-for-the-latest-hp-laptop-drivers-on-windows-platforms/"><u>Comprehensive Resource for the Latest HP Laptop Drivers on Windows Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-configure-logitech-g51t-mouse-drivers-for-windows-7810-operating-systems/"><u>Download and Configure Logitech G51t Mouse Drivers for Windows 7/8/10 Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-upgrading-to-the-newest-epson-wf-7720-printer-driver-windows-edition/"><u>Easy Instructions: Upgrading to the Newest Epson WF-7720 Printer Driver Windows Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficiently-enhance-your-ryzen-5-2500u-pc-latest-drivers-and-easy-update-methods/"><u>Efficiently Enhance Your Ryzen 5 2500U PC - Latest Drivers & Easy Update Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-repairing-startech-peripheral-driver-conflicts-on-various-windows-os-versions/"><u>Guide to Repairing StarTech Peripheral Driver Conflicts on Various Windows OS Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-or-update-asus-laptop-system-drivers-quickly/"><u>How to Install or Update ASUS Laptop System Drivers Quickly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-access-to-xps-movie-making-tools-for-2024/"><u>Quick Access to XP's Movie Making Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-get-your-lexar-usb-drivers-instantly/"><u>Quick Download: Get Your Lexar USB Drivers Instantly</u></a></li>
+</ul></div>
+

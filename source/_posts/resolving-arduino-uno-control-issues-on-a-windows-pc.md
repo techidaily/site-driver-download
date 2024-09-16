@@ -1,7 +1,7 @@
 ---
 title: Resolving Arduino Uno Control Issues on a Windows PC
-date: 2024-08-06T09:31:19.473Z
-updated: 2024-08-07T09:31:19.473Z
+date: 2024-09-09T17:14:26.284Z
+updated: 2024-09-16T19:34:09.130Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -38,9 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -49,14 +43,8 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
@@ -66,9 +54,12 @@ OR
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -82,10 +73,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -99,11 +94,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>[New] In 2024, Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-laptop-and-mobile-manual-for-old-fb-stories-for-2024/"><u>[Updated] The Complete Laptop & Mobile Manual for Old FB Stories for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-final-thoughts-in-journalistic-styling/"><u>2024 Approved Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-fortnite-delays-proven-strategies-to-enhance-gaming-performance/"><u>Banish Fortnite Delays: Proven Strategies to Enhance Gaming Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-csr-bluetooth-driver-software-fetch-todays-latest-version/"><u>Essential CSR Bluetooth Driver Software - Fetch Today's Latest Version</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-performance-with-new-hp-designjet-g5210-drivers-available-now/"><u>Get the Best Performance with New HP Designjet G5210 Drivers Available Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970005384-get-your-latest-nvidia-1080-drivers-for-windows-10-now/"><u>Get Your Latest NVIDIA 1080 Drivers for Windows 10 Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-behringers-best-sound-drivers-guide-and-resources/"><u>How to Download Behringer's Best Sound Drivers – Guide & Resources</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-add-a-motion-blur-effect-in-valorant-read-this-guide-to-find-out-how-to-create-a-motion-blur-effect-in-valorant-without-any-hassle/"><u>New Do You Want to Add a Motion Blur Effect in Valorant? Read This Guide to Find Out How to Create a Motion Blur Effect in Valorant without Any Hassle</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-premiere-vs-after-effects-which-video-editing-software-reigns-supreme/"><u>New Premiere vs After Effects Which Video Editing Software Reigns Supreme?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/photo-resurrection-mastery-navigating-two-strategies-to-retrieve-pictures-from-icloud/"><u>Photo Resurrection Mastery: Navigating Two Strategies to Retrieve Pictures From iCloud</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-critical-dxgkrnl-bsod-issue-in-windows-11/"><u>Resolved: Fixing the Critical 'Dxgkrnl' BSOD Issue in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unpack-the-basics-a-straightforward-roadmap-to-start-your-reviews-channel-for-2024/"><u>Unpack the Basics A Straightforward Roadmap to Start Your Reviews Channel for 2024</u></a></li>
+</ul></div>
+

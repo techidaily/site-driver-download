@@ -1,7 +1,7 @@
 ---
 title: Easily Install & Update Your SAS Drivers on Windows PCs (Windows 11/8/7)
-date: 2024-08-06T09:31:19.292Z
-updated: 2024-08-07T09:31:19.292Z
+date: 2024-09-15T17:21:23.706Z
+updated: 2024-09-16T19:42:51.280Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
 ## Find & Install Updated ThinkPad T420s Drivers Compatible with Windows 11 Here
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/lenovo-thinkpad-t420s.jpg)
 
  **Lenovo ThinkPad T420s** is a rather old model of computer. You will see the notification telling you that it is “**no longer available for purchase on lenovo.com** ” even if you want to purchase it now.  
@@ -32,16 +29,10 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
   
  1) Follow the path:**Start** button**\> Control Panel** (View by**Small icon** )**\> Device Manager** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/start-button-control-panel-view-by-small-icon-device-manager-600x433.jpg)
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg)
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
@@ -50,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583e933a476f5.jpg)
 
  4) Then choose**Search automatically for updated driver software** .
@@ -77,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
  3) Scroll down a little bit, you will be seeing a list of device drivers, choose the ones that you need and click the**down arrow icon** on the right side to get them downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452f19c617b-1024x227.jpg)
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
   
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452fa664cc3-1024x193.png)
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
@@ -95,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
   
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531b30c61b.png)
   
  6) In the Properties window, go to**Compatibility** tab, then tick the box for**Run this program in compatibility mode for:** and then choose Windows 8 from the list of choice. Hit**Apply** and**OK** to save and continue.
@@ -133,11 +109,39 @@ thumbnail: https://thmb.techidaily.com/d765545ba359efe066eea79e8d50579ac2c2c25cd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-stepwise-approach-to-update-meet-username-laptopmobile/"><u>[New] 2024 Approved Stepwise Approach to Update Meet Username (Laptop/Mobile)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-compreenas-guide-to-choosing-ideal-lenses-for-filmmaking/"><u>[New] In 2024, A Compreenas Guide to Choosing Ideal Lenses for Filmmaking</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-selecting-the-best-online-platforms-for-budget-stock-media/"><u>[New] Selecting the Best Online Platforms for Budget Stock Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-linking-method-for-youtube-video-content/"><u>[Updated] 2024 Approved Facebook Linking Method for YouTube Video Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/audio-amplification-for-powerpoint-presentations/"><u>Audio Amplification for PowerPoint Presentations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-dell-g3s-performance-how-to-update-graphics-card-drivers-for-optimal-gaming/"><u>Boost Your Dell G3's Performance: How to Update Graphics Card Drivers for Optimal Gaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-15-pro-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 15 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-receiving-a-new-paradigm-in-openings/"><u>In 2024, Revolutionizing Receiving A New Paradigm in Openings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-wf-7720-drivers-installation-guide-for-windows-users/"><u>Latest Epson WF-7720 Drivers: Installation Guide for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-brother-hl-2270dw-printer-software-compatible-with-windows/"><u>Latest Version of Brother HL-2270DW Printer Software: Compatible with Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-driver-for-insignia-vision-shark-wireless-ethernet-usb-kit-install-now/"><u>Official Driver for Insignia Vision Shark Wireless Ethernet USB Kit - Install Now</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

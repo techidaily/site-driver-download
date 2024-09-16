@@ -1,7 +1,7 @@
 ---
 title: Download and Install Brother MFC-L2 2690 DW Printer Software
-date: 2024-08-06T09:31:18.912Z
-updated: 2024-08-07T09:31:18.912Z
+date: 2024-09-12T16:16:23.047Z
+updated: 2024-09-16T20:28:10.648Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/535e511366421d20704d6ebc700fde0a780ee97fa
 
 If you’re using Arduino products to create your own work but failed to connect with your Windows computer, then you’ve come to the right place. It’s maybe caused by driver issues. This post is going to tell you how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Why you need Arduino Mega 2560 driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -39,36 +35,36 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
 
 1. Go to the[](https://www.amd.com/en/support) [Arduino official download website](https://www.arduino.cc/en/Main/Software) .
 2. Click **Windows Installer, for Windows XP and up** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -82,10 +78,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -100,11 +101,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-fixing-obss-full-screen-freeze-up/"><u>[New] Fixing OBS's Full-Screen Freeze Up</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlocking-tiktoks-1-gamer-list/"><u>[New] In 2024, Unlocking TikTok's #1 Gamer List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleash-potential-stardews-premium-mod-lineup-7-14/"><u>[New] Unleash Potential Stardew's Premium Mod Lineup #7-14</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>[Updated] High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oneplus-11r-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from OnePlus 11R to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-you-collaborating-for-a-stunning-website-presence-online/"><u>ChatGPT and You: Collaborating for a Stunning Website Presence Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-canon-mg3000-printer-drivers-step-by-step-guide/"><u>Download and Update Canon MG3000 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-print-quality-with-the-newest-canon-mx9n22-driver-version-on-windows/"><u>Enhance Print Quality with the Newest Canon MX9n22 Driver Version on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-counter-strike-2-crashing-issues-on-pc-in-2nd-four/"><u>Fixes and Solutions for Counter-Strike 2 Crashing Issues on PC in 2nD Four</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-epson-wf-7710-drivers-for-optimal-print-quality-on-windows-operating-systems/"><u>Installing EPSON WF-7710 Drivers for Optimal Print Quality on Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-canon-mx-series-printing-obtain-your-mx492-drivers-here/"><u>Latest Updates for Canon MX Series Printing - Obtain Your MX492 Drivers Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ralink-rt3290-driver-troubleshooting-in-windows-operating-systems-win7-to-win11-tips/"><u>Ralink RT3290 Driver Troubleshooting in Windows Operating Systems: Win7 to Win11 Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-for-downloading-hp-envy-5540-drivers-software/"><u>Step-by-Step Guide for Downloading HP Envy 지시 5540 Drivers Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-downloading-and-updating-konica-minolta-printer-drivers-simple-instructions/"><u>Step-by-Step: Downloading & Updating Konica Minolta Printer Drivers [Simple Instructions]</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egies-for-dealing-with-dark-video-frames-on-youtube-for-2024/"><u>Strategies for Dealing with Dark Video Frames on YouTube for 2024</u></a></li>
+</ul></div>
+

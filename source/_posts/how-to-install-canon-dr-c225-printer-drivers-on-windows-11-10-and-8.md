@@ -1,7 +1,7 @@
 ---
 title: How to Install Canon DR-C225 Printer Drivers on Windows 11, 10 & 8
-date: 2024-09-10T13:49:05.413Z
-updated: 2024-09-11T13:49:05.413Z
+date: 2024-09-14T20:29:15.727Z
+updated: 2024-09-16T19:35:19.405Z
 tags:
   - win11
   - win10
@@ -37,74 +37,16 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
@@ -113,53 +55,13 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
@@ -191,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,39 +102,27 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-navigating-through-peak-fluid-gaming-titles/"><u>[New] Navigating Through Peak Fluid Gaming Titles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-spark-interest-how-to-make-your-vids-shine-on-insta/"><u>[New] Spark Interest  How to Make Your Vids Shine on Insta</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-perfect-path-from-instagram-to-tiktok/"><u>[Updated] The Perfect Path  From Instagram to TikTok</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-the-linguistic-tapestry-of-our-teachers/"><u>Celebrating the Linguistic Tapestry of Our Teachers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-deskjet-ink-advantage-3050a-printer-drivers-free-compatible-with-all-windows-versions/"><u>Download & Install HP Deskjet Ink Advantage 3050A Printer Drivers (Free) | Compatible with All Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-roccat-mouse-driver/"><u>Download | Roccat Mouse Driver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-geforce-gtx-980-ti-graphics-card-drivers-now/"><u>Download NVIDIA GeForce GTX 980 Ti Graphics Card Drivers Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-driver-for-asus-bt500-bluetooth-adapter-on-windows-11-120-and-8-systems/"><u>Download the Latest Driver for Asus BT500 Bluetooth Adapter on WINDOWS 11, 1^20 & 8 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-access-to-latest-brother-printer-driver-downloads-for-home-and-office-use/"><u>Easy Access to Latest Brother Printer Driver Downloads for Home & Office Use</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/economical-dslrs-and-camcorders-4k-edition-for-2024/"><u>Economical DSLRs & Camcorders, 4K Edition for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficiently-update-or-fix-startech-drivers-in-various-windows-versions-step-by-step/"><u>Efficiently Update or Fix StarTech Drivers in Various Windows Versions [Step-by-Step]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-for-your-hp-officejet-5740-with-reliable-drivers-download-now/"><u>Effortless Setup for Your HP OfficeJet #5740 with Reliable Drivers - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-update-guide-get-the-latest-lenovo-t450-drivers-installed-today/"><u>Effortless Update Guide - Get the Latest Lenovo T450 Drivers Installed Today</u></a></li>
-<li><a href="https://article-helps.techidaily.com/enhance-presentations-with-background-music-for-2024/"><u>Enhance Presentations with Background Music for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-advice-trusted-source-for-downloading-brother-hl-l238-driver-software-on-windows-systems/"><u>Expert Advice: Trusted Source for Downloading Brother HL-L238# Driver Software on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-official-drivers-for-msi-b350-tomahawk-optimized-for-windows-os/"><u>Find and Install Official Drivers for MSI B350 Tomahawk - Optimized for Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-update-your-intel-uhd-graphics-driver-on-microsofts-latest-os/"><u>Find and Update Your Intel UHD Graphics Driver on Microsoft's Latest OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-high-quality-video-from-your-logitech-brio-drivers-for-windows-10-and-11-free/"><u>Get High-Quality Video From Your Logitech BRIO: Drivers for Windows 10 & 11 - Free!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-kyocera-printer-driver-software-for-windows-systems/"><u>Get the Latest KYOCERA Printer Driver Software for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-z370p-d3-motherboard-up-and-running-direct-download-links/"><u>Get Your Z370P D3 Motherboard Up and Running – Direct Download Links</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-secure-your-window-11-pc-upgraded-amd-radeon-hd-7870-graphics-card-driver-installation-guide/"><u>How to Secure Your Window 11 PC: Upgraded AMD Radeon HD 7870 Graphics Card Driver Installation Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-update-and-enhance-your-broadcom-gigabit-ethernet-drivers-on-windows-11/"><u>How to Securely Update and Enhance Your Broadcom Gigabit Ethernet Drivers on Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Nubia Phone without PIN</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-ethernet-driver-software-from-gigabyte-download-now-for-enhanced-connectivity/"><u>Install Ethernet Driver Software From Gigabyte: Download Now For Enhanced Connectivity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-your-hp-deskjet-inkjets-on-pcs-with-windows-7-8-or-10-using-updated-drivers/"><u>Install Your HP DeskJet Inkjets on PCs with Windows 7, 8 or 10 Using Updated Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-newest-canon-printer-drivers-on-windows-11-8-and-7-systems/"><u>Installing the Newest Canon Printer Drivers on Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-bug-fix-the-end-of-reconnect-woes-for-players/"><u>League of Legends Bug Fix - The End of Reconnect Woes for Players</u></a></li>
-<li><a href="https://driver-download.techidaily.com/provide-reasoning-as-to-why-each-decluttering-tip-corresponds-with-its-assigned-genre-possibly-including-lyrical-themes-or-tempo/"><u>Provide Reasoning as to Why Each Decluttering Tip Corresponds with Its Assigned Genre, Possibly Including Lyrical Themes or Tempo.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-gt-neo-5-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT Neo 5 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/resolving-startech-conflicts-across-windows-versions/"><u>Resolving StarTech Conflicts Across Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-and-easy-installation-updated-drivers-for-canon-mg3022-printers-available-now/"><u>Secure & Easy Installation: Updated Drivers for Canon MG3022 Printers Available Now</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-fascinating-world-of-stock-pictures-and-meme-lore-for-2024/"><u>The Fascinating World of Stock Pictures & Meme Lore for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos/"><u>Time Warp Techniques  Harnessing Classic 80S Visual Flair in Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-now-essential-drivers-for-your-eveo-bluetooth-device/"><u>Update Now: Essential Drivers for Your EVEO Bluetooth Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-a-step-by-step-roadmap-for-masterful-instagram-photos-for-2024/"><u>[New] A Step-by-Step Roadmap for Masterful Instagram Photos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-zoom-communication-guide-unlocking-the-power-of-remote-conversations-for-2024/"><u>[New] The Ultimate Zoom Communication Guide Unlocking the Power of Remote Conversations for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pc-transfer-protocols-effective-five-ways-to-send-your-files/"><u>2024 Approved PC Transfer Protocols Effective Five Ways to Send Your Files</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-6350-drivers-download-and-updates-on-windows/"><u>AMD Radeon HD 6350 Drivers Download & Updates on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973444990-asus-monitors-heres-how-to-swiftly-update-your-display-drivers/"><u>ASUS Monitors? Here’s How to Swiftly Update Your Display Drivers!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-windows-software-for-canon-luye-ii-pixma-tr5020-all-in-one-free-download-options/"><u>Compatible Windows Software for Canon LUYE-II PIXMA TR5020 All-in-One: Free Download Options</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-collection-of-msi-sound-card-drivers-for-windows/"><u>Free Download: Ultimate Collection of MSi Sound Card Drivers for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978066376-get-the-latest-lenovo-thinkpad-drivers-for-optimal-performance-guaranteed-secure/"><u>Get the Latest Lenovo ThinkPad Drivers for Optimal Performance – Guaranteed Secure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-harness-the-power-of-yt-green-screens-for-imaginative-projects/"><u>In 2024, Harness the Power of YT Green Screens for Imaginative Projects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installation-restrictions-in-windows-11/"><u>Resolving Installation Restrictions in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-driver-acquisition-for-ft232-usb-uart-bridging-beginners-walkthrough/"><u>Seamless Driver Acquisition for FT232 USB UART Bridging - Beginner's Walkthrough</u></a></li>
+<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-eliminating-steam-error-code-130-once-and-for-all/"><u>Step-by-Step Instructions: Eliminating Steam Error Code 130 Once and For All!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-social-lift-transform-from-zero-to-millionth-follower-in-months-for-2024/"><u>The Social Lift Transform From Zero to Millionth Follower in Months for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
