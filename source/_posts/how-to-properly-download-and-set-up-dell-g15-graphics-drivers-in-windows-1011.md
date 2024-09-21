@@ -1,7 +1,7 @@
 ---
 title: How to Properly Download and Set Up Dell G15 Graphics Drivers in Windows 10/11
-date: 2024-08-06T09:31:21.457Z
-updated: 2024-08-07T09:31:21.457Z
+date: 2024-09-20T19:24:00.737Z
+updated: 2024-09-21T16:10:33.810Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
 If you’re using Arduino products to create your own work but failed to connect with your Windows computer, then you’ve come to the right place. It’s maybe caused by driver issues. This post is going to tell you how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -28,10 +25,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -42,23 +35,14 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
 
 1. Go to the[](https://www.amd.com/en/support) [Arduino official download website](https://www.arduino.cc/en/Main/Software) .
 2. Click **Windows Installer, for Windows XP and up** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
@@ -81,11 +65,23 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -99,11 +95,28 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-successful-videos-on-youtube-for-beginners/"><u>[New] 2024 Approved Crafting Successful Videos on YouTube for Beginners</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-commanding-youtube-realm-through-strategic-creator-studio-utilization/"><u>[Updated] 2024 Approved Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dailymovement-vs-youtube-income-comparison-for-2024/"><u>[Updated] DailyMovement vs Youtube Income Comparison for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beat-explorers-guide-online-pulse-sensors/"><u>2024 Approved Beat Explorers’ Guide Online Pulse Sensors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-to-master-edge-control-and-partial-focus-in-photos/"><u>2024 Approved Learn to Master Edge Control and Partial Focus in Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-install-the-latest-samsung-m2070-printer-drivers/"><u>Easy Steps to Install the Latest Samsung M2070 Printer Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/experience-next-gen-gaming-on-windows-11-with-a-complimentary-steelseries-engine-download/"><u>Experience Next-Gen Gaming on Windows 11 with a Complimentary SteelSeries Engine Download</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-v30t-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme V30T? Try These Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-to-quickly-access-dat-files-in-windows-and-macos-step-by-step-instructions/"><u>How to Quickly Access DAT Files in Windows and macOS: Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-skip-the-water-stained-stock-photos/"><u>In 2024, Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-official-printer-driver-for-epson-wf-2650-on-windows-machines/"><u>Installing the Official Printer Driver for Epson WF-2650 on Windows Machines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/proven-pathways-to-promoting-in-vr-lands/"><u>Proven Pathways to Promoting in VR Lands</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fetch-hp-stream-device-drivers-download-with-ease/"><u>Quick-Fetch | HP Stream Device Drivers | Download with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-11-graphics-driver-refresh-tutorial-a-comprehensive-how-to/"><u>Windows 11 Graphics Driver Refresh Tutorial – A Comprehensive How-To</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Update Your Thunderbolt 3 Dock for Your Lenovo ThinkPad - A Step-by-Step Tutorial
-date: 2024-08-06T09:31:23.569Z
-updated: 2024-08-07T09:31:23.569Z
+date: 2024-09-19T19:33:30.929Z
+updated: 2024-09-21T16:02:12.711Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 ## Install New Drivers for Your HP Scanjet on Windows - Step-by-Step Download Tutorial
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_11-21-24-2.jpg)
 
  Can’t get your new**HP Scanjet** working? Or maybe you’d like to improve the performance of your HP Scanjet? If yes, then you should check or update the driver for your scanner.
@@ -35,25 +32,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Download the HP Scanjet driver manually
 
  Manufacturers always release the drivers for their product on the**official website** . So, to manually install/update the driver for HP Scanjet, follow these steps:
 
  1) Visit the[official HP website](https://support.hp.com/us-en/document/c04635830) , and scroll down until you see your model. Here we take**HP ScanJet Pro 3500 f1** as an example:
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
@@ -64,12 +52,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
@@ -79,10 +71,14 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  3) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
@@ -104,11 +100,29 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-non-gamebar-recorders-best-tools-for-game-capture/"><u>[New] Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrating-comfort-with-efficiency-modern-approaches-to-office-design/"><u>2024 Approved Integrating Comfort with Efficiency Modern Approaches to Office Design</u></a></li>
+<li><a href="https://driver-download.techidaily.com/at-least-one-representative-each-of-scientists-environmental-interests-and-conservation-interests/"><u>At Least One Representative Each of Scientists, Environmental Interests, and Conservation Interests</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-hl2280dw-driver-downloads-for-windows-111087-install-now/"><u>Brother HL2280DW Driver Downloads for Windows 11/10/8/7 – Install Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-enhancing-your-microsoft-mouse-functionality-with-a-simple-driver-update-in-windows/"><u>Expert Advice: Enhancing Your Microsoft Mouse Functionality with a Simple Driver Update in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-hp-network-driver-on-windows-1078-step-by-step-guide-and-download-links/"><u>How to Install the Latest HP Network Driver on Windows 10/7/8 – Step-by-Step Guide & Download Links</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-a58-4g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo A58 4G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-resolve-the-bad-pool-caller-mistake-on-your-windows-10-machine/"><u>How to Resolve the 'Bad Pool Caller' Mistake on Your Windows 10 Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/magicard-rio-professional-racing-game-drivers-update-now-on-windows-10817/"><u>Magicard Rio Professional Racing Game Drivers Update – Now on Windows 10/8.1/7!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/network-free-driver-deployment-secrets-to-effortless-driver-installation-in-windows-environment/"><u>Network-Free Driver Deployment: Secrets to Effortless Driver Installation in Windows Environment</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcame-restrictions-audio-settings/"><u>Overcame Restrictions: Audio Settings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-home-entertainment-a-detailed-look-at-the-sony-xbr49x900f-4k-ultra-hd-led-tv/"><u>Revolutionizing Home Entertainment - A Detailed Look at the Sony XBR49X900F 4K Ultra HD LED TV</u></a></li>
+<li><a href="https://driver-download.techidaily.com/roccat-mouse-suite-free-downloads-available-now/"><u>Roccat Mouse Suite - Free Downloads Available Now!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/tivo-or-comcast-the-ultimate-guide-to-choosing-the-best-dvr-for-your-needs-for-2024/"><u>TiVo or Comcast The Ultimate Guide to Choosing the Best DVR for Your Needs for 2024</u></a></li>
+</ul></div>
+

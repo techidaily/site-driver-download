@@ -1,7 +1,7 @@
 ---
 title: Obtaining and Installing the Newest Canon MX490 Driver for Windows 11/7
-date: 2024-08-06T09:31:23.673Z
-updated: 2024-08-07T09:31:23.673Z
+date: 2024-09-19T18:24:22.601Z
+updated: 2024-09-21T17:17:08.842Z
 tags:
   - win11
   - win10
@@ -25,18 +25,12 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 2. [Download the driver from Canon official](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1\. Update your Canon printer driver via Device Manager
 
  Although Windows Update doesn’t always deliver the latest driver ([**Learn Why…**](https://tools.techidaily.com/drivereasy/download/) ), you can try updating your Canon MF743CDW driver easily using this method:
 
 1) Right-click the Start menu bar and select Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-1.jpg)
 
  2) Double-click the Printers group to expand this category. Then right-click your Canon MF743CDW printer and select**Update driver** .
@@ -47,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  4) Windows will try finding the “latest” driver for your printer. But if it shows no available updates, you may need to try the next method below or choose to update the driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  comes with a 30-day free trial).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2\. Download the driver from Canon official
 
  If the Windows Update doesn’t give you the latest version of the Canon MF743CDW driver, you can always find a new driver on the product information page.
@@ -58,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  2) In the top right corner, you can click the**PRODUCT INFORMATION** drop-down menu, and select**Drivers & Downloads** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-2.jpg)
 
  3) Scroll down the page and select the correct driver for your operating system.
@@ -71,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 5) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 3\. Download the driver automatically
 
  If you don’t have the time, patience, or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,14 +71,25 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  2) Run **Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cdw.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -117,11 +113,22 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-emulator-titles-simulating-playstation-2-on-ios/"><u>[New] Premier Emulator Titles Simulating PlayStation 2 on iOS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-finding-and-installing-sapphire-driver-updates-on-windows/"><u>Easy Guide to Finding & Installing Sapphire Driver Updates on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-a-non-functional-logitech-g433-microphone-solutions-and-troubleshooting-steps/"><u>Fixing a Non-Functional Logitech G433 Microphone: Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ignite-motivation-the-hottest-playlists-for-workouts-for-2024/"><u>Ignite Motivation The Hottest Playlists for Workouts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-a-complete-guide-to-twitter-archive-mastery/"><u>In 2024, A Complete Guide to Twitter Archive Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-frame-rate-30fps-vs-60fps-for-smooth-recordings/"><u>In 2024, Best Frame Rate 30Fps vs 60Fps for Smooth Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-amd-radeon-r9-200-graphics-card-drivers-in-windows/"><u>Step-by-Step Guide: Installing AMD Radeon R9 200 Graphics Card Drivers in Windows</u></a></li>
+</ul></div>
+

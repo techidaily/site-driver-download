@@ -1,7 +1,7 @@
 ---
 title: Exploring the Brand-New Design in the Echo Dot (Gen 4) Review
-date: 2024-09-13T17:35:23.926Z
-updated: 2024-09-16T16:39:02.534Z
+date: 2024-09-15T19:21:52.328Z
+updated: 2024-09-21T17:07:49.470Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Brand-New Design in the Echo Dot (Gen 4) Review
@@ -84,13 +84,6 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -113,6 +106,13 @@ Lifewire / Gannon Burgett
 
 Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Impressive performance from an all-in-one**
 
  Our particular iMac model for this review was the 3.4GHz quad-core Intel Core i5 iMac with 8GB of RAM and a 1TB Fusion Drive.
@@ -129,6 +129,13 @@ Lifewire / Gannon Burgett
 
  All-in-all, the iMac seems to punch right at or above its specifications when compared to similar hardware. It’s not going to be pumping out 8K footage, but for basic 4K video editing and image post-processing, the graphics card is more than enough. As for productivity, there’s not much you can throw at the iMac that it can’t handle. The only thing we noticed slowing down the computer was the 8GB of RAM when we had over a dozen applications open, but that can be fixed by upgrading to the 16GB or 32GB model (although it’s not a cheap upgrade).
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network: Fast and reliable**
 
  The 21.5-inch 4K iMac features both wired and wireless connectivity for internet access. As previously mentioned, the iMac features a Gigabit Ethernet (RJ-45) port on the rear of the computer for a hardwired internet connection. For Wi-Fi, the iMac uses an 802.11ac network adapter with support for IEEE 802.11a/b/g/n.
@@ -143,6 +150,13 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Software: Everything you need and nothing more**
 
  As with all Apple computers, the 21.5-inch 4K iMac comes with macOS Mojave pre-installed. If you’re used to macOS as a whole, you’ll feel right at home as we did. Compared to past versions of macOS, Mojave improves in a number of areas, including an integrated Dark mode that turns much of the user interface dark grey to spare your eyes. There’s also a feature called “Stacks” that intelligently combines files of the same type on your[desktop](https://www.lifewire.com/best-desktop-pcs-4045927) . Improved[screenshot functionality](https://www.lifewire.com/what-is-a-screenshot-1701742) also makes snapping your screen easier.
@@ -152,16 +166,10 @@ Lifewire / Gannon Burgett
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Price: The Apple tax is real**
@@ -169,13 +177,6 @@ Lifewire / Gannon Burgett
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -200,19 +201,6 @@ Lifewire / Gannon Burgett
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -245,19 +233,20 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>[New] 2024 Approved Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-handset-hack-for-youtube-filmmakers/"><u>[New] The Ultimate Handset Hack for YouTube Filmmakers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-invest-in-ig-success-the-top-6-secure-money-methods-for-2024/"><u>[Updated] Invest in IG Success The Top 6 Secure Money Methods for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bellas-whispers-crafting-italian-cupids-dialogue/"><u>Bella's Whispers: Crafting Italian Cupid’s Dialogue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722970765566-download-advanced-wireless-networking-software-issues-resolved-and-speeds-boosted/"><u>Download Advanced Wireless Networking Software - Issues Resolved & Speeds Boosted</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/durecorder-unveiling-its-core-capabilities/"><u>DuRecorder Unveiling Its Core Capabilities</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-a38-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo A38 to Another | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-intel-iris-xe-drivers-for-windows-download-now/"><u>Latest Intel Iris Xe Drivers for Windows - Download Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/navigating-through-a-hassle-free-download-of-nvidia-3d-vision-software-for-windows/"><u>Navigating Through a Hassle-Free Download of Nvidia 3D Vision Software for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-downloads-updated-graphics-drivers-for-amd-radeon-compatible-with-windows-e7/"><u>Official Downloads: Updated Graphics Drivers for AMD Radeon - Compatible with Windows E7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speedy-solution-how-to-quickly-secure-the-right-drivers-for-your-dell-latitude-e60/"><u>Speedy Solution! How to Quickly Secure the Right Drivers for Your Dell Latitude E6#0</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-installation-how-to-update-your-dell-wd19-device/"><u>Step-by-Step Installation: How to Update Your Dell WD19 Device</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-high-definition-videos-best-editing-software-2023-for-2024/"><u>Updated Unleash High-Definition Videos Best Editing Software 2023 for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-virtual-gatherings-with-this-10-free-web-application-list-for-2024/"><u>[New] Streamline Your Virtual Gatherings With This 10 Free Web Application List for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/output-to-find-the-result-of-multiplying-6-by-itself-four-times-we-calculate-6-6-6-6-when-an-even-number-of-negative-numbers-are-multiplied-together-the-res290/"><u>[Output]: To Find the Result of Multiplying -6 by Itself Four Times, We Calculate (-6) × (-6) × (-6) × (-6). When an Even Number of Negative Numbers Are Multiplied Together, the Result Is Positive. Therefore</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-full-sphere-video-via-iphone/"><u>[Updated] Step-by-Step Guide to Full-Sphere Video via iPhone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] Xbox Game Memories, Save Them with Screenshots</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2690dw-all-in-one-printer-drivers-install-and-upgrade/"><u>Brother L2690dw All-in-One Printer Drivers: Install and Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-hp-laserjet-pro-m452nd-support-download-drivers-and-installation-instructions/"><u>Complete HP Laserjet Pro M452nd Support - Download Drivers & Installation Instructions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-camera-optics-for-cutting-edge-film-and-tv-for-2024/"><u>Elite Camera Optics for Cutting-Edge Film & TV for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-5-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 5 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-thinkphone-bootloader-easily-by-drfone-android/"><u>How to Unlock Lenovo ThinkPhone Bootloader Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-camera-drivers-on-various-windows-versions-download-for-win11-10-8-7/"><u>Installing Camera Drivers on Various Windows Versions - Download for Win11, 10, 8, 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/startech-driver-compatibility-fixes-across-different-windows-systems-w1087/"><u>StarTech Driver Compatibility Fixes Across Different Windows Systems (W10/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-for-amd-radeon-rx-590-driver-installation-in-windows/"><u>Step-by-Step Guide for AMD Radeon RX 590 Driver Installation in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-get-the-latest-version-of-your-epson-et-3760-driver-for-windows-computers/"><u>Step-by-Step Tutorial: How to Get the Latest Version of Your Epson ET-3760 Driver for Windows Computers</u></a></li>
 </ul></div>
 

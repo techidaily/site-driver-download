@@ -1,7 +1,7 @@
 ---
 title: Install Gigabyte Ethernet Controller Software Here – Compatible Versions Included
-date: 2024-08-06T09:31:23.117Z
-updated: 2024-08-07T09:31:23.117Z
+date: 2024-09-15T18:01:34.580Z
+updated: 2024-09-21T20:27:26.842Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1 – Re-enable the Brother HL 2280DW driver
 
  If your printer isn’t working properly, you could disable and re-enable its driver first, and see if the printer returns to normal.
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
 **2)** Double-click**Printers** to expand the category.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2.jpg)
 
 **3)** Right-click**Brother HL 2280DW** , and select**Disable device** .
@@ -55,19 +49,12 @@ thumbnail: https://thmb.techidaily.com/0e850e00d907836de022b6a5493d7e424fd91aaca
 
 **5)** On the Device Manager window, right-click**Brother HL 2280DW** again, and select**Enable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5.jpg)
 
  After completing these steps, your printer driver will be re-enabled. Check if the problem persists. If yes, read on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Update your Brother HL 2280DW driver
 
  Printer manufacturers regularly release new drivers to fix bugs and improve stability. If re-enabling the device doesn’t resolve your issue, you should consider updating the driver. There are two ways to do this:
@@ -101,9 +88,12 @@ The ultimate burning program for all your needs!</a>
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Manually
 
  If you just want to do everything by yourself, you can search for the latest driver of your printer model from Brother’s official website, and then install it manually.
@@ -112,18 +102,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select your operating system and the right version. Then, click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1.jpg)
 
 **3)** Click the driver you need and download it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2.jpg)
 
 **4)** Open the downloaded file and follow the on-screen instructions to install the driver.
@@ -139,11 +130,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-master-facebooks-live-broadcast/"><u>[New] 2024 Approved Master Facebook's Live Broadcast</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boost-your-sites-analytics-capability-with-next-gen-marketing-automation-tools/"><u>Boost Your Site's Analytics Capability with Next-Gen Marketing Automation Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-driver-update-for-hp-scanjet-install-now-for-compatibility-with-windows-11-8-and/"><u>Essential Driver Update for HP Scanjet: Install Now for Compatibility with Windows 11, 8 &</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-top-tier-ups-battery-systems-of-the-year-2024/"><u>Expertly Selected Top-Tier UPS Battery Systems of the Year 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-calculating-earnings-ad-revenues-in-the-world-of-youtube/"><u>In 2024, Calculating Earnings Ad Revenues in the World of YouTube?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974473880-instant-access-to-linksys-ae1200-drivers-download-seamlessly-and-boost-performance-now/"><u>Instant Access to Linksys AE1200 Drivers - Download Seamlessly and Boost Performance Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-drivers-available-enhance-your-pc-with-intels-iris-xe-graphics-support/"><u>Latest Drivers Available: Enhance Your PC with Intel's Iris Xe Graphics Support</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-geforce-rtx-3070-ti-driver-software-for-windows-11-and-earlier-versions-download-here/"><u>Latest GeForce RTX 3070 Ti Driver Software for Windows 11 & Earlier Versions - Download Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-downloading-asus-touchpad-drivers-on-windows-10/"><u>Quick and Simple Guide: Downloading ASUS Touchpad Drivers on Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-a1-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo A1 5G Screen | Dr.fone</u></a></li>
+</ul></div>
+
