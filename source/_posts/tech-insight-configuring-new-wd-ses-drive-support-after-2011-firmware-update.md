@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2024-09-11T17:56:29.043Z
-updated: 2024-09-16T18:34:11.615Z
+date: 2024-09-25T16:03:04.055Z
+updated: 2024-09-26T20:53:19.313Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Logitech G910 not working? You may need to download the software for further con
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
@@ -91,6 +98,13 @@ Check your keyboard to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: via Device Manager
 
  Device Manager is a Windows tool that allows you to check and alter hardware settings as well as driver statuses. You may need some computer skills for the following steps:
@@ -98,13 +112,6 @@ Check your keyboard to see if it works.
 01 Right-click the Start button in the bottom-left corner of your screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-42-52.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  02 Select**Device Manager** .
 
@@ -115,28 +122,15 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
@@ -148,20 +142,27 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  07 Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
@@ -192,5 +193,18 @@ Now check your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-overcoming-full-screen-issues-in-obs/"><u>[New] 2024 Approved Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-no-cash-all-fun-turning-twitter-vids-into-gifs/"><u>[New] No Cash, All Fun Turning Twitter Vids Into GIFs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-easy-guide-to-entering-google-meet-on-devices-for-2024/"><u>[Updated] Easy Guide to Entering Google Meet on Devices for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-lenovo-ideapad-100-drivers-for-your-windows-10-system/"><u>Download & Install the Latest Lenovo IdeaPad #100 Drivers for Your Windows 10 System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-samsung-m20-m2020-up-and-running-downloading-the-right-drivers/"><u>Get Your Samsung M20 (M2020) Up and Running: Downloading the Right Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-properly-set-up-the-sound-driver-for-steelseries-arctis-5-headset-download-and-install-process/"><u>How to Properly Set Up the Sound Driver for SteelSeries Arctis 5 Headset: Download & Install Process</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigate-with-ease-mastering-ifunnys-meme-app/"><u>Navigate with Ease Mastering iFunny's Meme App</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-get-your-samsung-c460-drivers-installed-in-a-flash/"><u>Quick Setup: Get Your Samsung C460 Drivers Installed in a Flash!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-260ci-wia-network-card-usb-connectivity-issues/"><u>Resolving 260Ci WIA Network Card USB Connectivity Issues</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlocking-the-secrets-of-lut-production/"><u>Unlocking the Secrets of LUT Production</u></a></li>
+</ul></div>
 

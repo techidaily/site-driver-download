@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Ralink RT3290 Driver Problems on Windows 7/8/11
-date: 2024-09-17T20:02:57.008Z
-updated: 2024-09-21T17:46:01.091Z
+date: 2024-09-24T16:38:01.183Z
+updated: 2024-09-26T16:24:03.681Z
 tags:
   - win11
   - win10
@@ -42,9 +42,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -68,6 +82,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -85,6 +106,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -126,12 +154,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-financial-acumen-in-the-world-of-youtube-earnings/"><u>[New] Sourav Joshi's Financial Acumen in the World of YouTube Earnings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>[New] Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-software-for-beat-alteration-tech/"><u>[New] Superior Software for Beat Alteration Tech</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-script-mastery-online-academy/"><u>2024 Approved Script Mastery Online Academy</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-review-of-snappydriver-installer-version-113-pros-cons-and-features/"><u>Comprehensive Review of SnappyDriver Installer Version 1.13: Pros, Cons & Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-upgrade-samsung-ssd-960-evo-drives-on-windows-latest-guide/"><u>Download & Upgrade Samsung SSD 960 EVO Drives on Windows - Latest Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580367068-enhancing-your-life-in-hindi-mondly-highlights-8-key-benefits/"><u>Enhancing Your Life in Hindi: Mondly Highlights 8 Key Benefits!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-get-your-usb-to-rs232-driver-download-in-no-time/"><u>Fast Track: Get Your USB to RS232 Driver Download in No Time</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-logitech-g203-drivers-compatible-with-windows-7-10-and-11/"><u>Get the Latest Logitech G203 Drivers: Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-surface-book-2-drivers-with-ease-download-and-update-steps-inside/"><u>Get the Latest Surface Book 2 Drivers with Ease - Download & Update Steps Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-dell-display-adapters-quickly-and-safely-online/"><u>Get the Latest Version of Dell Display Adapters Quickly & Safely Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-1-v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 1 V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-driver-on-windows-11107-by-drivereasy-guide/"><u>How to Manually Install a Driver on Windows 11/10/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-install-the-newest-drivers-for-samsung-ssd-960-evo-in-windows/"><u>How to Securely Download and Install the Newest Drivers for Samsung SSD 960 EVO in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-drivers-for-logitech-hd-pro-cx-webcam-enhance-your-video-calling-on-windows-11-today/"><u>Updated Drivers for Logitech HD Pro CX Webcam: Enhance Your Video Calling on Windows 11 Today!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Poco M6 5G | Dr.fone</u></a></li>
+</ul></div>
 

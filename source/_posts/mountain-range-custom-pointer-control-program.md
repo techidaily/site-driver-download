@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-09-20T20:22:25.622Z
-updated: 2024-09-21T18:03:42.523Z
+date: 2024-09-25T20:22:12.470Z
+updated: 2024-09-26T20:13:06.126Z
 tags:
   - win11
   - win10
@@ -35,9 +35,29 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -50,6 +70,20 @@ There are two ways you can update your driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -77,12 +111,23 @@ There are two ways you can update your driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-what-makes-a-youtube-short-go-viral/"><u>[New] 2024 Approved What Makes a YouTube Short Go Viral?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[New] In 2024, Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-minimize-camera-jostle/"><u>[New] Securing Your Scene Minimize Camera Jostle</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-critical-review-of-the-new-gen-google-nest-hub-highlighting-its-strengths-and-missing-camera-feature/"><u>A Critical Review of The New-Gen Google Nest Hub: Highlighting Its Strengths and Missing Camera Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dive-into-virtual-space-with-lgs-360-degree-headset-for-2024/"><u>Dive Into Virtual Space with LG's 360-Degree Headset for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-card-drivers-on-your-pc/"><u>Download and Install Atheros Network Card Drivers on Your PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-official-drivers-for-msi-b350-motherboard-windows-11-and-7-supported/"><u>Download Official Drivers for MSI B350 Motherboard - Windows 11 & 7 Supported</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-samsung-galaxy-a6-lite-full-system-driver/"><u>Free Download: Samsung Galaxy A6 Lite Full System Driver</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722532726274-from-dark-fantasy-to-dazzling-display-demons-souls-in-a-graphic-overhaul/"><u>From Dark Fantasy to Dazzling Display - Demon's Souls in a Graphic Overhaul</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-hl-l2370dw-drivers-free-download/"><u>Get the Latest Brother HL-L2370DW Drivers - Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-uhd-graphics-655-drivers-compatible-with-windows-11/"><u>Get the Newest Intel UHD Graphics 655 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-gtx-1080-graphics-drivers-for-windows-7/"><u>NVIDIA GeForce GTX 1080 Graphics Drivers for Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-failed-page-loading-on-ms-store/"><u>Steps to Resolve Failed Page Loading on MS Store</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-process-easy-driver-updates-for-the-scansnap-ix500-on-windows-operating-systems/"><u>Streamlined Process: Easy Driver Updates for the ScanSnap iX500 on Windows Operating Systems</u></a></li>
+</ul></div>
 

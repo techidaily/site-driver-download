@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2024-09-14T20:37:03.498Z
-updated: 2024-09-21T19:40:44.068Z
+date: 2024-09-22T16:43:17.660Z
+updated: 2024-09-26T17:58:47.658Z
 tags:
   - win11
   - win10
@@ -47,12 +47,26 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
 
@@ -67,9 +81,23 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -89,12 +117,20 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[New] OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-8-editors-tablets-beyond-filmora-havent-you-tried/"><u>[New] Top 8 Editors' Tablets Beyond Filmora, Haven't You Tried?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-one-frame-at-a-time-how-to-extract-images-from-windows-10-movie-files/"><u>2024 Approved One Frame at a Time How To Extract Images From Windows 10 Movie Files</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-rx-6700-xt-secure-your-downloads-for-the-newest-windows-compatible-drivers-now/"><u>AMD RX 6700 XT: Secure Your Downloads for the Newest Windows-Compatible Drivers Now</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/context-upturn-how-gemini-15s-million-tokens-reshaped-market/"><u>Context Upturn: How Gemini 1.5'S Million Tokens Reshaped Market</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977705936-download-dell-latitude-e6420-drivers-in-a-flash-top-picks-for-swift-access/"><u>Download Dell Latitude E6420 Drivers in a Flash: Top Picks for Swift Access!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-epson-wf-2940-printer-driver-software-compatible-with-windows-7-81-and-10/"><u>Download Epson WF-2940 Printer Driver Software Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mx340-up-and-running-drivers-for-windows-1187-download-here/"><u>Get Your Canon MX340 Up and Running: Drivers for Windows 11/8/7 Download Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-free-sm-bus-controller-for-windows-systems-windows-11-10-8-and-7/"><u>Get Your Free SM Bus Controller for Windows Systems (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y200-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y200 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-vivo-t2-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo T2 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/nikon-d500-unveiled-the-frontier-of-high-definition-photography-for-2024/"><u>Nikon D500 Unveiled The Frontier of High-Definition Photography for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y55s-5g-2023-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y55s 5G (2023) Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+</ul></div>
 

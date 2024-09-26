@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2024-09-15T17:38:11.210Z
-updated: 2024-09-21T19:11:27.757Z
+date: 2024-09-21T18:04:26.061Z
+updated: 2024-09-26T16:39:44.296Z
 tags:
   - win11
   - win10
@@ -39,12 +39,33 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -65,6 +86,19 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
@@ -88,12 +122,22 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-strategies-for-crafting-engaging-podcast-graphics/"><u>[New] Top 10 Strategies for Crafting Engaging Podcast Graphics</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-taking-stock-of-magix-project-management-app-for-2024/"><u>[Updated] Taking Stock of MAGIX Project Management App for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-top-vr-bikes-to-check-out/"><u>2024 Approved Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-sound-driver-downloads-and-updates-get-them-now/"><u>Effortless Sound Driver Downloads & Updates - Get Them Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-connectivity-updating-and-downloading-new-drivers-for-bluetooth-usb-devices-in-windows/"><u>Enhance Your Connectivity: Updating and Downloading New Drivers for Bluetooth USB Devices in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-conversion-of-aif-files-to-mov-format-with-movavi/"><u>Free Conversion of AIF Files to MOV Format with Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-wps-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .wps file</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-12-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 12 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-guide-downloading-and-installing-amd-drivers-on-auto-mode/"><u>Quick-Start Guide: Downloading and Installing AMD Drivers on Auto Mode</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-aoc-display-driver-downloads-and-setup-instructions-for-windows-11-10-or-8-users/"><u>Secure Your AOC Display Driver Downloads & Setup Instructions for Windows 11, 10, or 8 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-download-and-update-process-for-windows-users-of-lenovo-thinkpad-t420-drivers/"><u>Streamlined Download & Update Process for Windows Users of Lenovo ThinkPad T420 Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-vision-mastering-ai-art-with-free-dall-e-3-through-bing/"><u>Transform Your Vision: Mastering AI Art with Free DALL-E 3 Through Bing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-ralink-rt3290-drivers-on-windows-11-8-and-7-solutions-and-fixes/"><u>Troubleshooting Ralink RT3290 Drivers on Windows 11, 8 & 7: Solutions and Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pc-gaming-setup-corsair-icue-downloads-for-windows-platforms/"><u>Update Your PC Gaming Setup: Corsair iCUE Downloads for Windows Platforms</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-unleash-fcpxs-full-potential-a-guide-to-managing-storage-and-freeing-up-space/"><u>Updated In 2024, Unleash FCPXs Full Potential A Guide to Managing Storage and Freeing Up Space</u></a></li>
+</ul></div>
 

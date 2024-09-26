@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2024-09-19T20:05:33.272Z
-updated: 2024-09-21T17:14:49.381Z
+date: 2024-09-24T19:13:44.193Z
+updated: 2024-09-26T21:48:34.543Z
 tags:
   - win11
   - win10
@@ -26,6 +26,19 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 * **[Method 1 – Automatically update the HP LaserJet 1018 driver (Recommended)](https://www.drivereasy.com/knowledge/hp-laserjet-1018-driver-download-for-windows-7-8-10/#a)**
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
 
  If you don’t have the time, patience or computer skills to update the HP LaserJet 1018 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2 – Download and install the driver manually
 
  HP keeps updating the HP LaserJet 1018 driver. To get it, follow the instructions below:
@@ -58,9 +78,23 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Software, Drivers and Firmware** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
@@ -83,12 +117,22 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-foundations-in-digital-visual-narratives/"><u>[Updated] In 2024, Foundations in Digital Visual Narratives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-vlog-heroes-the-best-video-capturers-unveiled/"><u>2024 Approved VLog Heroes The Best Video Capturers Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/artistry-meets-economics-instagrams-enhanced-monetization-strategies/"><u>Artistry Meets Economics: Instagram's Enhanced Monetization Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tips-to-fix-and-update-your-hp-monitors-driver-on-windows-os-from-vista-to-the-latest-windows-10/"><u>Comprehensive Tips to Fix and Update Your HP Monitor's Driver on Windows OS: From Vista to the Latest Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-successfully-download-and-install-iphone-drivers-on-windows-10-pcs/"><u>Easy Guide: How to Successfully Download & Install iPhone Drivers on Windows 10 PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevating-your-gameplay-with-the-alienware-aurora-r9-a-deep-dive-into-dells-advanced-gaming-pc/"><u>Elevating Your Gameplay with the Alienware Aurora R9 - A Deep Dive Into Dell's Advanced Gaming PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-logitech-g43-essential-driver-software-for-optimal-performance/"><u>Getting Started with Logitech G43# - Essential Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-c300-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-wireless-adapter-driver-download-for-modern-windows-versions-windows-1178/"><u>HP Wireless Adapter Driver Download for Modern Windows Versions (Windows 11/7/8)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/if-you-have-transferred-to-the-mac-platform-you-may-need-virtualdub-for-mac-alternatives-because-virtualdub-only-supports-windows-os-natively/"><u>If You Have Transferred to the Mac Platform, You May Need VirtualDub for Mac Alternatives because VirtualDub only Supports Windows OS Natively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-extract-and-save-fb-videos-on-pcmac-anywhere/"><u>In 2024, Extract & Save FB Videos on PC/Mac, Anywhere</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-k350-keyboard-compatible-software-download-options-unveiled/"><u>Logitech K350 Keyboard Compatible Software Download Options Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-to-updating-brother-mfc-7360n-printers-for-windows-users/"><u>Quick Guide to Updating Brother MFC-7360N Printers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-of-d-link-drivers-a-comprehensive-guide-for-windows-users/"><u>Seamless Installation of D-Link Drivers: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-resident-evil-villages-troubled-soundscape-solutions-revealed/"><u>Troubleshooting Resident Evil Village's Troubled Soundscape: Solutions Revealed</u></a></li>
+</ul></div>
 
