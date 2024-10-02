@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Elgato Driver Software Installation
-date: 2024-09-20T17:39:30.814Z
-updated: 2024-09-26T19:55:30.295Z
+date: 2024-09-30T21:57:37.317Z
+updated: 2024-10-01T18:08:33.895Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -60,26 +47,26 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
@@ -96,14 +83,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -127,24 +121,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-imovies-cropping-an-in-depth-look/"><u>[Updated] IMovie's Cropping An In-Depth Look</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-swift-visualizer-windows-high-speed-image-viewer/"><u>[Updated] Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/amazon-kindle-collection-mastery-2-effective-methods-for-book-grouping-and-management/"><u>Amazon Kindle Collection Mastery: 2 Effective Methods for Book Grouping & Management</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/blissful-clip-grabber-insight-for-2024/"><u>Blissful Clip Grabber Insight for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cost-effective-charm-how-the-motorola-one-mimics-an-iphone-at-a-bargain-price/"><u>Cost-Effective Charm: How the Motorola One Mimics an iPhone at a Bargain Price</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-intel-processor-drivers-fast-simplified-guide/"><u>Download Intel Processor Drivers Fast - Simplified Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/end-your-nba-2k20-crash-woes-easy-fix-guide/"><u>End Your NBA 2K20 Crash Woes: Easy Fix Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-the-issue-how-to-resolve-260ci-wi-fi-adapter-usb-connection-troubles/"><u>Fixing the Issue: How to Resolve 260Ci Wi-Fi Adapter USB Connection Troubles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-official-amd-ryzen-chipset-driver-updates/"><u>Free Download: Official AMD Ryzen Chipset Driver Updates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974014848-get-your-latest-msi-windows-sound-and-audio-driver-download-fast-and-easy/"><u>Get Your Latest MSI Windows Sound & Audio Driver Download - Fast and Easy</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-integrated-activity-evaluation-guide/"><u>In 2024, Integrated Activity Evaluation Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-netgear-adapter-up-to-date-where-to-find-and-download-the-latest-drivers/"><u>Keep Your NETGEAR Adapter Up to Date: Where to Find and Download the Latest Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-guide-to-obtaining-hp-audio-device-drivers-for-free/"><u>Quick-Start Guide to Obtaining HP Audio Device Drivers for Free</u></a></li>
-<li><a href="https://driver-download.techidaily.com/safe-lenovo-bluetooth-software-updates-for-windows-7-and-windows-e-easy-download-and-installation-tips/"><u>Safe Lenovo Bluetooth Software Updates for Windows 7 and Windows E: Easy Download & Installation Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-hooking-up-a-subwoofer-to-your-samsung-home-theater-bar-system/"><u>Step-by-Step Tutorial on Hooking Up a Subwoofer to Your Samsung Home Theater Bar System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-essential-tutorial-for-obtaining-new-drivers-for-your-xp-pen-tablet/"><u>The Essential Tutorial for Obtaining New Drivers for Your XP-PEN Tablet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/forming-frost-into-warmth-video-backdrops-guide/"><u>Transforming Frost Into Warmth Video Backdrops Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-windows-computer-with-the-new-brother-hl-2240-printer-software/"><u>Update Your Windows Computer with the New Brother HL-2240 Printer Software</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/upgrading-to-windows-11-heres-how-to-set-up-your-idt-hd-sound-codec-driver-successfully/"><u>Upgrading to Windows 11? Here's How to Set Up Your IDT HD Sound Codec Driver Successfully</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-cutting-corners-not-with-quality-square-video-creation-techniques-for-2024/"><u>[New] Cutting Corners? Not with Quality Square Video Creation Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-5-hidden-gems-to-watch-insta-stories/"><u>[Updated] 2024 Approved Top 5 Hidden Gems to Watch Insta Stories</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-perfection-v39-driver-download-for-windows-7810/"><u>Epson Perfection V39 Driver Download for Windows 7/8/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-elgato-hd60-driver-problems-fast-solutions-inside/"><u>Fixing Elgato HD60 Driver Problems - Fast Solutions Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-steelseries-driver-downloads-and-step-by-step-installation-guide-for-windows-users/"><u>Free SteelSeries Driver Downloads and Step-by-Step Installation Guide for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722136363479-from-language-model-to-game-master-chatgpts-surprising-gaming-features-here-are-the-best/"><u>From Language Model to Game Master: ChatGPT's Surprising Gaming Features - Here Are The Best</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-system-boosted-free-update-for-killer-network-drivers-on-windows-systems-win10-8-7/"><u>Get Your System Boosted: Free Update for Killer Network Drivers on Windows Systems (Win10, 8, 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x8b-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X8b to New Android? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965499538-improve-visuals-and-performance-in-games-update-your-nvidia-rtx-2080-ti-driver-today/"><u>Improve Visuals and Performance in Games: Update Your NVIDIA RTX #2080 Ti Driver Today!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-essential-simple-shelter-strategies-in-mc/"><u>In 2024, Essential Simple Shelter Strategies in MC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g29-driver-setup-installation-tutorials-for-windows-users-versions-11107/"><u>Logitech G29 Driver Setup: Installation Tutorials for Windows Users (Versions 11/10/7)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-update-process-keep-your-d-link-devices-running-smoothly-with-updated-windows-drivers/"><u>Master the Update Process: Keep Your D-Link Devices Running Smoothly with Updated Windows Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-ai-for-stunning-photo-creation/"><u>Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ricoh-c3003-printer-software-downloads-compatible-and-efficient-setup-guides/"><u>Ricoh C3003 Printer Software Downloads: Compatible and Efficient Setup Guides</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installing-and-updating-insignia-bluetooth-driver-on-windows-computers/"><u>Step-by-Step: Installing and Updating Insignia Bluetooth Driver on Windows Computers</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/1725284831109-winxvideo-ai/"><u>WinXvideo AI 솔루션을 구축하는 방법: 기술 사양에서 찾아내세요</u></a></li>
 </ul></div>
 

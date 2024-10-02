@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2024-09-25T21:01:52.884Z
-updated: 2024-09-26T16:37:58.916Z
+date: 2024-09-25T19:19:35.931Z
+updated: 2024-10-01T20:23:04.515Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -39,27 +52,14 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
@@ -68,14 +68,21 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
@@ -120,16 +120,22 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-extended-aerial-triumphs-top-10-drones-list/"><u>[New] Extended Aerial Triumphs Top 10 Drones List</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-insights-on-asmr-videos/"><u>[New] In 2024, Essential Insights on ASMR Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-essential-steps-to-compress-youtube-video-spaces/"><u>[Updated] The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-remedy-screen-disruptions-during-live-streams/"><u>2024 Approved Remedy Screen Disruptions During Live Streams</u></a></li>
-<li><a href="https://driver-download.techidaily.com/acer-bluetooth-support-software-available-for-immediate-download/"><u>Acer Bluetooth Support Software Available for Immediate Download</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/best-reading-devices-battle-choosing-between-ipad-kindle-or-nook-for-e-book-enthusiasts/"><u>Best Reading Devices Battle: Choosing Between iPad, Kindle, or Nook for E-Book Enthusiasts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-upgrade-acer-speaker-software/"><u>Easy Steps to Upgrade Acer Speaker Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976806500-install-logitech-g402-software-and-drivers-free-download-now-available/"><u>Install Logitech G402 Software and Drivers - Free Download Now Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-repairing-your-windows-network-adapter-drivers/"><u>Troubleshooting and Repairing Your Windows Network Adapter Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-nvidia-geforce-940mx-driver-version-for-optimal-performance-download/"><u>Updated Nvidia GeForce 940MX Driver Version for Optimal Performance Download</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tactics-for-designing-attention-grabbing-thumbnails-for-2024/"><u>[New] Expert Tactics for Designing Attention-Grabbing Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-cut-cinematic-concept/"><u>[New] Quick Cut Cinematic Concept</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spark-engagement-the-ultimate-list-of-video-text-effects/"><u>[New] Spark Engagement The Ultimate List of Video Text Effects</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-4k-tvs-the-ultimate-list/"><u>2024 Approved Premium 4K TVs – The Ultimate List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722853820498-address-the-issue-of-absent-ksuserdll-in-your-system-effective-methods/"><u>Address the Issue of Absent ksuser.dll in Your System – Effective Methods!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-your-epson-v600-driver-today/"><u>Download & Update Your Epson V600 Driver Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978946400-easy-guide-to-updating-your-vga-drivers-fetch-them-here/"><u>Easy Guide to Updating Your VGA Drivers – Fetch Them Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-inkjet-printer-software-mf743cdw-get-the-latest-windows-drivers/"><u>Free Canon Inkjet Printer Software (MF743CDW) - Get the Latest Windows Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-startech-driver-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>How to Fix StarTech Driver Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-s23-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel S23 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-cutting-edge-brother-hl-c2240-driver-on-your-windows-device/"><u>Install Cutting-Edge Brother HL-C2240 Driver on Your Windows Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-downloading-and-updating-your-dell-display-driver/"><u>Quick and Simple Guide: Downloading & Updating Your Dell Display Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-overcoming-common-challenges-in-i2c-hid-device-driver-management/"><u>Quick Fixes: Overcoming Common Challenges in I2C HID Device Driver Management</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-technicolor-turnover-desktop-color-fix-tips-for-windows/"><u>Taming the Technicolor Turnover: Desktop Color Fix Tips for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-drivers-updated-version-now-available-for-windows-1087/"><u>TP-Link WiFi Adapter Drivers: Updated Version Now Available for Windows 10/8/7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-for-when-an-iphone-fails-to-take-calls/"><u>Troubleshooting Steps for When an iPhone Fails to Take Calls</u></a></li>
 </ul></div>
 

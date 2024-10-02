@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-09-25T20:22:12.470Z
-updated: 2024-09-26T20:13:06.126Z
+date: 2024-09-26T22:36:18.441Z
+updated: 2024-10-01T21:06:14.986Z
 tags:
   - win11
   - win10
@@ -29,34 +29,28 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -72,17 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -113,21 +107,19 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-what-makes-a-youtube-short-go-viral/"><u>[New] 2024 Approved What Makes a YouTube Short Go Viral?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[New] In 2024, Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-minimize-camera-jostle/"><u>[New] Securing Your Scene Minimize Camera Jostle</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/a-critical-review-of-the-new-gen-google-nest-hub-highlighting-its-strengths-and-missing-camera-feature/"><u>A Critical Review of The New-Gen Google Nest Hub: Highlighting Its Strengths and Missing Camera Feature</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/dive-into-virtual-space-with-lgs-360-degree-headset-for-2024/"><u>Dive Into Virtual Space with LG's 360-Degree Headset for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-card-drivers-on-your-pc/"><u>Download and Install Atheros Network Card Drivers on Your PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-official-drivers-for-msi-b350-motherboard-windows-11-and-7-supported/"><u>Download Official Drivers for MSI B350 Motherboard - Windows 11 & 7 Supported</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-samsung-galaxy-a6-lite-full-system-driver/"><u>Free Download: Samsung Galaxy A6 Lite Full System Driver</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722532726274-from-dark-fantasy-to-dazzling-display-demons-souls-in-a-graphic-overhaul/"><u>From Dark Fantasy to Dazzling Display - Demon's Souls in a Graphic Overhaul</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-hl-l2370dw-drivers-free-download/"><u>Get the Latest Brother HL-L2370DW Drivers - Free Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-uhd-graphics-655-drivers-compatible-with-windows-11/"><u>Get the Newest Intel UHD Graphics 655 Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-geforce-gtx-1080-graphics-drivers-for-windows-7/"><u>NVIDIA GeForce GTX 1080 Graphics Drivers for Windows 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-failed-page-loading-on-ms-store/"><u>Steps to Resolve Failed Page Loading on MS Store</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-process-easy-driver-updates-for-the-scansnap-ix500-on-windows-operating-systems/"><u>Streamlined Process: Easy Driver Updates for the ScanSnap iX500 on Windows Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>[New] 2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-comprehending-instagrams-max-video-length-for-2024/"><u>[New] Comprehending Instagram's Max Video Length for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[New] The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nova-y71-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nova Y71.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovering-the-future-of-broadcast-roku-and-facebook-live/"><u>Discovering the Future of Broadcast Roku & Facebook LIVE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-drivers-on-windows/"><u>Download and Install the Latest Epson WF-3520 Printer Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-zexmt-bluetooth-driver-for-your-pc-on-windows-1178/"><u>Get the Latest ZEXMT Bluetooth Driver for Your PC on Windows 11/7/8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-updated-drivers-for-lenovo-displays-quickly/"><u>How to Find & Install Updated Drivers for Lenovo Displays Quickly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-new-driets-for-intel-wireless-ac-9560-card/"><u>How to Install New Driets for Intel Wireless AC 9560 Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-pc-connected-fresh-microsoft-windows-bluetooth-driver-downloads-for-win-11-10-8-and-7/"><u>Keeping Your PC Connected: Fresh Microsoft Windows Bluetooth Driver Downloads for Win 11, 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-updating-graphics-card-drivers-on-hp-envy-5660-laptop/"><u>Quick & Easy Guide: Updating Graphics Card Drivers on HP Envy 5660 Laptop</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-secure-xbox-360-controller-driver-downloads/"><u>Step-by-Step Tutorial for Secure Xbox 360 Controller Driver Downloads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-6-chilling-hk-tv-shows-streaming-with-eng-subs-your-ultimate-free-guide/"><u>Top 6 Chilling HK TV Shows Streaming with Eng Subs: Your Ultimate FREE Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-whatsapps-vocal-messaging-secrets/"><u>Unlocking WhatsApp's Vocal Messaging Secrets</u></a></li>
 </ul></div>
 

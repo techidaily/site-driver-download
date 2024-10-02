@@ -1,7 +1,7 @@
 ---
 title: Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide
-date: 2024-09-23T19:33:17.892Z
-updated: 2024-09-26T17:13:59.744Z
+date: 2024-09-29T23:00:54.395Z
+updated: 2024-10-01T21:40:18.581Z
 tags:
   - win11
   - win10
@@ -25,16 +25,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
@@ -45,16 +39,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -62,20 +56,27 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
@@ -103,20 +104,17 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-immerse-in-tiktok-entertainment-with-ease-and-grace/"><u>[Updated] In 2024, Immerse in TikTok Entertainment with Ease and Grace</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[Updated] In 2024, Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-installing-kyocera-printer-drivers-for-windows-pcs/"><u>Complete Guide to Downloading and Installing KYOCERA Printer Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/dell-thunderbolt-dock-tb16-drivers-download-and-update/"><u>Dell Thunderbolt Dock TB16 Drivers Download & Update</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-reno-9a-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Reno 9A Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-download-official-canon-mf8200c-driver-software-for-windows-users-78110/"><u>Easy Download: Official Canon MF8200C Driver Software for Windows Users (7/8.1/10)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-guide-acer-predator-xb271h-monitor-drivers/"><u>Easy Installation Guide: Acer Predator XB271H Monitor Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-xbox-accessory-controller-drivers-in-windows-11-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers in Windows 11, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>In 2024, Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-intel-usb-30-support-software-for-windows-10-get-your-free-copy-today/"><u>Latest Intel USB 3.0 Support Software for Windows 10 – Get Your Free Copy Today!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-reclaiming-disk-space-on-windows-11-systems/"><u>Step-by-Step Guide: Reclaiming Disk Space on Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-downloading-canon-printer-mp250-driver-updates/"><u>Step-By-Step Instructions for Downloading Canon Printer MP250 Driver Updates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/taming-the-warzone-tech-troubles-ultimate-fixes-for-flickering-frustrations/"><u>Taming the Warzone Tech Troubles - Ultimate Fixes for Flickering Frustrations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-copyright-clash-violation-removal-came-quick/"><u>[New] Copyright Clash Violation, Removal Came Quick</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-route-to-collecting-pictorial-frame-downloads/"><u>[New] The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-7-tools-for-3d-animators-creation/"><u>[New] Top 7 Tools for 3D Animator's Creation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-performance-resolving-outriders-lagging-frames-per-second-fps-problems/"><u>Boosting Performance: Resolving Outriders' Lagging Frames per Second (FPS) Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-your-magic-mouse-on-windows-driver-downloads-needed/"><u>Getting Started with Your Magic Mouse on Windows - Driver Downloads Needed!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-pcs-graphics-with-amd-ryzen-3-2200g-latest-drivers-download/"><u>Improve Your PC's Graphics with AMD RYZEN 3 2200G Latest Drivers Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-integrated-graphics-software-free-downloads-and-updates-for-windows-10-and-11/"><u>Latest Intel Integrated Graphics Software: Free Downloads & Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/legacy-in-pixels-iphone-x-memories-photography-for-2024/"><u>Legacy in Pixels IPhone X Memories Photography for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-pc-download-and-set-up-amd-radeon-rx-5700-xt-graphics-card-drivers-for-windows-environments/"><u>Optimize Your PC: Download and Set Up AMD Radeon RX 지킬 5700 XT Graphics Card Drivers for Windows Environments</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-updating-your-dell-webcam-drivers-properly/"><u>The Ultimate Guide: Updating Your Dell Webcam Drivers Properly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-for-when-your-chat-history-isnt-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions for When Your Chat History Isn't Syncing with iCloud</u></a></li>
 </ul></div>
 

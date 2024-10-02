@@ -1,7 +1,7 @@
 ---
 title: Install Up-to-Date Graphics Card Drivers for GTX 980 Ti
-date: 2024-09-05T05:10:40.166Z
-updated: 2024-09-06T05:10:40.166Z
+date: 2024-09-27T17:12:25.520Z
+updated: 2024-10-01T18:04:19.711Z
 tags:
   - win11
   - win10
@@ -17,18 +17,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858cfbc29f5f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Radeon RX 400 series of graphics cards are the latest AMD graphics cards with top-notch technology that are available for the date. On AMD website, **Radeon RX 470** is said to be “gamer optimized”, “future ready”, and “strap in for high visuals and high frame rates”. Sound very tempting and intriguing.
 
  If you have recently change your graphics card to **Radeon RX 470** , it is highly recommended that you update the graphics card driver on your device as well so as to match up with the display.
@@ -45,18 +33,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d55828138.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) If you are seeing a display driver named**AMD Radeon RX 470** or something similar, right click it and choose**Update Driver Software…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d5aeb143e.jpg)
@@ -85,12 +61,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858df55b7e20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Then open Device Manager again. Locate and  expand category**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858d55828138.jpg)
@@ -99,22 +69,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858e0c59c41d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5858e1c787eca.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Then restart your computer if you want.
 
  5) Double click the downloaded setup file of AMD Radeon RX 470 and run the installation of it.
@@ -127,12 +85,6 @@ Then restart your computer if you want.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e618eac55a6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to update your device drivers at a much faster speed and enjoy more other features such as driver backup and driver restore, plus the professional tech support waiting to solve your driver problem, feel free to have a try at the[**professional version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. Should you find it any unpleasant, just ask for a refund thirty days within the purchase, and you will surely get your money back.
 
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
@@ -144,8 +96,6 @@ Then restart your computer if you want.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +103,27 @@ Then restart your computer if you want.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/utting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presence-the-art-of-seo-optimization/"><u>[New] In 2024, Elevate Your YouTube Presence The Art of SEO Optimization</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[New] In 2024, The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/park-inspiration-free-premium-designs-for-video-marketers/"><u>[New] Spark Inspiration Free, Premium Designs for Video Marketers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-online-presence/"><u>Automated Marketing with Cookiebot: Enhance Your Online Presence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-frame-rate-in-assassins-creed-valhalla-expert-tips-and-tricks/"><u>Boosting Frame Rate in Assassin's Creed Valhalla: Expert Tips and Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-experience-on-windows-10-or-11-with-newly-released-nvidia-rtx-2060-super-drivers/"><u>Enhance Your Gaming Experience on Windows 10 or 11 with Newly Released NVIDIA RTX 2060 Super Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-advanced-pc-components-with-toms-gear-guidance/"><u>Exploring Advanced PC Components with Tom's Gear Guidance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-generic-bluetooth-adapter-software-today-optimized-for-windows-pcs/"><u>Get Your New Generic Bluetooth Adapter Software Today: Optimized for Windows PCs!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-instantly-update-your-windows/"><u>How To: Instantly Update Your Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-brother-l2740dx-printer-software-for-your-windows-machine-download-free-driver-packages-here/"><u>Install Brother L2740DX Printer Software for Your Windows Machine – Download Free Driver Packages Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mg2522-printer-drivers-free-download-and-updates/"><u>Latest Canon PIXMA MG2522 Printer Drivers – Free Download & Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-in-macos-15-sequoia-unveiling-the-latest-release-dates-and-innovative-features/"><u>What's New in macOS 15 'Sequoia': Unveiling the Latest Release Dates & Innovative Features!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

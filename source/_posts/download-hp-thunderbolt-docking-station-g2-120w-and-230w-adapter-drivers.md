@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-09-22T17:33:35.158Z
-updated: 2024-09-26T17:25:10.349Z
+date: 2024-09-29T17:13:55.798Z
+updated: 2024-10-02T00:50:57.344Z
 tags:
   - win11
   - win10
@@ -30,16 +30,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -48,22 +42,16 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -78,23 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -125,21 +107,17 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[Updated] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mastering-pip-mode-with-youtube-on-your-iphone-device-for-2024/"><u>[Updated] Mastering PIP Mode with YouTube on Your iPhone Device for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>2024 Approved Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-magic-6-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor Magic 6 Pro Phone When You Forget the Password</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/bridging-minds-online-the-ultimate-guide-to-facebook-video-screensharing-for-2024/"><u>Bridging Minds Online The Ultimate Guide to Facebook Video Screensharing for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-websites-conversion-rates-with-our-advanced-analytics-tools/"><u>Cookiebot-Enabled: Enhance Your Website's Conversion Rates with Our Advanced Analytics Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-installing-latest-webcam-drivers-on-windows-7/"><u>Fast and Simple Guide: Installing Latest Webcam Drivers on Windows 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-compatible-drivers-for-your-hp-printer/"><u>Free Download: Compatible Drivers for Your HP Printer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-pagewide-pro-477dw-up-and-running-on-windows-driver-downloads-for-win11-win10-and-win8/"><u>Get Your HP PageWide Pro 477DW Up and Running on Windows: Driver Downloads for Win11, Win10 & Win8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-logitech-driving-force-gt-steering-wheel-on-windows-71011-download-included/"><u>How to Install the Logitech Driving Force GT Steering Wheel on Windows 7/10/11 - Download Included</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>In 2024, Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-newest-compatible-nvidia-quadro-rtx-grove-8000-drivers-on-windows-1187-machines/"><u>Install the Newest Compatible Nvidia Quadro RTX Grove 8000 Drivers on Windows 11/8/7 Machines</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keeping-your-asus-portable-computer-running-smoothly-with-latest-driver-downloads/"><u>Keeping Your ASUS Portable Computer Running Smoothly with Latest Driver Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-geforce-gtx-1660-super-driver-software-get-your-downloads-here/"><u>Latest GeForce GTX 1660 Super Driver Software - Get Your Downloads Here!</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-beyond-boundaries-with-innovative-wins11-titles-for-2024/"><u>Step Beyond Boundaries with Innovative Wins11 Titles for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-fix-obs-not-recording-audio/"><u>[New] 2024 Approved How to Fix OBS Not Recording Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-say-thanks-free-and-subscribed-outro-samples-available/"><u>[New] Say Thanks! Free & Subscribed Outro Samples Available</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-aspect-ratio-for-video-content-on-social-platforms/"><u>[Updated] In 2024, Aspect Ratio for Video Content on Social Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-clandestine-way-exploring-insta-stories-on-tech-devices/"><u>[Updated] In 2024, The Clandestine Way Exploring Insta Stories on Tech Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acers-updated-touchpad-driver-for-windows-11-secure-it-today-with-our-free-downloads/"><u>Acer's Updated Touchpad Driver for Windows 11 - Secure It Today with Our Free Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-smooth-printing-with-newest-konica-minolta-drivers-compatible-with-all-windows-versions/"><u>Ensure Smooth Printing with Newest Konica Minolta Drivers - Compatible with All Windows Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-sades-headset-drivers-on-windows-guaranteed-malware-free/"><u>Get the Latest Sades Headset Drivers on Windows - Guaranteed Malware-Free</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/hdmi-display-showdown-the-creme-de-la-creme-monitors-for-2024/"><u>HDMI Display Showdown The Crème De La Crème Monitors for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ideal-days-for-launching-a-podcast-for-2024/"><u>Ideal Days for Launching a Podcast for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-bottom-line-gear-collect-all-these-trendsetting-tools-to-win-in-business/"><u>In 2024, Bottom Line Gear Collect All These Trendsetting Tools to Win in Business</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-gaming-choice-top-5-retro-handheld-picks/"><u>Ultimate Gaming Choice: Top 5 Retro Handheld Picks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/winning-the-battle-against-asus-pce-ac56-driver-conflicts-effective-solutions-for-windows-xp-8-and-10-users/"><u>Winning the Battle Against ASUS PCE-AC56 Driver Conflicts: Effective Solutions for Windows XP, 8 & 10 Users</u></a></li>
 </ul></div>
 
