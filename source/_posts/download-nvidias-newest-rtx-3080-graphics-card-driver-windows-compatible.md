@@ -1,7 +1,7 @@
 ---
 title: Download NVIDIA's Newest RTX 3080 Graphics Card Driver - Windows Compatible
-date: 2024-09-01T00:56:38.587Z
-updated: 2024-09-02T00:56:38.587Z
+date: 2024-10-06T00:10:50.351Z
+updated: 2024-10-07T02:59:57.733Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ OR
 
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Download and install the driver manually
 
  AMD keeps updating its GPU drivers for general improvements, bug fixes and compatibility with the latest games like Cyberpunk 2077 and CoD Black Ops Cold War. To get them manually, simply follow the instruction below:
@@ -56,8 +63,29 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -75,8 +103,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +110,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-mastery-for-phones-choose-from-the-top-8-timers/"><u>[New] Instagram Mastery for Phones - Choose From The Top 8 Timers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-optimize-logitech-footage-background-free-method/"><u>[Updated] In 2024, Optimize Logitech Footage - Background-Free Method</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-for-downloading-and-updating-canon-mg3600-printing-drivers/"><u>Complete Guide for Downloading & Updating Canon MG3600 Printing Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-techkey-bluetooth-driver-installation-guide-for-windows-11-7-and-8-users/"><u>Essential Techkey Bluetooth Driver Installation Guide for Windows 11, 7 & 8 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-driver-update-for-your-asrock-ab350-pro4-board-running-on-windows/"><u>Free Driver Update for Your ASRock AB350 Pro4 Board Running on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977572657-get-your-asrock-ab350-pro4-driver-pack-for-free-seamless-installation-on-windows/"><u>Get Your ASRock AB350 Pro4 Driver Pack for Free: Seamless Installation on Windows!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-update-epson-wf-2540-printer-drivers-on-windows-78110/"><u>How To Download & Update Epson WF-2540 Printer Drivers on Windows 7/8.1/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-microsoft-bluetooth-driver-support-for-your-windows-system-win101187/"><u>How to Get the Latest Microsoft Bluetooth Driver Support for Your Windows System (Win10/11/8/7)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ntaneous-youtube-audiences-trackers-for-2024/"><u>Instantaneous YouTube Audiences Trackers for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-dynamic-dry-brush-audio-layers-for-productions/"><u>New 2024 Approved Discovering Dynamic Dry Brush Audio Layers for Productions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-audio-essentials-removing-background-noise-for-crisp-sound/"><u>New FCPX Audio Essentials Removing Background Noise for Crisp Sound</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/perfecting-narrative-scripts-dialogue-excellence/"><u>Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://driver-download.techidaily.com/risk-of-multi-organ-failure/"><u>Risk of Multi-Organ Failure</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-journey-of-a-youtube-video-from-creation-to-live-streaming/"><u>The Journey of a YouTube Video From Creation to Live Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-culinary-potential-with-these-7-chatgpt-hacks-for-chefs/"><u>Unlock Your Culinary Potential with These 7 ChatGPT Hacks for Chefs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-dell-optiplex-7010-latest-driver-downloads/"><u>Update Your Dell OptiPlex 7010 - Latest Driver Downloads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-cpu-hogging-tame-msmpengexe-on-your-pc/"><u>Winning the Battle Against CPU Hogging: Tame MsMpEng.exe on Your PC</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->

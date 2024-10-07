@@ -1,7 +1,7 @@
 ---
 title: Latest GPU Drivers for Lenovo Legion 5 Pro, Model 16ACH6H - Get Them Here!
-date: 2024-09-24T18:26:54.114Z
-updated: 2024-10-01T16:35:12.444Z
+date: 2024-10-01T01:45:56.498Z
+updated: 2024-10-07T00:21:22.841Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Logitech G910 not working? You may need to download the software for further con
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
@@ -87,6 +80,13 @@ Logitech G910 not working? You may need to download the software for further con
  02 Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
@@ -114,22 +114,15 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
@@ -137,6 +130,13 @@ Check your keyboard to see if it works.
  05 Click**Search automatically for drivers** . Make sure your computer has an internet connection. Windows would automatically scan and install available drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
@@ -147,10 +147,10 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  08 Click**Have Disk** .
@@ -162,10 +162,10 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_11-04-39.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  10 Click**OK** to start the installation.
@@ -195,17 +195,22 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-diving-deep-into-valheims-vital-vegetation/"><u>[New] 2024 Approved Diving Deep Into Valheim's Vital Vegetation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-clarity-in-low-quality-facebook-streams/"><u>[Updated] 2024 Approved Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-amd-radeon-r5-drivers-compatible-with-all-windows-versions/"><u>Download the Newest AMD Radeon R5 Drivers Compatible with All Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-netgear-wi-fi-adapter-driver-software-here/"><u>Get the Newest NETGEAR Wi-Fi Adapter Driver Software Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208186898-get-your-aoc-screen-up-and-running-again-on-windows-11-expert-fixes/"><u>Get Your AOC Screen Up and Running Again on Windows 11 - Expert Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-address-and-solve-intel-hd-graphics-630-driver-issues-in-windows-os/"><u>How to Address and Solve Intel HD Graphics 630 Driver Issues in Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-official-amd-radeon-hd-drivers-on-windows-7-systems/"><u>How to Install Official AMD Radeon HD Drivers on Windows 7 Systems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-innovative-approaches-to-craft-compelling-asmr-videos-for-mass-appeal/"><u>In 2024, Innovative Approaches to Craft Compelling ASMR Videos for Mass Appeal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-mastery-rapidly-assemble-your-digital-self/"><u>Metaverse Mastery Rapidly Assemble Your Digital Self</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solve-ralink-driver-issues-with-our-updated-guide-for-windows-users/"><u>Solve Ralink Driver Issues with Our Updated Guide for Windows Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essentials-of-crafting-impactful-spotify-ads/"><u>The Essentials of Crafting Impactful Spotify Ads</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-journaling-mobile-applications/"><u>Top 6 Must-Have Journaling Mobile Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screen-cutting-edge-video-editing-for-youtubers/"><u>[New] In 2024, From Script to Screen Cutting-Edge Video Editing for YouTubers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-enhance-your-contents-visibility-peak-days/"><u>[Updated] Enhance Your Content's Visibility - Peak Days</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-premium-banners-no-cost-just-click-for-2024/"><u>[Updated] Get Premium Banners - No Cost, Just Click for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/aukeys-streamlined-usb-3erhub-comprehensive-review-of-the-functional-and-sleek-device/"><u>Aukey's Streamlined USB 3.erhub: Comprehensive Review of the Functional and Sleek Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/be-selective-stop-instagram-suggested-updates-for-2024/"><u>Be Selective Stop Instagram Suggested Updates for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-steps-for-acquiring-and-implementing-arduino-nano-drivers-on-windows-operating-system/"><u>Effortless Steps for Acquiring & Implementing Arduino Nano Drivers on Windows Operating System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-ultimate-guide-installing-the-latest-usb-c-drivers-for-windows-11/"><u>Free Ultimate Guide: Installing the Latest USB-C Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-setup-your-windows-usbserial-adapter-in-minutes/"><u>How to Download & Setup Your Windows USB/Serial Adapter in Minutes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-6s-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 6s Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix/"><u>In 2024, Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-time-efficient-tips-to-purify-audio-from-static-interference-for-2024/"><u>New Time-Efficient Tips to Purify Audio From Static Interference for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976496617-nvidia-geforce-drivers-for-windows-optimized-and-ready-to-enhance-your-games-now-available-for-download/"><u>Nvidia GeForce Drivers for Windows: Optimized and Ready to Enhance Your Games - Now Available for Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2060-super-graphics-card-driver-update-for-windows-1011-download-free/"><u>RTX 2060 Super Graphics Card Driver Update for Windows 10/11 – Download Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-vehicle-with-sm-bus-controller-software-downloads-optimized-for-windows-111087/"><u>Secure Your Vehicle with SM Bus Controller Software Downloads (Optimized for Windows 11/10/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-freshly-install-hp-officejet-pro-n6970-drivers-compatible-with-windows-os/"><u>Update or Freshly Install HP OfficeJet Pro N6970 Drivers: Compatible with Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-mg3000-printer-software-for-optimal-performance-how-to-get-latest-drivers/"><u>Update Your Canon MG3000 Printer Software for Optimal Performance – How to Get Latest Drivers</u></a></li>
 </ul></div>
 

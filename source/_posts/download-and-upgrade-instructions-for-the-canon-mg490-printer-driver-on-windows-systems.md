@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2024-09-28T21:38:11.029Z
-updated: 2024-10-01T17:37:19.671Z
+date: 2024-09-30T02:37:28.997Z
+updated: 2024-10-06T22:15:55.558Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Canon driver automatically (Recommended)**
@@ -47,26 +47,20 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -90,15 +84,15 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
@@ -124,20 +118,22 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-top-8-ultimate-4k-blu-ray-playback-units-reviewed/"><u>[New] 2024 Approved Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video-for-2024/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-successfully-installing-your-dell-mouse-driver-solutions-inside/"><u>Easy Guide: Successfully Installing Your Dell Mouse Driver – Solutions Inside</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-tutorial-for-your-epson-xp-400-printer-driver-download-and-setup-steps/"><u>Easy Installation Tutorial for Your Epson XP-400 Printer Driver – Download & Setup Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-music-mixing-experience-secure-your-focusrite-scarlett-solo-on-windows-today/"><u>Enhance Your Music Mixing Experience: Secure Your Focusrite Scarlett Solo on Windows Today!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/family-friendly-app-of-the-year-mondly-with-filter-and-back-buttons/"><u>Family-Friendly App of the Year: Mondly with Filter and Back Buttons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-videos-you-love-from-pinterest-for-free-for-2024/"><u>Get the Videos You Love From Pinterest for Free for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-soundmax-audio-driver-downloaded-and-running-in-no-time/"><u>Get Your SoundMax Audio Driver Downloaded and Running in No Time</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-anime-aesthetics-top-20-visual-elements-on-tiktok/"><u>In 2024, Anime Aesthetics Top 20 Visual Elements on TikTok</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 13 mini</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/on-the-move-fun-with-mobile-need-for-speed-game-copies/"><u>On-the-Move Fun with Mobile Need for Speed Game Copies</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-guide-update-and-install-dell-monitor-software-with-one-click-solution/"><u>Simple Guide: Update & Install Dell Monitor Software with One-Click Solution</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-how-to-quickly-get-the-latest-canon-driver-updates-for-your-pc/"><u>Step-by-Step Guide: How to Quickly Get the Latest Canon Driver Updates for Your PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/unveiling-top-tier-tech-expert-hardware-insights-from-toms-world/"><u>Unveiling Top-Tier Tech: Expert Hardware Insights From Tom's World</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-specs-for-smooth-operation-of-big-sur/"><u>[New] 2024 Approved Essential Specs for Smooth Operation of Big Sur</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-sail-through-the-sea-of-tiktok-video-downloads/"><u>[New] Sail Through the Sea of TikTok Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-embed-youtube-in-google-slides-presentations/"><u>[Updated] 2024 Approved How to Embed YouTube in Google Slides Presentations</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-the-zoom-meeting-experience-tips-for-fluid-online-discussion-for-2024/"><u>[Updated] Mastering the Zoom Meeting Experience Tips for Fluid Online Discussion for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-switching-names-on-google-meet-for-laptops-phones-for-2024/"><u>[Updated] Switching Names on Google Meet for Laptops, Phones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-on-precise-audioshifting/"><u>2024 Approved Ultimate Tutorial on Precise Audioshifting</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unveiling-the-process-of-hd-video-extraction-on-fb/"><u>2024 Approved Unveiling the Process of HD Video Extraction on FB</u></a></li>
+<li><a href="https://driver-download.techidaily.com/dell-thunderbolt-dock-tb16-drivers-download-and-update/"><u>Dell Thunderbolt Dock TB16 Drivers Download & Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-rtx-2060-super-gpu-drivers-for-windows-1011-systems/"><u>Download Updated NVIDIA RTX 2060 Super GPU Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-official-canon-mf8200c-driver-software-for-windows-users-78110/"><u>Easy Download: Official Canon MF8200C Driver Software for Windows Users (7/8.1/10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-acer-predator-xb271h-monitor-drivers/"><u>Easy Installation Guide: Acer Predator XB271H Monitor Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-xbox-accessory-controller-drivers-in-windows-11-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964262062-governments-can-address-the-underprovision-of-public-goods-by-taxing-citizens-and-providing-these-goods-collectively/"><u>Governments Can Address the Underprovision of Public Goods by Taxing Citizens and Providing These Goods Collectively.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-usb-30-support-software-for-windows-10-get-your-free-copy-today/"><u>Latest Intel USB 3.0 Support Software for Windows 10 – Get Your Free Copy Today!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone-for-2024/"><u>The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone for 2024</u></a></li>
 </ul></div>
 

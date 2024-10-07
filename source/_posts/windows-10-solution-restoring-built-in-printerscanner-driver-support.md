@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support"
-date: 2024-09-29T23:22:07.681Z
-updated: 2024-10-01T23:45:34.334Z
+date: 2024-10-04T17:08:30.585Z
+updated: 2024-10-07T01:12:26.946Z
 tags:
   - win11
   - win10
@@ -22,10 +22,10 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to install the drivers for printers and scanners?
@@ -36,10 +36,10 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download the printer and scanner drivers manually
@@ -60,6 +60,13 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,22 +81,21 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -117,20 +123,21 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-narrative-depth-incorporating-b-roll-footage/"><u>[New] 2024 Approved Enhancing Narrative Depth Incorporating B-Roll Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/a-compre-folio-for-understanding-du-recorders-features/"><u>A Compre Folio for Understanding Du Recorder's Features</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-hearing-tech-for-drivers-an-affordable-bluetooth-headset-unpacked/"><u>Budget Hearing Tech for Drivers: An Affordable Bluetooth Headset Unpacked</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cs-global-offensive-fixes-when-the-game-wont-start/"><u>CS: Global Offensive - Fixes When the Game Won't Start</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-drivers-for-hp-z440-desktop-step-by-step-guide/"><u>Download & Update Drivers for HP Z440 Desktop: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-methods-for-installing-the-latest-wireless-drivers-on-windows-operating-systems/"><u>Easy Methods for Installing the Latest Wireless Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-tutorial-updating-your-evga-gpu-drivers-on-a-windows-machine/"><u>Essential Tutorial: Updating Your EVGA GPU Drivers on a Windows Machine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/estimating-a-20mb-videoclip-duration/"><u>Estimating a 20MB Videoclip Duration</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-easily-update-the-intel-hd-graphics-vectors-in-your-system-for-optimal-performance/"><u>How to Easily Update the Intel HD Graphics Vectors in Your System for Optimal Performance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-realme-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Realme PIN</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-implement-the-new-driver-for-your-dell-system-management-bus-controller/"><u>How to Successfully Implement the New Driver for Your Dell System Management Bus Controller</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-secrets-of-effective-powerpoint-presentation-recordings/"><u>In 2024, Secrets of Effective PowerPoint Presentation Recordings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-driver-downloading-guide-for-the-sound-blaster-z-on-windows-10/"><u>Streamlined Driver Downloading Guide for the Sound Blaster Z on Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swift-strides-identifying-five-drives-of-chatgpts-triumph/"><u>Swift Strides: Identifying Five Drives of ChatGPT's Triumph</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-golden-rule-for-profit-partnership/"><u>YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc-for-2024/"><u>[New] From Viewer to Voyager In-Depth Guide for Captivating Live TV on Your PC for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] In 2024, How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-swap-periscope-for-success-best-replacements-for-iphoneandroid/"><u>[New] In 2024, Swap Periscope for Success Best Replacements for iPhone/Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-downloading-and-installing-drivers-for-asus-desktops-and-laptops/"><u>Comprehensive Guide to Downloading & Installing Drivers for ASUS Desktops & Laptops</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-mastery-a-users-handbook-for-acquiring-epson-xp-830-driver-correctly/"><u>Download Mastery: A User's Handbook for Acquiring Epson XP-830 Driver Correctly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-book-video-summaries/"><u>Engaging Book Video Summaries</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-seamless-audio-functionality-on-your-freshly-updated-windows-10-version-2004/"><u>Ensuring Seamless Audio Functionality on Your Freshly Updated Windows 10 Version 2004</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-logitech-steering-wheel-g29-driver-for-windows-1087-users/"><u>Free Downloads: Logitech Steering Wheel G29 Driver for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevating-live-game-coverage-tips-and-tricks/"><u>In 2024, Elevating Live Game Coverage Tips and Tricks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-thinkpad-t430-complete-guide-on-downloading-and-installing-drivers-for-windows-11-8-and-7/"><u>Lenovo ThinkPad T430: Complete Guide on Downloading & Installing Drivers for Windows 11, 8, & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-and-simple-asus-z1710-pro-graphics-card-drivers-download-guide/"><u>Speedy and Simple ASUS Z17지10 Pro Graphics Card Drivers Download Guide.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y78-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y78 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-kids-friendly-drones-for-new-flyers/"><u>Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/whats-new-in-your-logitech-extreme-3d-check-our-latest-update/"><u>What’s New in Your Logitech Extreme 3D? Check Our Latest Update!</u></a></li>
 </ul></div>
 

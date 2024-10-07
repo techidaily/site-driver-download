@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide: How To Find And Install Newest Windows Drivers For Your Lenovo T420"
-date: 2024-09-27T23:19:58.046Z
-updated: 2024-10-01T19:08:55.394Z
+date: 2024-10-02T16:49:21.958Z
+updated: 2024-10-07T06:22:31.643Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -57,30 +44,38 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -95,15 +90,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -126,24 +121,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-apex-legends-solo-strategies-mastering-one-platform-at-a-time/"><u>[New] 2024 Approved Apex Legends Solo Strategies Mastering One Platform at a Time</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-elevate-your-online-presence-utilizing-color-key-techniques-for-2024/"><u>[New] Elevate Your Online Presence Utilizing Color Key Techniques for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-record-screen-on-xiaomi-11t-mi-11mi-11-lite/"><u>[New] Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
-<li><a href="https://win-best.techidaily.com/rmvbmpegonline-movavi/"><u>無料で安定したRMVBからMPEGへのスムーズなOnline変換 - Movaviプロセスガイド</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-pruveeo-f5-1080p-dashboard-camera-review-is-it-worth-your-cash/"><u>Budget-Friendly Pruveeo F5 1080P Dashboard Camera Review - Is It Worth Your Cash?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragons-dogma-2-pc-crashes-easy-fixes-to-enjoy-uninterrupted-gaming/"><u>Dragon's Dogma 2 PC Crashes - Easy Fixes to Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-enhancing-brother-mfc-l2690dw-driver/"><u>Easy Guide to Downloading & Enhancing Brother MFC L2690DW Driver</u></a></li>
-<li><a href="https://solve-info.techidaily.com/enhanced-site-engagement-through-cookiebots-smart-visitor-tracking-solutions/"><u>Enhanced Site Engagement Through Cookiebot's Smart Visitor Tracking Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-driver-downloads-setup-guide-for-brother-l2360dw-device/"><u>Essential Driver Downloads: Setup Guide for Brother L2360DW Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-hp-laserjet-driver-downloads-compatible-with-windows/"><u>Free HP LaserJet Driver Downloads Compatible with Windows 지원</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-official-logitech-hd-525-cam-software-for-windows-systems/"><u>Get Official Logitech HD 525 Cam Software for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-for-your-tp-link-usb-400-bluetooth-adapter/"><u>Get the Latest Firmware for Your TP-Link USB 400 Bluetooth Adapter</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-drivers-for-your-nvidia-geforce-ebitrix-rtx-940mx-a-step-by-step-guide/"><u>How to Install the Latest Drivers for Your NVIDIA GeForce Ebitrix RTX 940MX: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-switch-off-mobility-features-on-win-11/"><u>How To Switch Off Mobility Features on Win 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Bootloader Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722954097290-hp-ethernet-driver-downloads-compatible-with-windows-1178-install-now/"><u>HP Ethernet Driver Downloads Compatible with Windows 11/7/8 - Install Now!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-masterclass-webcast-theme-builder/"><u>In 2024, Masterclass Webcast Theme Builder</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-amd-radeon-graphics-card-driver-for-windows-operating-system-v11v10v8v7/"><u>Latest AMD Radeon Graphics Card Driver for Windows Operating System: V11/V10/V8/V7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/reliable-guide-downloading-and-updating-lenovo-bluetooth-drivers-for-windows-users/"><u>Reliable Guide: Downloading and Updating Lenovo Bluetooth Drivers for Windows Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-finding-cost-effective-buys-on-gopros/"><u>2024 Approved Finding Cost-Effective Buys on GoPros</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-of-hp-deskjet-3520-driver-package-compatible-with-all-systems/"><u>Free Download of HP Deskjet 3520 Driver Package - Compatible with All Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-up-to-date-amd-gpio-drivers-for-seamless-integration/"><u>Get the Most Up-to-Date AMD GPIO Drivers for Seamless Integration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-logitech-mk710-drivers-for-your-computer/"><u>How to Get the Newest Logitech MK710 Drivers for Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a78-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A78 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2022) 3 Ways To Unlock</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-making-sense-top-6-persuasive-video-types/"><u>In 2024, Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-dell-xps-13-driver-software-quick-and-simple-downloads-and-updates/"><u>Latest Dell XPS 13 Driver Software - Quick and Simple Downloads & Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-clean-a-how-to-manual-for-refreshing-your-lcd-tv-screen/"><u>The Perfect Clean: A How-To Manual for Refreshing Your LCD TV Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-for-resolving-corsair-h115i-driver-errors-in-windows-versions-81011/"><u>Troubleshooting Steps for Resolving Corsair H115i Driver Errors in Windows Versions: 8/10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-hp-scanjet-on-windows-1087-get-them-here/"><u>Updated Drivers for HP Scanjet on Windows 10/8/7: Get Them Here!</u></a></li>
 </ul></div>
 

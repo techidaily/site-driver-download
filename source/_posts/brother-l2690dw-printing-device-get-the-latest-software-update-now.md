@@ -1,7 +1,7 @@
 ---
 title: "Brother L2690dw Printing Device: Get the Latest Software Update Now!"
-date: 2024-08-27T22:28:23.133Z
-updated: 2024-08-28T22:28:23.133Z
+date: 2024-10-03T02:07:57.353Z
+updated: 2024-10-07T07:23:08.589Z
 tags:
   - win11
   - win10
@@ -22,6 +22,13 @@ If you’re right here with this post, you’re probably looking for the correct
 1. [**Download the latest driver from KODAK website manually**](https://tools.techidaily.com/drivereasy/download/)
 2. **[Update KODAK printer driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1: Download the latest driver from KODAK website manually
 
  1) Go to[KODAK drivers download](https://support.en.kodak.com/app/answers/list/c/890/selected/true) website.  
@@ -34,15 +41,33 @@ If you’re right here with this post, you’re probably looking for the correct
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5964547a6e797.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59646b49d2a5f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) After it’s done, double-click the downloaded .exe file. Go on to follow the on-screen instructions to install the driver on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Way 2: Update KODAK printer driver via Driver Easy automatically
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **Driver Easy** .
@@ -57,16 +82,10 @@ If you’re right here with this post, you’re probably looking for the correct
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59645009b2fe2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 3) C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59644712ce2ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
  If you are not a computer novice, you can choose to download the correct driver for your printer from KODAK website. Proceed to go on with Way 2 then.
@@ -84,8 +103,6 @@ Hope you own the correct drivers on your PC now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +110,20 @@ Hope you own the correct drivers on your PC now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fresh-off-the-press-film-review-and-complementary-options/"><u>[New] 2024 Approved Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-affordable-high-res-4k-cameras-under-1k/"><u>[New] Affordable High-Res 4K Cameras Under $1K</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quintessential-play-by-radio-stories-for-2024/"><u>[New] Quintessential Play-by-Radio Stories for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/efine-your-youtube-identity-with-efficient-descriptions/"><u>[New] Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cutting-edge-artisans-innovative-instagram-hlv-designs/"><u>[Updated] Cutting-Edge Artisans Innovative Instagram HLV Designs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-latest-hp-laptop-drivers-on-windows-step-by-step-guide/"><u>Download and Install Latest HP Laptop Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-harmonious-photographic-overlays-guide/"><u>In 2024, Harmonious Photographic Overlays Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-magicard-rio-pro-driver-optimized-for-win-11-81-and-older-windows-oss/"><u>Installing the Latest Magicard Rio Pro Driver: Optimized for Win 11, 8.1 and Older Windows OS's</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/journey-to-fluency-with-hindi-mondly-exposes-8-essential-learning-benefits/"><u>Journey to Fluency with Hindi: Mondly Exposes 8 Essential Learning Benefits!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigate-web-and-stream-your-favorites-on-a-budget-lenovo-tab-m10-hd-2020-unveiled/"><u>Navigate Web & Stream Your Favorites on a Budget: Lenovo Tab M10 HD (2020) Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-quadro-rtx-8000-latest-drivers-available-for-windows-11-8-and-7-users/"><u>NVIDIA Quadro RTX 8000 Latest Drivers Available for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-mouse-performance-with-newly-released-hid-standard-driver-updates/"><u>Optimize Mouse Performance with Newly Released HID Standard Driver Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-your-lol-network-glitches-expert-solutions-applied/"><u>Overcome Your LOL Network Glitches - Expert Solutions Applied</u></a></li>
+</ul></div>
 

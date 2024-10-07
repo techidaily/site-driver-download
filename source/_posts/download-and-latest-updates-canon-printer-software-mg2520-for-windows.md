@@ -1,7 +1,7 @@
 ---
 title: "Download & Latest Updates: Canon Printer Software (MG2520) for Windows"
-date: 2024-09-26T20:34:30.069Z
-updated: 2024-10-01T19:48:42.320Z
+date: 2024-10-05T19:24:02.868Z
+updated: 2024-10-07T05:37:01.525Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
@@ -74,16 +74,16 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3: Update printer driver in Device Manager
 
@@ -98,22 +98,15 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
@@ -122,6 +115,13 @@ This is rather easy to update your Canon MG2520 printer driver, right?
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -147,16 +147,18 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-diving-into-video-quality-dslr-vs-mirrorless-cameras/"><u>[New] In 2024, Diving Into Video Quality DSLR vs Mirrorless Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-pricing-analysis-cloud-services-financial-face/"><u>2024 Approved Strategic Pricing Analysis Cloud Services' Financial Face</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/decoding-computer-systems-expert-tips-and-reviews-with-toms-hardware/"><u>Decoding Computer Systems: Expert Tips and Reviews with Tom's Hardware</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-fixed-version-of-our-high-performance-wifi-drivers-here/"><u>Get the Latest Fixed Version of Our High-Performance WiFi Drivers Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-official-hp-laserjet-pro-mfp-series-m12-7fn-printer-drivers-for-your-computer/"><u>Get the Official HP Laserjet Pro MFP Series M12 7FN Printer Drivers for Your Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-driver-in-windows/"><u>How to Install the Latest Epson XP-640 Printer Driver in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-flashback-filmmaking-essential-retro-vhs-techniques-for-modern-videos/"><u>In 2024, Flashback Filmmaking Essential Retro VHS Techniques for Modern Videos</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/mastering-virtual-greeting-cards-top-picks-for-web-based-design-software-with-complete-beginners-guide/"><u>Mastering Virtual Greeting Cards: Top Picks for Web-Based Design Software with Complete Beginner's Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mirthful-montage-mastering-7-comical-video-vignettes-for-2024/"><u>Mirthful Montage Mastering 7 Comical Video Vignettes for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-lenovo-ideapad-portable-pc-impressive-structure-with-fundamental-capabilities/"><u>Unveiling the Lenovo Ideapad Portable PC: Impressive Structure with Fundamental Capabilities</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722979041123-update-your-intel-hd-graphics-4400-drivers-now/"><u>Update Your Intel HD Graphics 4400 Drivers Now</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-grids-that-wow-discover-the-top-apps-for-pics/"><u>[Updated] Grids That Wow Discover the Top Apps for Pics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>[Updated] In 2024, Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-automated-iphone-podcast-downloads/"><u>[Updated] Step-By-Step Guide to Automated iPhone Podcast Downloads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-optimizing-discord-stream-quality-with-these-key-steps/"><u>2024 Approved Optimizing Discord Stream Quality with These Key Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/arduino-mega-2560-software-installer-streamlined-downloads-for-beginners/"><u>Arduino Mega 2560 Software Installer – Streamlined Downloads for Beginners</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-drivers-compatible-with-windows-1178-step-by-step-instructions/"><u>Download NVIDIA Drivers Compatible with Windows 11/7/8 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-guide-to-downloading-the-right-logitech-mouse-drivers-for-your-windows-device/"><u>Essential Guide to Downloading the Right Logitech Mouse Drivers for Your Windows Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-x230-lenovo-up-and-running-with-easy-driver-downloads/"><u>Get Your X230 Lenovo Up and Running with Easy Driver Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-20s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 20s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-media-for-successful-industry-connections-via-facebook/"><u>Navigating Social Media for Successful Industry Connections via Facebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/safari-too-slow-on-your-iphone-4-ways-to-speed-it-up/"><u>Safari Too Slow on Your iPhone? 4 Ways to Speed It Up</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-for-rebooting-your-samsung-televisions-systems/"><u>The Ultimate Walkthrough for Rebooting Your Samsung Televisions Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-fix-unseen-headphones-in-windows-10-device-list/"><u>Troubleshooting: Fix Unseen Headphones in Windows 10 Device List</u></a></li>
 </ul></div>
 

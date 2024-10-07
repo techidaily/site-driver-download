@@ -1,7 +1,7 @@
 ---
 title: Easy Instructions to Get Arduino Nano Driver Up and Running on Your Windows Machine
-date: 2024-09-01T00:54:18.171Z
-updated: 2024-09-02T00:54:18.171Z
+date: 2024-10-05T00:46:32.137Z
+updated: 2024-10-07T02:19:28.966Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ OR
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,9 +72,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -85,8 +106,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,8 +113,26 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-gaming-setup-essentials-revealed/"><u>[New] 2024 Approved Elite Gaming Setup Essentials Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-non-zoom-virtual-meeting-options-for-pcs-and-smartphones/"><u>[Updated] Superior Non-Zoom Virtual Meeting Options for PCs & Smartphones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>[Updated] Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skyline-redefined-q500-typhoon-reviewed/"><u>2024 Approved Skyline Redefined Q500 Typhoon Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-10-premium-android-and-pc-compatible-video-editors/"><u>2024 Approved Top 10 Premium Android & PC-Compatible Video Editors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-official-focusrite-scarlett-2i4-audio-interface-drivers-for-windows/"><u>Download & Install Official Focusrite Scarlett 2I4 Audio Interface Drivers for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-the-right-speaker-software-download-logitech-sound-card-drivers-for-win-1078-free/"><u>Find the Right Speaker Software: Download Logitech Sound Card Drivers for Win 10/7/8 - Free</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-amd-radeon-rx-460-graphics-card-drivers-today/"><u>Get Your AMD Radeon RX 460 Graphics Card Drivers Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-logitech-racing-wheels-software-for-windows-os-version-7-10-guide/"><u>Installing Logitech Racing Wheels Software for Windows OS Version 7-10 Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/master-your-network-a-comprehensive-guide-to-updating-wireless-drivers-on-windows-11-and-10/"><u>Master Your Network: A Comprehensive Guide to Updating Wireless Drivers on Windows 11 and 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/not-ideal-for-fluids-that-easily-foul-due-to-maintenance-challenges/"><u>Not Ideal for Fluids that Easily Foul, Due to Maintenance Challenges.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-find-x7-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-90-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-y77t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y77t Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-student-vids-essential-histories-channel-list-for-2024/"><u>Top Student Vids Essential Histories Channel List for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trustworthy-source-of-canon-mf4500-driver-safe-reliable-and-instant-access/"><u>Trustworthy Source of Canon MF4500 Driver - Safe, Reliable, and Instant Access</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S23+? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-11-compatible-secure-your-rtx-2060-super-drivers-today-and-elevate-your-gaming-or-work-experience/"><u>Windows 11 Compatible: Secure Your RTX 2060 Super Drivers Today and Elevate Your Gaming or Work Experience</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

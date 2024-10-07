@@ -1,7 +1,7 @@
 ---
 title: How to Install Canon DR-C225 Printer Drivers on Windows 11, 10 & 8
-date: 2024-09-30T22:56:39.561Z
-updated: 2024-10-01T17:09:31.879Z
+date: 2024-09-29T19:19:28.736Z
+updated: 2024-10-06T19:47:17.755Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 2. [**Update your Brother MFC7360N driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Brother MFC7360N driver manually
@@ -48,12 +48,39 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
@@ -61,31 +88,17 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
@@ -104,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
@@ -139,20 +145,20 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-periscope-presentation-outline-width-height-time/"><u>[New] Periscope Presentation Outline Width, Height, Time</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly-for-2024/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-faster-thrustmaster-t150-driving-simulator-game-packs-and-models/"><u>Download Faster! Thrustmaster T150 Driving Simulator Game Packs & Models</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-guide-hp-officejet-465-printer-drivers-on-windows/"><u>Easy Installation Guide: HP Officejet 465 Printer Drivers on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-lenovo-x1-carbon-driver-updates-for-windows-710-quick-download-steps/"><u>Get Lenovo X1 Carbon Driver Updates for Windows 7/10: Quick Download Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-targus-displaylink-drivers-for-windows-11-8-and-7/"><u>How to Get the Latest Targus DisplayLink Drivers for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-remove-that-persistent-blue-shade-from-your-tv-easy-steps/"><u>How to Remove That Persistent Blue Shade From Your TV – Easy Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-7-exceptional-services-for-digital-art-nfts/"><u>In 2024, Unleash Potential 7 Exceptional Services for Digital Art NFTs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/masterclass-keeping-your-samsungs-usb-communication-fluid-with-fresh-drivers/"><u>Masterclass: Keeping Your Samsung's USB Communication Fluid with Fresh Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971788680-risk-assessments-are-essential-for-prioritizing-biosecurity-efforts-based-on-threat-likelihood-and-potential-impact/"><u>Risk Assessments Are Essential for Prioritizing Biosecurity Efforts Based on Threat Likelihood and Potential Impact.</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-clearing-out-songs-on-your-ipad-to-gain-extra-storage/"><u>Step-by-Step Guide: Clearing Out Songs on Your iPad to Gain Extra Storage</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-rtx-ablishing-a-safe-environment-in-which-individuals-can-express-their-emotions-and-offering-coping-strategies-to-manage-intense-feelings-const107/"><u>Update Your RTX Ablishing a Safe Environment in Which Individuals Can Express Their Emotions, and Offering Coping Strategies to Manage Intense Feelings Constructively without Resorting to Self-Harm</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/vivo-v29e-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo V29e ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-hp-scanjet-driver-update-compatible-with-windows-10-8-and-7-safe-to-download/"><u>[Install HP Scanjet Driver Update] Compatible with Windows 10, 8 and 7 | Safe to Download</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprerancial-free-imagery-tips-and-tricks/"><u>[New] Comprerancial Free Imagery Tips and Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-get-started-with-ease-facebook-insight-basics-for-2024/"><u>[New] Get Started with Ease Facebook Insight Basics for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erfecting-your-presentations-youtube-and-google-slides/"><u>[New] Perfecting Your Presentations YouTube and Google Slides</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-perfect-your-ig-photos-with-the-ideal-frame-choices/"><u>[Updated] 2024 Approved Perfect Your IG Photos with the Ideal Frame Choices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-premier-hash-trackers-fb-tweet-instagram-edition-for-2024/"><u>[Updated] Premier Hash Trackers FB, Tweet, Instagram Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-mastering-viewing-on-facebook-live/"><u>2024 Approved Mastering Viewing on Facebook Live</u></a></li>
+<li><a href="https://article-tips.techidaily.com/cloud-price-wars-best-value-allocation-for-2024/"><u>Cloud Price Wars Best Value Allocation for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-downloads-complete-software-suite-for-your-brother-mfc-9130cw-device/"><u>Free Downloads: Complete Software Suite For Your Brother MFC-9130CW Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-for-downloading-and-updating-amd-smbus-drivers/"><u>Hassle-Free Guide for Downloading and Updating AMD SMBus Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Mix Fold 3 Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967252203-revamp-your-samsung-smartphone-experience-update-the-usb-driver-today/"><u>Revamp Your Samsung Smartphone Experience - Update the USB Driver Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-current-nvidia-graphics-drivers/"><u>Step-by-Step Tutorial on Downloading and Installing Current NVIDIA Graphics Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-and-download-amd-vega-56-graphics-card-drivers-on-windows-complete-guide/"><u>Update and Download AMD Vega 56 Graphics Card Drivers on Windows: Complete Guide</u></a></li>
 </ul></div>
 

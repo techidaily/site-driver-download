@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-09-26T22:36:18.441Z
-updated: 2024-10-01T21:06:14.986Z
+date: 2024-10-02T21:32:03.305Z
+updated: 2024-10-06T23:16:11.656Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -42,16 +42,16 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -66,17 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,19 +107,18 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-film-grading-with-cg-centrals-look-up-tables/"><u>[New] 2024 Approved Streamlining Film Grading with CG Central's Look-Up Tables</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-comprehending-instagrams-max-video-length-for-2024/"><u>[New] Comprehending Instagram's Max Video Length for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[New] The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nova-y71-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nova Y71.</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/discovering-the-future-of-broadcast-roku-and-facebook-live/"><u>Discovering the Future of Broadcast Roku & Facebook LIVE</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-install-the-latest-epson-wf-3520-printer-drivers-on-windows/"><u>Download and Install the Latest Epson WF-3520 Printer Drivers on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-zexmt-bluetooth-driver-for-your-pc-on-windows-1178/"><u>Get the Latest ZEXMT Bluetooth Driver for Your PC on Windows 11/7/8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-updated-drivers-for-lenovo-displays-quickly/"><u>How to Find & Install Updated Drivers for Lenovo Displays Quickly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-new-driets-for-intel-wireless-ac-9560-card/"><u>How to Install New Driets for Intel Wireless AC 9560 Card</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keeping-your-pc-connected-fresh-microsoft-windows-bluetooth-driver-downloads-for-win-11-10-8-and-7/"><u>Keeping Your PC Connected: Fresh Microsoft Windows Bluetooth Driver Downloads for Win 11, 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-updating-graphics-card-drivers-on-hp-envy-5660-laptop/"><u>Quick & Easy Guide: Updating Graphics Card Drivers on HP Envy 5660 Laptop</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-secure-xbox-360-controller-driver-downloads/"><u>Step-by-Step Tutorial for Secure Xbox 360 Controller Driver Downloads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-6-chilling-hk-tv-shows-streaming-with-eng-subs-your-ultimate-free-guide/"><u>Top 6 Chilling HK TV Shows Streaming with Eng Subs: Your Ultimate FREE Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/unlocking-whatsapps-vocal-messaging-secrets/"><u>Unlocking WhatsApp's Vocal Messaging Secrets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leading-8-affordable-open-source-platforms-for-enterprise-calls-for-2024/"><u>[New] Leading 8 Affordable Open-Source Platforms for Enterprise Calls for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-viral-top-10-all-about-tiktoks/"><u>[Updated] 2024 Approved Twitter's Viral Top 10 All About TikToks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[Updated] In 2024, Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skys-biggest-load-carriers-drones-ranked/"><u>[Updated] Sky's Biggest Load Carriers Drones Ranked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-v30t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme V30T Activity | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/discover-whats-new-with-the-updated-logitech-extreme-3d-software/"><u>Discover What's New with the Updated Logitech Extreme 3D Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-mx340-printer-driver-software-for-windows-1187-easy-installation-guide/"><u>Free Canon MX340 Printer Driver Software for Windows 11/8/7 - Easy Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-your-canon-mx922-printer-ready-with-the-latest-windows-compatible-drivers/"><u>Getting Your Canon MX922 Printer Ready with the Latest Windows Compatible Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-fixing-compatibility-issues-with-realtek-wireless-adapters-on-pcs-windows-11107/"><u>Guide to Fixing Compatibility Issues with Realtek Wireless Adapters on PCs (Windows 11/10/7)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-g42-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia G42 5G Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-system-now-download-and-update-intels-accelerated-drive-manager/"><u>Optimize Your System Now: Download & Update Intel's Accelerated Drive Manager</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/preserving-youtube-music-3-secure-complimentary-techniques-for-2024/"><u>Preserving YouTube Music 3 Secure, Complimentary Techniques for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mastering-fcp-top-3-transition-techniques-for-smooth-edits-for-2024/"><u>Updated Mastering FCP Top 3 Transition Techniques for Smooth Edits for 2024</u></a></li>
 </ul></div>
 
