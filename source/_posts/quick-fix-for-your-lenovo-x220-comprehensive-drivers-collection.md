@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Your Lenovo X220: Comprehensive Drivers Collection"
-date: 2024-10-05T19:32:26.227Z
-updated: 2024-10-07T08:21:51.474Z
+date: 2024-10-07T16:42:12.654Z
+updated: 2024-10-13T01:31:43.961Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Automatically update your Xbox wireless adapter driver
 
  For some people, the process of updating drivers can be really time-consuming and error-prone. If that’s the case with you, we highly recommend you to update your Xbox wireless adapter driver with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , a reliable driver updater tool.
@@ -41,11 +48,31 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Update your Xbox wireless adapter driver manually
 
@@ -54,20 +81,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 1. Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)**  .
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 5. Extract the downloaded driver file.
@@ -78,20 +91,13 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
@@ -118,19 +124,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>[New] In 2024, Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeos-video-segments-the-chapter-creation-handbook-for-2024/"><u>[New] Vimeo's Video Segments The Chapter Creation Handbook for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-bypass-tradition-innovative-techniques-to-boost-your-tiktok-photos/"><u>[Updated] 2024 Approved Bypass Tradition Innovative Techniques to Boost Your TikTok Photos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-playlists-that-dominate-spotify-for-2024/"><u>[Updated] Playlists That Dominate Spotify for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-gpio-interface-driver-secure-your-free-downloads-here/"><u>AMD GPIO Interface Driver - Secure Your Free Downloads Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-finding-and-installing-the-right-epson-perfection-v39-drivers-for-your-windows-os-7-8-and-10/"><u>Easy Guide to Finding and Installing the Right Epson Perfection V39 Drivers for Your Windows OS (7, 8 & 10)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-non-functional-astro-a40-built-in-mic-expert-advice-and-tips/"><u>Fixing the Non-Functional Astro A40 Built-In Mic: Expert Advice & Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-secure-the-most-recent-wacom-tablet-drivers-downloading-and-installation-guide-for-cintiq-13hd/"><u>How to Secure the Most Recent Wacom Tablet Drivers - Downloading and Installation Guide for Cintiq 13HD</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-sony-xperia-10-v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Sony Xperia 10 V Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-music-lovers-unite-how-to-add-sounds-in-inshot/"><u>In 2024, Music Lovers Unite How to Add Sounds in InShot</u></a></li>
-<li><a href="https://driver-download.techidaily.com/mbox-2-usb-wifi-adapter-freshest-driver-downloads-and-update-steps-for-windows-users/"><u>MBox 2 USB WiFi Adapter: Freshest Driver Downloads and Update Steps for Windows Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-breakthrough-the-latest-dev-board-from-huawei-and-orangepi-packs-a-mysterious-cpu-and-cutting-edge-ai-chip-skirting-disclosure-tactics/"><u>Tech Breakthrough: The Latest Dev Board From Huawei and OrangePi Packs a Mysterious CPU & Cutting-Edge AI Chip, Skirting Disclosure Tactics</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshoot-network-issues-free-d-link-driver-solutions-for-windows-devices/"><u>Troubleshoot Network Issues: Free D-Link Driver Solutions for Windows Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-sata-driver-software-for-windows-computers-easily-expert-advice/"><u>Update SATA Driver Software for Windows Computers Easily - Expert Advice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-shadowplay-vs-obs-pick-your-preferred-gaming-recorder/"><u>[Updated] 2024 Approved ShadowPlay Vs OBS - Pick Your Preferred Gaming Recorder</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>2024 Approved The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-video-editing-software-selection-a-comprehensive-list-and-insights/"><u>Best Video Editing Software Selection - A Comprehensive List & Insights</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bring-back-your-memories-expert-photo-recovery-for-samsung-galaxy-models-s-s-ii-s-iii-s-iv/"><u>Bring Back Your Memories: Expert Photo Recovery for Samsung Galaxy Models (S, S II, S III, S IV)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/consideration-of-surgical-interventions-if-there-is-extensive-tissue-necrosis-or-abscess-formation-not-responding-to-medical-treatment/"><u>Consideration of Surgical Interventions if There Is Extensive Tissue Necrosis or Abscess Formation Not Responding to Medical Treatment.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974917463-get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-defy-2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Defy 2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-hp-color-laserjet-pro-m45n-driver-version-available-now-easy-download-steps/"><u>Latest HP Color LaserJet Pro M45n Driver Version Available Now: Easy Download Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-steering-wheel-driver-updates-for-pcs-running-windows-7-to-10/"><u>Latest Logitech Steering Wheel Driver Updates for PCs Running Windows 7 to 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers/"><u>Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956403096-seamless-installation-of-amd-vega-drivers-game-optimization-made-simple/"><u>Seamless Installation of AMD Vega Drivers - Game Optimization Made Simple</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solution-guide-fixing-driver-issues-on-260ci-wi-fi-adapter-with-usb-support/"><u>Solution Guide: Fixing Driver Issues on 260Ci Wi-Fi Adapter with USB Support</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-newest-amd-radeon-hd-graphics-driver-on-windows-download-now/"><u>Update to the Newest AMD Radeon HD Graphics Driver on Windows - Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-the-latest-epson-wf-2930-driver-version-for-seamless-printing-on-windows-7-81-and-nt-windows-10/"><u>Upgrade to the Latest Epson WF-2930 Driver Version for Seamless Printing on Windows 7, 8.1 & nT (Windows 10)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2024-10-01T22:17:27.255Z
-updated: 2024-10-06T17:13:32.212Z
+date: 2024-10-11T21:11:15.615Z
+updated: 2024-10-12T17:27:29.532Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -46,26 +39,20 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
@@ -73,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
@@ -120,18 +114,20 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-newcomers-playbook-for-channel-creation-and-income-growth/"><u>[New] 2024 Approved Newcomer’s Playbook for Channel Creation & Income Growth</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-premiere-pro-blueprints-best-free-2023/"><u>[Updated] Prime Premiere Pro Blueprints - Best Free 2023</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamlined-savings-for-cloud-storage-costs-analysis/"><u>[Updated] Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
-<li><a href="https://facebook.techidaily.com/banishing-unwanted-statuses-8-top-removal-techniques/"><u>Banishing Unwanted Statuses: 8 Top Removal Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-performance-on-windows-with-the-asrock-ab350-pro4-complimentary-drivers-available-for-download-now/"><u>Boost Performance on Windows with the ASRock AB350 Pro4 - Complimentary Drivers Available for Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965893034-download-your-steelseries-controller-drivers-for-optimal-gaming-performance-today/"><u>Download Your SteelSeries Controller Drivers for Optimal Gaming Performance Today</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oad-youtube-audio-safely-and-legally-in-3-ways/"><u>Download Youtube Audio Safely & Legally in 3 Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-testing-the-capabilities-of-the-garmin-forerunner-265-sportswatch/"><u>Expert Review: Testing the Capabilities of the Garmin Forerunner 265 Sportswatch</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722955998002-get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here!</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-s18e-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo S18e Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-live-stream-over-the-network-with-vlc-media-player-for-2024/"><u>How to Live Stream Over the Network with VLC Media Player for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-brio-webcam-compatibility-and-download-guide-for-win-1087-users/"><u>Logitech Brio Webcam Compatibility & Download Guide for Win 10/8/7 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-update-to-windows-11-version-2004-includes-conexant-driver-enhancements/"><u>Seamless Update to Windows 11 Version 2004 - Includes Conexant Driver Enhancements</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-instant-windows-photograph-gazing-tool-for-2024/"><u>[New] Best Instant Windows Photograph Gazing Tool for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skip-the-struggle-tips-on-avoiding-online-edgenuity-lessons/"><u>[New] Skip the Struggle Tips on Avoiding Online Edgenuity Lessons</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ideal-video-capturer-for-engaging-youtube-audiences/"><u>[Updated] 2024 Approved Ideal Video Capturer for Engaging YouTube Audiences</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-mp4-recorders-the-latest-edition/"><u>[Updated] Comparing MP4 Recorders - The Latest Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973515755-acer-wireless-connectivity-made-easy-get-your-bluetooth-driver-today/"><u>Acer Wireless Connectivity Made Easy: Get Your Bluetooth Driver Today!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/te-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-on-acquiring-and-updating-dell-latitude-e643n-drivers-for-a-seamless-windows-experience/"><u>Expert Tips on Acquiring & Updating Dell Latitude E643n Drivers for a Seamless Windows Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-intel-usb-30-driver-here-for-seamless-windows-10-integration/"><u>Get Your Intel USB 3.0 Driver Here - For Seamless Windows 10 Integration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-installation-of-ricoh-mp-c3003-printer-drivers-click-to-download/"><u>Hassle-Free Installation of Ricoh MP C3003 Printer Drivers – Click to Download</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y200e-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y200e 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-firmware-update-procedures-for-your-intel-centrino-abg-n-pci-express-network-connection-n-10700/"><u>Latest Firmware Update Procedures for Your Intel Centrino A/B/G N PCI Express Network Connection - N 10700</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/launch-of-macos-sequoia-unveiling-the-new-features-and-official-release-timeline/"><u>Launch of macOS Sequoia: Unveiling the New Features & Official Release Timeline</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-techniques-for-logitech-f710-mouse-drivers-across-windows-operating-systems-11-10-8-and-7/"><u>Troubleshooting Techniques for Logitech F710 Mouse Drivers Across Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
 </ul></div>
 

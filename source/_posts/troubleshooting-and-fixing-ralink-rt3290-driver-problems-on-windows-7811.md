@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Ralink RT3290 Driver Problems on Windows 7/8/11
-date: 2024-10-03T21:41:38.714Z
-updated: 2024-10-07T03:48:20.548Z
+date: 2024-10-05T19:51:57.932Z
+updated: 2024-10-12T20:54:08.838Z
 tags:
   - win11
   - win10
@@ -29,16 +29,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
@@ -55,15 +49,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -89,10 +90,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -112,13 +113,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -162,18 +156,14 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-accolades-across-platforms-for-video-creators/"><u>[New] In 2024, Accolades Across Platforms for Video Creators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-sync-your-speech-with-visuals-the-art-of-ppt-voiceovers/"><u>[New] Sync Your Speech with Visuals The Art of PPT Voiceovers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-acclaimed-software-rankings-top-10-phonepc-video-calls/"><u>[Updated] Acclaimed Software Rankings Top 10 Phone/PC Video Calls</u></a></li>
-<li><a href="https://driver-download.techidaily.com/answers-to-common-problems-downloading-and-updating-your-mouse-driver-for-windows-7-easily/"><u>Answers to Common Problems: Downloading & Updating Your Mouse Driver for Windows 7 Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-epson-ds-530-printer-software-on-win11-64-bit-fresh-release/"><u>Easy Guide to Installing Epson DS-530 Printer Software on Win11 (64-Bit) | Fresh Release</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-perfect-match-msi-z370-a-pro-chipset-and-graphics-card-software-bundles/"><u>Get the Perfect Match: MSI Z370-A PRO Chipset & Graphics Card Software Bundles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/grab-your-samsung-m2070fw-drivers-instantly-quick-guide-for-smooth-operations/"><u>Grab Your Samsung M2070FW Drivers Instantly: Quick Guide for Smooth Operations</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oneplus-nord-n30-se-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to OnePlus Nord N30 SE FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s24-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S24 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-supported-drivers-for-80211n-wifi-devices-on-windows-download-for-windows-11-10-8-and-aturate-your-device-with-the-most-recent-drivers/"><u>Latest Supported Drivers for 802.11N WiFi Devices on Windows: Download for Windows 11, 10, 8 & Aturate Your Device with the Most Recent Drivers!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpt-potential-via-apples-siri/"><u>Maximizing ChatGPT Potential via Apple's Siri</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972196218-upgrade-with-ease-essential-zebra-gk420d-printed-circuit-board-drivers-download-here/"><u>Upgrade with Ease: Essential Zebra GK420D Printed Circuit Board Drivers – Download Here</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-engage-with-these-top-10-student-oriented-history-channels/"><u>[New] Engage with These Top 10 Student-Oriented History Channels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-scholarly-streams-10-best-ed-tutorials-yt/"><u>[Updated] In 2024, Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile-for-2024/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971636933-di-enables-higher-compression-ratios-for-better-thermal-efficiency-due-to-its-ability-to-cool-the-air-charge-and-reduce-knock-risk/"><u>DI Enables Higher Compression Ratios for Better Thermal Efficiency Due to Its Ability to Cool the Air Charge and Reduce Knock Risk</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-hp-printer-software-on-your-windows-pc/"><u>Download & Setup HP Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-free-epson-wf-2760-drivers-compatible-with-windows-11108-download-now/"><u>Get Your Free Epson WF-2760 Drivers Compatible with Windows 11/10/8 - Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-update-for-intel-wireless-ac-9560-get-it-now/"><u>Latest Driver Update for Intel Wireless AC 9560: Get It Now!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop-for-2024/"><u>Swift Upload of Sizeable Videos From iPhone to Mac Desktop for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-apps-de-sharing-desktop-mais-eficientes-guia-do-melavi/"><u>Top 12 Apps De Sharing Desktop Mais Eficientes: Guia Do Melavi</u></a></li>
 </ul></div>
 

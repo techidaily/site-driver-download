@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-10-01T00:27:13.241Z
-updated: 2024-10-07T02:59:52.515Z
+date: 2024-10-11T21:42:38.526Z
+updated: 2024-10-12T17:23:39.112Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -36,10 +49,10 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -47,10 +60,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -66,17 +79,10 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,22 +113,22 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-essence-of-tale-making-for-2024/"><u>[New] Essence of Tale Making for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-strategic-brand-alliances-for-video-influencers/"><u>[New] In 2024, Strategic Brand Alliances for Video Influencers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unveiling-fbs-topest-latest-perks/"><u>2024 Approved Unveiling FB's Topest Latest Perks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-tutorial-for-downloading-and-installing-arduino-drivers-on-windows-pcs/"><u>Complete Tutorial for Downloading and Installing Arduino Drivers on Windows PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-meizu-21-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Meizu 21? Try These Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-6968-drivers-for-your-computer-today/"><u>Get the Latest HP OfficeJet Pro 6968 Drivers for Your Computer Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-lenovo-thinkpad-drivers-for-optimal-performance-guaranteed-secure/"><u>Get the Latest Lenovo ThinkPad Drivers for Optimal Performance – Guaranteed Secure!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-effortless-webcam-driver-update-for-windows-10-users/"><u>How To: Effortless Webcam Driver Update for Windows 10 Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-f54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy F54 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance.</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-fast-forward-your-videos-a-beginners-guide-to-time-lapse-software/"><u>New 2024 Approved Fast Forward Your Videos A Beginners Guide to Time Lapse Software</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/overcoming-region-coding-enjoying-american-dvds-abroad-without-extra-costs/"><u>Overcoming Region Coding: Enjoying American DVDs Abroad Without Extra Costs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-to-microsoft-drivers-installation-and-updates-on-windows-10-8-and-7/"><u>Quick and Simple Guide to Microsoft Drivers: Installation & Updates on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-hp-speaker-issues-with-beats-audio-on-windows-10-8-and-7/"><u>Resolving HP Speaker Issues with Beats Audio on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722957482635-speedy-links-secure-your-network-with-linksys-wrt32x-firmware-download-now/"><u>Speedy Links: Secure Your Network with Linksys WRT32X Firmware - Download Now!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-make-a-valentines-day-video-for-the-person-you-love/"><u>Updated In 2024, How to Make a Valentines Day Video for the Person You Love?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>[New] 2024 Approved Simplify Screen Capture The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[Updated] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-perfecting-virtual-sessions-best-free-and-paid-zoom-transcribing-tools/"><u>[Updated] In 2024, Perfecting Virtual Sessions Best Free & Paid Zoom Transcribing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-primer-on-using-azures-voice-to-text-service/"><u>2024 Approved A Primer on Using Azure's Voice-to-Text Service</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boosting-fps-and-resolution-with-latest-drivers-for-your-acer-predator-helios-300/"><u>Boosting FPS & Resolution with Latest Drivers for Your Acer Predator Helios 300</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-lenovo-t430-support-on-windows-1087-systems/"><u>Effortless Driver Installation: Lenovo T430 Support on Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/extended-sequence-length/"><u>Extended Sequence Length</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-latest-firmware-and-drivers-for-hp-officejet-pro-9015/"><u>Free Download: Latest Firmware and Drivers for HP OfficeJet Pro 9015</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-most-out-of-your-dell-g3-update-essential-graphics-drivers-now/"><u>Get the Most Out of Your Dell G3 - Update Essential Graphics Drivers Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-amd-rx-6800-xt-up-to-date-with-latest-windows-compatible-drivers/"><u>Get Your AMD RX 6800 XT Up-to-Date with Latest Windows Compatible Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-printing-solutions-free-software-download-on-windows-7/"><u>HP Laserjet Printing Solutions: FREE Software Download on Windows 7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-f34-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy F34 5G FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-pova-5-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Pova 5 Pro FRP?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/msis-updated-bluetooth-driver-version-now-supporting-windows-11-and-10-download-here/"><u>MSI's Updated Bluetooth Driver Version Now Supporting Windows 11 and 10 – Download Here</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-13-free-hdtv-streaming-apps-and-software-compatible-with-windows-11/"><u>Top 13 Free HDTV Streaming Apps & Software Compatible with Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-guide-why-your-windows-desktoplaptop-keeps-powering-off-top-8-causes/"><u>Troubleshooting Guide: Why Your Windows Desktop/Laptop Keeps Powering Off – Top 8 Causes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

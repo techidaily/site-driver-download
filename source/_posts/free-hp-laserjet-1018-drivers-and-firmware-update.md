@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2024-10-04T01:59:15.532Z
-updated: 2024-10-06T22:09:18.798Z
+date: 2024-10-06T18:45:55.961Z
+updated: 2024-10-13T00:19:57.039Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2 – Download and install the driver manually
 
  HP keeps updating the HP LaserJet 1018 driver. To get it, follow the instructions below:
@@ -65,28 +72,15 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Software, Drivers and Firmware** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
@@ -94,10 +88,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -119,24 +119,20 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>[New] 2024 Approved Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-digital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[Updated] 2024 Approved Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-artisans-secret-to-viral-youtube-success/"><u>2024 Approved The Artisan's Secret to Viral YouTube Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-and-speedy-downloads-for-brother-hl-3170cdw-drivers-get-started-today/"><u>Easy & Speedy Downloads for Brother HL-3170CDW Drivers - Get Started Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-how-to-obtain-the-official-epson-xp-330-printer-drivers-today/"><u>Easy Installation: How to Obtain the Official Epson XP-330 Printer Drivers Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficient-printing-downloading-the-latest-driver-for-hp-officejet-pro-8740-on-windows-operating-system/"><u>Efficient Printing: Downloading the Latest Driver for HP Officejet Pro 8740 on Windows Operating System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-your-nvidia-geforce-mx150-on-windows-computers/"><u>Get the Newest Drivers for Your Nvidia GeForce MX150 on Windows Computers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-devices-synced-updated-usbhdmi-bridge-drivers-download/"><u>Get Your Devices Synced: Updated USB/HDMI Bridge Drivers Download 🌐</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-yuva-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Yuva 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-2652-driver-download-for-windows-updated-support-for-win11win10win8win7/"><u>HP DeskJet 2652 Driver Download for Windows - Updated Support for Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-nord-ce-3-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Nord CE 3 Lite 5G Devices</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>In 2024, Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ture-mastery-in-the-social-sphere-who-wins-with-youtube-shorts-or-tiktoks-in-2024/"><u>Miniature Mastery in the Social Sphere Who Wins with YouTube Shorts or TikToks, In 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unlock-pro-quality-sound-top-10-audio-editing-software-tools-for-2024/"><u>New Unlock Pro-Quality Sound Top 10 Audio Editing Software Tools for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-nvidias-geforce-gtx-460-drivers-on-windows/"><u>Quick & Easy Way to Update Nvidia's GeForce GTX 460 Drivers on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-find-and-download-the-right-asus-wifi-networking-drivers/"><u>Quick Fix: How to Find & Download the Right ASUS WiFi Networking Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-your-ralink-wifi-card-drivers-for-seamless-windows-connectivity/"><u>Troubleshooting & Updating Your Ralink WiFi Card Drivers for Seamless Windows Connectivity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlocking-asmrs-health-perks-a-guide/"><u>Unlocking ASMR's Health Perks A Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-memes-with-a-humor-shaper/"><u>[Updated] In 2024, Best Memes with a Humor Shaper</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyline-spectacle-top-10-websites-for-dynamic-hdr-images/"><u>[Updated] Skyline Spectacle Top 10 Websites for Dynamic HDR Images</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-lecturers-guide-to-efficient-classroom-sound-archiving-on-macs/"><u>2024 Approved Lecturer's Guide to Efficient Classroom Sound Archiving on Macs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-et-2750-printer-driver-for-windows-installed/"><u>Get Your Epson ET-2750 Printer Driver for Windows Installed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970005384-get-your-latest-nvidia-1080-drivers-for-windows-10-now/"><u>Get Your Latest NVIDIA 1080 Drivers for Windows 10 Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-new-amd-rx-6700-xt-drivers-compatible-with-windows-11-10-and-7/"><u>Get Your New AMD RX 6700 XT Drivers: Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-updates-for-your-hp-officejet-pro-8620-drivers-in-windows-pcs/"><u>How To Get the Latest Updates for Your HP OfficeJet Pro 8620 Drivers in Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-ink-advantage-3630-windows-10-driver-download-and-setup-tutorials-for-easy-printing-solutions/"><u>HP Deskjet Ink Advantage 3630 Windows 10 Driver Download and Setup Tutorials for Easy Printing Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-y78plus-t1-edition-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo Y78+ (T1) Edition Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-optimum-handheld-gear-with-smooth-motion-control/"><u>In 2024, Optimum Handheld Gear with Smooth Motion Control</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/llamas-vs-ai-language-models-comparing-llama-3-and-gpt-4/"><u>Llamas Vs. AI Language Models: Comparing Llama 3 and GPT-4</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-complex-filters-a-step-by-step-guide-to-advanced-excel-functionality/"><u>Mastering the Art of Complex Filters: A Step-by-Step Guide to Advanced Excel Functionality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revisiting-startup-procedures-for-search-service-errors/"><u>Revisiting Startup Procedures for Search Service Errors</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-compatibility-m-audio-fast-track-drivers-available-for-download-on-windows-117881-platforms/"><u>Seamless Compatibility: M-Audio Fast Track Drivers Available for Download on Windows 11/7/8/8.1 Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-your-asus-pce-ac56-compatibility-fixes-for-windows-os/"><u>Troubleshooting Your ASUS PCE-AC56: Compatibility Fixes for Windows OS</u></a></li>
 </ul></div>
 

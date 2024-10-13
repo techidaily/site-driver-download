@@ -1,7 +1,7 @@
 ---
 title: Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide
-date: 2024-09-30T03:10:11.059Z
-updated: 2024-10-07T04:55:59.215Z
+date: 2024-10-11T23:56:22.611Z
+updated: 2024-10-12T16:38:13.077Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 1. **[Update HP ENVY 5660 driver automatically(Recommended)](https://www.drivereasy.com/knowledge/hp-envy-5660-driver-download-install-easily/#O1)**
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
 If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)** or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
@@ -40,17 +33,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -58,10 +44,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
@@ -70,6 +56,26 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
@@ -98,24 +104,19 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[New] Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
-<li><a href="https://games-able.techidaily.com/adapt-overcome-playing-fortnite-on-your-mac-wisely/"><u>Adapt, Overcome: Playing Fortnite on Your Mac Wisely</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/convertir-audio-flac-sin-coste-herramientas-y-tutoriales-eficaces-con-movavi/"><u>Convertir Audio FLAC Sin Coste: Herramientas Y Tutoriales Eficaces Con Movavi</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crafting-videos-with-precision-leveraging-storyremix-in-windows-11-for-2024/"><u>Crafting Videos with Precision Leveraging StoryRemix in Windows 11 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-best-free-tools-for-converting-youtube-videos-into-high-quality-mp4-files/"><u>Discover the Best Free Tools for Converting YouTube Videos Into High-Quality MP4 Files</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-official-dell-wi-fi-connection-driver-today/"><u>Download and Install Official Dell Wi-Fi Connection Driver Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-msi-b350-toms-tomahawk-motherboard-drivers-for-windows-11-and-7/"><u>Download MSI B350 TOM'S TOMAHAWK Motherboard Drivers for Windows 11 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-your-gaming-experience-a-tutorial-on-installing-new-drivers-for-the-dell-g3-gpu/"><u>Elevate Your Gaming Experience: A Tutorial on Installing New Drivers for the Dell G3 GPU</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-defy-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-for-rapid-synaptics-ps2-touchpad-driver-enhancements/"><u>Hassle-Free Guide for Rapid Synaptics PS/2 Touchpad Driver Enhancements</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nokia-c110-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nokia C110</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976037089-how-to-seamlessly-update-your-sound-blaster-z-drivers-on-windows-10-system/"><u>How to Seamlessly Update Your Sound Blaster Z Drivers on Windows 10 System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a38-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A38 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c50-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C50</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-secure-canon-mf4800-drivers-start-printing-today/"><u>Instant Access: Secure Canon MF4800 Drivers – Start Printing Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-update-for-dells-system-management-bus-driver-what-you-need-to-know/"><u>Latest Firmware Update for Dell's System Management Bus Driver: What You Need to Know</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-windows-11-a-step-by-step-upgrade-guide/"><u>Mastering Windows 11 A Step-by-Step Upgrade Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolved-fixes-for-intel-hd-graphics-630-driver-compatibility-on-windows-systems/"><u>Resolved: Fixes for Intel HD Graphics 630 Driver Compatibility on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-your-system-free-downloads-of-aoc-drivers-for-windows-11108-operating-systems/"><u>Secure Your System - Free Downloads of AOC Drivers for Windows 11/10/8 Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100i FRP Bypass Instantly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-corsair-void-pro-graphics-drivers-for-windows-users/"><u>Effortless Installation of Corsair Void Pro Graphics Drivers for Windows Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery-for-2024/"><u>Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-workforce-ds-30-driver-for-your-windows-pc-compatible-with-win7win8/"><u>Get the Latest Epson WorkForce DS-30 Driver for Your Windows PC | Compatible with Win7/Win8</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-reno-11-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo Reno 11 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-talents-exceptional-instagram-hlv-artisans/"><u>In 2024, Top Talents Exceptional Instagram HLV Artisans</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mpc-sound-control-msis-latest-and-best-windows-audio-driver-pack/"><u>MPC Sound Control: MSI's Latest and Best Windows Audio Driver Pack</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-realtek-bluetooth-driver-version-compatible-with-windows-11-and-10-download-now/"><u>Newest Realtek Bluetooth Driver Version Compatible with Windows 11 & 10: Download Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-silence-solve-your-audacity-sound-device-issues-with-these-proven-techniques-5-expert-tips/"><u>No More Silence: Solve Your Audacity Sound Device Issues with These Proven Techniques [5 Expert Tips]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lava-blaze-2-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lava Blaze 2 Location | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-update-install-the-newest-driver-for-windows-1187/"><u>TP-Link WiFi Adapter Update: Install the Newest Driver for Windows 11/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/wireless-1535-driver-troubles-fixed-version-now-available-secure-your-download/"><u>Wireless 1535 Driver Troubles? Fixed Version Now Available - Secure Your Download</u></a></li>
 </ul></div>
 
