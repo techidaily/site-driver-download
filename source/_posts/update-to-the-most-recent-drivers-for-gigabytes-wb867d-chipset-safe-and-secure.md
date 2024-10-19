@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2024-10-11T21:11:15.615Z
-updated: 2024-10-12T17:27:29.532Z
+date: 2024-10-12T00:04:39.543Z
+updated: 2024-10-18T16:33:54.178Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -39,34 +46,27 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
@@ -114,20 +114,20 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-best-instant-windows-photograph-gazing-tool-for-2024/"><u>[New] Best Instant Windows Photograph Gazing Tool for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-skip-the-struggle-tips-on-avoiding-online-edgenuity-lessons/"><u>[New] Skip the Struggle Tips on Avoiding Online Edgenuity Lessons</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ideal-video-capturer-for-engaging-youtube-audiences/"><u>[Updated] 2024 Approved Ideal Video Capturer for Engaging YouTube Audiences</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-comparing-mp4-recorders-the-latest-edition/"><u>[Updated] Comparing MP4 Recorders - The Latest Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973515755-acer-wireless-connectivity-made-easy-get-your-bluetooth-driver-today/"><u>Acer Wireless Connectivity Made Easy: Get Your Bluetooth Driver Today!</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/te-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-tips-on-acquiring-and-updating-dell-latitude-e643n-drivers-for-a-seamless-windows-experience/"><u>Expert Tips on Acquiring & Updating Dell Latitude E643n Drivers for a Seamless Windows Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-intel-usb-30-driver-here-for-seamless-windows-10-integration/"><u>Get Your Intel USB 3.0 Driver Here - For Seamless Windows 10 Integration</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-installation-of-ricoh-mp-c3003-printer-drivers-click-to-download/"><u>Hassle-Free Installation of Ricoh MP C3003 Printer Drivers – Click to Download</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y200e-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y200e 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-update-procedures-for-your-intel-centrino-abg-n-pci-express-network-connection-n-10700/"><u>Latest Firmware Update Procedures for Your Intel Centrino A/B/G N PCI Express Network Connection - N 10700</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/launch-of-macos-sequoia-unveiling-the-new-features-and-official-release-timeline/"><u>Launch of macOS Sequoia: Unveiling the New Features & Official Release Timeline</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-future-of-computing-rumored-release-schedule-for-intels-arrow-lake-s/"><u>The Future of Computing: Rumored Release Schedule for Intel's Arrow Lake-S</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-techniques-for-logitech-f710-mouse-drivers-across-windows-operating-systems-11-10-8-and-7/"><u>Troubleshooting Techniques for Logitech F710 Mouse Drivers Across Windows Operating Systems (11, 10, 8 & 7)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-native-chrome-os-screen-snapper/"><u>[Updated] 2024 Approved Native Chrome OS Screen Snapper</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-vsco-image-enhancement/"><u>2024 Approved Step-by-Step VSCO Image Enhancement</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-brother-hl-l2380dw-driver-software-for-compatible-with-windows-pc/"><u>Download Brother HL-L2380DW Driver Software for Compatible with Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-creative-foobar2000-driver-updates-and-downloads-compatible-with-windows-11/"><u>Free Creative Foobar2000 Driver Updates and Downloads Compatible with Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-c270-hd-webcam-drivers-compatible-with-windows-10-and-11/"><u>Free Logitech C270 HD Webcam Drivers - Compatible with Windows 10 & 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-fresh-usb-30-network-adapter-driver-on-windows-pcs/"><u>Install Fresh USB 3.0 Network Adapter Driver on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-webcam-c930e-drivers-free-download-for-windows-10-or-11-users/"><u>Latest Logitech Webcam C930e Drivers Free Download for Windows 10 or 11 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-cable-modem-and-wifi-router-combinations-for-ultimate-speed/"><u>Leading Cable Modem & WiFi Router Combinations for Ultimate Speed</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/organize-your-fb-content-access-to-free-downloaders-online/"><u>Organize Your FB Content Access to Free Downloaders Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/pci-interface-driver-collection-free-downloads-for-windows-users-on-win-111087/"><u>PCI Interface Driver Collection - Free Downloads for Windows Users on Win 11/10/8/7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-writing-automation-using-hixs-gpt-4-integrated-solutions/"><u>Revolutionize Writing Automation Using HIX's GPT-4 Integrated Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978621818-selection-depends-on-application-requirements-including-fluid-properties-and-system-efficiency/"><u>Selection Depends on Application Requirements Including Fluid Properties and System Efficiency.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-lava-blaze-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Lava Blaze Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unboxing-the-next-big-thing-in-action-cameras-with-camplus-cubeplus/"><u>Unboxing the Next Big Thing in Action Cameras with Cam+ Cube+</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-i-wont-switch-from-iphone-14-to-iphone-16-pro-insights-and-thoughts/"><u>Why I Won't Switch From iPhone 14 to iPhone 16 Pro - Insights and Thoughts</u></a></li>
 </ul></div>
 

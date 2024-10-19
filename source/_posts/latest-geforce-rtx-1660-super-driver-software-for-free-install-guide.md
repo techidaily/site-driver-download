@@ -1,7 +1,7 @@
 ---
 title: Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide
-date: 2024-10-11T23:56:22.611Z
-updated: 2024-10-12T16:38:13.077Z
+date: 2024-10-15T21:08:20.275Z
+updated: 2024-10-18T18:47:32.935Z
 tags:
   - win11
   - win10
@@ -32,22 +32,15 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
@@ -58,26 +51,33 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1983539">
+<span id="1983471">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
 
@@ -104,19 +104,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100i FRP Bypass Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-corsair-void-pro-graphics-drivers-for-windows-users/"><u>Effortless Installation of Corsair Void Pro Graphics Drivers for Windows Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery-for-2024/"><u>Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-workforce-ds-30-driver-for-your-windows-pc-compatible-with-win7win8/"><u>Get the Latest Epson WorkForce DS-30 Driver for Your Windows PC | Compatible with Win7/Win8</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oppo-reno-11-pro-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Oppo Reno 11 Pro 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-talents-exceptional-instagram-hlv-artisans/"><u>In 2024, Top Talents Exceptional Instagram HLV Artisans</u></a></li>
-<li><a href="https://driver-download.techidaily.com/mpc-sound-control-msis-latest-and-best-windows-audio-driver-pack/"><u>MPC Sound Control: MSI's Latest and Best Windows Audio Driver Pack</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-realtek-bluetooth-driver-version-compatible-with-windows-11-and-10-download-now/"><u>Newest Realtek Bluetooth Driver Version Compatible with Windows 11 & 10: Download Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-more-silence-solve-your-audacity-sound-device-issues-with-these-proven-techniques-5-expert-tips/"><u>No More Silence: Solve Your Audacity Sound Device Issues with These Proven Techniques [5 Expert Tips]</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-lava-blaze-2-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Lava Blaze 2 Location | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-update-install-the-newest-driver-for-windows-1187/"><u>TP-Link WiFi Adapter Update: Install the Newest Driver for Windows 11/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/wireless-1535-driver-troubles-fixed-version-now-available-secure-your-download/"><u>Wireless 1535 Driver Troubles? Fixed Version Now Available - Secure Your Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-history-on-your-flip-watching-old-fb-stories-for-2024/"><u>[New] History on Your Flip Watching Old FB Stories for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-no-more-latency-choose-av1-for-youtube-playback/"><u>[Updated] No More Latency Choose AV1 for YouTube Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-webcam-tripods-flex-neck-and-stands/"><u>2024 Approved Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://fox-access.techidaily.com/aurora-hdr-superior-or-subpar-imaging/"><u>Aurora HDR Superior or Subpar Imaging?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995313451-bypassing-fortnite-login-errors-easy-tips-for-uninterrupted-gaming/"><u>Bypassing Fortnite Login Errors: Easy Tips for Uninterrupted Gaming!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-obtaining-latest-mbox-2-wifi-adapter-drivers-for-windows-os/"><u>Comprehensive Guide to Obtaining Latest MBox 2 WiFi Adapter Drivers for Windows OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-how-to-edit-gif-images-with-text-on-various-platforms-including-windows-macos-mobile-devices-and-online-tools/"><u>Comprehensive Tutorial: How to Edit GIF Images with Text on Various Platforms Including Windows, macOS, Mobile Devices, and Online Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-lenovo-t520-driver-reinstallation-process/"><u>Effortless Lenovo T520 Driver Reinstallation Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-performance-access-the-new-hp-officejet-pro-9015-printer-drivers-here-free-download/"><u>Enhance Performance – Access the New HP OfficeJet Pro 9015 Printer Drivers Here, Free Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-official-toshiba-wireless-bluetooth-drivers/"><u>Free Download: Official Toshiba Wireless Bluetooth Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-hp-deskjet-2755e-printer-drivers-for-windows-pcs-download-now/"><u>Free HP Deskjet 2755E Printer Drivers for Windows PCs – Download Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gear-up-with-our-12-tycoon-titles-your-gaming-passport-to-success-for-2024/"><u>Gear Up with Our #12 Tycoon Titles - Your Gaming Passport to Success for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-amd-drivers-on-windows-10-11-and-7/"><u>How to Install the Latest AMD Drivers on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-12-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 12 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c55-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C55 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-logitech-speaker-drivers-today-download-now-for-win11win7win8-systems/"><u>Install Your Logitech Speaker Drivers Today! Download Now for Win11/Win7/Win8 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-fresh-driver-installation-for-your-dell-display-unit/"><u>Quick Guide: Fresh Driver Installation for Your Dell Display Unit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-getting-new-radeon-rx-470-drivers-installed/"><u>Step-by-Step Guide to Getting New Radeon RX 470 Drivers Installed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Your Lenovo X220: Comprehensive Drivers Collection"
-date: 2024-10-07T16:42:12.654Z
-updated: 2024-10-13T01:31:43.961Z
+date: 2024-10-15T00:13:03.978Z
+updated: 2024-10-19T00:36:42.724Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1 – Automatically update your Xbox wireless adapter driver
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -60,19 +60,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Update your Xbox wireless adapter driver manually
 
@@ -82,6 +69,26 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 5. Extract the downloaded driver file.
 6. Plug in the wireless receiver of your Xbox adapter. Then, on your keyboard, Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type**devmgmt.msc**  and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
@@ -89,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
@@ -124,22 +124,21 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-shadowplay-vs-obs-pick-your-preferred-gaming-recorder/"><u>[Updated] 2024 Approved ShadowPlay Vs OBS - Pick Your Preferred Gaming Recorder</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-guide-to-xbox-one-and-zoom-harmony/"><u>2024 Approved The Ultimate Guide to Xbox One and Zoom Harmony</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-video-editing-software-selection-a-comprehensive-list-and-insights/"><u>Best Video Editing Software Selection - A Comprehensive List & Insights</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/bring-back-your-memories-expert-photo-recovery-for-samsung-galaxy-models-s-s-ii-s-iii-s-iv/"><u>Bring Back Your Memories: Expert Photo Recovery for Samsung Galaxy Models (S, S II, S III, S IV)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/consideration-of-surgical-interventions-if-there-is-extensive-tissue-necrosis-or-abscess-formation-not-responding-to-medical-treatment/"><u>Consideration of Surgical Interventions if There Is Extensive Tissue Necrosis or Abscess Formation Not Responding to Medical Treatment.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974917463-get-the-latest-gigabyte-ethernet-drivers-here-free-download/"><u>Get the Latest Gigabyte Ethernet Drivers Here - Free Download</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-defy-2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Defy 2 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-hp-color-laserjet-pro-m45n-driver-version-available-now-easy-download-steps/"><u>Latest HP Color LaserJet Pro M45n Driver Version Available Now: Easy Download Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-logitech-steering-wheel-driver-updates-for-pcs-running-windows-7-to-10/"><u>Latest Logitech Steering Wheel Driver Updates for PCs Running Windows 7 to 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers/"><u>Nature Backdrop Sketches Essential Downloads for Videographers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722956403096-seamless-installation-of-amd-vega-drivers-game-optimization-made-simple/"><u>Seamless Installation of AMD Vega Drivers - Game Optimization Made Simple</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-guide-fixing-driver-issues-on-260ci-wi-fi-adapter-with-usb-support/"><u>Solution Guide: Fixing Driver Issues on 260Ci Wi-Fi Adapter with USB Support</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-to-the-newest-amd-radeon-hd-graphics-driver-on-windows-download-now/"><u>Update to the Newest AMD Radeon HD Graphics Driver on Windows - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-to-the-latest-epson-wf-2930-driver-version-for-seamless-printing-on-windows-7-81-and-nt-windows-10/"><u>Upgrade to the Latest Epson WF-2930 Driver Version for Seamless Printing on Windows 7, 8.1 & nT (Windows 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962956929-immediate-access-secure-qualcomm-atheros-ar938x-networking-drivers-for-optimal-performance-complimentary/"><u>[Immediate Access] Secure Qualcomm Atheros AR938X Networking Drivers for Optimal Performance - Complimentary.</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mastering-hdr-portraiture-an-ultimate-guide/"><u>[New] Mastering HDR Portraiture An Ultimate Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>[Updated] 2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-the-secrets-to-high-clickthrough-rates-in-thumbnails/"><u>[Updated] Unlocking the Secrets to High Clickthrough Rates in Thumbnails</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-stunning-ai-graphics-the-ultimate-guide-to-using-dall-e-in-tandem-with-chatgpt-4/"><u>Crafting Stunning AI Graphics: The Ultimate Guide to Using DALL-E in Tandem with ChatGPT-4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-drivers-for-your-epson-wf-2750-step-by-step/"><u>Download & Install Drivers for Your Epson WF-2750 - Step by Step</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-brother-hl-3170cdw-printer-drivers-a-step-by-step-download-process/"><u>Hassle-Free Brother HL-3170CDW Printer Drivers: A Step-by-Step Download Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-set-up-the-logitech-g27-race-controller-with-latest-drivers-for-win11-win10-and-win7/"><u>How to Set Up the Logitech G27 Race Controller with Latest Drivers for Win11, Win10 & Win7</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-11-useful-youtube-seo-tips-to-rank-your-video/"><u>In 2024, 11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-logitech-c525-webcam-driver-on-a-windows-pc/"><u>Installing the Latest Logitech C525 Webcam Driver on a Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966533342-latest-nvidia-quadro-rtx-4000-graphics-card-driver-downloads/"><u>Latest Nvidia Quadro RTX 4000 Graphics Card Driver Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974219128-windows-compatible-driver-update-for-nvidia-geforce-mx150-graphics-cards-download-now/"><u>Windows-Compatible Driver Update for NVIDIA GeForce MX150 Graphics Cards – Download Now</u></a></li>
 </ul></div>
 

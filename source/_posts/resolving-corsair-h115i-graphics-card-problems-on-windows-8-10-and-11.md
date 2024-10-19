@@ -1,7 +1,7 @@
 ---
 title: Resolving Corsair H115i Graphics Card Problems on Windows 8, 10 & 11
-date: 2024-08-27T22:18:43.985Z
-updated: 2024-08-28T22:18:43.985Z
+date: 2024-10-13T22:51:23.383Z
+updated: 2024-10-18T23:35:04.563Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,6 +49,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
@@ -55,8 +69,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +90,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,9 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beijing-bid-wins-2022-winter-olympics-highlights/"><u>2024 Approved Beijing Bid Wins 2022 Winter Olympics Highlights</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-top-10-lightroom-alternatives-free-and-paid-filmora/"><u>2024 Approved Top 10 Lightroom Alternatives [Free & Paid] | Filmora</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-vs-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic Vs 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-resolving-driver-conflicts-for-your-logitech-g930-with-windows-systems/"><u>Comprehensive Guide: Resolving Driver Conflicts for Your Logitech G930 with Windows Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-13-mini-how-to-unlock-a-disabled-iphone-13-mini-drfone-by-drfone-ios/"><u>Disabled iPhone 13 mini How to Unlock a Disabled iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapter-drivers-on-windows-computers/"><u>Download and Install Atheros Network Adapter Drivers on Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-of-m-audio-fast-track-drivers-for-all-your-windows-needs-including-windows-11-7-8-and-81/"><u>Easy Install of M-Audio Fast Track Drivers for All Your Windows Needs (Including Windows 11, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-beats-audio-drivers-for-optimal-sound-experience/"><u>Effortless Installation of Beats Audio Drivers for Optimal Sound Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962319802-effortless-installation-downloading-and-updating-canon-printer-drivers-on-windows/"><u>Effortless Installation: Downloading & Updating Canon Printer Drivers on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-fixing-halo-infinites-noisy-mess-ups-quietly-and-quickly/"><u>Expert Advice on Fixing Halo Infinite's Noisy Mess-Ups Quietly and Quickly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959964595-fixing-windows-10-bluetooth-connectivity-problems-solved/"><u>Fixing Windows 10 Bluetooth Connectivity Problems - Solved</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-deskjet-3630-printer-drivers-for-windows-10-users-free-download-now/"><u>Get the Latest HP Deskjet 3630 Printer Drivers for Windows 10 Users - Free Download Now</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-vhs-nostalgia-made-easy-final-cut-pro-tutorials/"><u>New In 2024, VHS Nostalgia Made Easy Final Cut Pro Tutorials</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-perfecting-audio-precision-key-eq-settings-explored/"><u>New Perfecting Audio Precision Key EQ Settings Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamping-your-iphone-a-step-by-step-guide-to-personalizing-the-ios-18-control-center-insights-from-zdnet/"><u>Revamping Your iPhone: A Step-by-Step Guide to Personalizing the iOS 18 Control Center - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-for-installing-latest-drivers-on-razer-blade-17-windows-compatibility/"><u>Step-by-Step Process for Installing Latest Drivers on Razer Blade 17 | Windows Compatibility</u></a></li>
+<li><a href="https://facebook.techidaily.com/validation-needed-is-securityfacebookmailcom-a-safe-fb-email/"><u>Validation Needed: Is @security@facebookmail.com a Safe FB Email?</u></a></li>
+</ul></div>
 

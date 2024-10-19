@@ -1,7 +1,7 @@
 ---
 title: HP OfficeJet Pro J8680 Printer Drivers for Free Download - Latest Version & Compatibility Checker
-date: 2024-10-11T22:50:27.078Z
-updated: 2024-10-12T16:33:43.041Z
+date: 2024-10-17T19:48:52.762Z
+updated: 2024-10-18T19:45:04.430Z
 tags:
   - win11
   - win10
@@ -38,23 +38,16 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap173-1.png)
 3. Click **Update**  next to your Elo touch screen to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap174.png)  
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Download and install your Elo touch screen driver manually
@@ -67,27 +60,40 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 3. Click**Select Product Category** . Then select**Touch Drivers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap176-2.png)
 4. Click**Select Operating System** . Then select the OS you’re currently using.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap178.png)
 5. Click the driver you want to download to download it to your PC. Make sure you download the right driver for your Elo touch screen.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap179.png)
 6. **Double-click** the downloaded driver file and follow the on-screen instruction to install it on your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have any questions or suggestions, please leave your comment below.
 
@@ -109,19 +115,19 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/download-and-update-mpow-bluetooth-driver-compatible-with-windows-1187/"><u>Download and Update MPOW Bluetooth Driver Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-fitness-management-using-the-miniature-samsung-galaxy-fit2-gadget/"><u>Effortless Fitness Management Using the Miniature Samsung Galaxy Fit2 Gadget</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-tips-for-fixing-your-windows-11-devices-bluetooth-drivers/"><u>Expert Tips for Fixing Your Windows 11 Device's Bluetooth Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-canon-d530-drivers-and-updates-your-definitive-resource/"><u>Get the Newest Canon D530 Drivers & Updates – Your Definitive Resource</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-12r-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus 12R Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-to-master-chromes-pip-for-enhanced-productivity/"><u>How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-method-for-capturing-internet-radio-frequencies/"><u>In 2024, Step-by-Step Method for Capturing Internet Radio Frequencies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-compatible-software-for-your-logitech-g910-on-windows-machines/"><u>Latest Compatible Software for Your Logitech G910 on Windows Machines</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973390970-seamless-surface-book-t-driver-update-guide-get-them-here/"><u>Seamless Surface Book T Driver Update Guide – Get Them Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-for-the-undetectable-tl-wn722n-wifi-adapter-on-windows-platforms/"><u>Solution for the Undetectable TL-WN722N WiFi Adapter on Windows Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-installing-nvme-controllers-on-windows-systems/"><u>Ultimate Guide to Downloading and Installing NVMe Controllers on Windows Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-ios-16-support-the-reason-behind-iphone-6s-and-earlier-models-incompatibility/"><u>Understanding iOS 16 Support: The Reason Behind IPhone 6S and Earlier Models' Incompatibility</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-mastering-the-most-effective-7-tiktok-techniques-for-fame/"><u>[Updated] In 2024, Mastering the Most Effective 7 TikTok Techniques for Fame</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-proven-methods-for-capturing-stunning-timelapse-videos-on-gopro-for-2024/"><u>[Updated] Proven Methods for Capturing Stunning Timelapse Videos on GoPro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-secure-your-contents-identity-adding-logo-and-watermark-to-videos/"><u>[Updated] Secure Your Content's Identity Adding Logo and Watermark to Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-powershot-perfection-elph-190/"><u>Budget-Friendly PowerShot Perfection: ELPH 190</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-ip110-driver-software-downloads-for-various-windows-versions-win11win10win8win7/"><u>Canon iP110 Driver Software Downloads for Various Windows Versions (Win11/Win10/Win8/Win7)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/direct-tweeted-media-to-your-ears-in-mp3/"><u>Direct Tweeted Media to Your Ears in MP3</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-111087xp/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11/10/8/7/XP</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969139390-essential-driver-pack-for-your-msi-x470-gaming-plus-free-downloads-available/"><u>Essential Driver Pack for Your MSI X470 Gaming Plus: Free Downloads Available</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-gt-neo-5-se-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme GT Neo 5 SE Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/increased-stress-resistance-in-host-plants-against-drought-conditions-due-to-improved-water-absorption-capacity-of-the-mycorrhizal-network/"><u>Increased Stress Resistance in Host Plants Against Drought Conditions Due to Improved Water Absorption Capacity of the Mycorrhizal Network</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-beats-latest-solo-buds-the-affordable-alternative-to-apples-airpods-under-100-tech-insights-by-zdnet/"><u>Introducing Beats' Latest Solo Buds: The Affordable Alternative to Apple's AirPods Under $100 - Tech Insights by ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-asus-dvd-drive-drivers-available-for-immediate-download/"><u>Latest ASUS DVD Drive Drivers Available for Immediate Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mkv-video-editing-made-easy-top-mac-trimmers-2023/"><u>MKV Video Editing Made Easy Top Mac Trimmers 2023</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968350268-ultimate-guide-to-downloading-and-updating-rndis-usb-network-adapter-for-windows-now-resolved/"><u>Ultimate Guide to Downloading and Updating RNDIS USB Network Adapter for Windows - Now Resolved!</u></a></li>
 </ul></div>
 

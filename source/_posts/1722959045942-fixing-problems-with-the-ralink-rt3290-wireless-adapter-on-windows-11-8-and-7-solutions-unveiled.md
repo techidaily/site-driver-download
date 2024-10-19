@@ -1,7 +1,7 @@
 ---
 title: Fixing Problems with the Ralink RT3290 Wireless Adapter on Windows 11, 8 & 7 - Solutions Unveiled!
-date: 2024-08-27T22:15:06.143Z
-updated: 2024-08-28T22:15:06.143Z
+date: 2024-10-16T00:33:47.189Z
+updated: 2024-10-18T22:30:28.160Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +53,19 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -55,8 +75,18 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +102,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,9 +126,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +159,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +166,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>[New] 2024 Approved Rage Quarters & Swords Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skype-recording-top-10-picks-for-optimal-audio/"><u>[Updated] In 2024, Skype Recording Top 10 Picks for Optimal Audio</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-step-by-step-guide-to-youtube-sound-placement/"><u>2024 Approved Step-by-Step Guide to Youtube Sound Placement</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/5-breakthrough-ways-to-preserve-precise-moments-in-vr-games/"><u>5 Breakthrough Ways to Preserve Precise Moments in VR Games</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-the-hold-while-charging-glitch-in-ios-devices-with-these-8-handy-techniques/"><u>Bypass the 'Hold While Charging' Glitch in iOS Devices with These 8 Handy Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/correct-methods-for-installing-new-drivers-on-dell-webcams/"><u>Correct Methods for Installing New Drivers on Dell Webcams</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-guide-the-best-mouse-drivers-for-optimal-windows-7-performance/"><u>Download & Install Guide: The Best Mouse Drivers for Optimal Windows 7 Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975971879-effortless-installation-download-drivers-for-lenovo-x220-today/"><u>Effortless Installation: Download Drivers for Lenovo X220 Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-these-top-10-alternatives-to-chatgpt-for-smarter-ai-interactions/"><u>Explore These Top 10 Alternatives to ChatGPT for Smarter AI Interactions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-installation-guide-how-to-get-latest-dell-thunderbolt-tb16-usb-30-docking-station-drivers/"><u>Free Installation Guide: How to Get Latest Dell Thunderbolt TB16 USB 3.0 Docking Station Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-official-method-to-unlock-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Official Method to Unlock Your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-discovering-elite-business-sims-for-mobile-and-pc-in-24/"><u>In 2024, Discovering Elite Business Sims for Mobile & PC in '24</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-iris-graphics-540-update-your-drivers-swiftly-and-effortlessly/"><u>Intel Iris Graphics 540: Update Your Drivers Swiftly and Effortlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-arduino-uno-driver-issues-on-windows-expert-tips-and-techniques/"><u>Resolving Arduino Uno Driver Issues on Windows - Expert Tips and Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-graphics-card-to-the-next-level-with-a-speedy-gtx-1660-driver-installation/"><u>Upgrade Your Graphics Card to the Next Level with a Speedy GTX 1660 Driver Installation</u></a></li>
+</ul></div>
 

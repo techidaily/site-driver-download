@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2024-10-01T01:27:35.196Z
-updated: 2024-10-07T03:54:07.925Z
+date: 2024-10-14T16:35:51.154Z
+updated: 2024-10-18T18:42:29.388Z
 tags:
   - win11
   - win10
@@ -61,13 +61,6 @@ Logitech G910 not working? You may need to download the software for further con
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
@@ -88,6 +81,13 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
 Or
@@ -106,16 +106,16 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-42-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  02 Select**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  03 Select**Keyboards** .
 
@@ -131,6 +131,13 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
@@ -140,32 +147,25 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_11-04-39.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  10 Click**OK** to start the installation.
@@ -195,24 +195,22 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-methods-to-record-and-save-lectures-on-imac-for-2024/"><u>[New] Cutting-Edge Methods to Record and Save Lectures on iMac for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-superior-transmitters-and-decoders-for-livestreams/"><u>[New] Superior Transmitters and Decoders for Livestreams</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-list-the-10-free-android-and-iphone-video-chat-apps-for-2024/"><u>[Updated] Essential List The 10 Free, Android & iPhone Video Chat Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-sprinkle-new-colors-into-your-past-media-with-instagram-for-2024/"><u>[Updated] How to Sprinkle New Colors Into Your Past Media with Instagram for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-tutorial-for-revitalizing-your-intel-centrino-an-6235-hardware-with-driver-update/"><u>Complete Tutorial for Revitalizing Your Intel Centrino A/N 6235 Hardware with Driver Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-essential-drivers-and-updates-for-your-hp-elitebook-x360-model-103atur-1030-g2/"><u>Download Essential Drivers and Updates for Your HP EliteBook X360 (Model 103Atur 1030-G2)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-official-driver-suite-for-samsung-850-evo-solid-state-drive/"><u>Download the Official Driver Suite for Samsung 850 EVO Solid State Drive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-ds-530-driver-for-enhanced-performance-with-windows-11-x64/"><u>Easy Installation of Epson DS-530 Driver for Enhanced Performance with Windows 11 (X64)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-lenovo-ideapad-100-driver-update-process-for-windows-11-how-to-guide/"><u>Easy Lenovo IdeaPad 100 Driver Update Process for Windows 11 – How to Guide</u></a></li>
-<li><a href="https://solve-info.techidaily.com/elevate-your-website-with-cookiebot-technology-solutions/"><u>Elevate Your Website with Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-iphone-compatible-drivers-for-windows-10-a-step-by-step-guide/"><u>Installing iPhone Compatible Drivers for Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-enhancement-for-dells-2330d-and-2330dn-mono-laser-printing-units/"><u>Latest Firmware Enhancement for Dell's 2330D and 2330DN Mono Laser Printing Units</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-best-text-to-audio-converters-of-all-times/"><u>New 2024 Approved Best Text-to-Audio Converters of All Times</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-your-latest-hp-printer-drivers-for-smooth-operations/"><u>Obtain Your Latest HP Printer Drivers for Smooth Operations</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/reinventing-personal-snapchat-experiences-with-more-than-120-inspirational-ideas/"><u>Reinventing Personal Snapchat Experiences with More Than 120 Inspirational Ideas</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-getting-the-newest-fingerprint-driver-for-your-windows-device/"><u>Step-by-Step Guide: Getting the Newest Fingerprint Driver for Your Windows Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-ambient-weather-ws-1002-wifi-thermometer-is-quality-worth-its-price/"><u>Unveiling the Ambient Weather WS-1002 WiFi Thermometer: Is Quality Worth Its Price?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cheerful-account-creation-handbook/"><u>[New] 2024 Approved Cheerful Account Creation Handbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-creating-illusionary-settings-with-instagrams-chroma-key-for-2024/"><u>[New] Creating Illusionary Settings with Instagram’s Chroma Key for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/hort-symphony-shots-roles-and-rhythm-showcase-for-2024/"><u>[New] Short Symphony Shots Roles & Rhythm Showcase for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-voice-of-the-visionary-beginning-your-journey-in-auditions-fading/"><u>[Updated] 2024 Approved Voice of the Visionary Beginning Your Journey in Audition’s Fading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-android-hacks-counterclockwise-video-stream/"><u>[Updated] Android Hacks Counterclockwise Video Stream</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-lenovo-legion-5-pro-drivers-compatible-with-model-16ach6h/"><u>Download Lenovo Legion 5 Pro Drivers - Compatible with Model 16ACH6H</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722957929085-effortless-installation-intels-official-bluetooth-drivers-for-windows-7-available-now/"><u>Effortless Installation: Intel's Official Bluetooth Drivers for Windows 7 Available Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mx340-up-and-running-on-any-window-os-win-1087/"><u>Get Your Canon MX340 Up and Running on Any Window OS (Win 10/8/7)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-backup-to-icloud-attempt-these-easy-to-follow-9-fixes/"><u>IPhone Won't Backup to iCloud? Attempt These Easy-to-Follow 9 Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-quadro-driver-update-for-windows-11-get-your-dch-files-now/"><u>Latest NVIDIA Quadro Driver Update for Windows 11: Get Your DCH Files Now!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-your-pc-a-comprehensive-guide-to-edit-bios-settings-in-windows-11/"><u>Mastering Your PC: A Comprehensive Guide to Edit BIOS Settings in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-revive-a-malfunctioning-samsung-blu-ray-player/"><u>Step-by-Step Guide to Revive a Malfunctioning Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-fix-for-lg-monitor-driver-problems-in-windows-10-7-and-81-environments/"><u>The Ultimate Fix for LG Monitor Driver Problems in Windows 10, 7, and 8.1 Environments</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-it-wont-vibrate-in-silentring-modes-solutions/"><u>Troubleshooting iPhone: Why It Won't Vibrate in Silent/Ring Modes - Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-high-performance-nvidias-newly-released-geforce-rtx-3060-ti-drivers-for-windows-users/"><u>Upgrade to High Performance: NVIDIA's Newly Released GeForce RTX 3060 Ti Drivers for Windows Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/why-does-my-discord-keep-crashing-when-i-go-live-learn-the-fix-here/"><u>Why Does My Discord Keep Crashing When I Go Live? Learn the Fix Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/winning-strategies-for-seamless-webcam-driver-update-on-windows-11/"><u>Winning Strategies for Seamless Webcam Driver Update on Windows 11</u></a></li>
 </ul></div>
 

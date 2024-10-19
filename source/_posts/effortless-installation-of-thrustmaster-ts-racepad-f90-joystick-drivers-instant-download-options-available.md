@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of Thrustmaster TS RacePad F90 Joystick Drivers – Instant Download Options Available
-date: 2024-10-10T00:52:32.267Z
-updated: 2024-10-13T00:30:24.162Z
+date: 2024-10-13T23:47:28.618Z
+updated: 2024-10-18T17:11:39.136Z
 tags:
   - win11
   - win10
@@ -40,25 +40,38 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your**AMD** **SMBus**  driver manually
 
@@ -71,25 +84,18 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174777cee5f.jpg)
 3. Under **Latest AMD Drivers and Software** , locate **AMD Chipset, AHCI, USB 3.0 and RAID Drivers** , click**the bit version** that corresponds with**your own Windows OS** (even if you’re using the**AMD X399 Chipset** ).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174e63eec18.png)
 4. Click**DOWNLOAD** in the first result to make sure you download the latest**AMD Chipset** **Drivers** version.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174cf9e1f05.png)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart your computer for the changes to take effect.
 
@@ -114,17 +120,20 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mobile-editors-roundup-top-8-choices-for-iphone-and-android-users/"><u>[New] 2024 Approved Mobile Editors Roundup Top 8 Choices for iPhone and Android Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-win-mac-and-beyond-best-8-tools-that-transform-sub-to-universal-srtr-standards/"><u>[New] Win, Mac & Beyond Best 8 Tools that Transform SUB to Universal SRTR Standards</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>[Updated] 2024 Approved 10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-from-shot-to-spectacle-pro-tips-for-transformative-photographic-edits/"><u>2024 Approved From Shot to Spectacle Pro Tips for Transformative Photographic Edits</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/cambie-su-contenido-audiovisual-facilmente-de-mpg-a-mov-en-linea-sin-gastos-descubre-como-hacerlo-por-medio-de-movavi/"><u>Cambie Su Contenido Audiovisual Fácilmente De MPG a MOV en Línea, Sin Gastos: Descubre Cómo Hacerlo Por Medio De Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-asus-dvd-driver/"><u>Download ASUS DVD Driver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-m185-drivers/"><u>Download Logitech M185 Drivers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-tips-and-solutions-to-resolve-realtek-universal-chip-drivers-complications/"><u>Expert Tips and Solutions to Resolve Realtek Universal Chip Drivers Complications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-dell-audio-driver-with-these-easy-steps/"><u>Get the Latest Dell Audio Driver with These Easy Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722955725786-qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-language-barrier-breakthroughs-utilizing-chatgpt-for-accurate-translation-services/"><u>Seamless Language Barrier Breakthroughs: Utilizing ChatGPT for Accurate Translation Services</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-the-intel-centrino-advanced-n-6230-wireless-network-adapter-drivers-a-comprehensive-guide/"><u>Upgrading the Intel Centrino Advanced-N 6230 Wireless Network Adapter Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-innovative-strategies-for-iphoneipad-screenshots-in-media/"><u>[New] 2024 Approved Innovative Strategies for iPhone/iPad Screenshots in Media</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exceptional-power-for-gopro-hero5-official-sources-and-alternatives/"><u>[New] Exceptional Power for GoPro Hero5 Official Sources & Alternatives</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>6 Ways to Change Spotify Location On Your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-graphics-drivers-on-windows-latest-version/"><u>Download AMD Graphics Drivers on Windows - Latest Version</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968976621-download-canon-mf8200c-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon MF8200C Printer Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-ensure-your-acer-nitro-5-runs-smoothly-with-updated-drivers-gpu-cpu-and-chipset/"><u>How To Ensure Your Acer Nitro 5 Runs Smoothly with Updated Drivers (GPU, CPU & Chipset)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nubia-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Nubia ?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-integrate-tiktok-videos-in-phone-gallery-step-by-step/"><u>In 2024, Integrate TikTok Videos in Phone Gallery Step-by-Step</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-compatible-graphic-drivers-available-download-amd-radeon-r5-for-all-your-windows-needs/"><u>Latest Compatible Graphic Drivers Available: Download AMD Radeon R5 for All Your Windows Needs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-graphics-card-drivers-compatible-with-windows-10-7-and-8/"><u>Latest Nvidia Graphics Card Drivers - Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-influencer/"><u>New What Is AI Influencer?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picshot-uncomplicated-path-to-stunning-collages/"><u>Picshot Uncomplicated Path to Stunning Collages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-download-and-install-epson-xp-410-drivers-on-windows/"><u>Step by Step Guide to Download and Install Epson XP-410 Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-dell-2330d233n-series-printer-driver-to-the-newest-version/"><u>Update Your Dell 2330D/233n Series Printer Driver to the Newest Version</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/x-recorder-for-pc-audio-logger-at-no-cost-for-2024/"><u>X-Recorder for Pc Audio Logger at No Cost for 2024</u></a></li>
 </ul></div>
 

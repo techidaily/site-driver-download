@@ -1,7 +1,7 @@
 ---
 title: "How to Quickly Enhance Your Gaming: Updating the NVIDIA GTX 1660 GPU Drivers with Ease"
-date: 2024-08-27T22:15:14.474Z
-updated: 2024-08-28T22:15:14.474Z
+date: 2024-10-15T01:17:21.599Z
+updated: 2024-10-19T01:11:58.960Z
 tags:
   - win11
   - win10
@@ -41,14 +41,26 @@ Updating drivers is essential. Not only does it keep your computer in good opera
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-4.png)
 4. Don’t forget to restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update NVIDIA Quadro RTX 4000 drivers manually
 
  Nvidia keeps updating drivers. To get them, you need to go to Nvidia’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download the driver manually.
@@ -59,28 +71,26 @@ Updating drivers is essential. Not only does it keep your computer in good opera
 2. In the upper right corner of your screen, click **DRIVERS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/d.png)
 3. In NVIDIA DRIVER Downloads page, select from the dropdown menu according to your product, your variant of Operating System, and preferred language. Once finished, click **SEARCH** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-3.png)
 4. A list of possible results will pop up. Click **DOWNLOAD** for the first result to make sure you download the latest driver update.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/DD-1.png)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Restart your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -95,8 +105,6 @@ Updating drivers is essential. Not only does it keep your computer in good opera
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +112,26 @@ Updating drivers is essential. Not only does it keep your computer in good opera
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-enigma-of-stardew-valley-unearthed-on-ginger-island/"><u>[New] In 2024, The Enigma of Stardew Valley, Unearthed on Ginger Island</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-thumbnail-strategies-for-amplifying-viewership-on-youtube/"><u>[Updated] 2024 Approved Essential Thumbnail Strategies for Amplifying Viewership on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-spectacular-photo-narrative-construction-suite/"><u>[Updated] 2024 Approved Spectacular Photo Narrative Construction Suite</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-hacking-the-art-of-high-quality-twitch-video-captures/"><u>2024 Approved Hacking the Art of High-Quality Twitch Video Captures</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-filmmakers-guide-to-capturing-clear-sea-footage/"><u>2024 Approved The Filmmaker's Guide to Capturing Clear Sea Footage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-turning-social-media-sounds-into-functional-phone-alarms/"><u>2024 Approved Turning Social Media Sounds Into Functional Phone Alarms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chortle-chamber-free-funny-template-vaults-for-2024/"><u>Chortle Chamber Free Funny Template Vaults for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978738232-enhance-your-display-with-the-latest-startech-usb-vga-driver-downloads-here/"><u>Enhance Your Display with the Latest StarTech USB VGA Driver - Downloads Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-xbox-accessories-drivers-solutions-for-windows-10-8-and-7-users/"><u>Fixing Xbox Accessories Drivers: Solutions for Windows 10, 8 and 7 Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-14-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 14 Pro Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978329687-get-the-latest-windows-drivers-for-your-netgear-a610n-router-free/"><u>Get the Latest Windows Drivers for Your Netgear A610n Router - Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-speakers-driver-downloads-for-widows-1078-systems/"><u>Latest Logitech Speakers Driver Downloads for Widows 10/7/8 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-hp-deskjet-3520-printer-drivers-free-download-for-optimal-print-quality/"><u>Official HP Deskjet 3520 Printer Drivers - Free Download for Optimal Print Quality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-transition-to-wacom-intuos-pro-on-windows-11-free-drivers-download/"><u>Seamless Transition to Wacom Intuos Pro on Windows 11 – Free Drivers Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-setting-up-brother-l2540d30dw-printer-on-your-pc-with-free-windows-driver-download/"><u>Ultimate Guide to Setting Up Brother L2540d^30DW Printer on Your PC with Free Windows Driver Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unpacking-the-enhancements-in-sony-s6500-bdp-for-2024/"><u>Unpacking the Enhancements in Sony S6500 BDP for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973943070-update-your-epson-wf-3620-printer-software-for-windows-11-8-and-7-users-get-it-here/"><u>Update Your Epson WF-3620 Printer Software for Windows 11, 8 & 7 Users - Get It Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-and-enjoy-the-latest-epson-xp-440-drivers-quick-download-instructions/"><u>Upgrade and Enjoy the Latest Epson XP-440 Drivers: Quick Download Instructions</u></a></li>
+</ul></div>
 

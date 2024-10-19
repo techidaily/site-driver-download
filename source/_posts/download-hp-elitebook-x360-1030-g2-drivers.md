@@ -1,7 +1,7 @@
 ---
 title: Download HP EliteBook X360 1030 G2 Drivers
-date: 2024-08-27T22:15:43.544Z
-updated: 2024-08-28T22:15:43.544Z
+date: 2024-10-16T00:17:26.271Z
+updated: 2024-10-18T20:26:16.382Z
 tags:
   - win11
   - win10
@@ -40,24 +40,27 @@ OR
 1. Go to the [HP Support page](https://support.hp.com/us-en/drivers) and click **Laptop** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/hp1.jpg)
 2. Enter your serial number or click **Let HP detect your product** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/hp2.jpg)
 3. Find your product and go to your product page.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **All Drivers** , select the driver that you need to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/hp.jpg)
 5. Run the downloaded file and follow the on-screen instructions to finish it.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have time or patience to manually update your HP Stream drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,24 +73,23 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/11-2.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -103,8 +105,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +112,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-next-gen-fb-converter-transform-vids-to-premium-mp4/"><u>[New] 2024 Approved Next-Gen FB Converter Transform Vids to Premium MP4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-apowersofts-free-recording-a-comprehensive-analysis-for-2024/"><u>[New] Apowersoft's Free Recording A Comprehensive Analysis for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-instagram-new-algorithm-update-will-affect-you/"><u>2024 Approved How Instagram New Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-v30-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-fresh-driver-update-for-targus-displaylink-on-windows-versions/"><u>Complete Guide: Fresh Driver Update for Targus DisplayLink on Windows Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-installing-focusrite-scarlett-18i20-drivers-on-windows/"><u>Complete Guide: Installing Focusrite Scarlett 18I20 Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-solutions-for-ralink-rt3290-driver-compatibility-with-windows-11-8-and-7/"><u>Easy Solutions for Ralink RT3290 Driver Compatibility with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/effortless-transfer-techniques-moving-the-dvd-film-interstellar-to-ios-devices/"><u>Effortless Transfer Techniques: Moving the DVD Film 'Interstellar' To iOS Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-easy-revision-installation-guide-for-intel-dual-band-wireless-ac-3160-device-driver/"><u>Fast & Easy [REVISION] Installation Guide for Intel Dual Band Wireless-AC 3160 Device Driver</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-scroll-issues-how-to-troubleshoot-unresponsive-touchpad-in-windows-11/"><u>Fixing Scroll Issues: How to Troubleshoot Unresponsive Touchpad in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-is-my-keyboards-backlight-not-functioning-on-mac-or-windows/"><u>Fixing the Issue: Why Is My Keyboard's Backlight Not Functioning on Mac or Windows?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-stutter-no-more-a-comprehensive-fix-for-lag-problems/"><u>Fortnite Stutter No More: A Comprehensive Fix for Lag Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-whereabouts-on-an-iphone-a-comprehensive-approach/"><u>Master the Art of Finding Whereabouts on an iPhone: A Comprehensive Approach</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplified-setup-upgrading-your-wacom-intuos-canvas-pads-driver-with-ease/"><u>Simplified Setup - Upgrading Your Wacom Intuos Canvas Pad's Driver with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-and-updating-your-scansnap-s1300i-driver/"><u>Step-by-Step Guide to Downloading & Updating Your ScanSnap S1^300i Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-logitech-m310-a-step-by-step-guide/"><u>Updating Your Logitech M310: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-update-made-simple-tips-for-seamless-operation/"><u>Windows Update Made Simple - Tips for Seamless Operation</u></a></li>
+</ul></div>
 
