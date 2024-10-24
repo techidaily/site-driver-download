@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Printer Issues? Start with the Latest Driver Update for HP OfficeJet Pro 8720 on Windows
-date: 2024-08-27T22:12:40.214Z
-updated: 2024-08-28T22:12:40.214Z
+date: 2024-10-18T17:57:05.781Z
+updated: 2024-10-24T17:07:27.380Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ You can use Device Manager to update your printer driver. To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0912dd92d53.png)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double click**Print queues** . Right click**HP OfficeJet 3830 series** , then click**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14ac504d4ae.jpg)
@@ -45,10 +58,6 @@ You can use Device Manager to update your printer driver. To do so:
 
 **5)**  Wait for your system to update the driver for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Method 2: Download your printer driver from HP
 
  You can also download your HP OfficeJet 3830 printer driver from HP and install it on your own. To do so:
@@ -58,17 +67,18 @@ You can use Device Manager to update your printer driver. To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14ad2046844.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Go to your printer driver download page, then download the correct and latest driver to your computer.
 
  Download the driver that’s suitable for your variant of Windows system. You should know what system is running on your computer — whether it’s Windows 7, 8 or 10, 32-bit or 64-bit version, etc.
 
 **3)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Update your printer driver automatically
 
  If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -84,15 +94,23 @@ You can use Device Manager to update your printer driver. To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_HP OfficeJet 3830 series_ to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14ae5b52f9f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy**  comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 * [HP](https://tools.techidaily.com/drivereasy/download/)
@@ -104,8 +122,6 @@ You can use Device Manager to update your printer driver. To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +129,22 @@ You can use Device Manager to update your printer driver. To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-hues-unleashed-mastery-over-video-editing-colors/"><u>[New] Hues Unleashed Mastery over Video Editing Colors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>[New] Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-picks-top-macpc-bd-players-and-codecs/"><u>[Updated] Premium Picks Top Mac/PC BD Players and Codecs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-step-by-step-guide-how-to-add-video-filters-in-zoom/"><u>[Updated] Step-by-Step Guide How to Add Video Filters in Zoom</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-install-zebra-gk420d-print-cartridge-download-guide/"><u>Easy-to-Install Zebra GK420d Print Cartridge Download Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-techniques-for-a-smooth-amd-radeon-driver-update-process/"><u>Effective Techniques for a Smooth AMD Radeon Driver Update Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-focusrite-scarlett-solo-wireless-audio-interface-windows-compatible-download-now/"><u>Get Your Focusrite Scarlett Solo Wireless Audio Interface - Windows Compatible [Download Now]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-zero-5g-2023-turbo-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Zero 5G 2023 Turbo to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722654633592-mastering-gaming-comfort-with-the-xbox-one-elite-series-2-reviewed-a-legendary-choice/"><u>Mastering Gaming Comfort with the Xbox One Elite Series 2 Reviewed - A Legendary Choice</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newly-released-lenovo-webcam-drivers-enhancing-performance-on-windows-7-operating-system/"><u>Newly Released Lenovo Webcam Drivers Enhancing Performance on Windows 7 Operating System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-fresh-asus-dvd-driver-download-and-installation-steps/"><u>Quick Guide: Fresh ASUS DVD Driver Download and Installation Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-seamless-installation-of-latest-amd-video-drivers/"><u>Quick Guide: Seamless Installation of Latest AMD Video Drivers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-shots-discover-the-best-camera-angles-for-iphones-for-2024/"><u>The Art of Shots Discover the Best Camera Angles for iPhones for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-resolve-your-missing-msvcrt10dll-computer-problems/"><u>The Definitive Guide: Resolve Your 'Missing msvcrt10.dll' Computer Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-science-behind-stopping-photo-booth-movies/"><u>The Science Behind Stopping Photo Booth Movies</u></a></li>
+</ul></div>
 

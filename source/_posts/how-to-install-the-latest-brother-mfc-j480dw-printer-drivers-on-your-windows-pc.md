@@ -1,7 +1,7 @@
 ---
 title: How to Install the Latest Brother MFC-J480DW Printer Drivers on Your Windows PC
-date: 2024-08-27T22:13:32.132Z
-updated: 2024-08-28T22:13:32.132Z
+date: 2024-10-17T16:58:39.297Z
+updated: 2024-10-24T18:57:57.900Z
 tags:
   - win11
   - win10
@@ -39,10 +39,25 @@ thumbnail: https://thmb.techidaily.com/9d7929dfd160058cbbb368d96f71f3a942d4bc6b7
 2. Search for your printer model. You can search it from the search box by entering the printer model, or you can do it by navigating to the product list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f6d5aa80f5.jpg)
 3. On the printer support page, click the**Drivers** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f6d8293034.jpg)
 4. Then click**Download** to download the file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f6dac63bae.jpg)
 5. Run the downloaded file, and follow the wizard to finish installing.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This method requires time and computer skill.
 
@@ -60,22 +75,13 @@ This method requires time and computer skill.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f6f9dadd64.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9f701f932e9.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Method 3: Download or update Zebra printer drivers via Device Manager
 
  You can also update drivers for your Zebra printers via Device Manager in which you can view and manage hardware devices and driver software.
@@ -85,20 +91,33 @@ To do so:
 1. On your keyboard, press the **Windows logo key**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  
  and **R**  at the same time to invoke the Run box.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. In Device Manager, expand your printer category, and right click your Zebra printer to select**Update driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Search automatically for updated driver software** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce3ebb24f.jpg)
 5. Follow the on-screen instructions to finish the update.
 
@@ -113,8 +132,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +139,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-access-free-photographic-treasures-through-favored-4-youtube-clips/"><u>[New] 2024 Approved Access Free Photographic Treasures Through Favored 4 Youtube Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-advanced-steps-in-monitoring-and-archiving-system-sounds/"><u>[Updated] In 2024, Advanced Steps in Monitoring & Archiving System Sounds</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-max-360-vs-hero-11-evaluating-the-best-gopro-for-action-videos/"><u>[Updated] Max 360 Vs. Hero 11 Evaluating the Best GoPro for Action Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thrifty-shoppers-best-bargains-in-cams/"><u>[Updated] Thrifty Shopper's Best Bargains in Cams</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-leading-gallery-archive-services/"><u>2024 Approved Leading Gallery Archive Services</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-acquiring-and-installing-the-newest-huion-tablet-drivers-for-windows-machines/"><u>Comprehensive Tutorial: Acquiring and Installing the Newest Huion Tablet Drivers for Windows Machines</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-amd-radeon-pro-w5700-drivers-compatible-with-windows-11107/"><u>Download the Newest AMD Radeon Pro W5700 Drivers Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-assessment-of-the-high-end-huion-inspiroy-g10t-graphic-tablet-a-blend-of-quality-and-precision/"><u>Expert Assessment of the High-End Huion Inspiroy G10T Graphic Tablet: A Blend of Quality and Precision</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-xbox-accessory-controller-drivers-solutions-for-windows-10-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers: Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-now-secure-your-intel-centrino-n-6205-wi-fi-card-with-updated-drivers/"><u>Install Now: Secure Your Intel Centrino N 6205 Wi-Fi Card with Updated Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-rainbow-six-siege-experience-fixing-launch-failures-easily/"><u>Revive Your Rainbow Six Siege Experience: Fixing Launch Failures Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-usb-nanodrivers-on-windows-os-versions-10-7-and-8/"><u>Step-by-Step Guide: Updating Your USB nanoDRIVERS on Windows OS Versions (10, 7, & 8)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-silent-voice-finding-expression-in-a-muted-world/"><u>The Silent Voice: Finding Expression in a Muted World</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-installing-hp-envy-5660-drivers/"><u>Ultimate Guide to Downloading and Installing HP Envy 5660 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-updating-your-razer-blade-17-graphics-and-system-drivers-on-windows-11-10-8-or-n/"><u>Ultimate Guide: Updating Your Razer Blade 17 Graphics & System Drivers on Windows 11, 10, 8, or N</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pc-the-ultimate-guide-to-new-targus-displaylink-drivers-for-windows-versions/"><u>Update Your PC - The Ultimate Guide to New Targus DisplayLink Drivers for Windows Versions</u></a></li>
+</ul></div>
 

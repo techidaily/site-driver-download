@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-10-11T20:43:26.303Z
-updated: 2024-10-18T22:11:45.309Z
+date: 2024-10-23T18:48:44.673Z
+updated: 2024-10-24T16:22:35.472Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -43,10 +36,10 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -54,10 +47,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -73,10 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,22 +107,24 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive/"><u>[New] 2024 Approved Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-logo-mastery-for-podcasts-elevate-your-visual-impact/"><u>[Updated] 2024 Approved Logo Mastery for Podcasts Elevate Your Visual Impact</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-essential-free-tools-convert-youtube-audio-to-mp3-on-iphone-for-2024/"><u>[Updated] Essential Free Tools Convert YouTube Audio to MP3 on iPhone for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/5-minutes-or-less-expert-hacks-to-get-your-iphoneipad-widgets-up-and-running-again/"><u>5 Minutes or Less: Expert Hacks to Get Your iPhone/iPad Widgets Up and Running Again</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-forcibly-deleting-files-and-folders-on-windows-1011-using-revo-uninstaller/"><u>Complete Guide: Forcibly Deleting Files and Folders on Windows 10/11 Using Revo Uninstaller</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-list-of-7-free-music-streamers-available-on-your-mobile-devices/"><u>Discover the Ultimate List of 7 Free Music Streamers Available on Your Mobile Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-fixes-for-bcm2045a0-driver-problems-resolve-in-no-time/"><u>Effortless Fixes for BCM2045A0 Driver Problems – Resolve in No Time</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-downloading-the-asus-laptop-trackpad-driver-for-windows-11/"><u>Fast and Simple Guide: Downloading the ASUS Laptop Trackpad Driver for Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-track-get-your-rs232-driver-on-a-usb-stick-instantly/"><u>Fast Track: Get Your RS232 Driver on a USB Stick Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967989057-get-your-official-toshiba-bluetooth-software-here-easy-installation-guide-included/"><u>Get Your Official Toshiba Bluetooth Software Here – Easy Installation Guide Included</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-driver-setup-for-your-arduino-mega-2560-swift-downloads-at-hand/"><u>Hassle-Free Driver Setup for Your Arduino Mega 2560 – Swift Downloads at Hand</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-cygwin1dll-not-found-or-missing-errors/"><u>How to Fix Cygwin1.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-18-upgrade-enables-direct-voice-recording-feature-without-external-apps-insights/"><u>IOS 18 Upgrade Enables Direct Voice Recording Feature Without External Apps - Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-update-lenovo-thinkpad-usb-c-docking-station-software/"><u>Latest Update: Lenovo ThinkPad USB-C Docking Station Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-upgrade-mastering-crystal-clear-calls-with-nahimics-updated-audio-driver/"><u>Seamless Upgrade: Mastering Crystal-Clear Calls with Nahimic's Updated Audio Driver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/secure-and-simple-installation-canon-printer-mg3620-drivers-download/"><u>Secure and Simple Installation: Canon Printer MG3620 Drivers Download</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-extraordinary-12-tools-for-endless-screen-capture/"><u>[New] In 2024, Extraordinary 12 Tools for Endless Screen Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>[Updated] 2024 Approved 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-oculus-illness-prevention-guide/"><u>[Updated] 2024 Approved Oculus Illness Prevention Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-filmmakers-edge-mastering-kinemasters-zoom-functionality-for-2024/"><u>[Updated] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-15-innovative-tools-perfecting-your-virtual-tone/"><u>2024 Approved Top 15 Innovative Tools Perfecting Your Virtual Tone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-c33-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme C33 2023 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-the-logitech-pro-hd-1080p-webcam-performance-and-quality-review/"><u>A Closer Look at the Logitech Pro HD 1080P Webcam: Performance and Quality Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-updating-your-huion-graphics-tablet-on-pcs/"><u>Complete Guide to Downloading & Updating Your Huion Graphics Tablet on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-stream-drivers-in-a-flash-effortless-installation-process/"><u>Download HP Stream Drivers in a Flash - Effortless Installation Process</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/flipping-photo-hues-a-step-by-step-guide-for-2024/"><u>Flipping Photo Hues A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-corsair-icue-software-compatible-with-windows-11-and-10/"><u>Free Download: Corsair iCUE Software Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-unrecognized-external-devices-on-your-windows-11-pc/"><u>How to Fix Unrecognized External Devices on Your Windows 11 PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977610713-how-to-get-and-install-your-linksys-wusb6300-network-card-drivers-today/"><u>How to Get & Install Your Linksys WUSB6300 Network Card Drivers Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-epson-wf-3620-driver-updates-compatible-with-windows-1087/"><u>How to Get the Newest Epson WF-3620 Driver Updates Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-n3-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find N3 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-rtx-2080-graphics-card-drivers-ideal-for-windows-10-7-and-8-systems/"><u>Install New RTX 2080 Graphics Card Drivers - Ideal for Windows 10, 7 & 8 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-geforce-rtx-3070-ti-driver-download-win-11-8-7/"><u>Official GeForce RTX 3070 Ti Driver Download - Win 11, 8, 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-laptops-connectivity-with-the-updated-thunderbolt-3-dock-driver-for-thinkpads/"><u>Optimize Your Laptop's Connectivity with the Updated Thunderbolt 3 Dock Driver for ThinkPads</u></a></li>
 </ul></div>
 

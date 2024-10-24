@@ -1,7 +1,7 @@
 ---
 title: "Easy Canon PRO 100 Installation Guide for Windows: Quick Setup Tutorial"
-date: 2024-08-23T16:38:42.347Z
-updated: 2024-08-24T16:38:42.347Z
+date: 2024-10-20T18:14:51.262Z
+updated: 2024-10-24T18:35:25.598Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ OR
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -65,9 +72,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -85,8 +106,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,8 +113,26 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-invaluable-slide-show-tools-for-business-executives/"><u>[New] 2024 Approved Invaluable Slide Show Tools for Business Executives</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-clubbing-essentials-top-rated-dj-template-vids/"><u>[New] Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle/"><u>[Updated] From Rookie to Pro Unveiling the Secrets of Ginger Isle</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-macs-best-picks-elite-4k-monitor-showdown/"><u>[Updated] Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/az-capture-in-depth-app-analysis-and-reviews-for-2024/"><u>AZ Capture In-Depth App Analysis & Reviews for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-solution-for-asus-pce-ac56-wireless-network-card-drivers-issues-in-latest-windows-versions/"><u>Comprehensive Solution for Asus PCE-AC56 Wireless Network Card Drivers Issues in Latest Windows Versions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/creative-tims-bootstrap-magic-build-stunning-web-forms-free/"><u>Creative Tim's Bootstrap Magic: Build Stunning Web Forms FREE!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-printer-drivers-on-your-windows-pc/"><u>Download & Install HP Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977152799-download-and-update-surface-book-drivers-with-simple-steps/"><u>Download and Update Surface Book Drivers with Simple Steps!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-resolution-to-logitech-c615s-driver-complications/"><u>Effortless Resolution to Logitech C615's Driver Complications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970450417-effortlessly-install-lenovo-x220-driver-pack-get-started-now/"><u>Effortlessly Install Lenovo X220 Driver Pack - Get Started Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-device-drivers-seamless-updates-on-any-windowed-system/"><u>Hassle-Free Device Drivers: Seamless Updates on Any Windowed System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-pc-with-broadcoms-bluetooth-device-driver/"><u>How to Update Your Windows PC with Broadcom's Bluetooth Device Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo K11x? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-updating-your-epson-ds-510-printer-software-on-windows-systems/"><u>Step-by-Step Tutorial: Updating Your Epson DS- 510 Printer Software on Windows Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-sound-experience-by-combining-various-bluetooth-speakers-with-a-single-input/"><u>Streamline Your Sound Experience by Combining Various Bluetooth Speakers with a Single Input</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-guide-how-to-resolve-iphones-message-failed-to-download-from-server-issue/"><u>Troubleshooting Guide: How to Resolve iPhone's 'Message Failed to Download From Server' Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-hp-officejet-5740-driver-downloads-ensure-smooth-functionality-on-your-windows-pc-windows-11-10-and-8/"><u>Up-to-Date HP OfficeJet 5740 Driver Downloads: Ensure Smooth Functionality on Your Windows PC (Windows 11, 10 & 8)</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->

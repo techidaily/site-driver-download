@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Gaming Rig: Upgrading Your GTX 1660 Ti Graphics Card Drivers"
-date: 2024-08-23T16:37:44.200Z
-updated: 2024-08-24T16:37:44.200Z
+date: 2024-10-23T16:43:02.517Z
+updated: 2024-10-24T16:02:36.951Z
 tags:
   - win11
   - win10
@@ -31,8 +31,12 @@ This is why most of the problems can be solved by updating drivers.
 2. **[Automatically download by Driver Easy](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Manually download from the official website
 
  Nvidia keeps updating drivers. To get them, you can go to the official website to download the latest correct driver manually. It takes time and effort to find the driver and download it.
@@ -43,18 +47,24 @@ This is why most of the problems can be solved by updating drivers.
 3. Select your**Product Type** ,**Operating System** and**Download Type** . Click the**SEARCH** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-04-29_15-28-23-1.png)
 4. Click the**DOWNLOAD** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-04-29_15-38-13-1.png)
-5. After the download finishes, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-04-29_15-38-13-1.png)
+5. After the download finishes, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Automatically download by Driver Easy
 
  If you don’t have time or patience to manually update your drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,15 +77,16 @@ This is why most of the problems can be solved by updating drivers.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-04-15_15-08-24.jpg)
 3. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-05_09-08-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  I hope this article is helpful to you. If you have any questions, please feel free to leave a comment below.
 
 <ins class="adsbygoogle"
@@ -84,8 +95,6 @@ This is why most of the problems can be solved by updating drivers.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +102,19 @@ This is why most of the problems can be solved by updating drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-examine-groups-collaborative-media-on-messenger/"><u>[Updated] Examine Group's Collaborative Media on Messenger</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-new-waters-personalbusiness-youtube-channels-made-mobile-ready/"><u>[Updated] Navigating New Waters Personal/Business YouTube Channels Made Mobile-Ready</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-canon-printerscanner-drivers-on-windows-no-cost-solutions/"><u>Download and Install Canon Printer/Scanner Drivers on Windows: No Cost Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-3620-printer-drivers-free-downloads-for-windows-1087-systems/"><u>Epson WF-3620 Printer Drivers - Free Downloads for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-leading-cloud-services-with-best-price/"><u>In 2024, The Leading Cloud Services with Best Price</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-compatible-drivers-for-gigabyte-z370p-free-and-secure-download-options/"><u>Latest Compatible Drivers for Gigabyte Z370P: Free and Secure Download Options</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterful-artwork-corrections/"><u>Masterful Artwork Corrections</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-free-m4a-editing-software-for-pc-and-mac/"><u>New 2024 Approved Top-Rated Free M4A Editing Software for PC and Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rapid-usb-rs232-conversion-driver-download-procedure/"><u>Rapid USB-RS232 Conversion Driver Download Procedure</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-printer-drivers-downloads-ready-for-windows-operating-systems/"><u>Samsung Printer Drivers Downloads – Ready for Windows Operating Systems</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-top-rated-no-cost-vocal-transformer-guide-and-professional-audio-sculpting-with-filmora-tutorials/"><u>Updated In 2024, Top-Rated No-Cost Vocal Transformer Guide and Professional Audio Sculpting with Filmora Tutorials</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/win-10-driver-failures-how-to-repair-the-dangerous-corruptedexpool-error-effectively/"><u>Win 10 Driver Failures: How to Repair the Dangerous 'CORRUPTED_EXPOOL' Error Effectively</u></a></li>
+</ul></div>
 

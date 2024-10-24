@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2024-10-12T00:55:00.700Z
-updated: 2024-10-18T22:09:50.111Z
+date: 2024-10-23T19:09:37.676Z
+updated: 2024-10-24T16:54:25.594Z
 tags:
   - win11
   - win10
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
@@ -47,27 +47,27 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -113,18 +113,18 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-upgrading-your-mac-to-11-big-sur/"><u>[Updated] A Step-by-Step Guide to Upgrading Your Mac to 11 Big Sur</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-honor-x50i-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/best-methods-for-securely-exporting-your-gmail-data-a-guide/"><u>Best Methods for Securely Exporting Your Gmail Data: A Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corporate-governance-transparency-and-anti-corruption-measures/"><u>Corporate Governance Transparency and Anti-Corruption Measures</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-l2540dw-windows-driver-free-download-guide/"><u>Get the Latest Brother L2540DW Windows Driver - Free Download Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-install-canon-mg2900-driver-updates-now/"><u>How to Securely Download and Install Canon MG2900 Driver Updates Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-guide-to-remove-images-background-in-canva/"><u>In 2024, A Comprehensive Guide to Remove Image’s Background In Canva</u></a></li>
-<li><a href="https://driver-download.techidaily.com/recognize-and-repair-correcting-usb-detection-problems-in-windows-10/"><u>Recognize and Repair: Correcting USB Detection Problems in Windows 10</u></a></li>
-<li><a href="https://article-tips.techidaily.com/skyward-file-fortresses-identifying-top-cloud-titans-for-2024/"><u>Skyward File Fortresses Identifying Top Cloud Titans for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-the-driver-for-intels-centrino-ae-7-wireless-network-adapter-6230-and-6230u/"><u>Step-by-Step Guide: Updating the Driver for Intel's Centrino AE-7 Wireless Network Adapter (6230) & 6230U</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-toshiba-laptop-drivers-in-windows/"><u>Step-by-Step Guide: Updating Your Toshiba Laptop Drivers in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-amusement-master-memes-with-kapwing/"><u>The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-amplify-your-music-experience-with-youtubes-playlist-guide-for-2024/"><u>[Updated] Amplify Your Music Experience with YouTube's Playlist Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-graphics-card-rx-5700-xt-latest-drivers-for-windows-users-windows-111087/"><u>AMD Graphics Card RX 5700 XT - Latest Drivers for Windows Users (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-8-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 8 Plus Safe and Legal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-audio-tuning-tech-mobile-and-pc-companions/"><u>Essential Audio Tuning Tech Mobile & PC Companions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-chrome-prompts-windows-users/"><u>How to Turn Off Chrome Prompts Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-epson-ds-with-newest-driver-for-windows-11-64-bit-platform/"><u>How to Update Epson DS-# with Newest Driver for Windows 11 64-Bit Platform</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-master-the-art-of-rapid-tiktok-videos/"><u>In 2024, Master the Art of Rapid TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>In 2024, Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mp250-driver-software-updates-for-smooth-printing-experience/"><u>Latest Canon MP250 Driver Software Updates for Smooth Printing Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-download-guide-optimize-your-hp-officejet-1260-on-windows-systems/"><u>Latest Driver Download Guide: Optimize Your HP Officejet 1260 on Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-telegram-online-with-ease/"><u>Navigating the World of Telegram Online with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-virtual-classroom-creation-tool/"><u>Prime Virtual Classroom Creation Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-installation-rapidly-secure-your-lexar-usb-drivers/"><u>Streamlined Installation: Rapidly Secure Your Lexar USB Drivers</u></a></li>
 </ul></div>
 

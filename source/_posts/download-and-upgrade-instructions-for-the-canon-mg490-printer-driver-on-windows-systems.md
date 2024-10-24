@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2024-10-15T16:45:23.220Z
-updated: 2024-10-18T23:00:56.713Z
+date: 2024-10-18T18:23:51.171Z
+updated: 2024-10-24T16:35:05.523Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -47,10 +40,10 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
@@ -75,23 +68,30 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
@@ -118,17 +118,24 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-spotlight-on-revolutionary-vr-engine-software/"><u>[Updated] Spotlight on Revolutionary VR Engine Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-techniques-in-motivating-viewers-with-lifestyle-vlogs/"><u>[Updated] Techniques in Motivating Viewers with Lifestyle Vlogs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-l2690dw-printing-device-get-the-latest-software-update-now/"><u>Brother L2690dw Printing Device: Get the Latest Software Update Now!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/comprehensive-fix-for-adobe-error-code-0xc0000022-ensuring-smooth-application-start/"><u>Comprehensive Fix for Adobe Error Code 0xC0000022: Ensuring Smooth Application Start</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-simplified-amd-ati-radeon-hd-grove-3450-graphics-card-drivers/"><u>Download & Update Simplified - AMD ATI Radeon HD Grove 3450 Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-your-pc-gaming-rig-with-the-new-asus-rog-strix-geforce-gtx-1660-ti-graphics-card/"><u>Elevate Your PC Gaming Rig with the New ASUS ROG STRIX GeForce GTX 1660 Ti Graphics Card</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enjoying-fallout-series-reboot-perfect-moment-to-dive-into-post-apocalyptic-adventures/"><u>Enjoying 'Fallout' Series Reboot? Perfect Moment to Dive Into Post-Apocalyptic Adventures!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-workforce-does-ai-substitute-for-jobs/"><u>Future Workforce: Does AI Substitute for Jobs?</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-camon-30-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-drones-as-a-creative-tool-in-filmmaking/"><u>In 2024, Drones as a Creative Tool in Filmmaking</u></a></li>
-<li><a href="https://driver-download.techidaily.com/no-cost-update-to-amds-radeon-graphics-driver-on-windows-8-computers/"><u>No-Cost Update to AMD's Radeon Graphics Driver on Windows 8 Computers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-access-to-new-canon-driver-software-seamless-setup-on-windows-computers/"><u>Quick Access to New Canon Driver Software: Seamless Setup on Windows Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>[New] 2024 Approved Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-setup-guide-to-capture-high-quality-video-using-logitech-camera/"><u>[New] 2024 Approved Expert Setup Guide to Capture High-Quality Video Using Logitech Camera</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-integrating-sound-a-comprehensive-approach-to-narration/"><u>[Updated] 2024 Approved Integrating Sound A Comprehensive Approach to Narration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-pcs-data-transfer-speed-an-easy-guide-to-update-standard-sata-ahci-controller-software/"><u>Boost Your PC’s Data Transfer Speed: An Easy Guide to Update Standard SATA AHCI Controller Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/charting-out-ownership-claims-for-computational-outputs/"><u>Charting Out Ownership Claims for Computational Outputs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-quadro-driver-latest-version-compatible-with-windows-10/"><u>Download Nvidia Quadro Driver Latest Version Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-access-to-compatible-drivers-for-all-acer-bluetooth-devices/"><u>Easy Access to Compatible Drivers for All Acer Bluetooth Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-setup-for-your-samsung-m2070-download-the-latest-drivers-today/"><u>Efficient Setup for Your Samsung M2070 - Download the Latest Drivers Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969936385-effortless-sound-driver-downloads-and-updates-get-them-now/"><u>Effortless Sound Driver Downloads & Updates - Get Them Now</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/google-collages-how-to-achieve-it-in-a-blink-of-an-eye/"><u>Google Collages How to Achieve It in A Blink of an Eye</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-much-wealth-awaits-one-million-youtube-followers-for-2024/"><u>How Much Wealth Awaits One Million YouTube Followers for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-zero-30-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-a-beginners-guide-to-customizing-your-instagram-snapshonscape/"><u>In 2024, A Beginner's Guide to Customizing Your Instagram Snapshonscape</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>In 2024, Masterful Sound Setup Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-arduino-uno-drivers-problems-in-microsofts-operating-system/"><u>Resolving Arduino Uno Drivers Problems in Microsoft's Operating System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-elgato-hd60-driver-errors-with-simple-solutions/"><u>Resolving Elgato HD60 Driver Errors with Simple Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-device-with-the-latest-mpow-bluetooth-driver-updates-windows-1187-friendly/"><u>Secure Your Device with the Latest MPOW Bluetooth Driver Updates: Windows 11/8/7 Friendly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-fixing-connectivity-issues-with-lg-usb-drivers-on-various-windows-versions/"><u>Step-by-Step Guide: Fixing Connectivity Issues with LG USB Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/xbox-chronicles-unveiled-mastering-4-techniques-to-record-playthroughs/"><u>Xbox Chronicles Unveiled Mastering 4 Techniques to Record Playthroughs</u></a></li>
 </ul></div>
 

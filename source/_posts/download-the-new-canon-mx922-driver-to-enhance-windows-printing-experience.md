@@ -1,7 +1,7 @@
 ---
 title: Download the New Canon MX922 Driver to Enhance Windows Printing Experience
-date: 2024-10-13T17:23:21.571Z
-updated: 2024-10-18T16:27:53.660Z
+date: 2024-10-17T16:14:50.425Z
+updated: 2024-10-24T18:29:34.673Z
 tags:
   - win11
   - win10
@@ -40,31 +40,25 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -81,10 +75,10 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
@@ -94,10 +88,10 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 6. Click**DOWNLOAD** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
@@ -124,18 +118,20 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/mmakers-companion-the-journey-from-capturing-to-post-production-of-360-videos-for-2024/"><u>A Filmmaker's Companion The Journey From Capturing to Post-Production of 360 Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-catalog-of-playstation-vr2-software-officially-announced-selection/"><u>Complete Catalog of PlayStation VR2 Software: Officially Announced Selection</u></a></li>
-<li><a href="https://win-webster.techidaily.com/create-captivating-flipbook-textbooks-with-integrated-images-using-flipbuilder/"><u>Create Captivating Flipbook Textbooks with Integrated Images Using FlipBuilder</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-oculus-driver-for-windows-111087/"><u>Download | Oculus Driver for Windows 11/10/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-install-guide-realtek-rtl8188cu-wi-fi-drivers-supporting-windows-10-and-7-systems/"><u>Easy Install Guide: Realtek RTL8188CU Wi-Fi Drivers Supporting Windows 10 and 7 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967162801-effortless-guide-amd-radeon-rx-580-driver-downloads-and-updates-instant-access/"><u>Effortless Guide: AMD Radeon RX 580 Driver Downloads & Updates - Instant Access!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-peak-performance-download-the-latest-gigabyte-z370p-motherboard-drivers-now/"><u>Ensure Peak Performance: Download the Latest Gigabyte Z370P Motherboard Drivers Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-gameplay-interruptions-solutions-for-starfield-pc-stability/"><u>Fixing Persistent Gameplay Interruptions: Solutions for Starfield PC Stability</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortless-selfie-sending-learn-the-technique-now/"><u>In 2024, Effortless Selfie Sending - Learn the Technique Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-geforce-rtx-3060-ti-drivers-update-for-new-windows-11-systems/"><u>Official GeForce RTX 3060 Ti Drivers Update for New Windows 11 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-setup-guide-for-wacom-intuos-pro-driver-on-windows-11-computers/"><u>Quick & Simple Setup Guide for Wacom Intuos Pro Driver on Windows 11 Computers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-downloading-and-installing-nvidia-gtx-460-drivers-on-windows/"><u>Quick and Easy Guide: Downloading & Installing NVIDIA GTX 460 Drivers on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/our-path-to-perfect-videos-with-any-of-these-7-free-tools/"><u>[New] Your Path to Perfect Videos with Any of These 7 Free Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-streams-weighing-xsplit-against-obs-capabilities-for-2024/"><u>[Updated] Mastering Streams Weighing XSplit Against OBS Capabilities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-strategic-guide-to-unlocking-worlds-secrets-via-vr-for-2024/"><u>A Strategic Guide to Unlocking World's Secrets via VR for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-the-latest-improvements-download-the-new-version-of-wacom-pentablet-driver/"><u>Access the Latest Improvements – Download the New Version of Wacom PenTablet Driver</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/te-your-content-game-perfectly-tailored-youtube-shorts-thumbnails-for-2024/"><u>Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-latest-firmware-for-your-dell-thunderbolt-tb16-dock/"><u>How to Install Latest Firmware for Your Dell Thunderbolt (TB16) Dock</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-15-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 15 Smoothly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-flawlessly-update-and-obtain-dell-laptop-e6430-drivers-on-your-pc-windows-only/"><u>How To: Flawlessly Update and Obtain Dell Laptop E6430 Drivers on Your PC (Windows Only)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-a1-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo A1 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-owning-a-ps5-worth-your-money-discover-these-4-persuasive-arguments/"><u>Is Owning a PS5 Worth Your Money? Discover These 4 Persuasive Arguments</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-easily-edit-avi-files-a-step-by-step-guide-to-trimming-and-splitting/"><u>New In 2024, Easily Edit AVI Files A Step-by-Step Guide to Trimming and Splitting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/review-of-the-belkin-self-following-creative-tripod-the-ultimate-tracking-support-system/"><u>Review of the Belkin Self-Following Creative TriPod - The Ultimate Tracking Support System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installation-hp-elitebook-amoeba-8460p-driver-update-for-windows-machines/"><u>Step-by-Step Installation: HP Elitebook Amoeba 8460P Driver Update for Windows Machines</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-links-latest-wifi-adapter-drivers-available-now-compatible-with-windows-10-8-and-7-systems/"><u>TP-Link's Latest WiFi Adapter Drivers Available Now - Compatible with Windows 10, 8 and 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-hp-scanjet-printer-drivers-compatible-with-windows-1187/"><u>Update Your HP Scanjet Printer Drivers: Compatible with Windows 11/8/7</u></a></li>
 </ul></div>
 

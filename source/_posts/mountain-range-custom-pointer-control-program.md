@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-10-17T23:58:45.320Z
-updated: 2024-10-18T21:32:43.551Z
+date: 2024-10-19T17:10:28.512Z
+updated: 2024-10-24T18:02:08.411Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -42,22 +42,15 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -73,10 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,20 +107,21 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-detailed-guide-to-streamlabs-obs/"><u>[New] In 2024, A Detailed Guide to Streamlabs OBS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-resources-leading-free-video-openers-guide-for-2024/"><u>[Updated] Pioneering Resources Leading Free Video Openers Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-battle-of-accessible-viewerships-google-vs-samsung-headsets/"><u>2024 Approved The Battle of Accessible Viewerships Google Vs. Samsung Headsets</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-access-to-logitech-driver-software-for-windows-users/"><u>Easy Access to Logitech Driver Software for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/exploring-the-brand-new-design-in-the-echo-dot-gen-4-review/"><u>Exploring the Brand-New Design in the Echo Dot (Gen 4) Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-steelseries-devices-running-smoothly-driver-downloads-for-windows/"><u>Get Your SteelSeries Devices Running Smoothly: Driver Downloads for Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-iphone-6-plus-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From iPhone 6 Plus</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959876378-localized-tumors-may-be-cured-with-surgical-resection-while-advanced-cases-require-systemic-therapy-or-palliative-care/"><u>Localized Tumors May Be Cured with Surgical Resection, While Advanced Cases Require Systemic Therapy or Palliative Care</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-elgato-driver-software-installation/"><u>Quick & Easy Elgato Driver Software Installation</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solving-intel-and-nvidia-switchable-graphics-glitch-on-windows-10/"><u>Solving Intel & Nvidia Switchable Graphics Glitch on Windows 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-successfully-implementing-updates-to-your-amd-radeon-drivers/"><u>Step-by-Step Tutorial on Successfully Implementing Updates to Your AMD Radeon Drivers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-complete-blueprint-for-iphone-podcast-downloads-for-2024/"><u>The Complete Blueprint for iPhone Podcast Downloads for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-graphics-card-software-tips-for-amd-drivers-on-windows-platforms/"><u>Updating Graphics Card Software: Tips for AMD Drivers on Windows Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/video-game-bargains-galore-selecting-the-best-11-discount-sites/"><u>Video Game Bargains Galore: Selecting the Best 11 Discount Sites</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leverage-your-smartphones-capability-to-store-social-snaps/"><u>[New] 2024 Approved Leverage Your Smartphone's Capability to Store Social Snaps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exposing-the-accelerating-path-of-8-youtube-content-creators-for-2024/"><u>[New] Exposing the Accelerating Path of 8 YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-absurd-adventures-your-guide-to-wildest-tiktok-gaming-escapades/"><u>[Updated] Absurd Adventures Your Guide to Wildest TikTok Gaming Escapades</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easily-install-with-official-hp-laserjet-p1n06-printer-drivers-downloaded-here/"><u>Easily Install with Official HP LaserJet P1n06 Printer Drivers Downloaded Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-mfc-l2740dw-driver-software-for-your-pc/"><u>Get the Latest Brother MFC-L2740DW Driver Software for Your PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-l3150-drivers-for-optimal-performance-on-windows-operating-systems/"><u>Get the Newest Epson L3150 Drivers for Optimal Performance on Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-gt-s50-ready-windows-drivers-downloads-for-win-7810-users/"><u>Get Your Epson GT-S50 Ready: Windows Drivers Downloads for Win 7/8/10 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-set-up-and-install-corsair-mouse-software-download-guide/"><u>How to Set Up & Install Corsair Mouse Software: Download Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 10T 5G Lock Screen Password</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 14 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>In 2024, Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-easy-driver-update-for-intels-iris-plus-640-graphics-card/"><u>Step-by-Step: Easy Driver Update for Intel's Iris Plus 640 Graphics Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-logitech-c920-webcam-on-windows-1011-without-a-hitch/"><u>Ultimate Guide to Installing Logitech C920 Webcam on Windows 10/11 Without a Hitch</u></a></li>
 </ul></div>
 

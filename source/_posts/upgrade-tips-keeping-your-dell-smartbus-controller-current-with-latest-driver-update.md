@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Tips: Keeping Your Dell SmartBus Controller Current with Latest Driver Update"
-date: 2024-08-23T16:38:32.967Z
-updated: 2024-08-24T16:38:32.967Z
+date: 2024-10-20T17:11:50.932Z
+updated: 2024-10-24T17:02:07.595Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/0190a5e8ce979013aa535724b0dc8ec8d018ff0f5
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -54,32 +61,44 @@ thumbnail: https://thmb.techidaily.com/0190a5e8ce979013aa535724b0dc8ec8d018ff0f5
 1. Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)**  .
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Extract the downloaded driver file.
 6. Plug in the wireless receiver of your Xbox adapter. Then, on your keyboard, Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type**devmgmt.msc**  and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 7. Here pops up your**Device Manager** . Double-click on the**Other devices** node and you’ll find the faulty device there, usually appearing as an unknown device named “XBOX ACC”.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -95,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/0190a5e8ce979013aa535724b0dc8ec8d018ff0f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +121,23 @@ thumbnail: https://thmb.techidaily.com/0190a5e8ce979013aa535724b0dc8ec8d018ff0f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-experts-companion-navigating-the-nuances-of-mobizen-screen-recording-for-2024/"><u>[Updated] Expert's Companion Navigating the Nuances of Mobizen Screen Recording for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-smartphone-editors-elevating-your-gopro-shots/"><u>2024 Approved Superior Smartphone Editors Elevating Your GoPro Shots</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-blocks-of-a-well-structured-youtube-video-for-2024/"><u>Building Blocks of a Well-Structured YouTube Video for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-breakdown-of-wi-fi-technologies-be-ac-ax-bgn-specifications-unveiled/"><u>Comprehensive Breakdown of Wi-Fi Technologies: Be, Ac, AX, B/G/N Specifications Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-mg3620-driver-easily-and-safely/"><u>Download Canon MG3620 Driver | Easily & Safely</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-to-reinstall-the-software-for-your-external-serial-communication-interface/"><u>Easy Steps to Reinstall the Software for Your External Serial Communication Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-new-ai-advances-from-wwdc-the-surprising-reason-you-may-find-them-underwhelming/"><u>Exploring Apple's New AI Advances From WWDC: The Surprising Reason You May Find Them Underwhelming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/feedback-collection/"><u>Feedback Collection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-the-latest-canon-pixma-mg2-22-drivers-a-comprehensive-download-resource/"><u>Find and Install the Latest Canon PIXMA MG2 22 Drivers - A Comprehensive Download Resource</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-canon-pixma-ts3322-download-here/"><u>Get the Newest Drivers for Canon PIXMA TS3322 - Download Here!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-correct-call-of-duty-wwii-error-code-ebf9a5b63e024bfcbeae18dbaffce7cb/"><u>How To Troubleshoot and Correct Call of Duty: WWII Error Code Ebf9a5b63e024bfcbeae18dbaffce7cb</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery: Discover ManyCam - The Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g433-mic-problems-heres-how-to-restore-its-functionality/"><u>Logitech G433 Mic Problems? Here's How to Restore Its Functionality!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-logitech-g35-experience-latest-drivers-for-windows-781abf-safe-and-easy-download/"><u>Seamless Logitech G35 Experience: Latest Drivers for Windows 7/8/1Abf - Safe & Easy Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-to-resolve-amd-rx-560-graphics-card-driver-errors-on-various-windows-os/"><u>Troubleshooting Steps to Resolve AMD RX 560 Graphics Card Driver Errors on Various Windows OS</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-erasing-all-data-from-your-ipad-safely-including-tips-without-a-password/"><u>Ultimate Guide: Erasing All Data From Your iPad Safely, Including Tips Without a Password</u></a></li>
+</ul></div>
 

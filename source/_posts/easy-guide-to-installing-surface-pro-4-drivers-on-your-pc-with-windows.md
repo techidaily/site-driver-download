@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Surface Pro 4 Drivers on Your PC with Windows
-date: 2024-08-27T22:09:59.834Z
-updated: 2024-08-28T22:09:59.834Z
+date: 2024-10-23T18:21:48.118Z
+updated: 2024-10-24T16:49:40.394Z
 tags:
   - win11
   - win10
@@ -29,8 +29,12 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Manually update your Epson ET-3760 driver
 
  You’ll need some computer skills and patience to update your driver this way because you need to head to the Epson official website first, download it and install it step by step.
@@ -39,19 +43,17 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. After confirming the**Operating System** detected by the website matches yours, click**Drivers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Automatically update the driver with Driver Easy
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -62,15 +64,23 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
@@ -87,8 +97,6 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -96,4 +104,18 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-video-marketing-strategies-top-8-verified-services/"><u>[New] 2024 Approved Essential Video Marketing Strategies Top 8 Verified Services</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-hashtag-wisdom-jumpstart-your-6-figure-youtube-rank/"><u>[New] In 2024, Hashtag Wisdom Jumpstart Your 6-Figure Youtube Rank</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops/"><u>[New] Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-quick-steps-to-record-and-share-your-skyrim-quests/"><u>[Updated] 2024 Approved Quick Steps to Record and Share Your Skyrim Quests</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-ultimate-guide-installing-the-latest-usb-c-drivers-for-windows-11/"><u>Free Ultimate Guide: Installing the Latest USB-C Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-setup-your-windows-usbserial-adapter-in-minutes/"><u>How to Download & Setup Your Windows USB/Serial Adapter in Minutes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-devices-within-windows-manager/"><u>Rectifying Devices Within Windows Manager</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revive-your-router-effective-ways-to-boost-and-accelerate-your-home-network/"><u>Revive Your Router: Effective Ways to Boost and Accelerate Your Home Network</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-vehicle-with-sm-bus-controller-software-downloads-optimized-for-windows-111087/"><u>Secure Your Vehicle with SM Bus Controller Software Downloads (Optimized for Windows 11/10/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-freshly-install-hp-officejet-pro-n6970-drivers-compatible-with-windows-os/"><u>Update or Freshly Install HP OfficeJet Pro N6970 Drivers: Compatible with Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-mg3000-printer-software-for-optimal-performance-how-to-get-latest-drivers/"><u>Update Your Canon MG3000 Printer Software for Optimal Performance – How to Get Latest Drivers</u></a></li>
+</ul></div>
 

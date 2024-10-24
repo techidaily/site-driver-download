@@ -1,7 +1,7 @@
 ---
 title: How to Update Your PC with Intel's Iris Plus Graphics Driver Version 655 on Windows 11
-date: 2024-08-23T16:38:22.331Z
-updated: 2024-08-24T16:38:22.331Z
+date: 2024-10-20T17:41:39.530Z
+updated: 2024-10-24T17:01:19.932Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 1. [Download and update the Canon MX490 printer driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Download and update the Canon MX490 printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the Canon MX490 printer driver manually
 
  You can manually download the Canon MX490 driver in your Windows computer. To do so, follow the instructions below:
@@ -46,14 +53,17 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-133.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Run the downloaded file, and follow the on-screen instructions to finish the installation.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 2: Download and update the Canon MX490 printer driver automatically
 
  Manually downloading and installing the Canon MX490 driver requires time and computer skills. If you don’t have patience, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -69,13 +79,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-128.png)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
@@ -83,8 +92,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MX490 printer driver, right?
@@ -101,8 +114,6 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +121,23 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>[New] Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-standout-panzoid-design-kits/"><u>[New] Standout Panzoid Design Kits</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>[Updated] In 2024, High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-steady-panning-for-smooth-cinematography/"><u>[Updated] Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-acquiring-and-refreshing-mbox-2-drivers-on-microsofts-os/"><u>Comprehensive Guide to Acquiring and Refreshing MBox 2 Drivers on Microsoft's OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-necessary-windows-drivers-for-the-best-hp-spectre-x360-experience/"><u>Download Necessary Windows Drivers for the Best HP Spectre X360 Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973101276-easy-guide-to-installing-mouse-drivers-in-windows-7-download-successfully-tested/"><u>Easy Guide to Installing Mouse Drivers in Windows 7 – Download Successfully Tested!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-msi-x470-gaming-plus-driver-package-free-instant-download/"><u>Get Your MSI X470 Gaming Plus Driver Package - Free Instant Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-zbook-15-g3-driver-setup-how-to-easily-update-and-optimize-for-windows-users/"><u>HP ZBook 15 G3 Driver Setup: How to Easily Update and Optimize for Windows Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>In 2024, A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-qualcomm-usb-network-adapter-free-driver-pack-for-windows-versions-111087/"><u>Install Qualcomm USB Network Adapter [FREE] – Driver Pack for Windows Versions: 11/10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-ralink-rt3290-driver-challenges-in-windows-11-8-and-7-expert-solutions/"><u>Overcoming Ralink RT3290 Driver Challenges in Windows 11, 8 & 7: Expert Solutions</u></a></li>
+<li><a href="https://win-great.techidaily.com/step-by-step-strategy-for-securely-archiving-your-data-backup-made-simple-on-a-toshiba-notebook-under-windows-10/"><u>Step-by-Step Strategy for Securely Archiving Your Data: Backup Made Simple on a Toshiba Notebook Under Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-location-precision-with-google-maps-live-view-a-beginners-guide/"><u>Unlocking Location Precision with Google Maps Live View - A Beginner's Guide</u></a></li>
+</ul></div>
 
