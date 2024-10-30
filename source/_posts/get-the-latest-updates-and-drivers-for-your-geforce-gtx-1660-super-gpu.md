@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Updates and Drivers for Your GeForce GTX 1660 Super GPU
-date: 2024-08-23T16:31:01.578Z
-updated: 2024-08-24T16:31:01.578Z
+date: 2024-10-24T04:58:50.416Z
+updated: 2024-10-29T18:30:16.057Z
 tags:
   - win11
   - win10
@@ -35,16 +35,35 @@ Your**GeForce GTX 1660 SUPER** needs the latest graphics driver to deliver the b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-1660-super.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all the drivers on your PC, do a reboot for the changes to apply. Then you can test the new driver in your favorite titles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Install the graphics driver manually
 
  It takes some time and computer skills to install the latest graphics driver manually. If you’re familiar with PC hardware, you can try to install the latest GTX 1660 SUPER driver using these steps:
@@ -53,14 +72,16 @@ Your**GeForce GTX 1660 SUPER** needs the latest graphics driver to deliver the b
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1660-super-manually.jpg)
 2. Click**DOWNLOAD** to download the installer. Once downloaded, launch the installer and follow the on-screen instructions to install.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/1660-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1660-super-manually-2.jpg)
+
  Downloading the wrong driver, or installing it incorrectly can make your PC unstable and even crash the whole system.
 
 ---
@@ -75,8 +96,6 @@ Your**GeForce GTX 1660 SUPER** needs the latest graphics driver to deliver the b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +103,16 @@ Your**GeForce GTX 1660 SUPER** needs the latest graphics driver to deliver the b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-sfpr-levels-in-slow-motion-content/"><u>[New] Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iconic-nintendo-switch-fighting-game-series-max-156-for-2024/"><u>[Updated] Iconic Nintendo Switch Fighting Game Series (Max 156) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-insta-live-with-obs-broadcast/"><u>[Updated] Insta Live with OBS Broadcast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975819845-creep-tests-are-performed-to-predict-the-lifespan-of-materials-under-high-temperature-constant-load-conditions/"><u>Creep Tests Are Performed to Predict the Lifespan of Materials Under High-Temperature, Constant Load Conditions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-rtl81ncu-wireless-network-adapter-driver-supported-by-realtek-for-windows-117/"><u>Get the Latest RTL81nCU Wireless Network Adapter Driver Supported by Realtek for Windows 11/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-overcome-usb-connection-problems-for-hp-260ci-wireless-internet-adapter/"><u>How to Overcome USB Connection Problems for HP 260Ci Wireless Internet Adapter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-your-epson-xp-330-with-official-drivers/"><u>Install Your Epson XP-330 with Official Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-hp-beats-sound-card-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving HP Beats Sound Card Problems on Windows 11, 8 & 7 - A Comprehensive Guide</u></a></li>
+</ul></div>
 

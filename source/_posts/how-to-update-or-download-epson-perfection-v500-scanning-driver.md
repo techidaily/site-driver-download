@@ -1,7 +1,7 @@
 ---
 title: How to Update or Download Epson Perfection V500 Scanning Driver
-date: 2024-10-20T19:02:35.886Z
-updated: 2024-10-24T18:44:13.533Z
+date: 2024-10-28T01:52:15.816Z
+updated: 2024-10-29T22:37:18.655Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -60,20 +60,26 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -105,20 +111,19 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-10-best-trending-background-music-for-youtube-shorts/"><u>[New] 2024 Approved The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-small-scale-success-with-the-safest-online-meeting-tools-for-2024/"><u>[New] Small-Scale Success with the Safest Online Meeting Tools for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-list-of-powerful-instagram-hashtags/"><u>[New] The Ultimate List of Powerful Instagram Hashtags</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-instructions-on-integrating-audio-into-unboxings/"><u>[Updated] 2024 Approved Instructions on Integrating Audio Into Unboxings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-holographic-horizons-trendsetting-wallpapers/"><u>2024 Approved Holographic Horizons Trendsetting Wallpapers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-access-best-free-youtube-subtitle-extractors/"><u>Easy Access Best Free YouTube Subtitle Extractors</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fresh-install-amd-sata-controller-driver-for-windows-devices/"><u>Fresh Install: AMD SATA Controller Driver for Windows Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-samsung-ve-driver-software-free-now/"><u>Get the Latest Samsung ˈɛvə Driver Software Free Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-nvidia-1080-ti-cards-up-to-date-free-download-and-installation-steps/"><u>Get Your NVIDIA 1080 Ti Cards Up to Date: Free Download & Installation Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fresh-start-with-updated-drivers-for-your-epson-wf-3720-printer-free-download/"><u>How To: Fresh Start with Updated Drivers for Your Epson WF 3720 Printer - Free Download</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g73-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G73 5G Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/obtain-the-newest-version-of-epsons-xp-420-drivers-now-available-for-free/"><u>Obtain the Newest Version of Epson's XP-420 Drivers - Now Available for Free!</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/pioneers-in-virtual-marvel-storytelling/"><u>Pioneers in Virtual Marvel Storytelling</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/professional-video-fixing-tools-by-grau-gmbh-complete-your-editing-workflow/"><u>Professional Video Fixing Tools by Grau GmbH: Complete Your Editing Workflow</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-lenovo-bios-and-cpu-settings-seamlessly/"><u>Step-by-Step Guide: Updating Your Lenovo BIOS and CPU Settings Seamlessly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-audio-gear-guide-for-4k-camera-quality-production/"><u>[New] 2024 Approved Elite Audio Gear Guide for 4K Camera Quality Production</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-iphone-screen-recording-with-minimal-fuss/"><u>[New] 2024 Approved Mastering iPhone Screen Recording with Minimal Fuss</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>[Updated] In 2024, Audiovisual Synergy Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-streamline-capturing-and-saving-tweets-visuals-on-android/"><u>[Updated] Streamline Capturing and Saving Tweets' Visuals on Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-how-to-download-and-use-roccat-a9-gaming-mouse/"><u>Complete Guide: How to Download and Use Roccat A9 Gaming Mouse</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-hp-laserjet-pro-m127fn-printer-drivers-step-by-step-guide/"><u>Download the HP LaserJet Pro M127FN Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-zebra-printer-driver-installation-pack-for-windows-pcs/"><u>Free Zebra Printer Driver Installation Pack for Windows PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Without a Passcode</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-free-corsair-icue-software-download-for-windows-11-and-10/"><u>Latest Version: Free Corsair iCUE Software Download for Windows 11 & 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-to-xiaomi-14-pro-converter-convert-mkv-for-xiaomi-14-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV to Xiaomi 14 Pro converter - convert MKV for Xiaomi 14 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/perfect-compatibility-installing-laptop-drivers-on-your-lenovo-legion-5-pro-16acch6/"><u>Perfect Compatibility: Installing Laptop Drivers on Your Lenovo Legion 5 Pro-16ACCH6</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-7-video-software-for-apple-machines-for-2024/"><u>Prime 7 Video Software for Apple Machines for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/reduzierung-der-video-auflosung-fur-facebook-erfolgreiches-downscaling-von-grossformatvideos/"><u>Reduzierung Der Video-Auflösung Für Facebook: Erfolgreiches Downscaling Von Großformatvideos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-the-difference-retweets-vs-re-tweets-on-twitter/"><u>Understanding the Difference: Retweets Vs. Re-Tweets on Twitter</u></a></li>
 </ul></div>
 

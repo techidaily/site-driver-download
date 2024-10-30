@@ -1,7 +1,7 @@
 ---
 title: Ultimate Setup Guide - Installing Logitech G402 Software & Updating Drivers
-date: 2024-08-23T16:35:27.418Z
-updated: 2024-08-24T16:35:27.418Z
+date: 2024-10-26T10:12:08.263Z
+updated: 2024-10-30T11:44:49.389Z
 tags:
   - win11
   - win10
@@ -48,11 +48,22 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cc911df20.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your AMD Vega **drivers**  manually
 
  AMD keeps updating drivers. To get them, you need to go to AMD’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -62,19 +73,32 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 1. Go to **[AMD’s official website](https://www.amd.com/en)**  and click the**DRIVERS & SUPPORT** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cdb049159.jpg)
 2. Under the**or select your product from the list** section, click**Graphics** ,**Radeon™ RX Vega Series** , and**Radeon™ RX Vega Series** . Then select**your model** from the Vega series family and click**SUBMIT** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cf88229fe.jpg)
 3. Select**your OS** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10cff3a9435.jpg)
 4. Click**DOWNLOAD** in**the first result** to make sure you download the latest release.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Run the downloaded file to finish the install.
 6. **Restart** your computer for the changes to take effect.
 
@@ -90,8 +114,6 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +121,26 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-adding-media-to-enhance-content/"><u>[New] Adding Media to Enhance Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-on-iphone-image-softening-dive-into-the-fourfold-approach/"><u>[Updated] Expertise on iPhone Image Softening Dive Into the Fourfold Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-a-detailed-look-at-vsco-features/"><u>[Updated] Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-solutions-to-fix-bcm2045a0-drivers-troubleshooting-guide/"><u>Efficient Solutions to Fix Bcm2045a0 Drivers - Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-update-methods-for-your-amd-video-cards-proprietary-software/"><u>Effortless Update Methods for Your AMD Video Card's Proprietary Software</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-ds-530-software-for-windows-11-64-bit-systems/"><u>Get the Latest Epson DS-530 Software for Windows 11 64-Bit Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-nvidia-geforce-rtx-2080-graphics-card-drivers-for-windows-1078-systems/"><u>Newest NVIDIA GeForce RTX 2080 Graphics Card Drivers for Windows 10/7/8 Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-color-grading-with-3d-luts/"><u>Pioneering Color Grading with 3D LUTs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quick-guide-to-download-and-deploy-llama-2/"><u>Quick Guide to Download & Deploy Llama 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/razer-drivers-download-and-update-in-windows-11-8-7-xp-and-vista/"><u>Razer Drivers Download & Update in Windows 11, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-startech-device-drivers-troubles-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving StarTech Device Drivers Troubles on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-hd-streaming-and-gaming-download-updated-usb-to-hdmi-video-drivers/"><u>Seamless HD Streaming and Gaming: Download Updated USB-to-HDMI Video Drivers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/setting-the-stage-imovies-role-in-video-intro-magic/"><u>Setting the Stage IMovie's Role in Video Intro Magic</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-easy-window-battery-driver-updates-for-better-performance/"><u>Step-by-Step Tutorial on Easy Window Battery Driver Updates for Better Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-essential-steps-for-keeping-your-wireless-mouse-drivers-compliant-with-hid-standards/"><u>The Essential Steps for Keeping Your Wireless Mouse Drivers Compliant with HID Standards</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-your-favorite-websites-into-windows-tools/"><u>Turn Your Favorite Websites Into Windows Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-orbital-secrets-how-amazons-breakthrough-in-space-based-laser-technology-is-revolutionizing-satellite-internet/"><u>Unlocking Orbital Secrets: How Amazon's Breakthrough in Space-Based Laser Technology Is Revolutionizing Satellite Internet</u></a></li>
+</ul></div>
 

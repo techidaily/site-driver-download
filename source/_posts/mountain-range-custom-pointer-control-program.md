@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-10-19T17:10:28.512Z
-updated: 2024-10-24T18:02:08.411Z
+date: 2024-10-28T19:18:12.157Z
+updated: 2024-10-29T18:13:30.344Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -42,16 +42,22 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -66,17 +72,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,21 +113,19 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leverage-your-smartphones-capability-to-store-social-snaps/"><u>[New] 2024 Approved Leverage Your Smartphone's Capability to Store Social Snaps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exposing-the-accelerating-path-of-8-youtube-content-creators-for-2024/"><u>[New] Exposing the Accelerating Path of 8 YouTube Content Creators for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-absurd-adventures-your-guide-to-wildest-tiktok-gaming-escapades/"><u>[Updated] Absurd Adventures Your Guide to Wildest TikTok Gaming Escapades</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easily-install-with-official-hp-laserjet-p1n06-printer-drivers-downloaded-here/"><u>Easily Install with Official HP LaserJet P1n06 Printer Drivers Downloaded Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-brother-mfc-l2740dw-driver-software-for-your-pc/"><u>Get the Latest Brother MFC-L2740DW Driver Software for Your PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-l3150-drivers-for-optimal-performance-on-windows-operating-systems/"><u>Get the Newest Epson L3150 Drivers for Optimal Performance on Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-gt-s50-ready-windows-drivers-downloads-for-win-7810-users/"><u>Get Your Epson GT-S50 Ready: Windows Drivers Downloads for Win 7/8/10 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-set-up-and-install-corsair-mouse-software-download-guide/"><u>How to Set Up & Install Corsair Mouse Software: Download Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 10T 5G Lock Screen Password</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-14-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 14 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>In 2024, Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-easy-driver-update-for-intels-iris-plus-640-graphics-card/"><u>Step-by-Step: Easy Driver Update for Intel's Iris Plus 640 Graphics Card</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-logitech-c920-webcam-on-windows-1011-without-a-hitch/"><u>Ultimate Guide to Installing Logitech C920 Webcam on Windows 10/11 Without a Hitch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-proficiently-post-360-degree-content-on-fb/"><u>[New] How to Proficiently Post 360-Degree Content on FB</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-syncopate-sound-and-picture-youtubes-audio-editing-techniques-for-2024/"><u>[Updated] Syncopate Sound and Picture YouTube's Audio Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-pro-drone-selections-for-professionals/"><u>[Updated] Top 5 Pro Drone Selections for Professionals</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-current-zebra-printer-drivers-for-windows-machines-easily/"><u>Find & Install Current Zebra Printer Drivers for Windows Machines Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977000700-get-the-latest-amd-rx-580-drivers-instantly-download-and-enhance-performance/"><u>Get the Latest AMD RX 580 Drivers Instantly: Download and Enhance Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-iphone-15-pro-max-for-only-one-cent-on-amazon-the-surprising-deal-inside-zdnet/"><u>Get Your iPhone 15 Pro Max for Only One Cent on Amazon – The Surprising Deal Inside | ZDNET</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-update-your-amd-smbus-software/"><u>How to Effortlessly Update Your AMD SMBus Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-and-fix-amd-rx-560-drivers-for-various-windows-os/"><u>How to Successfully Update and Fix AMD RX 560 Drivers for Various Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-print-driver-update-and-download-instructions-for-windows-11-users/"><u>HP Print Driver Update & Download Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-sony-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Sony FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-story-tempo-adjusting-video-speed-in-instagram/"><u>Mastering Story Tempo Adjusting Video Speed in Instagram</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nokia-c12-plus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nokia C12 Plus Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-f04-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy F04 Phones</u></a></li>
 </ul></div>
 

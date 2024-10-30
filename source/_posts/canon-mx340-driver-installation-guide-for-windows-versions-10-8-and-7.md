@@ -1,7 +1,7 @@
 ---
 title: Canon MX340 Driver Installation Guide for Windows Versions 10, 8 & 7
-date: 2024-08-23T16:36:38.008Z
-updated: 2024-08-24T16:36:38.008Z
+date: 2024-10-25T12:14:15.429Z
+updated: 2024-10-30T08:32:07.826Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,8 +52,12 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Update your Canon driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,19 +71,26 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 3. Type**the name** of your Canon product and click**Go** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -88,8 +106,6 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +113,20 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-high-definition-capturing-for-switch-gamers-for-2024/"><u>[New] High Definition Capturing for Switch Gamers for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-real-time-recorder-battle-go-obs-vs-shadowplay-for-2024/"><u>[Updated] Real-Time Recorder Battle Go OBS! Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-gpu-drivers-for-rtx-2070-super-on-windows-11/"><u>Download and Update GPU Drivers for RTX 2070 Super on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-for-your-logitech-g430-to-enhance-audio-performance/"><u>Get the Latest Firmware for Your Logitech G430 to Enhance Audio Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-updated-nvidia-quadro-rtx-s-driver-pack-compatible-with-win-10-8-and-7-systems/"><u>Install Updated Nvidia Quadro RTX S Driver Pack - Compatible with Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-2070-driver-update-optimized-performance-on-windows-1187/"><u>NVIDIA Geforce RTX 2070 Driver Update: Optimized Performance on Windows 11/8/7</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rapid-installation-guide-for-razer-mamba-drivers/"><u>Rapid Installation Guide for Razer Mamba Drivers</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-htc-u23-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 HTC U23 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-ensuring-the-tl-wn7n-nic-works-with-windows-systems/"><u>Troubleshooting Guide: Ensuring the TL-WN7n NIC Works with Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/turning-onoff-picture-in-picture-for-maciosipad-for-2024/"><u>Turning On/Off Picture-in-Picture for Mac/iOS/iPad for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-hp-scanjet-printer-software-for-windows-11-download-now/"><u>Update Your HP Scanjet Printer Software for Windows 11 - [Download Now]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download and Install Latest Updates for HP OfficeJet Pro 8620 on Windows
-date: 2024-08-23T16:34:50.232Z
-updated: 2024-08-24T16:34:50.232Z
+date: 2024-10-23T00:24:12.437Z
+updated: 2024-10-30T13:20:23.191Z
 tags:
   - win11
   - win10
@@ -37,9 +37,23 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a61db8764.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type your printer model (in my case it’s HP OfficeJet Pro 8620) in the**Search** box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f337c3865.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Make sure the detected **operating system** is correct, and click**Download** .
 
@@ -61,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 
  2) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  3) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f85504ee6f.jpg)
@@ -73,8 +84,12 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a74442076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Right click on your printer (it may display as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
@@ -84,8 +99,12 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a7a82a61c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7) Follow the on-screen instructions to finish updating the driver.
 
 8) After updating, restart your computer.
@@ -93,8 +112,12 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 Still no luck? OK. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Update HP OfficeJet Pro 8620 driver automatically (Recommended)
 
  If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,18 +132,12 @@ Still no luck? OK. There’s one more thing to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20bf24ea7df.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version of the driver (you can do this with the**FREE** version), and install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29f4c2b5d64.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 4) After updating, restart your computer to take effect.
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -140,8 +157,6 @@ If you have any questions, feel free to add a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +164,22 @@ If you have any questions, feel free to add a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-top-6-tiktok-income-predictors-summarized/"><u>[New] 2024 Approved Top 6 TikTok Income Predictors Summarized</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-10-best-terraria-mods-for-2024/"><u>[New] Top 10 Best Terraria Mods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-beatfinder-tools-tune-in-to-online-freshness/"><u>[Updated] In 2024, Beatfinder Tools Tune in to Online Freshness</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mg3000-printer-obtain-and-install-latest-drivers-with-ease/"><u>Canon MG3000 Printer: Obtain and Install Latest Drivers with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-on-fixing-connectivity-issues-with-lg-devices-and-their-drivers-on-windows-machines/"><u>Expert Advice on Fixing Connectivity Issues with LG Devices and Their Drivers on Windows Machines</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-geforce-gtx-1ergo-drivers-for-your-pc-on-windows-1011-free-download/"><u>Get the Latest Nvidia GeForce GTX 1Ergo Drivers for Your PC on Windows 10/11 - Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-mpow-bluetooth-drivers-for-your-windows-computer/"><u>Get the Newest MPOW Bluetooth Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-hp-laserjet-pro-m404n-drivers-for-your-printer/"><u>Get Updated HP LaserJet Pro M404n Drivers for Your Printer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-latest-m-audio-fast-track-driver-for-win-117881-now/"><u>Get Your Latest M-Audio Fast Track Driver for Win 11/7/8/8.1 Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/insignia-gaming-consoles-ultimate-toolkit-hdmi-to-lan-adapter-driver-for-xbox-available-now/"><u>Insignia Gaming Console's Ultimate Toolkit: HDMI to LAN Adapter Driver for Xbox - Available Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-obtaining-the-latest-dell-audio-device-driver/"><u>Simple Steps: Obtaining the Latest Dell Audio Device Driver</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/snapsizestrategy-optimize-your-visual-content-on-ig-for-2024/"><u>SnapSizeStrategy Optimize Your Visual Content on IG for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10-for-2024/"><u>The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10) for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-spoke-out-about-facebooks-data-missteps/"><u>Who Spoke Out About Facebook's Data Missteps?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-king-of-commercial-success-for-2024/"><u>YouTube King of Commercial Success for 2024</u></a></li>
+</ul></div>
 

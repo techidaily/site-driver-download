@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2024-10-18T17:19:44.585Z
-updated: 2024-10-24T18:32:59.875Z
+date: 2024-10-25T03:24:03.382Z
+updated: 2024-10-30T06:48:19.080Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
 Or
@@ -104,10 +111,10 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  03 Select**Keyboards** .
@@ -115,22 +122,15 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
@@ -138,31 +138,31 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  07 Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
@@ -195,24 +195,18 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-7-innovative-approaches-to-color-correction/"><u>[New] 2024 Approved 7 Innovative Approaches to Color Correction</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-crops-and-cultivation-compilation/"><u>[New] In 2024, The Ultimate Crops & Cultivation Compilation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-magnifying-youtube-visual-experience/"><u>[New] Magnifying YouTube Visual Experience</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-5-time-lapse-screen-recorders-for-2024/"><u>[New] Top 5 Time-Lapse Screen Recorders for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>[Updated] Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-step-by-step-tutorial-to-download-and-install-epson-et-2750-driver-on-windows-pcs/"><u>Complete Step-by-Step Tutorial to Download & Install Epson ET-2750 Driver on Windows PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/compute-discerning-window-systems-origins/"><u>Compute: Discerning Window Systems' Origins</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-the-future-of-ai-with-googles-bard-and-bing/"><u>Decoding the Future of AI with Google's Bard and Bing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-perfection-v39-printer-driver-for-windows-7-8-and-10-free/"><u>Download Epson Perfection V39 Printer Driver for Windows 7, 8 & 10 - Free</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-access-to-your-essential-easycap-drivers-download-today/"><u>Easy Access to Your Essential EasyCAP Drivers - Download Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-intel-chipset-control-panel-driver-updates-and-downloads-for-windows-111087/"><u>Free Intel Chipset Control Panel Driver Updates and Downloads for Windows 11/10/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-radeon-rx-ebx-590-graphics-card-software-for-windows-pcs/"><u>Get the Latest AMD Radeon RX Ebx 590 Graphics Card Software for Windows PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-gionee-f3-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Gionee F3 Pro Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-huawei-nova-y71-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Huawei Nova Y71 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/memory-protection/"><u>Memory Protection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-3080-drivers-free-download-for-win11win7win8-users/"><u>NVIDIA GeForce RTX 3080 Drivers: Free Download for Win11/Win7/Win8 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-install-guide-for-hp-officejet-amoena-5740-printing-driver-download/"><u>Quick Install Guide for HP OfficeJet Amoena 5740 Printing Driver Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speedy-and-straightforward-upgrades-for-intel-nuc-device-drivers/"><u>Speedy and Straightforward Upgrades for Intel NUC Device Drivers</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cultivate-creativity-10-inspiration-boosting-videos/"><u>[Updated] In 2024, Cultivate Creativity 10 Inspiration-Boosting Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leading-mp4-to-facebook-video-processor-for-2024/"><u>[Updated] Leading MP4-to-Facebook Video Processor for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-wonders-planetfall-stability-issues-and-solutions-for-windows-players/"><u>Age of Wonders: Planetfall - Stability Issues and Solutions for Windows Players</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bottles-could-potentially-break-if-not-handled-with-care-or-placed-too-roughly-on-the-table-causing-liquid-to-spill-out/"><u>Bottles Could Potentially Break if Not Handled with Care or Placed Too Roughly on the Table, Causing Liquid to Spill Out</u></a></li>
+<li><a href="https://discover-help.techidaily.com/complete-guide-to-effortless-account-registration/"><u>Complete Guide to Effortless Account Registration</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/continuous-audio-despite-freezing-video-on-youtube-fixes-for-chrome-and-firefox-users/"><u>Continuous Audio Despite Freezing Video on Youtube - Fixes for Chrome & Firefox Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-solution-for-bcm2045a0-driver-errors-get-back-to-work-in-no-time/"><u>Easy Solution for BCM2045A0 Driver Errors - Get Back to Work in No Time!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-overcome-compatibility-issues-with-xbox-controllers-in-widows-operating-systems/"><u>How to Overcome Compatibility Issues with Xbox Controllers in Widows Operating Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives/"><u>In 2024, The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-driver-updates-for-smooth-operation-on-windows-11-and-earlier-versions/"><u>Lenovo X1 Carbon Driver Updates for Smooth Operation on Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-m525-driver-and-software-download/"><u>Logitech M525 Driver And Software Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/master-the-update-fresh-epson-printer-drivers-for-seamless-windows-10-compatibility/"><u>Master the Update: Fresh Epson Printer Drivers for Seamless Windows 10 Compatibility</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/resolved-disappearing-youtube-bite-sizes/"><u>Resolved Disappearing YouTube Bite Sizes</u></a></li>
 </ul></div>
 

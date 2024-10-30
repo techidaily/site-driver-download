@@ -1,7 +1,7 @@
 ---
 title: "Quick Install Guide: Get Up-to-Date on Intel's Wireless Network Card - Dual Band AC 3160 for Optimal Internet Speed."
-date: 2024-08-23T16:33:49.141Z
-updated: 2024-08-24T16:33:49.141Z
+date: 2024-10-24T01:11:14.908Z
+updated: 2024-10-30T12:53:47.077Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,34 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +187,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +194,22 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-heavy-haulers-face-off-t5-or-sjcam-s6-legend-in-2024/"><u>[Updated] Heavy Haulers Face-Off T5 or SJCAM S6 Legend, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-where-creators-converge-and-craft-visual-stories-in-youtube-studio/"><u>[Updated] Where Creators Converge and Craft Visual Stories in Youtube Studio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-cutting-edge-approaches-to-virtual-reality-gaming-documentation/"><u>2024 Approved Cutting-Edge Approaches to Virtual Reality Gaming Documentation</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-how-to-take-screenshots-on-xbox-one/"><u>2024 Approved How to Take Screenshots on Xbox One</u></a></li>
+<li><a href="https://driver-download.techidaily.com/dell-thunderbolt-tb16-hub-step-by-step-guide-for-driver-download-and-updates/"><u>Dell Thunderbolt TB16 Hub - Step by Step Guide for Driver Download & Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-process-for-asus-wireless-network-interface-card-wifi-drivers/"><u>Easy Download Process for ASUS Wireless Network Interface Card (WiFi) Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-hp-laserjet-1018-printer-drivers-get-the-latest-updates/"><u>Free HP LaserJet 1018 Printer Drivers - Get the Latest Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962199836-how-to-update-your-asus-dvd-drives-with-official-drivers-free-downloads/"><u>How to Update Your ASUS DVD Drives with Official Drivers - FREE Downloads!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-nokia-c22-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Nokia C22 Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-m4vmp4-the-complete-compendium-on-multimedia-container-formats/"><u>Mastering M4V/MP4: The Complete Compendium on Multimedia Container Formats</u></a></li>
+<li><a href="https://driver-download.techidaily.com/network-free-driver-setup-mastering-windows-installs/"><u>Network-Free Driver Setup: Mastering Windows Installs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/social-media-supremacy-top-10-youtube-influencers-for-2024/"><u>Social Media Supremacy Top 10 YouTube Influencers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/step-by-step-guide-clearing-out-icloud-backups-across-devices-for-more-space/"><u>Step-by-Step Guide: Clearing Out iCloud Backups Across Devices for More Space</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-toshiba-laptop-driver-updates-and-downloads-for-windows/"><u>Step-by-Step Guide: Toshiba Laptop Driver Updates & Downloads for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/take-your-pc-gaming-to-the-next-level-updating-nvidia-gtx-1660-ti-graphics-card-drivers/"><u>Take Your PC Gaming to The Next Level - Updating NVIDIA GTX 1660 Ti Graphics Card Drivers</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->

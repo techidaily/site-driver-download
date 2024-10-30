@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Ralink RT3290 Driver Problems on Windows 7/8/11
-date: 2024-10-20T16:32:55.829Z
-updated: 2024-10-24T18:10:07.615Z
+date: 2024-10-24T07:51:02.644Z
+updated: 2024-10-30T05:57:06.912Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
@@ -49,15 +49,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -83,10 +90,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -106,13 +113,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -156,18 +156,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-compendium-of-camera-types-for-professional-videos-for-2024/"><u>[New] Compendium of Camera Types for Professional Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-asmr-filming-techniques-essential-tips-unveiled/"><u>[New] Mastering ASMR Filming Techniques Essential Tips Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-computer-stuck-on-boot-screen/"><u>[SOLVED] Computer Stuck on Boot Screen</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-audiovid-producers-digital-space/"><u>[Updated] AudioVid Producers' Digital Space</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-winning-on-spotifys-ad-platform/"><u>2024 Approved Strategies for Winning on Spotify's Ad Platform</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-video-conferencing-on-chrome-os/"><u>2024 Approved Streamlining Video Conferencing on Chrome OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-razer-blade-17-driver-rejuvenation-maximizing-compatibility-with-windows-11-10-8-and-7/"><u>Comprehensive Razer Blade 17 Driver Rejuvenation: Maximizing Compatibility with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/oad-youtube-audio-safely-and-legally-in-3-ways/"><u>Download Youtube Audio Safely & Legally in 3 Ways</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978801531-get-the-latest-nvidia-gt-730-driver-update-quick-easy-installation-steps/"><u>Get the Latest NVIDIA GT 730 Driver Update: Quick, Easy Installation Steps!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intel-rapid-storage-technology-driver-download-and-update-easily/"><u>Intel Rapid Storage Technology Driver Download & Update Easily!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-imitation-chatgpt-scams-how-they-could-compromise-your-information/"><u>Top 9 Imitation ChatGPT Scams: How They Could Compromise Your Information</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968150760-update-your-lenovo-tb3-dock-with-newest-compatible-drivers-available-now/"><u>Update Your Lenovo TB3 Dock with Newest Compatible Drivers Available Now</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-launchpad-equipment-the-beginners-checklist-for-2024/"><u>[Updated] Launchpad Equipment The Beginner's Checklist for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-tier-window-snapper-for-win11-users/"><u>2024 Approved Top-Tier Window Snapper for Win11 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unraveling-the-sideway-video-phenomenon-on-ig/"><u>2024 Approved Unraveling the Sideway Video Phenomenon on IG</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-next-level-gaming-on-gtx-1660-ti-by-updating-drivers-for-peak-performance/"><u>Achieve Next-Level Gaming on GTX ^1660 Ti by Updating Drivers for Peak Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-sapphire-display-adapters-drivers-on-windows-computers/"><u>Get the Newest Sapphire Display Adapters' Drivers on Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-windows-compatible-drivers-nvidia-geforce-mx150-software-packs/"><u>Get the Newest Windows Compatible Drivers: Nvidia GeForce MX150 Software Packs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977000082-get-your-roccat-mouse-up-and-running-with-these-free-drivers/"><u>Get Your ROCCAT Mouse Up and Running with These Free Drivers.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-yuva-2-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Yuva 2 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>In 2024, Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-cutting-room-floor-experts-share-tips-on-video-editing/"><u>In 2024, The Cutting Room Floor Experts Share Tips on Video Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tiktok-earnings-gurus-choice-top-6-tools/"><u>In 2024, TikTok Earnings Gurus' Choice Top 6 Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-hps-thunderbolt-dock-g2-firmware-for-your-120-watt-and-230-watt-devices-today/"><u>Install HP's Thunderbolt Dock G2 Firmware for Your 120-Watt and 230-Watt Devices Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-advancements-in-80211n-wifi-drivers-compatible-with-windows-operating-systems-from-7-to-11-download-now/"><u>Latest Advancements in 802.11N WiFi Drivers: Compatible with Windows Operating Systems From 7 to 11 - Download Now!</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/program-license-protection/"><u>Program License Protection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975352193-the-free-rider-problem-occurs-when-individuals-benefit-from-a-good-without-contributing-to-its-cost/"><u>The Free Rider Problem Occurs when Individuals Benefit From a Good without Contributing to Its Cost.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970526406-upgrade-graphics-with-newest-rtx-2060-super-drivers-for-windows-11-get-them-here/"><u>Upgrade Graphics with Newest RTX 2060 Super Drivers for Windows 11 - Get Them Here!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/poiothta-eygnwmwn-synadelfia-gkreman/"><u>Ποιότητα Ευγνώμων Συνάδελφια Γκρεμάν</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2024-10-17T19:06:39.811Z
-updated: 2024-10-24T18:34:54.844Z
+date: 2024-10-25T16:05:03.540Z
+updated: 2024-10-30T08:32:26.660Z
 tags:
   - win11
   - win10
@@ -48,40 +48,26 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
 
@@ -96,9 +82,29 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -120,22 +126,21 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-streaming-software-showdown-the-verdict-on-wirecast-vs-obs/"><u>[New] Streaming Software Showdown The Verdict on Wirecast Vs. OBS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-c65-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco C65 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-peek-into-the-heart-of-youtubes-video-operations/"><u>A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/acer-wi-fibluetooth-touchpad-drivers-for-windows-10-install-directly-and-free/"><u>Acer Wi-Fi/Bluetooth Touchpad Drivers for Windows 10: Install Directly & Free!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967016200-amd-ati-radeon-hd-3450-secure-your-free-driver-download-and-stay-updated-now/"><u>AMD ATI Radeon HD 3450 - Secure Your Free Driver Download and Stay Updated Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-framework-for-managing-ai-development-who-steps-in-as-the-guardian/"><u>Demystifying the Framework for Managing AI Development: Who Steps In as The Guardian?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/direct-links-to-geforce-gtx-(span-stylecolor3b75f2)download-drivers-for-windows-systems(span)/"><u>Direct Links to GeForce GTX <Span Style=color:#3B75F2;>Download Drivers for Windows Systems</Span></u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-techkey-bluetooth-driver-for-windows-operating-systems-10-7-and-8/"><u>Download the Latest Techkey Bluetooth Driver for Windows Operating Systems (10, 7 & 8)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-updating-asus-usb-device-drivers-in-minutes/"><u>Easy Steps: Updating ASUS USB Device Drivers in Minutes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevating-your-sound-capture-using-audacity-professionally-for-2024/"><u>Elevating Your Sound Capture Using Audacity Professionally for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-released-geforce-rtx-2nvidas-rtx-2070-driver-upgrade-for-windows-users-versions-10-8-and-7/"><u>Freshly Released: GeForce RTX 2Nvida's RTX 2070 Driver Upgrade for Windows Users (Versions 10, 8 & 7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-updated-hp-laserjet-p1007-driver-improved-compatibility-and-features-for-smooth-operations/"><u>Install Updated HP LaserJet P1007 Driver: Improved Compatibility and Features for Smooth Operations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-legion-5-pro-download-latest-drivers-and-firmware/"><u>Lenovo Legion 5 Pro - Download Latest Drivers and Firmware</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-youtube-mp4-encoding-steps/"><u>Prime YouTube MP4 Encoding Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-to-overcome-logitech-c615-driver-compatibility-issues/"><u>Quick Guide to Overcome Logitech C615 Driver Compatibility Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ipad-showdown-a-comprehensive-buying-guide-and-comparison/"><u>Top iPad Showdown: A Comprehensive Buying Guide and Comparison</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-guide-how-to-install-brother-mfc-7860dw-driver-software-in-windows/"><u>Updated Guide: How to Install Brother MFC-7860DW Driver Software in Windows</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-techniques-for-securing-snapchat-content-via-phone/"><u>[New] In 2024, Techniques for Securing Snapchat Content via Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-fine-art-of-focusing-enhanced-zoom-on-roblox-games/"><u>[Updated] The Fine Art of Focusing Enhanced Zoom on Roblox Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-insiders-guide-to-facebook-live-with-360-degrees/"><u>[Updated] The Insider's Guide to Facebook Live with 360 Degrees</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-edge-royalty-free-music-platforms-for-content-makers/"><u>Cutting-Edge Royalty-Free Music Platforms for Content Makers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-for-msi-b350-toms-oc-compatible-with-windows-11-and-windows-7/"><u>Download Drivers for MSI B350 TOM'S OC: Compatible with Windows 11 & Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-windows-ebox-experience-lenovo-camera-driver-software-version-upgrade/"><u>Enhance Your Windows Ebox Experience - Lenovo Camera Driver Software Version Upgrade</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-wireless-connectivity-update-lenovo-bluetooth-drivers-on-windows-7-and-10-with-these-safe-downloads/"><u>Ensure Seamless Wireless Connectivity: Update Lenovo Bluetooth Drivers on Windows 7 & 10 with These Safe Downloads!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-420-printer-software-free-installation-and-latest-firmware-updates/"><u>Epson XP-420 Printer Software: Free Installation & Latest Firmware Updates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722989504270-freshly-updated-game-no-more-freezing/"><u>Freshly Updated Game - No More Freezing!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-customer-stories-for-brand-growth-for-2024/"><u>Harnessing Customer Stories for Brand Growth for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-create-professional-gopro-vlogs-for-2024/"><u>How to Create Professional Gopro Vlogs for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-essential-xbox-wireless-adapter-driver-software/"><u>Quick Download: Essential Xbox Wireless Adapter Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/securely-update-to-the-latest-corsair-keyboard-drivers-for-windows-at-no-cost/"><u>Securely Update to the Latest Corsair Keyboard Drivers for Windows at No Cost</u></a></li>
+<li><a href="https://driver-download.techidaily.com/startech-drivers-troubleshooting-solutions-in-windows-10-and-earlier-versions/"><u>StarTech Drivers Troubleshooting Solutions in Windows 10 and Earlier Versions</u></a></li>
 </ul></div>
 
