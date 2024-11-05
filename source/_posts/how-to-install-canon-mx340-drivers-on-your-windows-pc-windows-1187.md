@@ -1,7 +1,7 @@
 ---
 title: How to Install Canon MX340 Drivers on Your Windows PC (Windows 11/8/7)
-date: 2024-08-23T16:30:09.912Z
-updated: 2024-08-24T16:30:09.912Z
+date: 2024-10-28T19:00:44.388Z
+updated: 2024-11-04T21:50:27.819Z
 tags:
   - win11
   - win10
@@ -38,15 +38,28 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 2: Update your Canon driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,19 +73,26 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 3. Type**the name** of your Canon product and click**Go** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -88,8 +108,6 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +115,22 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-acclaimed-constructors-top-notch-instagram-hlv-artisans/"><u>[New] Acclaimed Constructors Top-Notch Instagram HLV Artisans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>[New] Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-lava-blaze-2-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Lava Blaze 2 Pro.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210536347-9781473358447-fun-astrology-teach-yourself-the-signs-of-the-zodiac-and-what-they-mean/"><u>Fun Astrology - Teach Yourself the Signs of the Zodiac and What They Mean | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-optimal-printing-with-hp-laserjet-pro-m428fdx-drivers-seamless-compatibility-for-windows-11107-devices/"><u>Get Optimal Printing with HP LaserJet Pro M428fdx Drivers: Seamless Compatibility for Windows 11/10/7 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-zebra-gk420d-drivers-fast-and-simple-installation/"><u>Get Your Hands on Zebra GK420D Drivers - Fast and Simple Installation!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-ultimate-mic-for-digital-content-makers/"><u>In 2024, Ultimate Mic for Digital Content Makers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-soundmax-audio-drivers-in-windows-tips-and-tricks-for-optimal-performance/"><u>Installing SoundMAX Audio Drivers in Windows: Tips and Tricks for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g29-racing-wheel-driver-installation-windows-10-11-and-7-supported/"><u>Logitech G29 Racing Wheel Driver Installation: Windows 10, 11 & 7 Supported</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidias-game-ready-windows-1110-graphics-drivers-free-downloads-available/"><u>NVIDIA's Game-Ready Windows 11/10 Graphics Drivers: Free Downloads Available</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-lava-blaze-2-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-driver-update-for-enhanced-performance-on-your-hp-z440-workstation/"><u>Step-by-Step Driver Update for Enhanced Performance on Your HP Z440 Workstation</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a18-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A18</u></a></li>
+</ul></div>
 

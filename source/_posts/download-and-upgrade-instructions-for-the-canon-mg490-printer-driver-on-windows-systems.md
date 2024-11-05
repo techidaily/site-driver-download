@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2024-10-23T13:02:26.684Z
-updated: 2024-10-30T02:18:25.911Z
+date: 2024-11-03T17:41:51.740Z
+updated: 2024-11-04T20:51:22.763Z
 tags:
   - win11
   - win10
@@ -40,31 +40,25 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -80,25 +74,25 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
@@ -124,22 +118,17 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unleash-premium-zoom-audio-quality-with-simple-adjustments/"><u>[New] In 2024, Unleash Premium Zoom Audio Quality with Simple Adjustments</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-methods-for-reducing-jello-like-video-stabilization-effects/"><u>[Updated] Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-peek-into-fb-episodes-unseen-for-2024/"><u>[Updated] Peek Into FB Episodes, Unseen for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-no-cost-voice-altering-app-for-valorant-enthusiasts-for-2024/"><u>Best No-Cost Voice Altering App for Valorant Enthusiasts for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-ip110-driver-software-downloads-for-various-windows-versions-win11win10win8win7/"><u>Canon iP110 Driver Software Downloads for Various Windows Versions (Win11/Win10/Win8/Win7)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/crucial-windows-10-features-to-boost-productivity/"><u>Crucial Windows 10 Features to Boost Productivity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-pro-8610-drivers-compatible-with-windows-111087xp/"><u>Download & Install HP Officejet Pro 8610 Drivers: Compatible with Windows 11/10/8/7/XP</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-for-logitech-g402-gamepad-driver-download-and-setup/"><u>Easy Guide for Logitech G402 Gamepad Driver Download & Setup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969139390-essential-driver-pack-for-your-msi-x470-gaming-plus-free-downloads-available/"><u>Essential Driver Pack for Your MSI X470 Gaming Plus: Free Downloads Available</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/five-tips-for-writing-dialogue-and-narrative-scripts/"><u>Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/increased-stress-resistance-in-host-plants-against-drought-conditions-due-to-improved-water-absorption-capacity-of-the-mycorrhizal-network/"><u>Increased Stress Resistance in Host Plants Against Drought Conditions Due to Improved Water Absorption Capacity of the Mycorrhizal Network</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-asus-dvd-drive-drivers-available-for-immediate-download/"><u>Latest ASUS DVD Drive Drivers Available for Immediate Download</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-auditory-cuts-and-segments-convenient-methods-to-divide-your-music-files/"><u>New 2024 Approved Auditory Cuts and Segments Convenient Methods to Divide Your Music Files</u></a></li>
-<li><a href="https://driver-download.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-no-cost-hassle-free-installation-available-now/"><u>Qualcomm Atheros AR938X Driver Downloads: No Cost, Hassle-Free Installation Available Now</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968350268-ultimate-guide-to-downloading-and-updating-rndis-usb-network-adapter-for-windows-now-resolved/"><u>Ultimate Guide to Downloading and Updating RNDIS USB Network Adapter for Windows - Now Resolved!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion-for-2024/"><u>Unveiling the Power of Video Enhancement SDR to Dynamic Range Upconversion for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-printer-drivers-on-your-windows-pc/"><u>Download & Install HP Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977152799-download-and-update-surface-book-drivers-with-simple-steps/"><u>Download and Update Surface Book Drivers with Simple Steps!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-resolution-to-logitech-c615s-driver-complications/"><u>Effortless Resolution to Logitech C615's Driver Complications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-your-sound-card-drivers-with-the-latest-realtek-alc892aic7380-software-on-windows-11/"><u>How to Easily Update Your Sound Card Drivers with the Latest Realtek ALC892/AIC7380 Software on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2013-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2013 Online with DigiSigner</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-unrooted-android-sounds-4-techniques/"><u>In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/premier-4k-laptop-choices-for-gamers-for-2024/"><u>Premier 4K Laptop Choices for Gamers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/secure-your-live-streams-on-firefoxchrome/"><u>Secure Your Live Streams on FireFox/Chrome</u></a></li>
+<li><a href="https://driver-download.techidaily.com/summit-interaction-handler-for-input-devices/"><u>Summit Interaction Handler for Input Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-magic-v2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor Magic V2 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-15-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 15 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-this-article-shows-the-detail-steps-to-create-a-chromakey-ie-greenscreen-effect-in-final-cut-pro-x/"><u>Updated 2024 Approved This Article Shows the Detail Steps to Create a Chromakey, I.e. Greenscreen Effect in Final Cut Pro X</u></a></li>
 </ul></div>
 

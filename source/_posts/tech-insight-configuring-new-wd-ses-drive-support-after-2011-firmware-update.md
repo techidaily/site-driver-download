@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2024-10-25T03:24:03.382Z
-updated: 2024-10-30T06:48:19.080Z
+date: 2024-10-31T23:12:54.140Z
+updated: 2024-11-04T19:48:14.211Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
 Or
@@ -111,26 +104,26 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  03 Select**Keyboards** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
@@ -142,31 +135,38 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  07 Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_11-04-39.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10 Click**OK** to start the installation.
 
@@ -195,18 +195,20 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-cultivate-creativity-10-inspiration-boosting-videos/"><u>[Updated] In 2024, Cultivate Creativity 10 Inspiration-Boosting Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-leading-mp4-to-facebook-video-processor-for-2024/"><u>[Updated] Leading MP4-to-Facebook Video Processor for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/age-of-wonders-planetfall-stability-issues-and-solutions-for-windows-players/"><u>Age of Wonders: Planetfall - Stability Issues and Solutions for Windows Players</u></a></li>
-<li><a href="https://driver-download.techidaily.com/bottles-could-potentially-break-if-not-handled-with-care-or-placed-too-roughly-on-the-table-causing-liquid-to-spill-out/"><u>Bottles Could Potentially Break if Not Handled with Care or Placed Too Roughly on the Table, Causing Liquid to Spill Out</u></a></li>
-<li><a href="https://discover-help.techidaily.com/complete-guide-to-effortless-account-registration/"><u>Complete Guide to Effortless Account Registration</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/continuous-audio-despite-freezing-video-on-youtube-fixes-for-chrome-and-firefox-users/"><u>Continuous Audio Despite Freezing Video on Youtube - Fixes for Chrome & Firefox Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-solution-for-bcm2045a0-driver-errors-get-back-to-work-in-no-time/"><u>Easy Solution for BCM2045A0 Driver Errors - Get Back to Work in No Time!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-overcome-compatibility-issues-with-xbox-controllers-in-widows-operating-systems/"><u>How to Overcome Compatibility Issues with Xbox Controllers in Widows Operating Systems</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-the-ultimate-guide-to-sound-modification-tools-from-introduction-to-alternatives/"><u>In 2024, The Ultimate Guide to Sound Modification Tools From Introduction to Alternatives</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-driver-updates-for-smooth-operation-on-windows-11-and-earlier-versions/"><u>Lenovo X1 Carbon Driver Updates for Smooth Operation on Windows 11 and Earlier Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-m525-driver-and-software-download/"><u>Logitech M525 Driver And Software Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/master-the-update-fresh-epson-printer-drivers-for-seamless-windows-10-compatibility/"><u>Master the Update: Fresh Epson Printer Drivers for Seamless Windows 10 Compatibility</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/resolved-disappearing-youtube-bite-sizes/"><u>Resolved Disappearing YouTube Bite Sizes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ath-to-youtube-riches-optimal-view-figures-for-monetization-success-for-2024/"><u>[New] Path to YouTube Riches Optimal View Figures for Monetization Success for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-10-iphone-virtual-reality-games-for-next-level-play-for-2024/"><u>[New] Top 10 IPhone Virtual Reality Games for Next Level Play for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-superior-zero-price-switch-emulators/"><u>[Updated] In 2024, Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-mastering-playlist-sharing-on-youtube/"><u>2024 Approved Mastering Playlist Sharing on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-connectivity-download-latest-drivers-for-intel-wi-fi-6-ax200-on-windows-10-and-11-systems/"><u>Enhance Connectivity: Download Latest Drivers for Intel Wi-Fi 6 AX200 on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-to-compatibility-downloading-startechs-usb-vga-controller-drivers/"><u>Fast Track to Compatibility: Downloading StarTech's USB VGA Controller Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-magic-mouse-working-on-windows-free-download-and-installation-tutorial/"><u>Get Your Magic Mouse Working on Windows - FREE Download and Installation Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-advanced-techniques-for-bio-linking-on-tiktok/"><u>In 2024, Advanced Techniques for Bio Linking on TikTok</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-integrated-graphics-software-free-downloads-and-updates-for-windows-10-and-11/"><u>Latest Intel Integrated Graphics Software: Free Downloads & Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-downloading-and-configuring-your-epson-xp-410-drivers-in-windows/"><u>Step by Step Instructions: Downloading & Configuring Your Epson XP-410 Drivers in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-running-a-windows-11-laptop-in-sleep-mode-while-closed-for-extended-use/"><u>Step-by-Step Guide: Running a Windows 11 Laptop in Sleep Mode While Closed for Extended Use</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-earbuds-of-2024/"><u>The Best Earbuds of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-ultimate-trick-to-fast-track-your-microphones-quality-check/"><u>The Ultimate Trick to Fast-Track Your Microphone's Quality Check</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-and-install-hp-officejet-pro-9015-driver-most-recent-release/"><u>Update & Install HP OfficeJet Pro 9015 Driver - Most Recent Release</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-cross-platform-video-editing-made-easy-a-chromebook-users-guide-for-2024/"><u>Updated Cross-Platform Video Editing Made Easy A Chromebook Users Guide for 2024</u></a></li>
 </ul></div>
 

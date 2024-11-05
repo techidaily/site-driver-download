@@ -1,7 +1,7 @@
 ---
 title: Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide
-date: 2024-10-24T10:06:51.716Z
-updated: 2024-10-30T09:32:32.342Z
+date: 2024-11-02T04:26:50.580Z
+updated: 2024-11-04T23:33:46.646Z
 tags:
   - win11
   - win10
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
@@ -39,23 +39,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -65,16 +58,17 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
@@ -104,19 +98,18 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cutting-edge-approaches-merging-obs-with-facebook-live/"><u>[New] In 2024, Cutting-Edge Approaches Merging OBS with Facebook Live</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-buzz-generating-tie/"><u>[New] Ultimate Buzz-Generating Tie</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-hp-deskjet-printing-solutions-updated-drivers-for-your-device/"><u>Download the Newest HP DeskJet ²³) Printing Solutions: Updated Drivers for Your Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-methods-for-fast-driver-refreshes-on-dell-g-series-laptops-including-the-g7/"><u>Easy Methods for Fast Driver Refreshes on Dell G Series Laptops (Including the G7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-samsung-m2020-drivers-here-secure-your-pc/"><u>Get the Latest Samsung M2020 Drivers Here – Secure Your PC!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-razer-naga-mouse-drivers-installed-in-your-windows-system/"><u>Get the Newest Razer Naga Mouse Drivers Installed in Your Windows System</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro with a Mask On</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-find-n3-flip-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Find N3 Flip FRP</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-routine-personalize-your-youtube-shorts-image-credits/"><u>In 2024, Ultimate Routine Personalize Your YouTube Shorts Image Credits</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-enhanced-rtx-2080-super-graphics-cards-drivers-on-your-windows-11-machine/"><u>Install Enhanced RTX 2080 Super Graphics Cards Drivers on Your Windows 11 Machine</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-latest-microsoft-audio-device-drivers-on-your-pc-click-here/"><u>Install Latest Microsoft Audio Device Drivers on Your PC - [Click Here]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/offline-android-delights-top-screen-free-game-list-you-must-play-in-2024/"><u>Offline Android Delights Top Screen-Free Game List You Must Play, In 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-ultimate-fix-guide-to-get-the-best-out-of-your-jabra-headset/"><u>The Ultimate Fix Guide to Get the Best Out of Your Jabra Headset</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-directx-troubles-fix-it-fast-using-these-easy-4-methods/"><u>Warzone DirectX Troubles? Fix It Fast Using These Easy 4 Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grassroots-video-marketing-strategies/"><u>[New] In 2024, Grassroots Video Marketing Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-learn-to-use-vlcs-screen-recorder-today/"><u>[New] Learn to Use VLC's Screen Recorder Today</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-12-methods-to-posted-facebook-videos-not-showing-up/"><u>[Updated] 2024 Approved 12 Methods to Posted Facebook Videos Not Showing Up</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-craft-professional-edits-with-story-remix-in-windows-photos-app/"><u>[Updated] Craft Professional Edits with Story Remix in Windows Photos App</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-nfts-with-minimal-hassle-an-introductory-handbook/"><u>[Updated] Crafting NFTs with Minimal Hassle An Introductory Handbook</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-focusrite-scarlett-2i4-driver-download-for-windows-users/"><u>Compatible Focusrite Scarlett 2I4 Driver Download for Windows Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-facebooks-success-story-origins-appeal-secrets-and-prime-functionality/"><u>Decoding Facebook's Success Story: Origins, Appeal Secrets, and Prime Functionality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722852705227-essential-7-aspects-to-review-when-selecting-the-perfect-smart-tv-for-your-home/"><u>Essential 7 Aspects to Review When Selecting the Perfect Smart TV for Your Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-bots-on-discord-servers-efficiently/"><u>Guide: Setting Up Bots on Discord Servers Efficiently</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mg3000-driver-software-free-download-and-update-steps/"><u>Latest Canon MG3000 Driver Software - Free Download and Update Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamlessly-update-your-connectivity-latest-wireless-driver-downloads-await/"><u>Seamlessly Update Your Connectivity - Latest Wireless Driver Downloads Await</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-update-hp-officejet-pro-9015-drivers-downloads/"><u>Secure Update: HP OfficeJet Pro 9015 Drivers Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-canon-d530s-camera-software-direct-download-instructions-here/"><u>Update Your Canon D530's Camera Software: Direct Download Instructions Here</u></a></li>
 </ul></div>
 

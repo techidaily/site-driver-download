@@ -1,7 +1,7 @@
 ---
 title: HP OfficeJet Pro J8680 Printer Drivers for Free Download - Latest Version & Compatibility Checker
-date: 2024-10-26T06:09:20.271Z
-updated: 2024-10-30T11:59:13.210Z
+date: 2024-11-01T08:09:20.540Z
+updated: 2024-11-05T00:33:40.564Z
 tags:
   - win11
   - win10
@@ -39,16 +39,30 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 3. Click **Update**  next to your Elo touch screen to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap174.png)  
  You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Download and install your Elo touch screen driver manually
 
@@ -60,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 3. Click**Select Product Category** . Then select**Touch Drivers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap176-2.png)
@@ -72,28 +86,8 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap178.png)
 5. Click the driver you want to download to download it to your PC. Make sure you download the right driver for your Elo touch screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap179.png)
 6. **Double-click** the downloaded driver file and follow the on-screen instruction to install it on your PC.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have any questions or suggestions, please leave your comment below.
 
@@ -115,19 +109,18 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-evolution-of-engagement-key-post-vidcon-events/"><u>[New] 2024 Approved Evolution of Engagement Key Post-VidCon Events</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-effortless-fb-stream-setup-using-obs-on-laptops-mac-and-pc/"><u>[New] Effortless FB Stream Setup Using OBS on Laptops, Mac & PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-closer-insight-in-roblox-games-for-2024/"><u>[Updated] The Ultimate Guide to Closer Insight in Roblox Games for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-cloud-storage-solutions-mematic-app/"><u>2024 Approved Innovative Cloud Storage Solutions Mematic App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-not-showing-up-heres-how-to-fix-your-headset-detection-problems/"><u>Astro A50 Not Showing Up? Here's How to Fix Your Headset Detection Problems!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958474510-download-and-update-amd-radeon-rx-580-graphics-card-drivers-fast-simple-steps/"><u>Download & Update AMD Radeon RX 580 Graphics Card Drivers - Fast, Simple Steps</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/engaging-with-jujutsu-kaisen-fans-through-tiktok-challenges/"><u>Engaging with Jujutsu Kaisen Fans Through TikTok Challenges</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-tips-correcting-driver-problems-in-hp-computer-screens-across-windows-platforms/"><u>Expert Tips: Correcting Driver Problems in HP Computer Screens Across Windows Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-n5740-printer-up-and-running-on-windows-11108-download-drivers-here/"><u>Get Your HP OfficeJet N5740 Printer Up and Running on Windows 11/10/8 - Download Drivers Here</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-edit-and-cut-divx-videos-without-spending-a-dime-2023-guide-for-2024/"><u>New Edit and Cut Divx Videos Without Spending a Dime (2023 Guide) for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a24-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A24 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963593079-seamless-update-process-for-epson-xp-440-drivers-heres-how/"><u>Seamless Update Process for Epson XP-440 Drivers - Here's How!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-the-premier-internal-ssds-dominating-2/"><u>Ultimate Guide: The Premier Internal SSDs Dominating 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-and-fix-hp-monitor-driver-glitches-for-windows-11-8-and-7-users/"><u>Update and Fix HP Monitor Driver Glitches for Windows 11, 8, & 7 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list/"><u>[New] Comprehensive Guide to Choosing Podcast Names + Creative Ideas List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-foundations-of-easing-volume-control-in-audition/"><u>[New] In 2024, Foundations of Easing Volume Control in Audition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-expert-strategies-for-handling-toxic-behavior-in-discord-channels/"><u>[Updated] In 2024, Expert Strategies for Handling Toxic Behavior in Discord Channels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-whatsapp-friendly-broadcasting-facebook-videos-for-2024/"><u>[Updated] WhatsApp-Friendly Broadcasting Facebook Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-pictorial-narration-framework/"><u>2024 Approved Pictorial Narration Framework</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-the-latest-version-of-your-networks-best-friend-free-download-for-killer-e2500-gige-controller-driver/"><u>Access the Latest Version of Your Network's Best Friend - Free Download for Killer E2500 GigE Controller Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-and-download-for-optimizing-with-sound-blaster-audigy-fx-drivers/"><u>Complete Guide & Download for Optimizing with Sound Blaster Audigy Fx Drivers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971201994-get-the-ultimate-audio-experience-with-m-audio-fast-track-free/"><u>Get the Ultimate Audio Experience with M-Audio Fast Track – FREE</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-452dn-laserjet-drivers-secure-and-fast-downloads-to-enhance-your-printing-experience/"><u>HP 452Dn Laserjet Drivers: Secure & Fast Downloads to Enhance Your Printing Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-nvidia-quadro-gpu-drivers-on-windows-10-quick-guide-and-download-links/"><u>Installing NVIDIA Quadro GPU Drivers on Windows 10 - Quick Guide and Download Links</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2080-driver-update-compatible-with-windows-11-7-and-earlier-versions-of-microsoft-os/"><u>RTX 2080 Driver Update - Compatible with Windows 11, 7 and Earlier Versions of Microsoft OS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cs-to-expose-youtubes-well-guarded-videotapes-for-2024/"><u>Tactics to Expose YouTube's Well-Guarded Videotapes for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Definitive Guide: How To Find And Install Newest Windows Drivers For Your Lenovo T420"
-date: 2024-10-23T13:55:26.462Z
-updated: 2024-10-30T14:12:13.019Z
+date: 2024-10-30T20:48:31.899Z
+updated: 2024-11-05T04:26:00.202Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -58,30 +45,37 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
@@ -102,15 +96,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -133,18 +127,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-impactful-youtube-channel-logo-tips-for-2024/"><u>[New] Crafting Impactful YouTube Channel Logo Tips for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-team-potential-expert-tips-on-slack-and-filmora-integration/"><u>[Updated] Unlocking Team Potential Expert Tips on Slack and Filmora Integration</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972614933-complete-driver-package-for-hp-photosmart-7520-ready-to-download-now/"><u>Complete Driver Package for HP Photosmart 7520 Ready to Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-canon-eos-60d-software-updates-and-installer-for-enhanced-photography-experience/"><u>Essential Canon EOS 60D Software Updates and Installer for Enhanced Photography Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-phantom-v-flip-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Tecno Phantom V Flip Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-epson-l3150-printers-drivers-on-windows-1087-step-by-step-guide/"><u>How to Update Your Epson L3150 Printer's Drivers on Windows 10/8/7 - Step-by-Step Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-iphone-12-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From iPhone 12 If Youve Tried Everything</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/netflix-trouble-heres-how-you-can-fix-it-when-it-fails-on-roku-streaming-stickbox/"><u>Netflix Trouble? Here's How You Can Fix It When It Fails on Roku Streaming Stick/Box</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-updates-for-your-intel-iris-540-graphic-drivers-made-easy/"><u>Quick Updates for Your Intel Iris 540 Graphic Drivers Made Easy!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-unconventional-audio-gadgetry-with-aria/"><u>Review of Unconventional Audio Gadgetry with Aria</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-connectivity-with-newest-tp-link-tusb400-bluetooth-adapter-drivers-download-here/"><u>Seamless Connectivity with Newest TP-Link TUSB400 Bluetooth Adapter Drivers – Download Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-to-download-and-activate-corsair-void-pro-drivers-on-pc/"><u>Step-by-Step Tutorial to Download and Activate Corsair Void Pro Drivers on PC!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-pairing-microsoft-wireless-display-adapter-with-windows-11-a-comprehensive-guide/"><u>Successfully Pairing Microsoft Wireless Display Adapter with Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-decoding-the-appeal-what-makes-you-love-filmora-editing-for-2024/"><u>[New] Decoding the Appeal What Makes You Love Filmora Editing for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xcelling-at-content-creation-a-guide-to-gamers-success/"><u>[New] Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamlined-techniques-for-ios-image-sharing/"><u>[New] Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-setting-up-seamless-auto-play-for-fb-content/"><u>[Updated] Setting Up Seamless Auto-Play for FB Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-time-lapse-tips-for-iphoneipad-users/"><u>2024 Approved Time-Lapse Tips for iPhone/iPad Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-canon-mg3000-printer-drivers-step-by-step-guide/"><u>Download and Update Canon MG3000 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-mg7420-series-printer-driver-on-windows-get-set-up/"><u>Download Canon MG7420 Series Printer Driver on Windows - Get Set Up</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-printer-driver-mf743cdw-for-windows-systems/"><u>Download Canon Printer Driver MF743CDW for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-invalid-user-alerts-in-w11-operating-systems/"><u>Eliminating Invalid User Alerts in W11 Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-the-latest-killer-e2500-gigabit-ethernet-controllers/"><u>Free Download: Ultimate Guide to Installing the Latest Killer E2500 Gigabit Ethernet Controllers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-software-for-your-hp-color-laserjet-pro-mfp-m477-free-driver-installation/"><u>Get the Latest Software for Your HP Color Laserjet Pro MFP M477 - FREE Driver Installation</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ralink-rt3290-driver-troubleshooting-in-windows-operating-systems-win7-to-win11-tips/"><u>Ralink RT3290 Driver Troubleshooting in Windows Operating Systems: Win7 to Win11 Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-downloading-and-updating-konica-minolta-printer-drivers-simple-instructions/"><u>Step-by-Step: Downloading & Updating Konica Minolta Printer Drivers [Simple Instructions]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-ub400-free-downloads-for-your-bluetooth-usb-adapter-drivers/"><u>TP-Link UB400: Free Downloads for Your Bluetooth USB Adapter Drivers</u></a></li>
 </ul></div>
 
