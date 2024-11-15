@@ -1,7 +1,7 @@
 ---
 title: How to Install Canon DR-C225 Printer Drivers on Windows 11, 10 & 8
-date: 2024-11-04T07:06:21.758Z
-updated: 2024-11-04T20:46:01.312Z
+date: 2024-11-11T01:03:24.420Z
+updated: 2024-11-15T09:37:08.382Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
@@ -46,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
@@ -59,21 +66,14 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
@@ -82,16 +82,29 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 10. Follow the notes to finish the manual install.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
@@ -108,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
 
@@ -140,20 +146,22 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>[New] Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-next-level-game-capture-strategies-for-high-definition-quality/"><u>[New] Next-Level Game Capture Strategies for High Definition Quality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transform-photos-with-the-premier-11-edits/"><u>[Updated] Transform Photos with the Premier 11 Edits</u></a></li>
-<li><a href="https://driver-download.techidaily.com/consider-your-genre/"><u>Consider Your Genre</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-enhancing-your-website-with-smart-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhancing Your Website with Smart Analytics and Personalization</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-amd-radeon-hd-3450-drivers-with-simple-steps/"><u>Download and Update AMD Radeon HD 3450 Drivers with Simple Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-perfect-driver-for-your-arduino-mega-board-now/"><u>Download the Perfect Driver for Your Arduino Mega Board Now!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-20-engaging-tiktok-captions-for-viral-success/"><u>In 2024, Top 20 Engaging TikTok Captions for Viral Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-green-screen-shooting-made-simple/"><u>Mastering Green Screen Shooting Made Simple</u></a></li>
-<li><a href="https://discover-community.techidaily.com/movavis-web-based-service-for-gratis-conversion-of-wmv-video-to-aac-audio/"><u>Movavi's Web-Based Service for Gratis Conversion of WMV Video to AAC Audio</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-filters-for-smooth-streaming-sessions-for-2024/"><u>Prime Filters for Smooth Streaming Sessions for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/smooth-gameplay-awaits-tap-into-your-xbox-wireless-potential-today/"><u>Smooth Gameplay Awaits: Tap Into Your Xbox Wireless Potential Today</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-12-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 12 Pro You Should Try Out</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-tips-overcoming-f710-driver-problems-on-different-versions-of-windows-os/"><u>Troubleshooting Tips: Overcoming F710 Driver Problems on Different Versions of Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-hp-officejet-5255-free-software-downloads-available-now/"><u>Update Your HP OfficeJet 5255 - Free Software Downloads Available Now!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-strategies-for-silent-audio-fades-for-2024/"><u>[New] Strategies for Silent Audio Fades for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-approach-leveraging-luts-in-adobe-premiere-projects/"><u>[New] The Insider's Approach Leveraging LUTs in Adobe Premiere Projects</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-playbook-for-procuring-partners-on-youtube-for-2024/"><u>[New] The Ultimate Playbook for Procuring Partners on YouTube for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-cheapest-and-most-reliable-cloud-options/"><u>[Updated] 2024 Approved Cheapest & Most Reliable Cloud Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-elite-mobile-filming-tech-for-iphones/"><u>2024 Approved Elite Mobile Filming Tech for iPhones</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>2024 Approved Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024dvd-dvd/"><u>2024対応不可能リッピングDVDライブラリ - DVDのコピー保護キーを解除するテクニック</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-free-geforce-rtx-3080-graphics-driver-compatible-with-windows-1087/"><u>Download Free GeForce RTX 3080 Graphics Driver - Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-language-your-gateway-to-cultural-understanding-and-effective-expression/"><u>Exploring Language: Your Gateway to Cultural Understanding and Effective Expression</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-guide-downloading-your-samsung-c460-printing-software/"><u>Fast Guide: Downloading Your Samsung C460 Printing Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-the-detection-issue-of-tp-link-wn722n-wifi-card-in-windows-environment/"><u>Fixing the Detection Issue of TP-Link WN722N WiFi Card in Windows Environment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-s17-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo S17 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963396803-how-to-update-your-amd-ryzen-5-nvmes-drivers-with-new-release-step-by-step/"><u>How to Update Your AMD Ryzen 5 Nvme's Drivers with New Release – Step by Step!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-corsair-k70-mouse-free-downloads-available-here/"><u>How to Update Your Corsair K70 Mouse - Free Downloads Available Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-release-enhanced-gigabyte-network-drivers-to-upgrade-your-pc-experience/"><u>Latest Release: Enhanced Gigabyte Network Drivers to Upgrade Your PC Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-how-to-get-the-newest-canon-camera-software-downloads/"><u>Latest Updates: How to Get the Newest Canon Camera Software Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-ssd-driver-issues-in-windows-solved/"><u>Samsung SSD Driver Issues in Windows [Solved]</u></a></li>
 </ul></div>
 

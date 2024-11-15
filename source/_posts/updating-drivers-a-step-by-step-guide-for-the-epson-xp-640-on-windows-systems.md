@@ -1,7 +1,7 @@
 ---
 title: "Updating Drivers: A Step-by-Step Guide for the Epson XP-640 on Windows Systems"
-date: 2024-08-19T16:01:16.481Z
-updated: 2024-08-20T16:01:16.481Z
+date: 2024-11-13T11:18:04.301Z
+updated: 2024-11-15T01:27:52.182Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Updating your printer driver can:
 1. [**Update my Epson printer driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update my Epson printer driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Update my Epson printer driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly will compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -52,15 +59,17 @@ Before heading to download the latest driver package from**Epson**‘s official 
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Double-click on **Printer queues** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  Now let’s get started with the manual Epson driver download & install procedure:
 
@@ -68,22 +77,13 @@ Before heading to download the latest driver package from**Epson**‘s official 
 2. Enter**the model of your Epson printer** and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb8391737cc4.png)
 3. Click**the link for your product** among the search results.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 4. Make sure**the detected Operating System is correct** . Then click**Drivers and Utilities Combo Package** \>**Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. **Restart** your computer for the changes to take effect.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update my Epson printer driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -96,11 +96,24 @@ Before heading to download the latest driver package from**Epson**‘s official 
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -115,8 +128,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +135,21 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-download.techidaily.com/download-wacom-intuos-pro-driver-on-windows-10-easily/"><u>[Download] Wacom Intuos Pro Driver on Windows 10 Easily</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-epic-historical-combat-showdowns-the-top-7-games-for-2024/"><u>[New] Epic Historical Combat Showdowns – The Top 7 Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-midgard-alliance-the-ragnarok-saga-begins/"><u>[Updated] 2024 Approved Midgard Alliance The Ragnarök Saga Begins</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-download-youtube-videos-directly/"><u>[Updated] In 2024, Download YouTube Videos Directly</u></a></li>
+<li><a href="https://win11.techidaily.com/1-successfully-streaming-mkv-files-on-xbox-series-xs-a-comprehensive-guide/"><u>1. Successfully Streaming MKV Files on Xbox Series X|S: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-pce-ac68-wireless-network-adapter-download-latest-drivers/"><u>ASUS PCE-AC68 Wireless Network Adapter Download - Latest Drivers</u></a></li>
+<li><a href="https://fox-place.techidaily.com/decouvrez-comment-utiliser-gratuitement-windows-11-pour-debutants/"><u>Découvrez Comment Utiliser Gratuitement Windows 11 Pour Débutants</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-visibility-on-social-platforms/"><u>Enhancing Visibility on Social Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-the-latest-geforce-rtx-3070-drivers-optimized-for-windows-11-and-10/"><u>Find & Install the Latest GeForce RTX 3070 Drivers - Optimized for Windows 11 and 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-the-260ci-wia-drive-usb-connectivity-issue-expert-solutions/"><u>Fixing the 260CI WiA Drive USB Connectivity Issue: Expert Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-epson-es-400-software-scan-print-and-manage-with-the-latest-windows-compatible-driver/"><u>Free Epson ES-400 Software: Scan, Print & Manage with the Latest Windows Compatible Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-iris-xe-g7-graphics-card-driver-for-microsofts-latest-os-windows-11/"><u>Get the Newest Intel Iris Xe G7 Graphics Card Driver for Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-audiophiles-blueprint-top-tools-and-practices-to-minimize-external-sound-interference-on-and-off/"><u>New In 2024, Audiophiles Blueprint Top Tools and Practices to Minimize External Sound Interference (On & Off)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vocal-victory-ballads-best-suited-for-engagement-bliss/"><u>Vocal Victory Ballads Best Suited for Engagement Bliss</u></a></li>
+</ul></div>
 

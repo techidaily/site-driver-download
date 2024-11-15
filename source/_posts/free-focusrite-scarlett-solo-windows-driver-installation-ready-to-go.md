@@ -1,7 +1,7 @@
 ---
 title: Free Focusrite Scarlett Solo Windows Driver Installation Ready to Go!
-date: 2024-08-19T15:59:57.209Z
-updated: 2024-08-20T15:59:57.209Z
+date: 2024-11-07T17:39:22.632Z
+updated: 2024-11-15T02:38:53.627Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -46,37 +43,39 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -89,11 +88,15 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -107,8 +110,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +117,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-an-odyssey-through-time-unexplored-worlds-in-classic-books/"><u>[New] In 2024, An Odyssey Through Time Unexplored Worlds in Classic Books</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-5-key-steps-to-transforming-videos-into-cash-on-vimeo/"><u>[Updated] 2024 Approved 5 Key Steps to Transforming Videos Into Cash on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[Updated] Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unveiling-your-signature-look-a-beginners-blueprint/"><u>2024 Approved Unveiling Your Signature Look A Beginner's Blueprint</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-drivers-hp-z440-desktop-computer-system/"><u>Download and Update Drivers: HP Z440 Desktop Computer System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-to-obtain-the-latest-rndis-driver-software-compatible-with-windows-systems/"><u>Easy Steps to Obtain the Latest RNDIS Driver Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-in-dialogue-your-guide-to-speaking-with-chatgpt-today/"><u>Engage in Dialogue: Your Guide to Speaking With ChatGPT Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-connectivity-troubleshooting-the-ralink-rt3290-wifi-drivers-on-windows-10-8-and-7/"><u>Fixing Connectivity: Troubleshooting the Ralink RT3290 WiFi Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-update-your-broadcom-bluetooth-drivers-for-widows-1187/"><u>How to Download and Update Your Broadcom Bluetooth Drivers for Widows 11/8/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-black-screen-problem-on-your-epic-games-launcher/"><u>How to Overcome the Black Screen Problem on Your Epic Games Launcher</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-defy-2-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Defy 2 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-pc-performance-peak-update-amd-drivers-in-windows-10117-with-ease/"><u>Keep Your PC Performance Peak: Update AMD Drivers in Windows 10/11/7 with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956419290-quick-guide-to-downloading-reliable-wifi-card-drivers-today/"><u>Quick Guide to Downloading Reliable WiFi Card Drivers Today!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2024-10-30T08:02:32.121Z
-updated: 2024-11-04T16:43:11.965Z
+date: 2024-11-07T22:01:32.326Z
+updated: 2024-11-15T13:56:02.938Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
  Note: the screenshots below come from Windows 10, and methods apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download the BCM20702A0 driver manually
 
  There are two ways to manually download the BCM20702A0 driver for your computer. You can download it from the website, then install it via Device Manager.
@@ -48,31 +55,24 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
 
@@ -89,22 +89,16 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -126,16 +120,18 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-fullview-media-collaboration-guidebook/"><u>[New] 2024 Approved FullView Media Collaboration Guidebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-funding-fantasies-or-fiscal-facts-for-2024/"><u>[New] Funding Fantasies or Fiscal Facts for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-screenplay-grooves-best-background-tunes-for-yt-shorts/"><u>2024 Approved Screenplay Grooves Best Background Tunes For YT Shorts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-performance-how-to-update-your-acer-predator-helios-300s-driver-software-for-optimal-gaming/"><u>Boost Performance: How to Update Your Acer Predator Helios 300'S Driver Software for Optimal Gaming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/business-owners-embrace-tap-to-pay-venmo-and-paypal-introduce-feature-on-ios-devices-insights-from-zdnet/"><u>Business Owners Embrace Tap-to-Pay: Venmo & PayPal Introduce Feature on iOS Devices - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-errors-successfully-downloading-from-the-ms-store/"><u>Clearing Errors: Successfully Downloading From the MS Store</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-m-audio-fast-track-driver-for-pcs-windows-11-7-8-and-81/"><u>Download and Install: M-Audio Fast Track Driver for PCs (Windows 11, 7, 8 & 8.1)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-refresh-your-webcam-software-in-windows-11/"><u>Easy Steps to Refresh Your WebCam Software in Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-dotm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .dotm file</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-steps-to-fix-hp-beats-audio-driver-conflicts-in-windows-operating-systems/"><u>Troubleshooting Steps to Fix HP Beats Audio Driver Conflicts in Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/webcam-troubles-learn-how-to-refresh-its-driver-in-windows-10/"><u>Webcam Troubles? Learn How to Refresh Its Driver in Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-supercharged-communication-advanced-features-in-whatsapp/"><u>[New] 2024 Approved Supercharged Communication Advanced Features in WhatsApp</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts-for-2024/"><u>[New] Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-balancing-content-creation-and-employment/"><u>[Updated] 2024 Approved Balancing Content Creation and Employment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-tech-repairing-a-broken-razer-headset-microphone-in-five-simple-ways/"><u>DIY Tech: Repairing a Broken Razer Headset Microphone in Five Simple Ways</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-mpow-bluetooth-driver-for-windows-1187-free-guide/"><u>Download and Update MPOW Bluetooth Driver for Windows 11/8/7 - Free Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficiently-set-up-your-epson-wf-3720-with-new-driver-downloads-expert-tips-and-tricks/"><u>Efficiently Set Up Your Epson WF-3720 with New Driver Downloads - Expert Tips and Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-updated-epson-wf-3620-drivers-compatible-with-windows-1187-free-download/"><u>Get the Updated Epson WF-3620 Drivers: Compatible with Windows 11/8/7 – Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-m-audio-fast-track-drivers-here-optimized-for-windows-11-7-8-and-81/"><u>Get Your M-Audio Fast Track Drivers Here: Optimized for Windows 11, 7, 8 & 8.1</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-start-a-product-review-channel-for-2024/"><u>How to Start a Product Review Channel for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/local-vs-global-is-a-local-large-language-model-right-for-your-needs/"><u>Local vs Global: Is a Local Large Language Model Right for Your Needs?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-hp-officejet-pro-8620-drivers-on-pcs/"><u>Step-by-Step Guide: Updating HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-smooth-installation-of-epson-et-4550-drivers-in-windows-os/"><u>Step-by-Step Tutorial for Smooth Installation of Epson ET-4550 Drivers in Windows OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-streaming-local-media-to-chromecast-on-windows-mac-android-and-ios-for-2024/"><u>Updated The Ultimate Guide to Streaming Local Media to Chromecast on Windows, Mac, Android, and iOS for 2024</u></a></li>
 </ul></div>
 

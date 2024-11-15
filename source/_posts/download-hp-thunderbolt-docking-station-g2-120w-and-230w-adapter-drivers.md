@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-10-30T21:41:40.218Z
-updated: 2024-11-05T01:41:04.907Z
+date: 2024-11-09T13:53:08.869Z
+updated: 2024-11-15T02:32:49.695Z
 tags:
   - win11
   - win10
@@ -29,28 +29,28 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -66,17 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,15 +107,24 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-for-optimizing-azure-speech-to-text-functionality/"><u>2024 Approved Expert Tips for Optimizing Azure Speech to Text Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-c110-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia C110 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-no-more-effective-fixes-to-keep-blender-running-smoothly-on-pcs/"><u>Crash No More: Effective Fixes to Keep Blender Running Smoothly on PCs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/diy-digital-diplomats-building-bespoke-chatbots/"><u>DIY Digital Diplomats: Building Bespoke ChatBots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/enhancing-sound-flow-with-premier-pro-for-2024/"><u>Enhancing Sound Flow with Premier Pro for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/eternal-memory-keepsake-blend-free-cloud-services-with-elite-charged-spaces/"><u>Eternal Memory Keepsake Blend Free Cloud Services with Elite Charged Spaces</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-asus-dvd-drivers-free-downloads-available/"><u>Get the Latest ASUS DVD Drivers – Free Downloads Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-new-intel-wi-fi-6-ax200-drivers-now-compatible-with-windows-1110-systems/"><u>Get the New Intel Wi-Fi 6 AX200 Drivers Now - Compatible with Windows 11/10 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-official-epson-et-2750-drivers-for-windows-free-downloads-available-now/"><u>Install Official Epson ET-2750 Drivers for Windows - Free Downloads Available Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-logitech-audio-device-drivers-compatible-with-windows-11-7-and-8-how-to-install/"><u>Updated Logitech Audio Device Drivers: Compatible with Windows 11, 7 & 8 – How to Install</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-scanjet-driver-update-windows-10-8-7/"><u>[Download] HP Scanjet Driver Update | Windows 10, 8, 7</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-maximize-video-reach-with-effective-tags-titles-for-2024/"><u>[New] How to Maximize Video Reach with Effective Tags, Titles for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>[New] Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-intro-excellence-app-your-device-friendly-solution-for-2024/"><u>[New] Intro Excellence App Your Device-Friendly Solution for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-zipping-up-an-enthralling-tiktok-credit-sequence/"><u>[New] Zipping Up an Enthralling TikTok Credit Sequence</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] In 2024, The Pulse of the Population VLLO Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-procedure-for-effective-auditory-recordings-on-windows-11/"><u>[Updated] Procedure for Effective Auditory Recordings on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-earnings-standards-new-rules-and-tips/"><u>2024 Approved YouTube Earnings Standards New Rules & Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-the-best-footage-editor-hero-vs-polaroid-edition-for-2024/"><u>Choosing the Best Footage Editor Hero Vs. Polaroid Edition for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-set-up-amd-cryptocurrency-mining-software-on-windows/"><u>Download & Set Up AMD Cryptocurrency Mining Software on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-installing-amd-radeon-rx-590-drivers-on-windows/"><u>Easy Guide to Downloading and Installing AMD Radeon RX 590 Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-how-to-keep-your-hid-keyboard-up-to-date-instantly/"><u>Easy Installation: How to Keep Your HID Keyboard Up-to-Date Instantly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-brother-mfc-9130cw-printer-software-downloads/"><u>Free Brother MFC-9130CW Printer Software Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-canon-mf8500c-printer-drivers-for-pcs-running-on-windows-7-81-or-10/"><u>Get Canon MF8500C Printer Drivers for PCs Running on Windows 7, 8.1 or 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-corsair-void-pro-graphics-card-driver-installation-on-windows-systems/"><u>Hassle-Free Corsair Void Pro Graphics Card Driver Installation on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-access-to-your-lenovo-x230-drives-for-effortless-setup/"><u>Quick Access to Your Lenovo X230 Drives for Effortless Setup</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-5-best-hd-video-editing-tools-for-creators/"><u>Updated The Ultimate List 5 Best HD Video Editing Tools for Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-7-mouse-drivers-compatible-downloads-and-troubleshooting-tips/"><u>Windows 7 Mouse Drivers: Compatible Downloads and Troubleshooting Tips</u></a></li>
 </ul></div>
 

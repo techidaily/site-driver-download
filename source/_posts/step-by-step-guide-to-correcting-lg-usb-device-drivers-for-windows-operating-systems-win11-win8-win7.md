@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Correcting LG USB Device Drivers for Windows Operating Systems (Win11, Win8, Win7)
-date: 2024-08-19T16:04:31.663Z
-updated: 2024-08-20T16:04:31.663Z
+date: 2024-11-13T07:28:56.412Z
+updated: 2024-11-14T23:55:12.978Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +55,35 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -54,9 +93,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -71,9 +107,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -93,8 +126,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +165,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +172,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-swiftly-uncover-unfollowers-on-instagram-for-2024/"><u>[Updated] Swiftly Uncover Unfollowers on Instagram for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-crystal-clear-audio-on-your-acer-device-fast-driver-update-tutorial/"><u>Achieve Crystal Clear Audio on Your Acer Device - Fast Driver Update Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/argumentative-review-5-compelling-reasons-for-a-new-ipad/"><u>Argumentative Review: 5 Compelling Reasons for a New iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288020796-dvd/"><u>DVD個人利用のための安全コピー・リッピングガイド |合法コピー保護権維持</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-and-updating-your-epson-l3150-driver-on-windows-operating-systems/"><u>Easy Guide to Installing and Updating Your Epson L3150 Driver on Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-brother-l2540dw-printer-software-on-your-windows-device-get-it-here-now/"><u>Easy Installation of Brother L2540DW Printer Software on Your Windows Device - Get It Here Now!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-magic-v2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Magic V2 Quickly | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-scanjet-drivers-windows-10-8-and-7-supported/"><u>Get the Newest HP Scanjet Drivers – Windows 10, 8 and 7 Supported</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-sound-enhancement-software-conflict-resolution-on-windows-11-8-and-7/"><u>HP Sound Enhancement Software Conflict Resolution on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-v30-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme V30 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-advice-on-iphone-7-display-recording/"><u>In 2024, Expert Advice on iPhone 7 Display Recording</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-wf-7710-printing-software-on-windows-get-your-latest-driver-here/"><u>Install Epson WF-7710 Printing Software on Windows - Get Your Latest Driver Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-generic-bluetooth-adapter-software-update-compatible-with-windows-systems/"><u>Latest Generic Bluetooth Adapter Software Update – Compatible with Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-asus-laptop-trackpad-driver-install-for-windows-11/"><u>Quick & Simple ASUS Laptop Trackpad Driver Install for Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-art-of-capturing-scenes-ezvides-screencast-solution/"><u>The Art of Capturing Scenes EZvide's Screencast Solution</u></a></li>
+<li><a href="https://win-trending.techidaily.com/troubleshooting-generic-import-errors-in-your-premier-editing-projects/"><u>Troubleshooting 'Generic Import Errors' In Your Premier Editing Projects</u></a></li>
+</ul></div>
 

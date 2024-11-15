@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2024-10-29T01:47:49.002Z
-updated: 2024-11-04T23:03:36.479Z
+date: 2024-11-11T07:37:35.990Z
+updated: 2024-11-14T19:05:01.421Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -43,10 +43,10 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -66,17 +66,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,20 +107,17 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-streamlined-methods-for-iphone-screen-capture-for-2024/"><u>[Updated] Streamlined Methods for iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/blueprints-to-locate-top-tier-videographers/"><u>Blueprints to Locate Top-Tier Videographers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-noctuas-game-changer-the-prototype-for-pumpless-eco-friendly-aio-liquid-cooling-system/"><u>Discover Noctua's Game-Changer: The Prototype for Pumpless, Eco-Friendly AIO Liquid Cooling System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-access-the-ultimate-downloaded-instructions-for-behringers-usb-sound-device/"><u>Effortless Installation: Access the Ultimate Downloaded Instructions for Behringer's USB Sound Device!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978801531-get-the-latest-nvidia-gt-730-driver-update-quick-easy-installation-steps/"><u>Get the Latest NVIDIA GT 730 Driver Update: Quick, Easy Installation Steps!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722959303607-get-the-newest-evga-windows-drivers-installed-faster-and-smoother-performance/"><u>Get the Newest EVGA Windows Drivers Installed - Faster and Smoother Performance!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-mpow-bluetooth-software-for-your-pc-supports-windows-11-8-and-7/"><u>Get the Newest MPOW Bluetooth Software for Your PC: Supports Windows 11, 8, and 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-safely-remove-your-presence-from-chatgpt/"><u>How To Safely Remove Your Presence From ChatGPT</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c12-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C12 Plus to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/joke-tastic-iphones-today/"><u>Joke-Tastic iPhones Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-magiccard-rio-pro-driver-version-available-for-windows-users-download-today/"><u>Latest Magiccard Rio Pro Driver Version Available for Windows Users! Download Today</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/software-tinkering-patches-versus-comprehensive-upgrades/"><u>Software Tinkering: Patches Versus Comprehensive Upgrades</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-downloading-and-installing-driving-force-pro-gamepad-software-with-compatibility-for-windows-7-8-or-10/"><u>Step-by-Step Tutorial for Downloading and Installing Driving Force Pro Gamepad Software with Compatibility for WIndows 7, 8, or 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968150760-update-your-lenovo-tb3-dock-with-newest-compatible-drivers-available-now/"><u>Update Your Lenovo TB3 Dock with Newest Compatible Drivers Available Now</u></a></li>
+<li><a href="https://win-news.techidaily.com/perdido-la-particion-en-tu-pc-con-windows-11-descubre-metodos-sencillos-para-recuperarla/"><u>¿Perdido La Partición en Tu PC Con Windows 11? Descubre Métodos Sencillos Para Recuperarla!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-diverse-devices-no-problem-record-youtube-livestream-easily/"><u>[New] Diverse Devices? No Problem! Record YouTube Livestream Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simple-screen-recorder-for-windows-10-download-for-2024/"><u>[New] Simple Screen Recorder for Windows 10 Download for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-get-your-targus-dock-up-and-running-with-our-driver-software/"><u>[STEP-BY-STEP INSTRUCTIONS] Get Your Targus Dock Up and Running with Our Driver Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[Updated] Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976936949-approach-evaluate-how-these-devices-interact-with-structural-elements-during-an-earthquake/"><u>Approach: Evaluate How These Devices Interact with Structural Elements During an Earthquake.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2690dw-printing-device-get-the-latest-software-update-now/"><u>Brother L2690dw Printing Device: Get the Latest Software Update Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-your-pc-gaming-rig-with-the-new-asus-rog-strix-geforce-gtx-1660-ti-graphics-card/"><u>Elevate Your PC Gaming Rig with the New ASUS ROG STRIX GeForce GTX 1660 Ti Graphics Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-hurdle-of-error-0x800f0831-quickly-with-built-in-windows-update-features/"><u>Eliminate the Hurdle of 'Error 0X800F0831' Quickly with Built-In Windows Update Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-obtain-the-latest-free-drivers-for-nvidias-3d-vision-technology-on-windows/"><u>How to Obtain the Latest Free Drivers for NVIDIA’s 3D Vision Technology on Windows</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-size-matters-crafting-engaging-video-titles/"><u>In 2024, Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-download-lumafusion-for-mac-top-alternatives-included/"><u>New In 2024, Download Lumafusion for Mac Top Alternatives Included</u></a></li>
 </ul></div>
 

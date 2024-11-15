@@ -1,7 +1,7 @@
 ---
 title: CanoScan LiDE
-date: 2024-08-19T16:00:59.684Z
-updated: 2024-08-20T16:00:59.684Z
+date: 2024-11-10T10:15:07.240Z
+updated: 2024-11-15T08:30:59.306Z
 tags:
   - win11
   - win10
@@ -41,22 +41,38 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -65,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,13 +92,14 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  Driver Easy uses only**genuine drivers** , straight from your hardware manufacturer. And they’re all tested and certified – either by Microsoft or by itself. Or both.
@@ -105,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +126,24 @@ thumbnail: https://thmb.techidaily.com/ee23f258f8acc5ad2795e172a146cef682a3a259b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-tailoring-trailers-to-amplify-your-youtube-channels-earnings-for-2024/"><u>[Updated] Tailoring Trailers to Amplify Your YouTube Channel's Earnings for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-download-guide-obtaining-the-latest-toshiba-drivers-for-windows-computers/"><u>Direct Download Guide: Obtaining the Latest Toshiba Drivers for Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitechs-latest-windows-compatible-wireless-mouse-drivers/"><u>Download Logitech's Latest Windows Compatible Wireless Mouse Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-tutorial-to-reinstall-the-drivers-of-your-usb-serial-converter-device/"><u>Easy Tutorial to Reinstall the Drivers of Your USB Serial Converter Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-your-pc-gaming-with-updated-geforce-rtx-2080-ti-drivers/"><u>Elevate Your PC Gaming with Updated GeForce RTX 2080 Ti Drivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-video-projects-storyremix-meets-windows-11-photos/"><u>Elevate Your Video Projects StoryRemix Meets Windows 11 Photos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-techniques-behind-ai-powered-chatbot-dialogue-creation/"><u>Exploring the Techniques Behind AI-Powered Chatbot Dialogue Creation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-logitech-g430-drivers-step-by-step-guide/"><u>How to Update Your Logitech G430 Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-depth-analysis-aac-vs-ac3-audio-formats-which-provides-superior-quality/"><u>In-Depth Analysis: AAC Vs. AC3 Audio Formats – Which Provides Superior Quality?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-microsoft-pointing-device-smooth-update-its-windows-driver-today/"><u>Keep Your Microsoft Pointing Device Smooth: Update Its Windows Driver Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-uninterruptible-power-supply-units/"><u>Leading Uninterruptible Power Supply Units</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-installation-of-sades-headset-drivers-on-windows-systems-free-download/"><u>Secure Installation of Sades Headset Drivers on Windows Systems: Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlining-the-debugging-process-for-i2e-c-hid-interface-driver-problems/"><u>Streamlining the Debugging Process for I2e C HID Interface Driver Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-reno-11-pro-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Reno 11 Pro 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices/"><u>Updated In 2024, The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices</u></a></li>
+</ul></div>
 
