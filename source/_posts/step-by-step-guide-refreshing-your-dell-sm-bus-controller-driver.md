@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Refreshing Your Dell SM Bus Controller Driver"
-date: 2024-11-12T05:31:07.803Z
-updated: 2024-11-14T20:11:48.104Z
+date: 2024-11-18T17:04:44.509Z
+updated: 2024-11-24T23:10:23.773Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -74,6 +78,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
@@ -92,6 +100,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
@@ -99,6 +111,10 @@ OR
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
@@ -121,10 +137,7 @@ Wait for the download process to be complete.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Update the driver manually
@@ -138,33 +151,16 @@ Wait for the download process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -196,14 +192,22 @@ Wait for the download process to be complete.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://novels-ebooks.techidaily.com/210065021-9781647849726-003-the-great-tao-of-spiritual-science-series-03-the-great-tao/"><u>生命奧秘全書003：大道─靈性模式的修練（靈修篇）: The Great Tao of Spiritual Science Series 03: The Great Tao | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/direct-source-latest-intel-network-adapter-drivers-for-seamless-windows-connectivity/"><u>Direct Source: Latest Intel Network Adapter Drivers for Seamless Windows Connectivity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-dell-docking-station-drivers/"><u>How to Update DELL Docking Station Drivers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-spark-20-proplus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Spark 20 Pro+ Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-10-best-classic-family-vacation-movie-for-this-summer/"><u>In 2024, 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-drivers-for-your-hp-deskjet-ink-advantage-3755-now-supports-windows-11-10-8-and-7-download-today/"><u>Latest Drivers for Your HP DeskJet Ink Advantage 3755: Now Supports Windows 11, 10, 8 and 7 - Download Today!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-on-how-to-erase-user-profiles-in-windows-10-with-revo-uninstaller/"><u>Ultimate Tutorial on How to Erase User Profiles in Windows 10 with Revo Uninstaller</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-asus-vg248qe-monitor-on-windows-easy-download-and-setup-instructions/"><u>Update Your Asus VG248QE Monitor on Windows: Easy Download and Setup Instructions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-m6-pro-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco M6 Pro 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-x-flip-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo X Flip is off? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-brother-l2740dw-printer-drivers-on-windows-complete-guide/"><u>Download Brother L2740DW Printer Drivers on Windows: Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-corsair-h80i-v2-ssdhdd-dual-m2-card-drivers-now/"><u>Get Your Corsair H80I V2 SSD/HDD Dual M.2 Card Drivers Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-deskjet-2755e-printer-up-and-running-with-latest-windows-drivers/"><u>Get Your HP DeskJet 2755E Printer Up and Running with Latest Windows Drivers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fcpx-image-editing-a-beginners-guide-to-cropping/"><u>In 2024, FCPX Image Editing A Beginners Guide to Cropping</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-supported-drivers-for-the-netgear-a6100-available-here-windows-compatible/"><u>Latest Supported Drivers for the Netgear A6100 Available Here – Windows Compatible</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971040111-resolving-windows-11s-troublesome-bluetooth-connectivity-woes-fixed/"><u>Resolving Windows 11'S Troublesome Bluetooth Connectivity Woes - Fixed</u></a></li>
+<li><a href="https://games-able.techidaily.com/restoring-flawless-sound-experience-to-xbox-one/"><u>Restoring Flawless Sound Experience to Xbox One</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/seamless-pathway-for-purchasing-adobe-from-microsoft/"><u>Seamless Pathway for Purchasing Adobe From Microsoft</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplified-guide-to-get-and-enhance-amds-smbus-drivers-with-just-a-few-clicks/"><u>Simplified Guide to Get & Enhance AMD's SMBus Drivers with Just a Few Clicks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-easy-download-of-current-video-graphics-array-vga-drivers/"><u>Step-by-Step Guide: Easy Download of Current Video Graphics Array (VGA) Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-a70-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel A70? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshoot-your-samsung-galaxys-connection-error-with-this-simple-fix/"><u>Troubleshoot Your Samsung Galaxy's Connection Error with This Simple Fix</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://driver-download.techidaily.com/zexmte-bluetooth-device-driver-downloads-compatible-with-windows-10-7-and-8-systems/"><u>Zexmte Bluetooth Device Driver Downloads Compatible with Windows 10, 7 & 8 Systems</u></a></li>
 </ul></div>
 

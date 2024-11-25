@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2024-11-14T03:33:47.438Z
-updated: 2024-11-14T19:09:42.976Z
+date: 2024-11-18T22:39:31.886Z
+updated: 2024-11-24T22:36:17.868Z
 tags:
   - win11
   - win10
@@ -27,10 +27,7 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Canon driver automatically (Recommended)**
@@ -46,32 +43,20 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -87,6 +72,10 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
@@ -94,10 +83,7 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 6. Click**DOWNLOAD** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
@@ -124,22 +110,22 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] 2024 Approved Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-conquering-challenges-in-single-source-online-streaming/"><u>[Updated] 2024 Approved Conquering Challenges in Single-Source Online Streaming</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-channel-growth-strategy-going-with-studio-or-beta-progression/"><u>[Updated] Channel Growth Strategy Going with Studio or Beta Progression</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-insider-tips-maximizing-youtube-edits-with-finalcut-pro-for-2024/"><u>[Updated] Insider Tips Maximizing YouTube Edits with FinalCut Pro for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-ski-and-snow-gear-best-cams-compiled-in-7-lists/"><u>2024 Approved Ski and Snow Gear Best Cams Compiled in 7 Lists</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974150424-effortless-solutions-for-elgato-hd60-driver-problems-get-started-now/"><u>Effortless Solutions for Elgato HD60 Driver Problems - Get Started Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-computers-graphics-with-steelseries-engine-windows-11-free-trial-now-available/"><u>Enhance Your Computer's Graphics with SteelSeries Engine [Windows 11] – Free Trial Now Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973561615-find-and-download-the-perfect-fit-sound-blaster-z-drivers-for-your-windows-10-system-today/"><u>Find & Download the Perfect Fit: Sound Blaster Z Drivers for Your Windows 10 System Today</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nokia-c12-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nokia C12 Phone Now with These Tips</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-ultimate-guide-to-tiktok-captioning-mastery/"><u>In 2024, The Ultimate Guide to TikTok Captioning Mastery</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-and-greatest-epson-artisan-1430-driver-for-windows-operating-systems-download-now/"><u>Latest and Greatest Epson Artisan 1430 Driver for Windows Operating Systems - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722962547167-lower-specific-heat-capacity-means-a-material-will-experience-more-rapid-temperature-changes-when-exposed-to-heat-energy/"><u>Lower Specific Heat Capacity Means a Material Will Experience More Rapid Temperature Changes when Exposed to Heat Energy</u></a></li>
-<li><a href="https://driver-download.techidaily.com/successfully-installing-latest-amd-radeon-graphics-card-updates/"><u>Successfully Installing Latest AMD Radeon Graphics Card Updates</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-perfect-guide-to-assembling-a-top-tier-4k-video-editor-pc/"><u>The Perfect Guide to Assembling a Top-Tier 4K Video Editor PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-display-free-nvidia-driver-downloads-tailored-for-windows-1178-systems/"><u>Upgrade Your Display: Free NVIDIA Driver Downloads Tailored for Windows 11/7/8 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-to-the-latest-amd-radeon-hd-7870-drivers-on-your-windows-10-pc-step-by-step-guide/"><u>Upgrading to the Latest AMD Radeon HD 7870 Drivers on Your Windows 10 PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-enhancing-filmmaking-top-choices-in-camera-lenses/"><u>[New] In 2024, Enhancing Filmmaking Top Choices in Camera Lenses</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-insiders-look-at-youtube-content-regulations/"><u>[Updated] In 2024, The Insider's Look at YouTube Content Regulations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-fast-essential-drivers-for-your-wifi-adapter-await-you-here/"><u>Download Fast! Essential Drivers for Your WiFi Adapter Await You Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971800916-enhance-your-pcs-audio-experience-get-official-microsoft-sound-drivers-now/"><u>Enhance Your PC's Audio Experience - Get Official Microsoft Sound Drivers Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-csr-8510-a10-printer-driver-issues-in-windows-os-step-by-step-troubleshooting-tutorial/"><u>Fixing CSR 8510-A10 Printer Driver Issues in Windows OS: Step-by-Step Troubleshooting Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/exploration-for-enhanced-youtube-thumbnails-appeal/"><u>Font Exploration for Enhanced YouTube Thumbnails' Appeal</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-gt-neo-5-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme GT Neo 5 Face Lock?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-official-amd-radeon-hd-drivers-on-windows-7-systems/"><u>How to Install Official AMD Radeon HD Drivers on Windows 7 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-11-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus 11 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-motorola-moto-g24-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Motorola Moto G24 Device SIM</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-intels-nic-drivers-step-by-step-guide-for-quick-setup/"><u>Installing Intel's NIC Drivers: Step-by-Step Guide for Quick Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-release-compatible-drivers-for-tp-links-802nac-adapter-get-them-now/"><u>Latest Release: Compatible Drivers for TP-Link's 802.nAC Adapter - Get Them Now</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/master-your-tasks-on-the-102-inch-apple-ipad-7th-generation-how-ipados-revolutionizes-efficiency-and-creativity/"><u>Master Your Tasks on the 10.2-Inch Apple iPad (7Th Generation): How IPadOS Revolutionizes Efficiency and Creativity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-download-techniques-for-lexars-essential-usb-driver-software/"><u>Speedy Download Techniques for Lexar's Essential USB Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/trouble-free-driver-download-for-your-hp-envy-5660-all-in-one-device/"><u>Trouble-Free Driver Download for Your HP Envy 5660 All in One Device</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-discover-the-power-of-wax-a-free-video-editor-tutorial/"><u>Updated 2024 Approved Discover the Power of Wax A Free Video Editor Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/wacom-intuos-3-software-guide-ensuring-compatibility-and-full-functionality-in-windows-environments/"><u>Wacom Intuos 3 Software Guide: Ensuring Compatibility and Full Functionality in Windows Environments</u></a></li>
 </ul></div>
 

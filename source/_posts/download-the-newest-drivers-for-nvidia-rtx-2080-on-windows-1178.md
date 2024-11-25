@@ -1,7 +1,7 @@
 ---
 title: Download the Newest Drivers for NVIDIA RTX 2080 on Windows 11/7/8
-date: 2024-08-19T15:58:29.566Z
-updated: 2024-08-20T15:58:29.566Z
+date: 2024-11-22T21:10:38.724Z
+updated: 2024-11-24T21:38:42.490Z
 tags:
   - win11
   - win10
@@ -21,11 +21,19 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
  Besides, always using the latest graphics driver offers more than just a performance boost. It also keeps your GPU in good condition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
@@ -41,11 +49,16 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -57,14 +70,12 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  So these are the ways you can get the latest driver for your RTX 3080\. If you have any questions or suggestions, don’t hesitate to drop a comment down below.
@@ -75,8 +86,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +93,22 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unlocking-online-potential-mastering-the-art-of-thumbnail-sizing/"><u>[New] 2024 Approved Unlocking Online Potential Mastering the Art of Thumbnail Sizing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-secret-photoshop-photo-editing-tips-for-beginners-for-2024/"><u>10 Secret Photoshop Photo Editing Tips for Beginners for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-your-episodes-a-comprehensive-guide-to-sound-design-and-editing/"><u>2024 Approved Elevate Your Episodes A Comprehensive Guide to Sound Design and Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-13-pro-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 13 Pro screen turns black? | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/detecting-missing-dll-msvcr120-error/"><u>Detecting Missing DLL: MSVCR120 Error</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eliminating-blemishes-in-image-downloads/"><u>Eliminating Blemishes in Image Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-compatible-msi-bluetooth-drivers-for-windows-11-and-10-systems/"><u>Free Download: Compatible MSi Bluetooth Drivers for Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/geforce-rtx-3080-ti-driver-update-secure-your-pc-on-windows-1187/"><u>GeForce RTX 3080 Ti Driver Update - Secure Your PC on Windows 11/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-update-your-amd-smbus-software/"><u>How to Effortlessly Update Your AMD SMBus Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-and-fix-amd-rx-560-drivers-for-various-windows-os/"><u>How to Successfully Update and Fix AMD RX 560 Drivers for Various Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-print-driver-update-and-download-instructions-for-windows-11-users/"><u>HP Print Driver Update & Download Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-look-at-vsco-photo-craftsmanship/"><u>In 2024, In-Depth Look at VSCO Photo Craftsmanship</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g27-drivers-download-for-windows-11-10-and-7/"><u>Logitech G27 Drivers Download for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-6-ultimate-iphone-apps-for-restoring-lost-photographs/"><u>The 6 Ultimate iPhone Apps for Restoring Lost Photographs</u></a></li>
+</ul></div>
 

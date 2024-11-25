@@ -1,7 +1,7 @@
 ---
 title: Download NVIDIA Drivers Compatible with Windows 11/7/8 - Step-by-Step Instructions
-date: 2024-11-08T05:16:17.106Z
-updated: 2024-11-14T23:14:22.723Z
+date: 2024-11-23T18:17:25.684Z
+updated: 2024-11-24T21:44:36.321Z
 tags:
   - win11
   - win10
@@ -39,14 +39,15 @@ thumbnail: https://thmb.techidaily.com/0b4edc9260dee73e74c6f70d4608ea90c51d96ccb
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
@@ -54,24 +55,19 @@ thumbnail: https://thmb.techidaily.com/0b4edc9260dee73e74c6f70d4608ea90c51d96ccb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
 6. Click **My downloads list**  to view all the drivers you want to download.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
 
@@ -84,21 +80,11 @@ thumbnail: https://thmb.techidaily.com/0b4edc9260dee73e74c6f70d4608ea90c51d96ccb
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap674.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -124,18 +110,21 @@ thumbnail: https://thmb.techidaily.com/0b4edc9260dee73e74c6f70d4608ea90c51d96ccb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-use-gopro-for-time-lapse-shooting/"><u>[New] How to Use GoPro for Time-Lapse Shooting</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-comprehensive-directory-extracting-yt-template-videos-online/"><u>[New] In 2024, Comprehensive Directory Extracting YT Template Videos Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-your-brain-gaps-with-top-quiz-networks-2024-edition/"><u>Conquer Your Brain Gaps with Top Quiz Networks' 2024 Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-updates-for-your-surface-book-2-drivers-downloading-guide/"><u>Effortless Updates for Your Surface Book 2: Drivers Downloading Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-8000-drivers-for-win-10-8-and-7-direct-download-links/"><u>Get the Most Recent Nvidia Quadro RTX 8000 Drivers for Win 10, 8 & 7 - Direct Download Links</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-photosmart-c7520-printer-software-setup-get-your-free-drivers-here/"><u>HP Photosmart C7520 Printer Software Setup – Get Your Free Drivers Here</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/introducing-apples-latest-innovation-the-m4-processor-release-timeline-and-detailed-tech-insights/"><u>Introducing Apple's Latest Innovation: The M4 Processor - Release Timeline & Detailed Tech Insights</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reliability-ranking-jabra-steelheadphones-reviewed/"><u>Reliability Ranking: Jabra Steelheadphones Reviewed</u></a></li>
-<li><a href="https://win-popular.techidaily.com/sd4/"><u>SD卡如何轻松地重新获取信息：包括4个不同方法</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/second-generation-google-nest-hub-without-camera-comprehensive-review/"><u>Second Generation Google Nest Hub Without Camera: Comprehensive Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/try-different-usb-ports-on-your-computer-including-usb-30-and-usb-c-ports-if-available/"><u>Try Different USB Ports on Your Computer, Including USB 3.0 and USB-C Ports if Available</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/x-stream-recorder-pc-edition-for-2024/"><u>X-Stream Recorder PC Edition for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288324551-movmp4/"><u>マック用MOV動画劣化無しMP4変換法:迅速にプロセス指南</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[New] Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ancient-roguelike-tactics-vs-innovative-approaches/"><u>[Updated] 2024 Approved Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mp4-screen-grabber-free-easy-access-for-2024/"><u>[Updated] MP4 Screen Grabber Free, Easy Access for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-rx-5700-xt-windows-8/"><u>AMD RX 5700 XT 드라이버 - Windows 8 대접</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-your-home-cinema-skills-with-these-top-5-tips-for-2024/"><u>Boost Your Home Cinema Skills with These Top 5 Tips for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/critical-drivers-alert-resolved-fix-your-graphics-card-glitch-with-these-expert-hacks/"><u>Critical Drivers Alert Resolved! Fix Your Graphics Card Glitch with These Expert Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-windows-techniques-for-calls-tracking/"><u>Essential Windows Techniques for Calls Tracking</u></a></li>
+<li><a href="https://driver-download.techidaily.com/finding-and-installing-the-right-toshiba-printer-driver-for-your-windows-machine/"><u>Finding and Installing the Right Toshiba Printer Driver for Your Windows Machine</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-thunderbolt-3-drivers-for-your-lenovo-laptop-today/"><u>Get the Latest Version of Thunderbolt 3 Drivers for Your Lenovo Laptop Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-11-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 11 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-infinix-zero-5g-2023-turbo-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Infinix Zero 5G 2023 Turbo FRP In 3 Different Ways</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unlock-twitter-written-by-your-name/"><u>In 2024, Unlock Twitter' Written By [Your Name]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-voice-change-innovations-for-youtubers-and-their-videos/"><u>In 2024, Voice Change Innovations for YouTubers & Their Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-download-the-most-recent-amd-radeon-pro-w5700-drivers-for-windows-11107/"><u>New Release: Download the Most Recent AMD Radeon Pro W5700 Drivers for Windows 11/10/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-updating-your-nvidia-geforce-gtx-1660-graphics-card-drivers/"><u>Quick and Simple Guide: Updating Your NVIDIA GeForce GTX 1660 Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-fixing-microsofts-acpi-compliant-control-method-for-batteries/"><u>Troubleshooting & Fixing Microsoft's ACPI-Compliant Control Method for Batteries</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2024-11-10T02:47:22.968Z
-updated: 2024-11-15T04:16:17.253Z
+date: 2024-11-20T16:09:20.023Z
+updated: 2024-11-24T21:13:16.000Z
 tags:
   - win11
   - win10
@@ -30,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
@@ -46,14 +43,15 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
@@ -61,15 +59,12 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
@@ -86,16 +81,7 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -120,20 +106,24 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlock-the-potential-of-your-camera-creating-stunning-slow-motion-videos-for-instagram/"><u>[New] In 2024, Unlock the Potential of Your Camera Creating Stunning Slow-Motion Videos for Instagram</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-download-dos-and-donts-for-vrecorder/"><u>[Updated] In 2024, Download Dos & Don’ts for VRecorder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-softer-beats-with-ableton/"><u>2024 Approved Crafting Softer Beats with Ableton</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-15-plus-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 15 Plus Online</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-graphics-card-free-window-8-drivers-download-for-improved-performance/"><u>Amd Radeon Graphics Card - FREE Window 8 Drivers Download for Improved Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/efficient-installation-of-dell-wd19-hardware-drivers-for-optimal-performance/"><u>Efficient Installation of Dell WD19 Hardware Drivers for Optimal Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-upgrading-your-scansnap-s1300i-software/"><u>Effortless Installation: Upgrading Your ScanSnap S1300i Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-updated-drivers-for-epson-wf-3720-step-by-step-tutorial-available-now/"><u>Find & Install Updated Drivers for Epson WF-3720: Step-by-Step Tutorial Available Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-authoritative-handbook-on-selecting-impactful-podcast-monikers-plus-examples/"><u>In 2024, The Authoritative Handbook on Selecting Impactful Podcast Monikers, Plus Examples</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/no-limit-record-media-software-for-2024/"><u>No-Limit Record Media Software for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-installation-of-samsung-c460-printer-drivers-start-here/"><u>Seamless Installation of Samsung C460 Printer Drivers – Start Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-winxvideo-enhancements-ai-powered-techniques-for-recording-compressing-and-converting-videos/"><u>Step-by-Step Guide to WinXVideo Enhancements - AI-Powered Techniques for Recording, Compressing & Converting Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-solution-how-to-get-and-enable-broadcom-ethernet-drivers-for-your-windows-10-pc/"><u>Step-by-Step Solution: How to Get and Enable Broadcom Ethernet Drivers for Your Windows 10 PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-10-free-web-based-video-editors-best-picks-and-affordable-options/"><u>Top 10 Free Web-Based Video Editors: Best Picks & Affordable Options</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-displays-guide-for-updating-targus-drivers-in-windows-operating-systems/"><u>Upgrade Your Displays: Guide for Updating Targus Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-create-a-facebook-account-for-2024/"><u>[New] How to Create a Facebook Account for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-tips-for-sims-4-video-gaming/"><u>[New] In 2024, Essential Tips for Sims 4 Video Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-list-the-finest-fps-titles-in-gaming/"><u>[New] In 2024, Ultimate List The Finest FPS Titles in Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>[Updated] 2024 Approved Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-video-downloader-download-twitter-videos-to-iphone/"><u>[Updated] 2024 Approved Twitter Video Downloader Download Twitter Videos to iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-personalize-where-mac-pics-save/"><u>[Updated] Personalize Where Mac Pics Save</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analyzing-gpt-4-vs-llama-advantages-and-limitations-of-cutting-edge-ai/"><u>Analyzing GPT-4 Vs. Llama: Advantages & Limitations of Cutting-Edge AI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-zebra-printer-software-on-windows-latest-driver-versions/"><u>Download & Update Zebra Printer Software on Windows - Latest Driver Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-tips-and-tricks-for-successfully-installing-new-motherboard-drivers-on-windows-os/"><u>Easy Tips & Tricks for Successfully Installing New Motherboard Drivers on Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958321971-get-your-corsair-mouse-ready-free-tutorial-and-downloads-available/"><u>Get Your Corsair Mouse Ready - Free Tutorial and Downloads Available</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-g203-webcam-driver-compatible-with-windows-7-10-and-11/"><u>Get Your Logitech G203 Webcam Driver: Compatible with Windows 7, 10 & 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-moto-g14-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Moto G14 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-get-the-latest-microsoft-driver-software-for-your-windows-1187-pc/"><u>How to Easily Get the Latest Microsoft Driver Software for Your Windows 11/8/7 PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-obtain-and-setup-acme-bluetooth-driver-step-by-step-tutorial/"><u>How to Effortlessly Obtain & Setup Acme Bluetooth Driver | Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/kostenlose-software-fur-hochwertiges-dvd-audio-extrahieren-perfektes-endgerat-fur-sammler-und-enthusiasten/"><u>Kostenlose Software Für Hochwertiges DVD-Audio Extrahieren – Perfektes Endgerät Für Sammler Und Enthusiasten</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2070-super-drivers-download-and-update-windows-1111/"><u>RTX 2070 SUPER Drivers Download & Update | Windows 11/11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-guide-to-accessing-and-downloading-microsoft-wireless-mouse-5000-drivers/"><u>Streamlined Guide to Accessing and Downloading Microsoft Wireless Mouse 5000 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-lg-usb-drivers-for-compatibility-with-windows-1087-systems/"><u>Troubleshooting LG USB Drivers for Compatibility with Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-impressive-hdr-potential-with-our-tutorial/"><u>Unlocking Impressive HDR Potential with Our Tutorial</u></a></li>
 </ul></div>
 

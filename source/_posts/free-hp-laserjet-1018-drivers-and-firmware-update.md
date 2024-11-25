@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2024-11-09T08:05:23.283Z
-updated: 2024-11-15T00:15:37.176Z
+date: 2024-11-22T16:29:54.472Z
+updated: 2024-11-24T18:52:11.773Z
 tags:
   - win11
   - win10
@@ -41,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -52,10 +49,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -63,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
@@ -83,15 +74,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -113,20 +105,22 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-unveiling-whatsapps-call-conversations/"><u>[New] In 2024, Unveiling WhatsApp's Call Conversations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-speed-of-instagram-videos-effortlessly/"><u>[Updated] How To Control Speed of Instagram Videos Effortlessly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-frontier-of-gesture-based-technology-advancements/"><u>2024 Approved The Frontier of Gesture-Based Technology Advancements</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-value-hunting-affordable-vr-gear-from-china/"><u>2024 Approved Value Hunting Affordable VR Gear From China</u></a></li>
-<li><a href="https://driver-download.techidaily.com/connect-your-iphone-to-windows-11-step-by-step-driver-downloads-and-installation-tips/"><u>Connect Your iPhone to Windows 11 - Step-by-Step Driver Downloads & Installation Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-downloading-hps-color-laserjet-pro-mfp-m477-printing-driver-software/"><u>Easy Steps to Downloading HP's Color LaserJet Pro MFP M477 Printing Driver Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-download-your-windows-7-keyboard-drivers/"><u>Fast and Simple Guide: Download Your Window's 7 Keyboard Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-hp-840-g3-driver-for-optimal-performance/"><u>How to Update Your HP #840 G3 Driver for Optimal Performance</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ideal-beginning-enhancer-for-your-devices/"><u>In 2024, The Ideal Beginning Enhancer for Your Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-motorola-moto-g84-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Motorola Moto G84 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nutzungsvereinbarung-fur-die-digiarty-software-xdvd-endverbraucher-lizenzierungsterminologien-verstehen/"><u>Nutzungsvereinbarung Für Die Digiarty Software - XDVD Endverbraucher: Lizenzierungsterminologien Verstehen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/playstation-networks-stability-worldwide-crash-or-just-you-guys/"><u>PlayStation Network's Stability: Worldwide Crash or Just You, Guys?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-how-to-download-arduino-mega-2560-driver-get-started-fast/"><u>Quick Guide: How to Download Arduino Mega 2560 Driver - Get Started Fast</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2080-latest-driver-update-windows-1078-supported-versions-available-now/"><u>RTX 2080 Latest Driver Update - Windows 10/7/8 Supported Versions Available Now</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-the-x-chair-x4-executive-chair-why-its-a-top-contender-in-workspace-comfort/"><u>Ultimate Guide to the X-Chair X4 Executive Chair: Why It's a Top Contender in Workspace Comfort</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>[Updated] 2024 Approved Danger Lurking Online Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[Updated] 2024 Approved Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-blaze-2-5g-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Blaze 2 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-logitech-brio-webcam-software-on-pcs-with-windows-10-8-and-7/"><u>Download and Setup Logitech Brio Webcam Software on PCs with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-solutions-to-fix-ralink-rt3290-wifi-drivers-in-various-windows-environments-xpvista/"><u>Effective Solutions to Fix Ralink RT3290 WiFi Drivers in Various Windows Environments (XP/Vista)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-msi-sound-driver-downloads-for-optimal-windows-performance/"><u>Essential MSI Sound Driver Downloads for Optimal Windows Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-startech-vga-drivers-for-usb-graphics-adapters-get-your-version-here/"><u>Free StarTech VGA Drivers for USB Graphics Adapters – Get Your Version Here!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/frozen-olympics-spectacular-2022-highlights/"><u>Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-laserjet-cu8145n-m97a-m672dw-driver-software-for-windows-computers/"><u>Get the Latest HP LaserJet Cu8145N (M97A) M672dw Driver Software for Windows Computers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-s18-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from S18.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 15 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-all-encompassing-look-at-the-ricoh-theta-s-design/"><u>In 2024, All-Encompassing Look at the Ricoh Theta S Design</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-artisan-amo-1430-drivers-on-windows-11108-secure-your-printing-experience/"><u>Install Epson Artisan Amo 1430 Drivers on Windows 11/10/8 – Secure Your Printing Experience</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audiobook-making-made-simple-an-up-to-date-all-inclusive-handbook-for-2024/"><u>New Audiobook Making Made Simple An Up-to-Date, All-Inclusive Handbook for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-enhancements-in-the-latest-version-of-logitech-extreme-3d/"><u>Newest Enhancements in the Latest Version of Logitech Extreme 3D!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-update-your-scansnap-printers-with-new-windows-drivers-easily/"><u>Step-by-Step Tutorial: Update Your ScanSnap Printers with New Windows Drivers Easily</u></a></li>
 </ul></div>
 

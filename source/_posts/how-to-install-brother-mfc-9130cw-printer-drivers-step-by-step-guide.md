@@ -1,7 +1,7 @@
 ---
 title: How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide
-date: 2024-11-13T03:29:13.438Z
-updated: 2024-11-15T06:50:29.174Z
+date: 2024-11-22T16:29:39.353Z
+updated: 2024-11-24T21:40:06.701Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c2e04fc7d.jpg)
 
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
 
@@ -37,9 +41,18 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
  After uninstalling, you can now download the printer driver from official website.
@@ -66,21 +79,22 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -113,19 +127,18 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect/"><u>[New] In 2024, Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect</u></a></li>
-<li><a href="https://driver-error.techidaily.com/audio-mastered-on-quality-hub-hd/"><u>Audio Mastered on Quality Hub (HD)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-get-and-implement-the-newest-hp-scanner-driver-for-windows/"><u>Easy Guide: How To Get And Implement The Newest HP Scanner Driver For Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-driver-updates-for-your-dell-optiplex-n7010-computer/"><u>Get the Latest Driver Updates for Your Dell OptiPlex N7010 Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-hp-laserjet-5200-drivers-for-windows-11-10-and-8-free-downloads-available-now/"><u>Get Your Latest HP LaserJet 5200 Drivers for Windows 11, 10 & 8 - Free Downloads Available Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-resolve-drivers-problems-with-arduino-uno-in-windows/"><u>How to Resolve Drivers Problems with Arduino Uno in Windows</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/how-to-seamlessly-transition-from-a-ghost-image-drive-to-an-ssd-in-windows-11-effective-strategies/"><u>How to Seamlessly Transition From a Ghost Image Drive to an SSD in Windows 11 - Effective Strategies</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-narzo-60x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme Narzo 60x 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-a-synergy-for-success-merge-linktree-with-your-tiktok-bio/"><u>In 2024, A Synergy for Success Merge Linktree with Your TikTok Bio</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-find-x7-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find X7 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/transferring-images-via-airdrop-tips-for-seamless-transfer-from-older-devices-to-new-iphones/"><u>Transferring Images via AirDrop: Tips for Seamless Transfer From Older Devices to New iPhones</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-graphics-and-system-drivers-on-your-acer-nitro-5-an-easy-guide/"><u>Updating Graphics and System Drivers on Your Acer Nitro 5: An Easy Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-gadgets-that-shine-in-travel-videography/"><u>2024 Approved Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-c53-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme C53 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/57ea5lik54sh6zmq6yep56kp5asn5b2x5yop5lil6lyjic0g5yuv55wr546l/"><u>線上無限量碩大影像下載 - 動畫王</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-on-reactivating-a-stalled-igfxem-component-successfully/"><u>Expert Advice on Reactivating a Stalled IgfxEM Component Successfully</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964330377-get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973638237-get-your-iphone-connected-to-windows-11-with-our-driver-downloads/"><u>Get Your iPhone Connected to Windows 11 with Our Driver Downloads!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-canon-mg3600-driver-software/"><u>How to Get the Newest Canon MG3600 Driver Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964678302-hp-driver-setup-made-effortless-start-here/"><u>HP Driver Setup Made Effortless - Start Here!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>In 2024, Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974243200-latest-dell-wifi-driver-version-get-it-here-now/"><u>Latest Dell WiFi Driver Version - Get It Here Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

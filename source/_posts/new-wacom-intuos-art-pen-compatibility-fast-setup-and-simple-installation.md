@@ -1,7 +1,7 @@
 ---
 title: "New Wacom Intuos Art Pen Compatibility: Fast Setup & Simple Installation"
-date: 2024-08-19T15:55:03.135Z
-updated: 2024-08-20T15:55:03.135Z
+date: 2024-11-17T17:20:11.685Z
+updated: 2024-11-24T23:59:00.109Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Manually update your Targus Docking Station driver
 
  If you feel like updating your Targus Docking Station driver manually, here’s the simple and useful guide for you.
@@ -58,34 +62,41 @@ OR
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
-13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
 
@@ -99,8 +110,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +117,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-innovative-strategies-to-optimize-youtube-edits-after-upload/"><u>[Updated] 2024 Approved Innovative Strategies to Optimize YouTube Edits After Upload</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-tailoring-your-online-persona-with-a-new-background-photo/"><u>[Updated] 2024 Approved Tailoring Your Online Persona with a New Background Photo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-discover-the-secrets-to-superior-scalability-in-roblox-worlds/"><u>[Updated] Discover the Secrets to Superior Scalability in Roblox Worlds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-flip-the-script-on-classic-films-7-list/"><u>[Updated] In 2024, Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-dji-drone-visor-revolution-an-in-depth-review-for-2024/"><u>[Updated] The DJI Drone Visor Revolution An In-Depth Review for 2024</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>2024 Approved Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tips-to-fix-and-update-your-hp-monitors-driver-on-windows-os-from-vista-to-the-latest-windows-10/"><u>Comprehensive Tips to Fix and Update Your HP Monitor's Driver on Windows OS: From Vista to the Latest Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-successfully-download-and-install-iphone-drivers-on-windows-10-pcs/"><u>Easy Guide: How to Successfully Download & Install iPhone Drivers on Windows 10 PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/facebook-video-silence-no-more-effective-solutions-for-your-pc/"><u>Facebook Video Silence No More: Effective Solutions for Your PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976206873-get-your-roccat-mouse-driver-now-free-software-downloads-available/"><u>Get Your Roccat Mouse Driver Now – Free Software Downloads Available</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-logitech-g43-essential-driver-software-for-optimal-performance/"><u>Getting Started with Logitech G43# - Essential Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-wireless-adapter-driver-download-for-modern-windows-versions-windows-1178/"><u>HP Wireless Adapter Driver Download for Modern Windows Versions (Windows 11/7/8)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-k350-keyboard-compatible-software-download-options-unveiled/"><u>Logitech K350 Keyboard Compatible Software Download Options Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-hp-deskjet-ink-advantage-3755-multi-function-printer-drivers-compatible-with-windows-1087/"><u>Newest HP Deskjet Ink Advantage 3755 Multi-Function Printer Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-to-updating-brother-mfc-7360n-printers-for-windows-users/"><u>Quick Guide to Updating Brother MFC-7360N Printers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-installation-of-d-link-drivers-a-comprehensive-guide-for-windows-users/"><u>Seamless Installation of D-Link Drivers: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/streamline-audio-podcasts-made-easy-for-iphones/"><u>Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/troubleshooting-button-failures-on-iphones-learn-how-to-power-on-and-restart/"><u>Troubleshooting Button Failures on iPhones - Learn How to Power On and Restart</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-you-need-apple-pages-in-your-toolkit-zdnet-uncovers-the-top-reasons/"><u>Why You Need Apple Pages in Your Toolkit: ZDNet Uncovers the Top Reasons!</u></a></li>
+</ul></div>
 

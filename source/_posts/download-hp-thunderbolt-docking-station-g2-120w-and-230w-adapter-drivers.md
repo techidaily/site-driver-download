@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-11-09T13:53:08.869Z
-updated: 2024-11-15T02:32:49.695Z
+date: 2024-11-17T20:24:53.315Z
+updated: 2024-11-24T22:55:44.117Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update your Intel Thunderbolt Controller driver
 
 There are two ways you can update your driver:
@@ -30,10 +34,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -47,10 +48,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -66,17 +64,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -107,24 +99,20 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/download-hp-scanjet-driver-update-windows-10-8-7/"><u>[Download] HP Scanjet Driver Update | Windows 10, 8, 7</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ow-to-maximize-video-reach-with-effective-tags-titles-for-2024/"><u>[New] How to Maximize Video Reach with Effective Tags, Titles for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>[New] Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-intro-excellence-app-your-device-friendly-solution-for-2024/"><u>[New] Intro Excellence App Your Device-Friendly Solution for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-zipping-up-an-enthralling-tiktok-credit-sequence/"><u>[New] Zipping Up an Enthralling TikTok Credit Sequence</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] In 2024, The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-procedure-for-effective-auditory-recordings-on-windows-11/"><u>[Updated] Procedure for Effective Auditory Recordings on Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-earnings-standards-new-rules-and-tips/"><u>2024 Approved YouTube Earnings Standards New Rules & Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/choosing-the-best-footage-editor-hero-vs-polaroid-edition-for-2024/"><u>Choosing the Best Footage Editor Hero Vs. Polaroid Edition for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-set-up-amd-cryptocurrency-mining-software-on-windows/"><u>Download & Set Up AMD Cryptocurrency Mining Software on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-installing-amd-radeon-rx-590-drivers-on-windows/"><u>Easy Guide to Downloading and Installing AMD Radeon RX 590 Drivers on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-how-to-keep-your-hid-keyboard-up-to-date-instantly/"><u>Easy Installation: How to Keep Your HID Keyboard Up-to-Date Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-brother-mfc-9130cw-printer-software-downloads/"><u>Free Brother MFC-9130CW Printer Software Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-canon-mf8500c-printer-drivers-for-pcs-running-on-windows-7-81-or-10/"><u>Get Canon MF8500C Printer Drivers for PCs Running on Windows 7, 8.1 or 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-corsair-void-pro-graphics-card-driver-installation-on-windows-systems/"><u>Hassle-Free Corsair Void Pro Graphics Card Driver Installation on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-access-to-your-lenovo-x230-drives-for-effortless-setup/"><u>Quick Access to Your Lenovo X230 Drives for Effortless Setup</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-list-5-best-hd-video-editing-tools-for-creators/"><u>Updated The Ultimate List 5 Best HD Video Editing Tools for Creators</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-7-mouse-drivers-compatible-downloads-and-troubleshooting-tips/"><u>Windows 7 Mouse Drivers: Compatible Downloads and Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube/"><u>[Updated] From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/accurate-screen-shots-at-lightning-speed/"><u>Accurate Screen Shots at Lightning Speed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-printer-drivers-on-your-windows-pc/"><u>Download & Install HP Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977152799-download-and-update-surface-book-drivers-with-simple-steps/"><u>Download and Update Surface Book Drivers with Simple Steps!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-resolution-to-logitech-c615s-driver-complications/"><u>Effortless Resolution to Logitech C615's Driver Complications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-your-sound-card-drivers-with-the-latest-realtek-alc892aic7380-software-on-windows-11/"><u>How to Easily Update Your Sound Card Drivers with the Latest Realtek ALC892/AIC7380 Software on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/illuminating-images-techniques-in-color-science/"><u>Illuminating Images Techniques in Color Science</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-automating-meeting-times-a-google-meet-essential/"><u>In 2024, Automating Meeting Times A Google Meet Essential</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lenovo-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lenovo</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-virtual-films-to-explore/"><u>In 2024, Incredible Virtual Films to Explore</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-dr-c225-drivers-compatible-with-windows-11-10-and-8-systems/"><u>Latest Canon DR-C225 Drivers - Compatible with Windows 11, 10 & 8 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/summit-interaction-handler-for-input-devices/"><u>Summit Interaction Handler for Input Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-tutorial-for-secure-d-link-driver-download-and-update-on-windows-systems/"><u>Ultimate Tutorial for Secure D-Link Driver Download & Update on Windows Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-harry-potter-saga-correctly-a-step-by-step-movie-marathon-plan/"><u>Watch Harry Potter Saga Correctly - A Step-by-Step Movie Marathon Plan</u></a></li>
 </ul></div>
 

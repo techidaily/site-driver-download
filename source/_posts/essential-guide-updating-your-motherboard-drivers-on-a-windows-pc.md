@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Updating Your Motherboard Drivers on a Windows PC"
-date: 2024-08-19T15:58:14.361Z
-updated: 2024-08-20T15:58:14.361Z
+date: 2024-11-23T19:38:48.285Z
+updated: 2024-11-24T18:55:01.519Z
 tags:
   - win11
   - win10
@@ -37,11 +37,21 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Printer queues** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
@@ -55,11 +65,16 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Killer network  driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,14 +87,13 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
 
@@ -96,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +117,22 @@ thumbnail: https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-free-sound-recognition-and-instant-utilization/"><u>[New] Free Sound Recognition and Instant Utilization</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>[New] Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-anti-fog-strategies-optimal-gopro-video-quality/"><u>[Updated] 2024 Approved Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>[Updated] Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-premium-quick-insight-for-pics-on-win-11/"><u>[Updated] In 2024, Premium Quick Insight for Pics on Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-incredible-ways-chatgpt-can-enhance-your-workday-productivity/"><u>7 Incredible Ways ChatGPT Can Enhance Your Workday Productivity</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-samsung-ssd-960-evo-drivers-on-your-pc-step-by-step-guide/"><u>Download & Update Samsung SSD 960 EVO Drivers on Your PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-future-with-apples-innovative-m4-silicon-chips-a-leap-toward-smart-technology-in-every-mac-model-anticipated-launch-dates-decoded/"><u>Exploring the Future with Apple's Innovative M4 Silicon Chips: A Leap Toward Smart Technology in Every Mac Model – Anticipated Launch Dates Decoded</u></a></li>
+<li><a href="https://driver-download.techidaily.com/finding-and-applying-the-best-updates-for-amd-radeon-hd-7870-graphics-card-under-windows-11-environment/"><u>Finding and Applying the Best Updates for AMD Radeon HD 7870 Graphics Card Under Windows 11 Environment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>In 2024, Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-solution-for-audio-device-not-supported-by-dts/"><u>Step-by-Step Solution for 'Audio Device Not Supported by DTS'</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-obtaining-the-latest-linksys-ae2500-drivers-for-optimal-performance/"><u>Step-by-Step Tutorial: Obtaining the Latest Linksys AE2500 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976443003-swift-download-of-samsung-m2070fw-drivers-get-set-up-fast/"><u>Swift Download of Samsung M2070FW Drivers - Get Set Up Fast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-compatible-amd-radeon-graphics-driver-downloads-available-now/"><u>Windows-Compatible AMD Radeon Graphics Driver Downloads Available Now</u></a></li>
+</ul></div>
 

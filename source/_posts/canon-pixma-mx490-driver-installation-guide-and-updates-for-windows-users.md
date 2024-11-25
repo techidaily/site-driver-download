@@ -1,7 +1,7 @@
 ---
 title: Canon PIXMA MX490 Driver Installation Guide and Updates for Windows Users
-date: 2024-08-19T15:54:03.161Z
-updated: 2024-08-20T15:54:03.161Z
+date: 2024-11-21T19:03:03.288Z
+updated: 2024-11-24T23:55:37.618Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
  It’s essential to keep the driver for your **Brother MFC7360N** printer up-to-date so as to keep it in tip-top shape and nip all sorts of problems such as printer not printing or system crashes in the bud.
 
  In this post, we’re going to show you 2 safe and easy ways to help you get the latest driver for your **Brother MFC7360N** printer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Choose the way you prefer
 
@@ -48,18 +52,34 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Killer network  driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -72,14 +92,8 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
 
@@ -96,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-dealing-with-mistakes-self-representation-during-online-chats-for-2024/"><u>[Updated] Dealing with Mistakes Self-Representation During Online Chats for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-speeding-up-youtube-quick-video-rendering-and-transfer-tips/"><u>[Updated] Speeding Up YouTube Quick Video Rendering & Transfer Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-compatible-console-recreation-software-ps3-for-pcs/"><u>2024 Approved Best Compatible Console Recreation Software (PS3) for PCs</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/webbmp-movavi/"><u>無償のWeb上で動的なBMP画像変換 - MOVAVI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-walkthrough-revitalizing-driver-software-for-optimal-performance-on-your-dell-xps-15-computer/"><u>Comprehensive Walkthrough: Revitalizing Driver Software for Optimal Performance on Your Dell XPS 15 Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-downloads-and-updates-surface-book-driver-solutions/"><u>Effortless Downloads and Updates: Surface Book Driver Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-guide-updating-your-lenovo-thinkpad-t520-graphics-and-chipset-drivers/"><u>Effortless Guide: Updating Your Lenovo ThinkPad T520 Graphics and Chipset Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortlessly-transforming-apples-m4p-tracks-into-crisp-clear-mp3-format-without-quality-compromise/"><u>Effortlessly Transforming Apple's M4P Tracks Into Crisp, Clear MP3 Format without Quality Compromise</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-usbhdmi-compatibility-drivers-here/"><u>Get the Newest USB/HDMI Compatibility Drivers Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-the-latest-canon-pixus-mf8500c-drivers-for-your-pc-compatible-with-win-7-81-and-10/"><u>Getting the Latest Canon PIXUS MF8500C Drivers for Your PC: Compatible with Win 7, 8.1 & 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-driver-installation-and-download-for-surface-books/"><u>Hassle-Free Driver Installation and Download for Surface Books!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-pro-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Pro Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/linksys-usb-6300-network-adapter-comprehensive-downloading-and-installation-manual/"><u>Linksys USB 6300 Network Adapter - Comprehensive Downloading & Installation Manual</u></a></li>
+<li><a href="https://driver-download.techidaily.com/netgear-wna3100-driver-download-and-update-easily/"><u>Netgear WNA3100 Driver Download & Update Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-locking-your-system-via-the-windows-11-command-line/"><u>Step-by-Step Tutorial on Locking Your System via the Windows 11 Command Line</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-procedure-for-careful-xbox-360-slim-dismantling/"><u>The Procedure for Careful Xbox 360 Slim Dismantling</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-edit-large-videos-in-no-time-a-step-by-step-guide-for-mac-users-for-2024/"><u>Updated Edit Large Videos in No Time A Step-by-Step Guide for Mac Users for 2024</u></a></li>
+</ul></div>
 

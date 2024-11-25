@@ -1,7 +1,7 @@
 ---
 title: "Instantly Improve Performance: A Guide to Smooth Driver Updates in Windows"
-date: 2024-08-19T15:55:47.728Z
-updated: 2024-08-20T15:55:47.728Z
+date: 2024-11-20T16:27:50.800Z
+updated: 2024-11-24T21:40:27.013Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-16-26.jpg)
 
  When you updating to Windows 10 version 2004, it’s annoying to have the Conexant driver block your way. Microsoft says they’re working on a fix, but except for waiting, there’re some fixes you can try to solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a8630
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-45-45.jpg)
 7. Try to update Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this fix doesn’t work, move to the next fix.
 
 ### Fix 2: Uninstall Conexant audio driver
@@ -54,9 +62,6 @@ If this fix doesn’t work, move to the next fix.
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the onscreen instructions to finish the process.
@@ -64,8 +69,9 @@ If this fix doesn’t work, move to the next fix.
  Reboot the computer and update Windows after the process. If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update Conexant audio driver
 
  The blocker is mainly the Conexant audio driver, therefore install the correct Conexant driver could be the way to solve the issue.
@@ -78,15 +84,9 @@ If this fix doesn’t work, move to the next fix.
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Right-click on Conexant and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-58.jpg)
 5. Click**Search automatically for driver** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/search-automatically-for-updated-driver-software.jpg)
 6. Follow the onscreen instructions to finish the process.
 
@@ -108,13 +108,19 @@ If this fix doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit Local Group Policy
 
@@ -124,32 +130,22 @@ If this fix doesn’t work, move to the next fix.
 2. Type**devmgmt.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on Conexant and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-59.jpg)
 5. In the**Details** tab, choose**Hardware Ids** under Property.
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. You’ll see a list of hardware IDs, right-click the shorter one and click**Copy** . Then paste it somewhere you can get it easily.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-41-14.jpg)
 7. Press the**Windows logo key + R** together to open the Run box.
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Type**gpedit.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/local_group_policy_editor.jpg)
 9. Click **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation R** **estrictions** .
@@ -158,11 +154,13 @@ If this fix doesn’t work, move to the next fix.
 11. Click**Enable** then click the**Show…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-51.jpg)
 12. Paste the Hardware IDs you got from**Step 6** in the blank space, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-01-14.jpg)
 13. Update Windows to check.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,8 +174,6 @@ If this fix doesn’t work, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +181,26 @@ If this fix doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-instagram-posts-with-perfectly-sized-videos/"><u>[New] Elevating Instagram Posts with Perfectly Sized Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-adjustment-tips-for-subtle-audio-reduction-in-logic-pro/"><u>[New] In 2024, Adjustment Tips for Subtle Audio Reduction in Logic Pro</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-quick-and-easy-online-photo-cropping-hacks/"><u>[New] Quick and Easy Online Photo Cropping Hacks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-srt-power-play-transforming-macwindows-experience/"><u>[New] SRT Power Play Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>[Updated] 2024 Approved Efficient Setup PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-skybound-streaming-engaging-your-audience-on-facebook/"><u>[Updated] 2024 Approved Skybound Streaming Engaging Your Audience on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-securing-product-sponsors-on-youtube/"><u>[Updated] Strategies for Securing Product Sponsors on YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-v700-drivers-ready-to-go-installation-for-w7w81w10-systems/"><u>Get Your Epson V700 Drivers: Ready-to-Go Installation for W7/W8.1/W10 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-and-configure-linksys-wusb6300-drivers-a-step-by-step-tutorial/"><u>How to Install and Configure Linksys WUSB6300 Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-your-logitech-g35-drivers-for-windows-operating-systems-7-8-and-10/"><u>How To: Get Your Logitech G35 Drivers for Windows Operating Systems 7, 8 and 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-c32-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia C32 to Roku | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-iris-gfx-driver-update-boost-your-system-efficiency-on-windows-10-11-platforms/"><u>Intel Iris Gfx Driver Update: Boost Your System Efficiency on Windows 10, 11 Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-supported-drivers-for-nvidias-geforce-940mx-gpu-ready-to-download/"><u>Latest Supported Drivers for NVIDIA's GeForce 940MX GPU Ready to Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-nvidia-geforce-rtx-2070-graphics-card-drivers-compatible-with-windows-10-8-and-7/"><u>New Release: NVIDIA GeForce RTX 2070 Graphics Card Drivers - Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://video-capture.techidaily.com/overcoming-low-resolution-output-in-obs-for-2024/"><u>Overcoming Low-Resolution Output in OBS for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-to-fresh-canon-mp560-drivers-download-and-update-made-easy/"><u>Quick Guide To Fresh Canon MP560 Drivers - Download and Update Made Easy!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-installing-your-dell-mouse-driver-successfully/"><u>Step-by-Step Guide to Installing Your Dell Mouse Driver Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-on-prioritizing-and-displaying-notes-in-the-os-window/"><u>Tips on Prioritizing and Displaying Notes in the OS Window</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-download-new-hp-officejet-pro-8720-windows-drivers-easily/"><u>Update or Download New HP Officejet Pro 8720 Windows Drivers Easily</u></a></li>
+</ul></div>
 

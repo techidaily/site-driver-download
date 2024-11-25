@@ -1,7 +1,7 @@
 ---
 title: How to Update or Repair LG Drivers on Windows 10/8/7 for Smooth Operation
-date: 2024-11-11T01:15:02.717Z
-updated: 2024-11-14T17:52:34.219Z
+date: 2024-11-18T00:08:48.769Z
+updated: 2024-11-24T21:41:25.048Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  In this post, we’re going to show you 2 safe and easy ways to help you get the latest driver for your **Brother MFC7360N** printer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Choose the way you prefer
 
  Both methods below work in **Windows 10** , **8** and **7** . You may not have to try both; just decide if you want to do it manually or automatically and take your pick:
@@ -37,39 +41,16 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
@@ -78,16 +59,7 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
@@ -97,10 +69,7 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 9. Click **Agree to the EULA**  **and Download** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
@@ -108,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -151,18 +124,22 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-altitude-achieved-a-critical-look-at-gopro-karma/"><u>[New] Altitude Achieved A Critical Look at GoPro Karma</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-business-breakthroughs-on-youtube-the-simplest-channel-launches-ranked/"><u>[Updated] 2024 Approved Business Breakthroughs on YouTube The Simplest Channel Launches Ranked</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-streamlining-your-figma-project-eliminate-the-unwanted-background/"><u>[Updated] In 2024, Streamlining Your Figma Project Eliminate the Unwanted Background</u></a></li>
-<li><a href="https://driver-download.techidaily.com/direct-links-download-epson-gt-s50-printer-software-for-win7-win8-and-win10/"><u>Direct Links: Download Epson GT-S50 Printer Software for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-thunderbolt-usb-drivers-for-your-windows-pc/"><u>Download Thunderbolt USB Drivers for Your Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-intels-latest-nvme-drivers-get-your-download-here/"><u>Easy Installation of Intel's Latest NVMe Drivers – Get Your Download Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-to-update-your-nvidia-gpu-drivers-get-the-newest-version-now/"><u>Easy Steps to Update Your Nvidia GPU Drivers - Get the Newest Version Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-deskjet-inkjet-printer-driver-downloads-for-win7-win8-and-win10/"><u>HP Deskjet Inkjet Printer Driver Downloads for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edge-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge 2023 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-what-is-the-best-frame-rate-for-slow-motion-video/"><u>In 2024, What Is The Best Frame Rate For Slow Motion Video?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-quick-guide-to-disconnect-on-ig-for-2024/"><u>The Quick Guide to Disconnect on IG for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-lenovo-ideapad-100-driver-downloads-and-installation-tips-for-windows-11/"><u>Update Your Lenovo IdeaPad 100 - Driver Downloads & Installation Tips for Windows 11</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-get-the-perfect-angle-10-best-video-rotators-for-online-use/"><u>Updated 2024 Approved Get the Perfect Angle 10 Best Video Rotators for Online Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leading-setups-in-professional-broadcast-equipment-for-2024/"><u>[New] Leading Setups in Professional Broadcast Equipment for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-liveaction-gaming-diary/"><u>[Updated] 2024 Approved LiveAction Gaming Diary</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1k-discount-on-top-ranked-qled-televisions-this-labor-day-exclusive-review-and-deals-zdnet/"><u>$1K Discount on Top-Ranked QLED Televisions This Labor Day: Exclusive Review & Deals - ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-solution-for-securing-optimal-performance-dell-latitude-e6430-driver-updates-on-windows-systems/"><u>Complete Solution for Securing Optimal Performance: Dell Latitude E6430 Driver Updates on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-tutorial-updating-nvme-controller-drivers-in-windows-easily/"><u>Complete Tutorial: Updating NVMe Controller Drivers in Windows Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-your-dell-monitor-driver-simple-steps/"><u>Download and Update Your Dell Monitor Driver: Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-correct-the-yellow-hue-on-your-iphone-display-a-step-by-step-guide/"><u>How to Correct the Yellow Hue on Your iPhone Display: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-sandisk-ssd-drivers-solved/"><u>How to Download Sandisk SSD Drivers [SOLVED]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-or-install-nvme-device-drivers-in-windows-os/"><u>How to Successfully Update or Install NVMe Device Drivers in Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977859203-humidity-levels-required-for-optimal-mycelium-proliferation-and-maturation-of-the-fungus/"><u>Humidity Levels Required for Optimal Mycelium Proliferation and Maturation of the Fungus</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essentials-to-skyrocketing-video-views-on-youtube/"><u>In 2024, Essentials to Skyrocketing Video Views on YouTube</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-spark-go-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Spark Go (2023) FRP Bypass</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/interpreter-invasion-ais-battle-for-clarity/"><u>Interpreter Invasion: AI's Battle for Clarity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-time-savings-ultimate-discounts-before-prime-day-2024-explore-top-offers/"><u>Prime Time Savings: Ultimate Discounts Before Prime Day 2024 - Explore Top Offers!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-when-your-steam-remote-play-wont-start-working/"><u>Quick Fixes for When Your Steam Remote Play Won't Start Working</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-lenovo-thinkpad-t4n-laptop-drivers-windows-11-8-and-7/"><u>Step-by-Step Guide to Downloading Lenovo ThinkPad T4n Laptop Drivers (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-downloading-and-updating-intel-usb-30-drivers-for-optimal-performance-on-windows-11/"><u>Ultimate Guide: Downloading and Updating Intel USB 3.0 Drivers for Optimal Performance on Windows 11</u></a></li>
 </ul></div>
 

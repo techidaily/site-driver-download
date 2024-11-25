@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Photo Quality on the Latest Google Pixel Phone
-date: 2024-08-19T15:54:06.369Z
-updated: 2024-08-20T15:54:06.369Z
+date: 2024-11-20T22:28:24.033Z
+updated: 2024-11-24T17:33:59.262Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Photo Quality on the Latest Google Pixel Phone
@@ -43,6 +43,10 @@ thumbnail: https://www.lifewire.com/thmb/D531QxkPMIRi9GQIqkhMH_cNWiM=/400x300/fi
 
 ![Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter](https://www.lifewire.com/thmb/7R_IVd_cu2-li0Lw4-mRkmgyF1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Beatit_JumpStarter_BT-D11_HeroSquare-8435600d56284af29842af0fe633c98d.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Tony Mitera
 
 [View On EBay](https://www.ebay.com/p/563813511)
@@ -67,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/D531QxkPMIRi9GQIqkhMH_cNWiM=/400x300/fi
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Design: A lot of power packed into a small frame**
 
  The Beatit Jump Starter D11’s main unit's effectively a small black brick with red accents. Roughly the size of a small paperback book, the unit's constructed out of durable plastic and features a flashlight at one end. Along one of the long sides there's a small display that shows battery status, the on/off switch, two USB power outputs, and the device’s charging port. On the opposing side a rubber flap covers the jumper cable port; a unique port that the jumper cable accessory plugs in to.
@@ -87,10 +92,6 @@ thumbnail: https://www.lifewire.com/thmb/D531QxkPMIRi9GQIqkhMH_cNWiM=/400x300/fi
 
  If it's your other devices that are having some battery issues, the D11’s two USB ports can be used to charge them up. The 2.1A port provides for faster charging, and while the 1A port also works it really doesn’t provide power in a hurry and should only be used with specific devices that can’t handle the other port's amperage. For most modern phones you’re just going to want to plug it into the 2.1A port and enjoy the faster recharge.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## **Performance: Plenty of power for all your needs**
 
  Time and again, the Beatit Jump Starter D11 was able to get a car with a very[depleted battery](https://www.lifewire.com/car-batteries-are-made-to-die-534765) started. Even after repeated testing the unit’s own battery only dropped down to 85% capacity.
@@ -100,8 +101,9 @@ The ultimate burning program for all your needs!</a>
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Key Features: The flashlight is nice but is basically a spotlight**
 
  There aren’t a ton of other features present with the Beatit Jump Starter D11 but there are some of note, including the unit’s built-in flashlight. It’s a nice addition to have if you must jump start a car in the middle of the night, but it doesn’t put out of a ton of light and the beam is pretty narrow. You can pick the unit up and use it as a large flashlight, though doing so while also trying to get the clamps attached is cumbersome.
@@ -111,18 +113,15 @@ The ultimate burning program for all your needs!</a>
  Lifewire / Tony Mitera
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Price: A ton of value for a tiny cost**
 
  The MSRP of the Beatit Jump Starter D11 is $70 which makes it one of the most affordable jump starters on the market. Indeed, at that price, it's the least expensive one we tested, yet no part of it feels like any corners were cut in terms of quality or performance.
 
  At that price point, it packs a ton of value into its diminutive size.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## **Competition: In the battle of the smallest, this one reigns supreme**
 
 **_DBPOWER 600A Peak 18000mAh Portable Car Jump Starter:_**  When it comes down to it these two units are surprisingly similar, down to the case and overall design of the unit. If you really want the ability to use your jump starter to also charge your laptop the DBPOWER is worth a look. Otherwise, save yourself around $10 and stick with the Beatit BT-D11.
@@ -140,8 +139,9 @@ The ultimate burning program for all your needs!</a>
  In a crowded field, there are few units that are as easy to recommend as the Beatit BT-D11 800A Peak 18000mAh 12V Portable Car Jump Starter. It has relatively few features when compared to some of its competitors but otherwise excels at what it's designed to do. Charge it up, keep it stashed in your vehicle, and you’ll have a perfect tool to easily provide a jump to whatever vehicle needs it.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Specs
 
 * Product Name  800A BT-D11 Car Jump Starter
@@ -164,8 +164,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +171,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-tips-for-removing-discord-servers-on-pcs-and-phones/"><u>[New] In 2024, Tips for Removing Discord Servers on PCs & Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-diy-approaches-to-design-your-own-youtube-cards/"><u>[Updated] 2024 Approved Free DIY Approaches to Design Your Own YouTube Cards</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-four-quick-tips-boosting-iphone-video-luminosity/"><u>[Updated] Four Quick Tips Boosting iPhone Video Luminosity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-flash-video-insights-guide/"><u>2024 Approved Flash Video Insights Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-soundmax-drivers-for-windows-systems/"><u>Download & Install SoundMAX Drivers for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-printing-with-epson-ds-530-secure-downloads-for-updated-drivers-on-windows-11-x64-platforms/"><u>Efficient Printing with Epson DS-530: Secure Downloads for Updated Drivers on Windows 11 X64 Platforms</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-lenovo-yogas-capabilities-windows-10-drivers-update/"><u>Enhance Lenovo Yoga's Capabilities - Windows 10 Drivers Update</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-review-unveiling-the-secrets-of-vpn-performance-evaluation/"><u>Expert Review: Unveiling the Secrets of VPN Performance Evaluation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972841319-get-the-latest-amd-vega-amo-56-driver-update-for-windows-systems-easily/"><u>Get the Latest AMD Vega Amo 56 Driver Update for Windows Systems Easily!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>In 2024, Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-vga-driver-issues-in-windows-solved/"><u>Intel VGA Driver Issues in Windows [SOLVED]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-how-to-easily-update-your-intel-nuc-drivers/"><u>Quick Fixes: How to Easily Update Your Intel NUC Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-the-latest-asus-wireless-network-drivers/"><u>Step-by-Step Guide: Downloading the Latest ASUS Wireless Network Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clever-way-to-compress-streamlined-windows-explorer/"><u>The Clever Way to Compress: Streamlined Windows Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-unsupported-operating-system-warning-and-prevent-exit-during-installation/"><u>Troubleshooting Guide: Fix Unsupported Operating System Warning & Prevent Exit During Installation</u></a></li>
+</ul></div>
 

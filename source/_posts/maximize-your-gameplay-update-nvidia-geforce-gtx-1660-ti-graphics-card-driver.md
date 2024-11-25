@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Gameplay: Update NVIDIA GeForce GTX 1660 Ti Graphics Card Driver"
-date: 2024-11-12T10:48:33.459Z
-updated: 2024-11-15T00:29:59.399Z
+date: 2024-11-17T17:59:56.185Z
+updated: 2024-11-24T17:04:46.988Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ There are two ways to update your Nvidia display driver.
 
 [**Option 2 – Automatically (Recommended)**](https://www.drivereasy.com/knowledge/nvidia-display-driver-download-and-install-for-windows/#o2) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the Nvidia display driver manually
 
  Nvidia keeps updating drivers. To get the latest display driver, you need to go to the[Nvidia official website](https://www.nvidia.com/Download/index.aspx?lang=en-us) , find **the driver that’s compatible with the exact model number of your hardware, and your version of Windows** , then download the driver manually.
@@ -30,10 +34,7 @@ There are two ways to update your Nvidia display driver.
  Once you’ve downloaded the correct display driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Nvidia display driver
@@ -46,20 +47,14 @@ There are two ways to update your Nvidia display driver.
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacace00b167.jpg)  
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [driver](https://tools.techidaily.com/drivereasy/download/)
@@ -79,17 +74,14 @@ There are two ways to update your Nvidia display driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-editor-options-filmora-or-democreator/"><u>[New] 2024 Approved Navigating Editor Options Filmora or Democreator?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-ultimate-guide-to-asus-mg28uqs-crystal-clear-display/"><u>[New] 2024 Approved The Ultimate Guide to ASUS MG28UQ's Crystal Clear Display</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ideal-mkv-player-apps-windows-pc/"><u>[New] Ideal MKV Player Apps Windows PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturecrafter-your-ultimate-guide-to-screen-recording-for-2024/"><u>[Updated] CaptureCrafter Your Ultimate Guide to Screen Recording for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-webcapture-pro-live-chat-videos/"><u>[Updated] In 2024, WebCapture Pro Live Chat Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-840-g3-printer-drivers-a-step-by-step-guide/"><u>Download & Install HP 840 G3 Printer Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-started-how-to-update-your-canon-dr-c225-printer-drivers-on-latest-windows-versions/"><u>Getting Started: How to Update Your Canon DR-C225 Printer Drivers on Latest Windows Versions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-adjusting-netflix-pace-settings/"><u>In 2024, Mastering the Art of Adjusting Netflix Pace Settings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-free-wifi-driver-for-acer-devices-effortless-installation/"><u>Instant Access: Free WiFi Driver for Acer Devices - Effortless Installation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-downloads-acer-predator-xb271h-monitor-drivers/"><u>Instant Downloads: Acer Predator XB271H Monitor Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshoot-your-d-link-hardware-the-best-ways-to-get-and-upgrade-drivers-on-windows-systems/"><u>Troubleshoot Your D-Link Hardware: The Best Ways to Get and Upgrade Drivers on Windows Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-best-concealed-vids-2023s-selective-8-software-guide/"><u>[Updated] Best Concealed Vids - 2023'S Selective 8 Software Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-brilliant-barrage-essential-gadgets-for-clips/"><u>2024 Approved Brilliant Barrage Essential Gadgets for Clips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>In 2024, Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-iris-xe-graphics-g7-driver-update-fast-and-simple-installation-guide/"><u>Intel Iris Xe Graphics G7 Driver Update - Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-no-cost-video-watermark-solutions-our-top-5-recommendations/"><u>New No-Cost Video Watermark Solutions Our Top 5 Recommendations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-generic-bluetooth-adapter-drivers-free-downloads-for-windows-systems/"><u>Newest Generic Bluetooth Adapter Drivers - Free Downloads for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970732361-nvidia-driver-update-for-windows-11-made-easy-find-install-and-enjoy/"><u>NVIDIA Driver Update for Windows 11 Made Easy: Find, Install, and Enjoy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proven-strategies-for-flawless-xbox-video-capture-for-2024/"><u>Proven Strategies for Flawless Xbox Video Capture for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-how-to-effortlessly-update-windows-battery-driver-software/"><u>Quick Guide: How to Effortlessly Update Windows Battery Driver Software</u></a></li>
 </ul></div>
 
