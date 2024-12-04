@@ -1,7 +1,7 @@
 ---
 title: "Install Drivers: How to Download for Your Brother MFC-9130CW"
-date: 2024-08-19T15:50:29.963Z
-updated: 2024-08-20T15:50:29.963Z
+date: 2024-11-27T17:17:49.724Z
+updated: 2024-12-03T20:20:29.638Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Re-enable the Brother HL 2280DW driver
 
  If your printer isn’t working properly, you could disable and re-enable its driver first, and see if the printer returns to normal.
@@ -35,9 +39,17 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Double-click**Printers** to expand the category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click**Brother HL 2280DW** , and select**Disable device** .
 
@@ -65,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically (recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and (if you go Pro) installs any driver updates your computer needs.
@@ -85,17 +98,11 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Option 2 – Manually
 
  If you just want to do everything by yourself, you can search for the latest driver of your printer model from Brother’s official website, and then install it manually.
@@ -104,23 +111,18 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **2)** Select your operating system and the right version. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the driver you need and download it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Open the downloaded file and follow the on-screen instructions to install the driver.
 
  Hopefully, this post will help you fix the Brother HL 2280DW driver issues. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -134,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,18 @@ thumbnail: https://thmb.techidaily.com/8ea49d46a7efdbdbce7ce2f715d9bd1879477faba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-techno-gamers-income-revolution/"><u>[New] In 2024, Techno Gamers' Income Revolution</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-your-surface-device-drivers-with-simple-steps/"><u>Download & Update Your Surface Device Drivers with Simple Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-premium-intel-z27e-chipset-mobo-drivers-unleash-full-potential-of-your-pc-today/"><u>Download Premium Intel Z27e Chipset Mobo Drivers - Unleash Full Potential of Your PC Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-intel-ax200-wi-fi-6-drivers-installation-steps-for-windows-11-and-windows-10-users/"><u>Get the Latest Intel AX200 Wi-Fi 6 Drivers: Installation Steps for Windows 11 and Windows 10 Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-review-is-inshot-the-editors-choice-for-2024/"><u>In-Depth Review Is InShot The Editor's Choice for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-for-your-zebra-gk420d-driver-free-download-available/"><u>Quick Setup for Your Zebra GK420d Driver: Free Download Available</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ions-for-hidden-youtube-shorts-thumbnail-problems-for-2024/"><u>Solutions for Hidden YouTube Shorts Thumbnail Problems for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solve-your-lg-monitor-difficulties-a-step-by-step-approach-for-windows-10-7-and-81-users/"><u>Solve Your LG Monitor Difficulties: A Step-by-Step Approach for Windows 10, 7, and 8.1 Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211066189-9789359043418-the-history-of-spiritualism-vol-ii/"><u>The History of Spiritualism, Vol. II | Free Book</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unlocking-windows-11-mastery-of-radeon-r9-drivers/"><u>Unlocking Windows 11: Mastery of Radeon R9 Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Windows Bluetooth Drivers: Install & Updates for Windows 10, 11, 8, and 7"
-date: 2024-08-19T15:51:06.725Z
-updated: 2024-08-20T15:51:06.725Z
+date: 2024-12-01T18:39:05.045Z
+updated: 2024-12-03T21:38:33.997Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ OR
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1 – Download and install the driver manually
 
  To check for any updates of the AMD Radeon RX 6800 driver, you can head towards the download page of AMD, where new drivers are regularly rolled out for general improvement and bug fixes.
@@ -39,11 +43,25 @@ If you have no idea how to do this, simply follow the steps below.
 2. Scroll down to the search section, and choose**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6800 Series** \>**AMD Radeon 6800** . Then, click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/a.jpg)
 3. Select the correct operating system and click the**Download** button next to the driver or software.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/b.jpg)
 4. Double-click the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Reboot your computer for the changes to take effect.
 
  If the process of manual driver update is too complex for you, there is an easier option below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2 – Download and install the driver automatically (Recommended)
 
@@ -57,6 +75,10 @@ If you have no idea how to do this, simply follow the steps below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click the **Update**  button next to the flagged AMD Radeon RX 6800 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800-de-2.jpg)
@@ -80,8 +102,6 @@ If you have no idea how to do this, simply follow the steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +109,17 @@ If you have no idea how to do this, simply follow the steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-in-flashes-sharing-briefly/"><u>[New] In 2024, Facebook in Flashes Sharing Briefly</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comprehensive-guide-recording-your-fifa-18-matches-on-playstation-4-share-like-a-pro/"><u>Comprehensive Guide: Recording Your FIFA 18 Matches on PlayStation 4 - Share Like a Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-successfully-installing-your-dell-mouse-driver-solutions-inside/"><u>Easy Guide: Successfully Installing Your Dell Mouse Driver – Solutions Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-tutorial-for-your-epson-xp-400-printer-driver-download-and-setup-steps/"><u>Easy Installation Tutorial for Your Epson XP-400 Printer Driver – Download & Setup Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-tutorial-how-to-get-and-install-up-to-date-epson-driver-software-on-windows-10-systems/"><u>Efficient Tutorial: How to Get and Install Up-to-Date Epson Driver Software on Windows 10 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basic-to-breakthrough-elevating-your-zoom-livestream-game-for-2024/"><u>From Basic to Breakthrough Elevating Your Zoom Livestream Game for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-c67-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme C67 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-viral-video-venues-clash-youtube-shorts-vs-tiktoks-rapid-rise/"><u>In 2024, Viral Video Venues Clash YouTube Shorts Vs. TikTok's Rapid Rise</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961773412-simplified-driver-upgrade-for-synaptics-ps2-touchpads-improve-functionality-instantly/"><u>Simplified Driver Upgrade for Synaptics PS/2 Touchpads - Improve Functionality Instantly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-expert-analysis-comprehensive-guides-to-advanced-computer-hardware/"><u>Tom's Expert Analysis: Comprehensive Guides to Advanced Computer Hardware</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

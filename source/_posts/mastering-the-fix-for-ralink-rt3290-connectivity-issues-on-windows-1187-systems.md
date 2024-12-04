@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for Ralink RT3290 Connectivity Issues on Windows 11/8/7 Systems
-date: 2024-08-19T15:49:21.543Z
-updated: 2024-08-20T15:49:21.543Z
+date: 2024-12-01T02:23:14.403Z
+updated: 2024-12-04T00:35:59.605Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -27,6 +31,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 2. **[Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
@@ -42,9 +50,17 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -54,10 +70,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,9 +84,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -94,8 +103,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -129,8 +139,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +146,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] 2024 Approved How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-illuminating-seamless-transitions-in-song-production-crossfade/"><u>[New] Illuminating Seamless Transitions in Song Production (Crossfade)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-filter-pack-for-oceanic-video-shooting/"><u>[New] Optimal Filter Pack for Oceanic Video Shooting</u></a></li>
+<li><a href="https://driver-download.techidaily.com/a-non-linear-stress-strain-curve-may-have-multiple-peaks-due-to-different-deformation-mechanisms/"><u>A Non-Linear Stress-Strain Curve May Have Multiple Peaks Due to Different Deformation Mechanisms.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-bcm20702a0-controller-download-for-windows-fast-install-guide/"><u>Easy BCM20702A0 Controller Download for Windows - Fast Install Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-printing-download-and-setup-guide-for-new-hp-officejet-4500-drivers/"><u>Ensure Seamless Printing : Download and Setup Guide for New HP Officejet 4500 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-top-rated-behringer-audio-drives/"><u>Free Download: Top-Rated Behringer Audio Drives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-setup-for-intel-thunderbolt-controllers-download-instructions-now/"><u>Hassle-Free Setup for Intel Thunderbolt Controllers - Download Instructions Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-add-missing-basic-imaging-devices-in-windows-11-platform/"><u>How to Add Missing Basic Imaging Devices in Windows 11 Platform</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-safely-clone-your-usb-flash-drive-with-no-data-damage-free-methods/"><u>How to Safely Clone Your USB Flash Drive with No Data Damage: Free Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-sound-blaster-z-software-for-your-windows-11-pc/"><u>How to Securely Download Sound Blaster Z Software for Your Windows 11 PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-address-missing-watch-playback-symbol/"><u>In 2024, Address Missing Watch Playback Symbol</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nostalgia-frame-portraits-on-the-x-phone/"><u>Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-overestimated-guardian-of-the-digital-age/"><u>The Overestimated Guardian of the Digital Age</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/troubleshooting-a-non-operational-obs-video-capture-for-2024/"><u>Troubleshooting a Non-Operational OBS Video Capture for 2024</u></a></li>
+</ul></div>
 

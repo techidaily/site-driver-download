@@ -1,7 +1,7 @@
 ---
 title: "Installing the Latest Windows 11 Drivers: Intel Iris Plus GFx 655 Support"
-date: 2024-08-19T15:50:12.837Z
-updated: 2024-08-20T15:50:12.837Z
+date: 2024-12-02T03:29:33.395Z
+updated: 2024-12-03T19:47:12.149Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Update your **SMBus driver driver** automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -40,14 +44,19 @@ thumbnail: https://thmb.techidaily.com/1566f2e12245a235c67dc60282357da8be7ca7e87
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update your**AMD** **SMBus**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -58,20 +67,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Click**DRIVERS & SUPPORT** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174777cee5f.jpg)
 3. Under **Latest AMD Drivers and Software** , locate **AMD Chipset, AHCI, USB 3.0 and RAID Drivers** , click**the bit version** that corresponds with**your own Windows OS** (even if you’re using the**AMD X399 Chipset** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174e63eec18.png)
 4. Click**DOWNLOAD** in the first result to make sure you download the latest**AMD Chipset** **Drivers** version.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174cf9e1f05.png)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Restart your computer for the changes to take effect.
 
 ---
@@ -86,8 +95,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +102,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-there-is-a-problem-with-this-windows-installer-package/"><u>[FIXED] There Is a Problem with This Windows Installer Package</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-engagement-through-anime-style-subscribe-buttons-filmora-tutorial/"><u>Boost Engagement Through Anime-Style Subscribe Buttons (Filmora Tutorial)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-h80i-v2-liquid-cpu-cooler-installation-drivers-download/"><u>Corsair H80i V2 Liquid CPU Cooler Installation Drivers - Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978946400-easy-guide-to-updating-your-vga-drivers-fetch-them-here/"><u>Easy Guide to Updating Your VGA Drivers – Fetch Them Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-download-realtek-alc-audio-driver-for-windows-10/"><u>Effortless Installation: Download RealTek ALC Audio Driver for Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/facilita-di-conversione-da-h265-a-h264-su-windows-10-e-macos-un-approccio-gratuito/"><u>Facilità Di Conversione Da H.265 A H.264 Su Windows 10 E macOS: Un Approccio Gratuito</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-inkjet-printer-software-mf743cdw-get-the-latest-windows-drivers/"><u>Free Canon Inkjet Printer Software (MF743CDW) - Get the Latest Windows Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-logitech-audio-drivers-for-your-pc-windows-compatible/"><u>Get Updated Logitech Audio Drivers for Your PC - Windows Compatible</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gigglegraphyguild-funnyframestudio/"><u>GiggleGraphyGuild FunnyFrameStudio</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-4g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 4G Phone without PIN</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-learn-to-convert-youtube-videos-into-text-no-cost/"><u>In 2024, Learn to Convert YouTube Videos Into Text – No Cost!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-workstation-with-the-latest-nvidia-quadro-rtx-4000-driver-software-free-download-inside/"><u>Optimize Your Workstation with the Latest NVIDIA Quadro RTX 4000 Driver Software - Free Download Inside</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pair-trouble-discover-6-effective-methods-to-reconnect-your-apple-watch/"><u>Pair Trouble? Discover 6 Effective Methods to Reconnect Your Apple Watch</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-overcoming-common-challenges-in-i2c-hid-device-driver-management/"><u>Quick Fixes: Overcoming Common Challenges in I2C HID Device Driver Management</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ranking-premium-photo-and-video-shows-x-ios14-for-2024/"><u>Ranking Premium Photo & Video Shows (X-IOS14) for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-drivers-updated-version-now-available-for-windows-1087/"><u>TP-Link WiFi Adapter Drivers: Updated Version Now Available for Windows 10/8/7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/drives-youtubes-content-creator-hub-in-2024/"><u>What Drives YouTube's Content Creator Hub, In 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/whispers-of-love-the-art-of-italian-pick-up-linesback-buttonfilter-button/"><u>Whispers Of Love: The Art Of Italian Pick Up LinesBack ButtonFilter Button</u></a></li>
+</ul></div>
 

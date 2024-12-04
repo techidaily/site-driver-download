@@ -1,7 +1,7 @@
 ---
 title: Exploring the Brand-New Design in the Echo Dot (Gen 4) Review
-date: 2024-11-19T16:16:07.036Z
-updated: 2024-11-24T21:19:49.884Z
+date: 2024-11-28T03:21:05.116Z
+updated: 2024-12-03T20:09:18.860Z
 categories:
   - BestProducts
 description: This Article Describes Exploring the Brand-New Design in the Echo Dot (Gen 4) Review
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/lkA-ySCeUh3Szrc_FW6uPaXd9r0=/400x300/fi
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/dIY3bLJSRioBJmHFFCGQjcgcxbU=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
@@ -40,17 +40,9 @@ Lifewire / Gannon Burgett
 
 4
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iMac 21.5-inch 4K
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/hOzU-Ut_6g-s5JwzT08s3wa0tSo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_1LW4045927-1-625cb1ba7a894cc38db8565dd81072b3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Gannon Burgett
 
@@ -78,6 +70,10 @@ Lifewire / Gannon Burgett
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/TCcSm-nkER9HhHM8YIPMWbaezRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-4-fa6cf253bfd44ab991c366691b68bdf5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
 ## **Design: Beautiful, with room for improvements**
@@ -96,6 +92,10 @@ Lifewire / Gannon Burgett
 
  Lifewire / Gannon Burgett
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: One plug and you’re good to go**
 
  One of Apple’s core tenets is simplicity, and the 4K iMac is no exception to this rule. Inside the box is the computer itself and a box which contains the Magic Keyboard and Magic Mouse 2\. Additional components include the power connection for the computer, a Lightning cable for charging the mouse and keyboard, and a small package of documentation.
@@ -103,6 +103,10 @@ Lifewire / Gannon Burgett
  Setting up the iMac is as simple as unwrapping it from its protective cover, setting it on the desk, plugging it in with the included power cord, and pressing the power button. As it boots up, we turned on the Magic Keyboard and Magic Mouse 2\. By the time the iMac was to the setup screen — a process that took approximately 60 seconds — the two were already paired with the computer and ready to be used.
 
  Going through the setup process took us approximately five minutes, which included setting up our iCloud account and getting the various login settings in place. We opted to set this up as a new computer, but there’s also the ability to set it up from an Apple Time Capsule backup or transfer content from a PC via USB. The amount of time those options take will vary depending on the device you’re transferring the information from as well as the amount of data being transferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Display: Bright, brilliant, and ready to shine**
 
@@ -140,21 +144,17 @@ Lifewire / Gannon Burgett
 
  In our hardwired tests, the iMac maxed out our Gigabit fiber optic internet no problem, with steady download and upload speeds. Wireless connectivity was equally impressive, regardless of whether the iMac was in the same room as the router or a few rooms over. We didn’t notice any drops throughout our tests and both uploading and downloading content was consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Camera: Decent built-in option for basic tasks**
 
  The only camera on the 4K iMac is the integrated webcam, which sits dead center above the display. We would’ve liked to see a 1080p or even 4K webcam included, but the 720p resolution is good enough for basic video messaging.
 
 ![Apple iMac 21.5-inch 4K](https://www.lifewire.com/thmb/rFu0_k9BjbUxQdoEYOcNGU35LJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4045927-2-a3d2f38b9509480ba41bbb5b33815d1a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Software: Everything you need and nothing more**
 
@@ -164,15 +164,15 @@ Lifewire / Gannon Burgett
 
  Unlike Windows, macOS doesn’t come with any bloatware either. There’s a number of pre-installed apps developed by Apple, including four new ones borrowed from Apple’s mobile operating system, iOS, but most of the pre-installed apps are the standard array of programs you’d expect to see on any modern computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: The Apple tax is real**
 
  The 21.5-inch 4K iMac we tested with the aforementioned specifications retails for $1,499\. Compared to other Windows PCs with similar specifications, the iMac is without pricey for the specs it offers. However, this is par for the course with Apple, so much so that the term “Apple tax” has become a commonly-used phrase. What you’re paying for is the entire package, wrapped up in one of the best-looking frames out there.
 
  Could you build a PC with better specs for far less money? Absolutely. But it won’t be running macOS and it certainly won’t be as slim and streamlined as the iMac. If you’re invested in the Apple ecosystem and don’t need to shell out for the more expensive 27-inch 5K iMac, the 21.5-inch 4K iMac is priced much more reasonably and still has plenty to offer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: A unique option in a small market**
 
@@ -192,15 +192,15 @@ Lifewire / Gannon Burgett
 
  The 21.5-inch 4K iMac is a solid all-in-one computer that packs a lot of power into a tiny, well-designed package. It’s not going to blow anyone away on benchmarks and it’s not cheap for the internal components you’re getting, but it has a lot to offer for multimedia and productivity. That’s not to mention the sheer convenience of having everything simply work out of the box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Studio 2](https://www.lifewire.com/microsoft-surface-studio-2-review-4689102)
 * [Alienware Aurora R7](https://www.lifewire.com/alienware-aurora-r7-review-4689097)
 * [Lenovo ThinkCentre M720 Tower](https://www.lifewire.com/lenovo-thinkcentre-m720-tower-review-4776238)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -233,20 +233,16 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-premier-zones-for-cutting-edge-vr-viewing/"><u>[New] In 2024, Premier Zones for Cutting-Edge VR Viewing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-top-borders-and-frames-for-perfect-photos/"><u>[Updated] Mastering Instagram Top Borders & Frames for Perfect Photos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/boosting-tiktok-engagement-using-zoom-features/"><u>Boosting TikTok Engagement Using Zoom Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-instructions-installing-and-maintaining-your-epson-printer-drivers-on-windows-11/"><u>Complete Instructions: Installing and Maintaining Your Epson Printer Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-downloads-and-updates-keeping-your-nvidia-geforce-mx1-50-card-running-smoothly-on-windows-os/"><u>Easy Downloads & Updates: Keeping Your Nvidia GeForce MX1 50 Card Running Smoothly on Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-secure-the-latest-brother-hl-l2360dw-drivers-directly-from-our-site/"><u>Easy Guide: Secure the Latest Brother HL-L2360DW Drivers Directly From Our Site</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-download-of-hp-officejet-5740-printer-software/"><u>Effortless Download of HP OfficeJet 5740 Printer Software!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969313242-effortless-installation-of-wacom-intuos-3-drivers-on-windows-os-ensure-optimal-performance/"><u>Effortless Installation of Wacom Intuos 3 Drivers on Windows OS - Ensure Optimal Performance!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-steps-for-successfully-refreshing-ati-graphic-cards-drivers-in-windows-os/"><u>Essential Steps for Successfully Refreshing ATI Graphic Cards Drivers in Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-geforce-rtx-3060-ti-graphics-card-drivers-free-download-for-windows-11/"><u>Get the Latest GeForce RTX 3060 Ti Graphics Card Drivers [Free Download] for Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/harmonizing-linguistics-effective-learning-through-melodies/"><u>Harmonizing Linguistics: Effective Learning Through Melodies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a15-4g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A15 4G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-updated-youtube-income-guidelines/"><u>In 2024, Updated YouTube Income Guidelines</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/power-up-presentations-ultimate-tips-for-seamless-video-compression-in-powerpoint/"><u>Power Up Presentations: Ultimate Tips for Seamless Video Compression in PowerPoint!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-error-message-fm20dll-is-absent-from-your-pc/"><u>Troubleshooting Error Message - fm20.dll Is Absent From Your PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[Updated] In 2024, Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>2024 Approved The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/avs-video-editor-a-comprehensive-analysis/"><u>AVS Video Editor A Comprehensive Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bypass-ralink-rt3290-wifi-driver-hiccups-in-different-windows-environments-windows-1087/"><u>Bypass Ralink RT3290 WiFi Driver Hiccups in Different Windows Environments (Windows 10/8/7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/eliminating-blur-taming-shutter-vibration/"><u>Eliminating Blur Taming Shutter Vibration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-epson-stylus-pro-4950-driver-software/"><u>Free Download: Epson Stylus Pro 4950 Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-hp-elitebook-8460p-windows-drivers-easy-steps/"><u>How to Find and Update Your HP EliteBook 8460P Windows Drivers - Easy Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-breakdown-using-googles-speech-recognition-tool/"><u>In 2024, Comprehensive Breakdown Using Google's Speech Recognition Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-brother-dcp-l2540dw-drivers-in-windows-step-by-step-guide/"><u>Installing the Brother DCP-L2540DW Drivers in Windows: Step by Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-printer-running-smoothly-download-and-update-epson-xp-42e-drivers-here/"><u>Keep Your Printer Running Smoothly: Download and Update Epson XP-42e Drivers Here</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-fix-how-to-resolve-ac1st16dll-missing-file-problems/"><u>Step-by-Step Fix: How to Resolve 'Ac1st16.dll' Missing File Problems</u></a></li>
 </ul></div>
 

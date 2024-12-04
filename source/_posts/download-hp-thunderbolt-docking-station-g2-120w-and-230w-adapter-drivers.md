@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-11-17T20:24:53.315Z
-updated: 2024-11-24T22:55:44.117Z
+date: 2024-11-29T16:04:45.459Z
+updated: 2024-12-04T02:17:48.051Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel Thunderbolt Controller driver
@@ -34,7 +34,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -43,13 +43,13 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -64,11 +64,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -99,20 +99,14 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-passive-to-profitable-8-beginners-revenue-hacks-for-youtube/"><u>[Updated] From Passive to Profitable 8 Beginner's Revenue Hacks for YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/accurate-screen-shots-at-lightning-speed/"><u>Accurate Screen Shots at Lightning Speed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/comprendre-les-process-mining-et-le-task-mining-pour-une-meilleure-analyse-des-procedes-metier-un-qanda-dabbyy-avec-nelsonhall/"><u>Comprendre Les Process Mining Et Le Task Mining Pour Une Meilleure Analyse Des Procédés Métier : Un Q&A D'ABBYY Avec NelsonHall</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-printer-drivers-on-your-windows-pc/"><u>Download & Install HP Printer Drivers on Your Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977152799-download-and-update-surface-book-drivers-with-simple-steps/"><u>Download and Update Surface Book Drivers with Simple Steps!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-resolution-to-logitech-c615s-driver-complications/"><u>Effortless Resolution to Logitech C615's Driver Complications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-easily-update-your-sound-card-drivers-with-the-latest-realtek-alc892aic7380-software-on-windows-11/"><u>How to Easily Update Your Sound Card Drivers with the Latest Realtek ALC892/AIC7380 Software on Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/illuminating-images-techniques-in-color-science/"><u>Illuminating Images Techniques in Color Science</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-automating-meeting-times-a-google-meet-essential/"><u>In 2024, Automating Meeting Times A Google Meet Essential</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lenovo-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lenovo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-incredible-virtual-films-to-explore/"><u>In 2024, Incredible Virtual Films to Explore</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-canon-dr-c225-drivers-compatible-with-windows-11-10-and-8-systems/"><u>Latest Canon DR-C225 Drivers - Compatible with Windows 11, 10 & 8 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/summit-interaction-handler-for-input-devices/"><u>Summit Interaction Handler for Input Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-tutorial-for-secure-d-link-driver-download-and-update-on-windows-systems/"><u>Ultimate Tutorial for Secure D-Link Driver Download & Update on Windows Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/watch-harry-potter-saga-correctly-a-step-by-step-movie-marathon-plan/"><u>Watch Harry Potter Saga Correctly - A Step-by-Step Movie Marathon Plan</u></a></li>
+<li><a href="https://driver-download.techidaily.com/choosing-freedom/"><u>Choosing Freedom</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comment-resoudre-le-probleme-de-centre-de-synchronisation-sous-windows-10-qui-ne-fonctionne-pas/"><u>Comment Résoudre Le Problème De Centre De Synchronisation Sous Windows 10 Qui Ne Fonctionne Pas ?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-wf-3540-printer-drivers-for-windows-users/"><u>Easy Installation of Epson WF-3540 Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-download-hp-elitebook-x360-1030-g2-drivers-today/"><u>Ensure Optimal Performance: Download HP EliteBook X360 1030 G2 Drivers Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-rtx-2070-graphics-card-drivers-for-windows-operating-systems-11-8-and-7/"><u>Get the Latest RTX 2070 Graphics Card Drivers for Windows Operating Systems - 11, 8 & ^7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-uncomplicated-podcast-live-master-the-art-of-livestreaming/"><u>In 2024, Uncomplicated Podcast Live Master the Art of Livestreaming</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-updates-for-hp-officejet-pro-amoled-with-driver-downloads-for-windows-systems/"><u>Latest Updates for HP OfficeJet Pro Amoled with Driver Downloads for Windows Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mobile-video-editing-essentials-top-apps-for-vertical-content/"><u>New 2024 Approved Mobile Video Editing Essentials Top Apps for Vertical Content</u></a></li>
+<li><a href="https://win-superb.techidaily.com/ubersetzen-von-sms-uber-iphones-mit-der-icloud-eine-einfache-anleitung/"><u>Übersetzen Von SMS Über iPhones Mit Der iCloud - Eine Einfache Anleitung</u></a></li>
 </ul></div>
 

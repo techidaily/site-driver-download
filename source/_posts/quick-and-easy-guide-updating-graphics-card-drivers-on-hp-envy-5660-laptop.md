@@ -1,7 +1,7 @@
 ---
 title: "Quick & Easy Guide: Updating Graphics Card Drivers on HP Envy 5660 Laptop"
-date: 2024-08-19T15:50:08.485Z
-updated: 2024-08-20T15:50:08.485Z
+date: 2024-11-29T04:23:31.839Z
+updated: 2024-12-04T01:42:39.620Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000078-300x267.png)
 
  Want to enjoy the best gaming performance with your**AMD Radeon RX Vega 64 Graphics card** ? Or do you want to keep it in good condition? If your answer is YES, try updating AMD Radeon RX Vega 64 Graphics driver to the latest version now. By doing it, you can also avoid many unexpected gaming issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **There are two methods to update your AMD Radeon RX Vega 64 Graphics driver:**
 
@@ -37,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 2. Click**DRIVERS & SUPPORT** on the top of the web page to visit AMD Drivers and Support page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000079.png)
 3. Click**search all products** . Then select**Radeon RX Vega 64** in the list. If Radeon RX Vega 64 doesn’t appear in the list, you can type **Vega 64** in the search bar first. Then click**SUBMIT** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000086.png)
 4. Select your version of Windows to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000081.png)
@@ -45,8 +54,13 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 6. **Double-click** the downloaded file and follow the on-screen instructions to install the driver on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Update your AMD Radeon RX Vega 64 Graphics driver automatically**
 
  If you don’t have the time, patience or computer skills to update your AMD Radeon RX Vega 64 Graphics driver manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -57,14 +71,13 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-3.png)
 3. Click **Update**  next to your**AMD Radeon RX Vega 64** Graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000083.png)  
  You can do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 * [AMD](https://tools.techidaily.com/drivereasy/download/)
@@ -77,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +97,26 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevating-pc-and-mac-use-of-dslr-for-online-sharing-for-2024/"><u>[New] Elevating PC & Mac Use of DSLR for Online Sharing for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-5-best-graphics-cards-for-4k-video-editing-and-rendering/"><u>2024 Approved 5 Best Graphics Cards for 4K Video Editing and Rendering</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/bring-your-videos-to-life-top-live-photo-creation-apps-and-how-tos/"><u>Bring Your Videos to Life Top Live Photo Creation Apps and How-Tos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-hp-spectre-x360-software-and-drivers-for-windows-pcs/"><u>Download the Latest HP Spectre X360 Software and Drivers for Windows PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/edit-with-ease-embracing-smoothness-on-the-latest-chip-technology/"><u>Edit with Ease Embracing Smoothness on the Latest Chip Technology</u></a></li>
+<li><a href="https://games-able.techidaily.com/ending-the-loophole-in-steams-buyback-mechanism/"><u>Ending the Loophole in Steam's Buyback Mechanism</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-image-compromised-in-poll-showcasing-tech-mistrust/"><u>Facebook's Image Compromised in Poll Showcasing Tech Mistrust</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-thunderbolt-drivers-for-your-windows-system-here/"><u>Get the Latest Thunderbolt Drivers for Your Windows System Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-scanjet-driver-update-for-windows-users-10-8-or-7/"><u>Get the Newest HP Scanjet Driver Update for Windows Users: 10, 8, or 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-t630-ready-full-drivers-support-for-windows-7810/"><u>Get Your Logitech T630 Ready: Full Drivers Support for Windows 7/8/10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/groundbreision-of-top-8-free-video-call-software-for-companies/"><u>Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-your-hp-laserjet-pro-mfp-m127fn-drivers-correctly/"><u>How to Install Your HP Laserjet Pro MFP M127FN Drivers Correctly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-hp-printer-drivers-fully-supported-on-windows-11-systems/"><u>Latest Version of HP Printer Drivers: Fully Supported on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-hp-z440-system-driver-packages/"><u>Step-by-Step Guide to Updating HP Z440 System Driver Packages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installing-updated-hp-deskjet-2540-printer-drivers-quickly/"><u>Step-by-Step: Installing Updated HP DeskJet 2540 Printer Drivers Quickly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-genius-of-mobile-in-depth-moto-z2-analysis/"><u>The Genius of Mobile In-Depth Moto Z2 Analysis</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-prodigys-pathway-expert-techniques-for-iphone-podcast-downloads/"><u>The Prodigy's Pathway Expert Techniques for iPhone Podcast Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-brother-hl-l2370dw-printer-with-the-newest-free-software-version/"><u>Update Your Brother HL-L2370DW Printer with the Newest, FREE Software Version</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-dell-ethernet-driver-fast-windows-amoware-selection-guide/"><u>Update Your Dell Ethernet Driver Fast: Windows amoWare Selection Guide</u></a></li>
+</ul></div>
 

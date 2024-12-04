@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense"
-date: 2024-11-18T17:13:27.380Z
-updated: 2024-11-24T16:32:29.928Z
+date: 2024-11-27T16:50:38.794Z
+updated: 2024-12-03T18:48:31.923Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ft232r-usb-uart-driver-download-easily-quickly/#o2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the FT232R USB UART driver manually
@@ -36,7 +36,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
@@ -53,14 +53,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,20 +86,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>[Updated] 2024 Approved Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-youtubes-top-tales-who-to-follow-in-the-narrative-realm-for-2024/"><u>[Updated] YouTube's Top Tales Who to Follow in the Narrative Realm for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/device-unlock-c12-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock C12 Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971737599-download-free-asrock-ab350-pro4-driver-package-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Driver Package for Windows - Instantly!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/drift-through-darkness-a-cam-review/"><u>Drift Through Darkness A CAM Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-your-gameplay-with-the-latest-steelseries-engine-compatible-with-windows-10/"><u>Elevate Your Gameplay with the Latest SteelSeries Engine Compatible with Windows 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/ending-seamless-fb-navigation-via-browser/"><u>Ending Seamless FB Navigation via Browser</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-the-extravagance-review-of-dells-premium-3k-gaming-machine-packed-with-surprising-perks-insights/"><u>Experience the Extravagance: Review of Dell's Premium $3K Gaming Machine Packed with Surprising Perks - Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-to-the-startech-usb-to-vga-adapter-software/"><u>Free Download: Ultimate Guide to the StarTech USB-to-VGA Adapter Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-1080-graphics-card-drivers-for-windows-10-quick-and-easy/"><u>Get the Latest NVIDIA 1080 Graphics Card Drivers for Windows 10 - Quick and Easy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-sync-pictures-a-guide-to-transferring-iphone-pics-to-your-mac/"><u>How to Effortlessly Sync Pictures: A Guide to Transferring iPhone Pics to Your Mac</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-updated-ch340-serial-port-adapter-software-for-microsofts-latest-operating-system/"><u>Installing Updated CH340 Serial Port Adapter Software for Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-asus-notebook-driver-downloads-and-upgrade-instructions/"><u>Latest ASUS Notebook Driver Downloads and Upgrade Instructions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/nigh-dark-nemesis-versus-sunlit-savior-for-2024/"><u>Nigh-Dark Nemesis Versus Sunlit Savior for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-amd-driver-in-microsofts-latest-operating-systems/"><u>Updating Your AMD Driver in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-download-free-preview-clip-kits/"><u>[Updated] 2024 Approved Download Free Preview Clip Kits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-notes-opt-for-mematic/"><u>[Updated] Master Your Notes - Opt for Mematic</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-huawei-nova-y91-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Huawei Nova Y91 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-samsung-960-evo-m2-drive-drivers-made-easy-for-windows-operating-systems/"><u>Download & Setup: Samsung 960 EVO M.2 Drive Drivers Made Easy for Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-realtek-rtl81andampcu-network-adapter-software-for-windows-10-7/"><u>Download the Latest Realtek RTL81^&amp;CU Network Adapter Software for Windows 10, 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-mf743cdw-pixma-tr8620-drivers-and-software-for-pc-easy-install/"><u>Free Canon MF743Cdw PIXMA TR8620 Drivers & Software for PC | Easy Install</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-set-up-steelseries-graphics-for-windows-users/"><u>How to Successfully Download and Set Up SteelSeries Graphics for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-google-pixel-fold-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Google Pixel Fold</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/j5-tactical-v1-pro-flashlight-evaluation-the-perfect-blend-of-portability-strength-and-exceptional-illumination-capabilities/"><u>J5 Tactical V1-Pro Flashlight Evaluation: The Perfect Blend of Portability, Strength, and Exceptional Illumination Capabilities</u></a></li>
+<li><a href="https://discover-data.techidaily.com/laban-movement-analysis/"><u>Laban Movement Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-downloading-asus-touchpad-drivers-on-windows-10/"><u>Quick & Easy Guide: Downloading ASUS Touchpad Drivers on Windows 10</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/"><u>Seamless Strategies Downloading Graphics Images From Facebook & Beyond</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamline-your-touch-experience-simple-guide-to-revamping-synaptics-ps2-drivers/"><u>Streamline Your Touch Experience: Simple Guide to Revamping Synaptics PS/2 Drivers</u></a></li>
 </ul></div>
 

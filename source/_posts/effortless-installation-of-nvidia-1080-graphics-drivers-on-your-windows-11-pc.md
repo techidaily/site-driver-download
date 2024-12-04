@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2024-11-19T16:45:09.255Z
-updated: 2024-11-24T21:52:48.376Z
+date: 2024-12-01T16:41:26.749Z
+updated: 2024-12-03T18:08:21.622Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
  Keeping your driver up to date can not only bring you the best possible experience, but prevent any problems cause by your driver as well. So you should consider updating your **BCM20702A0 driver** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -29,6 +29,10 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 2. [Download and update the BCM20702A0 driver**automatically**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: the screenshots below come from Windows 10, and methods apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download the BCM20702A0 driver manually
 
@@ -51,29 +55,21 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
 
@@ -91,6 +87,10 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -112,22 +112,14 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-conversations-with-twitter-video-uploads-on-whatsapp/"><u>[New] Streamline Your Conversations with Twitter Video Uploads on WhatsApp</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-framefusion-instagram-photo-fusion-across-oses/"><u>[Updated] FrameFusion Instagram Photo Fusion Across OSes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-digital-darlings-facebooks-favorites/"><u>[Updated] In 2024, Digital Darlings Facebook's Favorites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-visionary-toolkit-premium-ae-templates-at-zero-cost/"><u>[Updated] Visionary Toolkit Premium AE Templates at Zero Cost</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connect-smartly-a-comprehensive-tutorial-on-linking-your-bose-speakers/"><u>Connect Smartly: A Comprehensive Tutorial on Linking Your Bose Speakers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-sound-card-software-for-windows-best-compatible-drivers/"><u>Download Latest Sound Card Software for Windows: Best Compatible Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-hp-deskjet-2540-compatible-drivers-download-and-update-tutorials/"><u>Find HP DeskJet 2540 Compatible Drivers - Download & Update Tutorials</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-windows-compatible-amd-radeon-rx-590-graphics-card-drivers/"><u>Get the Latest Windows-Compatible AMD Radeon RX 590 Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976672510-get-the-newest-nvidia-display-drivers-for-your-windows-1178-systems-today/"><u>Get the Newest Nvidia Display Drivers for Your Windows 11/7/8 Systems Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-downloading-and-installing-lenovo-x1-carbon-drivers-compatible-with-older-and-newer-windows-versions/"><u>Guide to Downloading & Installing Lenovo X1 Carbon Drivers: Compatible with Older and Newer Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722979112623-intel-thunderbolt-usb-c-card-drivers-instant-download-links/"><u>Intel Thunderbolt USB-C Card Drivers - Instant Download Links!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-the-world-of-insta-influencers-5-pivotal-moves-and-results/"><u>Navigating the World of Insta Influencers 5 Pivotal Moves and Results</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-magicard-rio-pro-controller-downloads-available-works-on-windows-10-81-and-7/"><u>New Magicard Rio Pro Controller Downloads Available – Works on Windows 10, 8.1 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-guide-for-behringer-usb-audio-connection-software/"><u>Quick Start Guide for Behringer USB Audio Connection Software</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-ui-proposing-innovations-in-windows-11-widget-design/"><u>Revolutionizing UI: Proposing Innovations in Windows 11 Widget Design</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stealth-mode-off-how-to-turn-down-windows-11/"><u>Stealth Mode Off: How to Turn Down Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnets-in-depth-analysis-of-the-satechi-pro-hub-max-your-perfect-upgrade-to-enhance-your-macbook-experience/"><u>ZDNet's In-Depth Analysis of the Satechi Pro Hub Max: Your Perfect Upgrade to Enhance Your MacBook Experience</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728461939057-windows/"><u>「Windows系列中的還原技術：如何在不同版本上恢復壓縮文件」</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-troubleshooting-how-to-fix-initialization-failed-error/"><u>Destiny 2 Troubleshooting: How to Fix 'Initialization Failed' Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-overcoming-usb-recognition-problems-with-your-260ci-wia-drive/"><u>Guide to Overcoming USB Recognition Problems with Your 260CI WiA Drive</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-obtain-and-install-the-correct-driver-for-your-epson-xp-830/"><u>How to Obtain and Install the Correct Driver for Your Epson XP-830</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-logitech-g29-drive-download-for-windows-11107/"><u>Latest Version of Logitech G29 Drive: Download for Windows 11/10/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-service-connections-in-windows-1011-after-ms-sql-hiccup/"><u>Re-Establishing Service Connections in Windows 10/11 After MS SQL Hiccup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rundll32exe-explained-essential-information-and-action-plans/"><u>rundll32.exe Explained: Essential Information and Action Plans</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-thunderbolt-drivers-windows-compatible/"><u>Step-by-Step Tutorial on Downloading Thunderbolt Drivers (Windows Compatible)</u></a></li>
 </ul></div>
 

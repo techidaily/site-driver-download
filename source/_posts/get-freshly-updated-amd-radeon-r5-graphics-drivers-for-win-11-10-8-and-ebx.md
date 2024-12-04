@@ -1,7 +1,7 @@
 ---
 title: Get Freshly Updated AMD Radeon R5 Graphics Drivers for Win 11, 10, 8 & Ebx
-date: 2024-08-19T15:51:50.060Z
-updated: 2024-08-20T15:51:50.060Z
+date: 2024-11-28T21:57:39.318Z
+updated: 2024-12-04T00:06:41.745Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ OR
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6900 XT driver by yourself, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,7 +45,16 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -56,8 +69,17 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -75,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +104,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-adding-emojis-in-youtube-discussions/"><u>[New] 2024 Approved Adding Emojis in YouTube Discussions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-overwatch-video-capture-quick-simple-and-effective/"><u>[Updated] 2024 Approved Overwatch Video Capture – Quick, Simple, and Effective</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-yuneecs-game-changer-typhoon-q500/"><u>2024 Approved Yuneec's Game-Changer Typhoon Q500</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-se-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone SE Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965981298-download-and-update-your-computers-audiophile-experience-with-msi-audio-drivers/"><u>Download and Update Your Computer's Audiophile Experience with MSI Audio Drivers!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-g29-controller-driver-compatible-with-windows-11-windows-10-and-windows-7/"><u>Download Logitech G29 Controller Driver – Compatible with Windows 11, Windows 10 & Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-updated-corsair-icue-driver-for-enhanced-performance-on-windows-1110/"><u>Download Now: Updated Corsair iCUE Driver for Enhanced Performance on Windows 11/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-fresh-audio-drivers-for-hp-systems-at-no-cost/"><u>Easy Install: Fresh Audio Drivers for HP Systems at No Cost</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977499730-easy-step-by-step-tutorial-on-downloadingupdating-your-surface-book-drivers/"><u>Easy Step-by-Step Tutorial on Downloading/Updating Your Surface Book Drivers!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-process-for-obtaining-dell-monitor-driver-updates-online/"><u>Hassle-Free Process for Obtaining Dell Monitor Driver Updates Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-latest-nvidia-geforce-gtx-cu460-drivers-on-your-pc-fast-and-easy/"><u>How To Get Latest NVIDIA GeForce GTX Cu460 Drivers On Your PC Fast & Easy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-pursuit-of-perfection-a-complete-sj-cam-s6-review-for-2024/"><u>In Pursuit of Perfection A Complete SJ-CAM S6 Review for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211355203-9783689441357-psychic-empath/"><u>PSYCHIC EMPATH | Free Book</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-tips-on-how-to-terminate-unresponsive-windows-applications-immediately/"><u>Ultimate Tips on How to Terminate Unresponsive Windows Applications Immediately</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

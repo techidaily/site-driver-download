@@ -1,7 +1,7 @@
 ---
 title: "Download HP Deskjet Ink Advantage 2652 Drivers: Compatible with Windows 11, 10, 8 & 7"
-date: 2024-08-19T15:51:34.812Z
-updated: 2024-08-20T15:51:34.812Z
+date: 2024-11-28T18:00:44.819Z
+updated: 2024-12-04T02:59:15.037Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ OR
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6900 XT driver by yourself, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,7 +45,16 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -56,8 +69,17 @@ OR
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -75,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +104,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-chiefs-choice-elite-sky-savers/"><u>[Updated] In 2024, Chief's Choice Elite Sky Savers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-sbz-audio-card-drivers-compatible-with-windows-10/"><u>Download & Install SBZ Audio Card Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-csr-bluetooth-driver-software-fetch-todays-latest-version/"><u>Essential CSR Bluetooth Driver Software - Fetch Today's Latest Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/exploring-the-land-of-virtual-possibilities/"><u>Exploring the Land of Virtual Possibilities</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-performance-with-new-hp-designjet-g5210-drivers-available-now/"><u>Get the Best Performance with New HP Designjet G5210 Drivers Available Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-and-software-for-your-insignia-wifi-usb-network-adapter/"><u>Get the Latest Firmware & Software for Your Insignia WiFi-USB Network Adapter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-5740-ready-for-use-fast-drivers-download-option-here/"><u>Get Your HP OfficeJet 5740 Ready for Use - Fast Drivers Download Option Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-12-pro-max-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone 12 Pro Max Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-prospects-on-bumble-effective-ways-to-tackle-no-match-situations/"><u>Improve Your Prospects on Bumble: Effective Ways to Tackle 'No Match' Situations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-roccat-mouse-driver-a-step-by-step-guide-to-a-smooth-gaming-experience/"><u>Installing ROCCAT Mouse Driver: A Step-by-Step Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigate-the-tech-world-in-depth-analysis-by-toms-hardware-team/"><u>Navigate the Tech World: In-Depth Analysis by Tom's Hardware Team</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-lenovo-t420-driver-update-and-download-instructions-for-windows-computers/"><u>Step-by-Step Lenovo T420 Driver Update & Download Instructions for Windows Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v29e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

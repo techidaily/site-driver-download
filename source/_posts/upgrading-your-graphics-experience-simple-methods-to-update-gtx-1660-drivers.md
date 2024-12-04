@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers"
-date: 2024-11-21T21:10:01.193Z
-updated: 2024-11-24T21:01:59.250Z
+date: 2024-11-29T18:58:36.541Z
+updated: 2024-12-04T02:48:46.294Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
  Are you a PC gamer who cares most about visual experience but feels reluctant to fiddle with all the driver updating stuff? If the answer is yes, and you’re also using the**GTX 1660** graphics card, then you’ve come to the right place. As Nvidia keeps updating its GTX 1660 drivers, you should keep up with it in order to get the most out of your graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your GTX 1660 driver
@@ -56,7 +56,7 @@ There are mainly two ways you can update the driver :
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-584.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -66,7 +66,7 @@ There are mainly two ways you can update the driver :
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your driver manually
@@ -83,20 +83,20 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-577.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the driver you’re interested in. On the next page, you’re able to see the detailed information about that driver. If you want to download it, simply click the**DOWNLOAD** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-189.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Open the folder in which you’ve just downloaded the driver. There you’ll see an**exe** file, as illustrated below (the version of your driver may be different). Double-click on it, then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-192.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Wait till the installation is completed. After that, reboot your PC for the changes to take effect.
@@ -123,24 +123,17 @@ There are mainly two ways you can update the driver :
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidelines-to-erase-youtube-recordings-on-pc/"><u>[New] 2024 Approved Guidelines to Erase YouTube Recordings on PC</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-discover-the-world-of-screen-capture-with-apowersofts-free-version/"><u>[New] In 2024, Discover the World of Screen Capture with Apowersoft's Free Version</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-pinnacle-montage-apps-androidiphones-creative-powerhouses-for-2024/"><u>[Updated] Pinnacle Montage Apps Android/iPhone's Creative Powerhouses for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-workflow-efficiency-leveraging-onlyoffices-docspace-with-chatgpt/"><u>Boosting Workflow Efficiency: Leveraging ONLYOFFICE's DocSpace with ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-proper-mouse-drivers-on-windows-7-a-comprehensive-walkthrough/"><u>Find & Install Proper Mouse Drivers on Windows 7 - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-easy-installation-elo-touchpad-drivers-for-windows-users-to-download-now/"><u>Free Easy Installation: Elo Touchpad Drivers for Windows Users to Download Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-samsung-m2070-printer-software-a-speedy-installation-tutorial/"><u>Get the Newest Samsung M2070 Printer Software: A Speedy Installation Tutorial</u></a></li>
-<li><a href="https://driver-download.techidaily.com/gigabyte-gc-wb867d-i-driver-download/"><u>Gigabyte GC-WB867D-I Driver Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-restore-functionality-of-your-synaptics-device-on-windows-11-effective-solutions/"><u>How to Restore Functionality of Your Synaptics Device on Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-7-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 7 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-unlimited-realms-top-10-no-cost-roleplaying-worlds/"><u>In 2024, Unlimited Realms Top 10 No-Cost Roleplaying Worlds</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/qualitatsbewahrung-bei-der-umwandlung-von-hevc-zu-mp4-eine-detaillierte-anleitung/"><u>Qualitätsbewahrung Bei Der Umwandlung Von HEVC Zu MP4 - Eine Detaillierte Anleitung</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-get-your-non-responsive-huion-pen-back-in-action/"><u>Quick Solutions: Get Your Non-Responsive Huion Pen Back in Action</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722956403096-seamless-installation-of-amd-vega-drivers-game-optimization-made-simple/"><u>Seamless Installation of AMD Vega Drivers - Game Optimization Made Simple</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-guide-fixing-driver-issues-on-260ci-wi-fi-adapter-with-usb-support/"><u>Solution Guide: Fixing Driver Issues on 260Ci Wi-Fi Adapter with USB Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insightful-world-of-generative-artificial-intelligence-explained/"><u>The Insightful World of Generative Artificial Intelligence Explained</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-10-most-effective-conversational-prompts-for-chatgpt-in-the-cryptocurrency-world/"><u>Top 10 Most Effective Conversational Prompts for ChatGPT in the Cryptocurrency World</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-to-the-newest-amd-radeon-hd-graphics-driver-on-windows-download-now/"><u>Update to the Newest AMD Radeon HD Graphics Driver on Windows - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976352817-windows-10-now-comes-with-pre-installed-printer-and-scanner-drivers-fix-implemented/"><u>Windows 10 Now Comes With Pre-Installed Printer and Scanner Drivers - Fix Implemented</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-enrich-facebook-tales-unlimited-no-cost-online-and-mobile-upgrades/"><u>[New] In 2024, Enrich Facebook Tales Unlimited, No-Cost Online & Mobile Upgrades</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-music-merger-for-engaging-fb-video-content/"><u>[New] In 2024, The Music Merger for Engaging FB Video Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-capture-and-store-videos-effortlessly-with-our-top-list/"><u>[Updated] In 2024, Capture & Store Videos Effortlessly with Our Top List</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206747750-easy-steps-to-restore-bluetooth-functionality-on-your-windows-11-system-today/"><u>Easy Steps to Restore Bluetooth Functionality on Your Windows 11 System Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974150424-effortless-solutions-for-elgato-hd60-driver-problems-get-started-now/"><u>Effortless Solutions for Elgato HD60 Driver Problems - Get Started Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-computers-graphics-with-steelseries-engine-windows-11-free-trial-now-available/"><u>Enhance Your Computer's Graphics with SteelSeries Engine [Windows 11] – Free Trial Now Available</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-logitech-g920-control-software-on-pc-windows-11-to-windows-7/"><u>Install Logitech G920 Control Software on PC (Windows 11 to Windows 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-and-greatest-epson-artisan-1430-driver-for-windows-operating-systems-download-now/"><u>Latest and Greatest Epson Artisan 1430 Driver for Windows Operating Systems - Download Now!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rise-to-stardom-secrets-to-viral-video-success/"><u>Rise to Stardom Secrets to Viral Video Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-instagrams-hidden-revenue-opportunities/"><u>Unlocking Instagram's Hidden Revenue Opportunities</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-to-the-latest-amd-radeon-hd-7870-drivers-on-your-windows-10-pc-step-by-step-guide/"><u>Upgrading to the Latest AMD Radeon HD 7870 Drivers on Your Windows 10 PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/vives-discomfort-follow-these-motion-sickness-fixes-for-2024/"><u>Vive's Discomfort? Follow These Motion Sickness Fixes for 2024</u></a></li>
 </ul></div>
 

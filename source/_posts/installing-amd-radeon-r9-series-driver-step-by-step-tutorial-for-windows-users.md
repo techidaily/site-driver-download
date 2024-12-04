@@ -1,7 +1,7 @@
 ---
 title: "Installing AMD Radeon R9 Series Driver: Step-by-Step Tutorial for Windows Users"
-date: 2024-08-19T15:49:51.476Z
-updated: 2024-08-20T15:49:51.476Z
+date: 2024-12-02T02:05:31.713Z
+updated: 2024-12-03T22:33:56.085Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ There are two ways to update your drivers:
 1. **[Manually update your Lenovo ThinkPad drivers](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Automatically update your Lenovo ThinkPad drivers (Recommended)](https://www.drivereasy.com/knowledge/lenovo-thinkpad-drivers-download-update-100-safe/#o2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Manually update your Lenovo ThinkPad drivers
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right drivers online, download them and install them step by step.
@@ -29,6 +33,10 @@ There are two ways to update your drivers:
  You can first head to **[Lenovo’s official website](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fsupport.lenovo.com%2Fus%2Fen%2F)**  and select your model of Lenovo ThinkPad. Then check out the section for driver downloads and search for the specific drivers you want to update. **Be sure to choose only drivers that’re compatible with your flavor of Windows version,** and then download and install them manually.
 
 Finally, restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2: Automatically update your Lenovo ThinkPad drivers (Recommended)
 
@@ -38,8 +46,17 @@ Finally, restart your computer for the changes to take effect.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee80136694c.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee80290ab7a.jpg)
 4. Restart your ThinkPad to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -52,8 +69,6 @@ Finally, restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -61,8 +76,20 @@ Finally, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-improving-the-endurance-of-your-gopro-power-source/"><u>[Updated] Improving the Endurance of Your GoPro Power Source</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-boost-communication-how-to-use-google-hangouts-on-mobile/"><u>2024 Approved Boost Communication How to Use Google Hangouts on Mobile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-rights-and-recourse-following-sudden-account-suspension-on-fb/"><u>2024 Approved Rights and Recourse Following Sudden Account Suspension on FB</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-new-blue-snowball-driver-version-now-with-this-easy-windows-update-process/"><u>Get the New Blue Snowball Driver Version Now with This Easy Windows Update Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-graphics-driver-for-windows-10-quick-and-secure-update-process/"><u>Get the Newest Nvidia Quadro Graphics Driver for Windows 10 – Quick and Secure Update Process</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/intel-driver-install-on-underpowered-pcs/"><u>Intel Driver Install on Underpowered PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-note-13-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi Note 13 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-setup-how-to-correctly-install-ds4-controller-on-your-windows-pc/"><u>Master the Setup: How to Correctly Install DS4 Controller on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969874832-ralink-rt3290-driver-troubles-in-windows-1087-here-are-the-solutions/"><u>Ralink RT3290 Driver Troubles in Windows 10/8/7? Here Are the Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-to-get-your-hp-drivers-installed-today/"><u>Simple Steps to Get Your HP Drivers Installed Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-made-easy-replacing-outdated-sharp-printer-drivers-on-a-windows-system/"><u>Troubleshooting Made Easy: Replacing Outdated Sharp Printer Drivers on a Windows System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-nvidia-geforce-rtx-3070-drivers-compatible-with-windows-1110-systems/"><u>Updating NVIDIA GeForce RTX 3070 Drivers: Compatible with Windows 11/10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-techniques-for-overcoming-power-saving-glitches/"><u>Win Techniques for Overcoming Power Saving Glitches</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

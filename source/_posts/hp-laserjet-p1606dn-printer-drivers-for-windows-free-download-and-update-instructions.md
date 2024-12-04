@@ -1,7 +1,7 @@
 ---
 title: "HP LaserJet P1606dn Printer Drivers for Windows: Free Download & Update Instructions"
-date: 2024-11-17T21:21:05.363Z
-updated: 2024-11-24T20:53:11.019Z
+date: 2024-12-01T22:21:35.368Z
+updated: 2024-12-04T00:08:16.179Z
 tags:
   - win11
   - win10
@@ -17,12 +17,20 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a08ed497d8.jpg)It’s always important to update the driver for your **HP ENVY 5660** printer so as to keep it in tip-top shape and prevent all kinds of unexpected computer issues (like system crashes).  In this post, we’re showing you 2 easy ways to get the latest **HP ENVY 5660**  drivers. Check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
 
 1. **[Update HP ENVY 5660 driver automatically(Recommended)](https://www.drivereasy.com/knowledge/hp-envy-5660-driver-download-install-easily/#O1)**
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
@@ -32,21 +40,9 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -56,14 +52,18 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
 5. Restart your computer for the changes to take effect.
@@ -89,21 +89,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-finding-film-specialists/"><u>[New] The Ultimate Checklist for Finding Film Specialists</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-bridge-the-gap-between-viewers-and-wide-angles-posting-on-facebook-for-2024/"><u>[Updated] Bridge the Gap Between Viewers and Wide Angles Posting on Facebook for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-post-production-mastering-the-green-screen-process-kinemaster/"><u>[Updated] In 2024, Streamlining Post-Production Mastering the Green Screen Process (KineMaster)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-maximize-your-mobile-experience-streaming-ultra-hd-content-from-youtube-on-iphone-and-ipad/"><u>1. Maximize Your Mobile Experience: Streaming Ultra HD Content From YouTube on iPhone and iPad</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-chatbot-generated-fitness-programs-secure-and-efficient-for-your-health-goals/"><u>Are Chatbot-Generated Fitness Programs Secure and Efficient for Your Health Goals?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722968328202-complete-tutorial-on-insignias-usb-to-vga-adapter-download-driver-installation-and-setup/"><u>Complete Tutorial on Insignia's USB-to-VGA Adapter - Download, Driver Installation, and Setup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-driver-collection-intel-iris-xe-graphics-enhancer-for-windows-11-pcs/"><u>Comprehensive Driver Collection: Intel Iris Xe Graphics Enhancer for Windows 11 PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-toshiba-bluetooth-device-driver/"><u>Easy Installation of Toshiba Bluetooth Device Driver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-audio-with-steelseries-arctis-5-download-and-instructions/"><u>Enhance Your Gaming Audio with SteelSeries Arctis 5: Download & Instructions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-gigabyte-z370-d3-chipset-drivers-download-now/"><u>Get the Latest GIGABYTE Z370-D3 Chipset Drivers - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-secure-the-best-gaming-performance-with-new-razer-drivers-compatible-across-win11-win8-win7-xp-and-vista/"><u>How to Secure the Best Gaming Performance with New Razer Drivers - Compatible Across Win11, Win8, Win7, XP and Vista</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/m4a-vs-mp3-understanding-the-differences-which-audio-format-is-superior/"><u>M4A vs MP3: Understanding the Differences - Which Audio Format Is Superior?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-hp-screen-driver-challenges-in-windows-10-8-and-7-systems/"><u>Overcoming HP Screen Driver Challenges in Windows 10, 8, and 7 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/patent-details-the-similarities-between-the-new-vision-pro-controller-and-apples-iconic-stylus-analysis/"><u>Patent Details: The Similarities Between the New Vision Pro Controller and Apple's Iconic Stylus | Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-pioneers-guide-to-documenting-private-whatsapp-discussions/"><u>The Pioneer's Guide to Documenting Private WhatsApp Discussions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-insta-photography-enhancement-hacks-for-professionals-for-2024/"><u>[New] Insta-Photography Enhancement Hacks for Professionals for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-live-broadcast-essentials-for-macos-users-on-mixer/"><u>[New] Live Broadcast Essentials for macOS Users on Mixer</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uick-and-free-ios-apps-to-convert-youtube-videos-to-mp3-files/"><u>[New] Quick and Free IOS Apps to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-realtek-alc887-hd-audio-driver-issues-in-windows/"><u>[Solved] Realtek ALC887 HD Audio Driver Issues in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-from-script-to-screenshot-crafting-viral-meme-gifs/"><u>[Updated] From Script to Screenshot Crafting Viral Meme GIFs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-studios-comprehensive-guide-to-video-post-production/"><u>2024 Approved YouTube Studio's Comprehensive Guide to Video Post Production</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-deskjet-ink-advantage-3050a-driver-free-downloads-and-up-to-date-windows-software/"><u>Get Your HP Deskjet Ink Advantage 지피트 3050A Driver: Free Downloads and Up-to-Date Windows Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-install-epson-artisan-1430-drivers-on-modern-windows-systems-11108/"><u>How to Download and Install Epson Artisan 1430 Drivers on Modern Windows Systems (11/10/8)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-install-intel-usb-30-drivers-compatible-with-windows-11/"><u>How to Successfully Download & Install Intel USB 3.0 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-or-update-razer-device-drivers-across-multiple-windows-versions-11-8-7-xp-and-vista/"><u>Install or Update Razer Device Drivers Across Multiple Windows Versions: 11, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-zexmt-compatible-drivers-seamless-bluetooth-connectivity-on-windows-operating-systems/"><u>Latest ZexMT Compatible Drivers - Seamless Bluetooth Connectivity on Windows Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-code-with-ai-assistants-comparing-github-copilot-to-chatgpt-for-developers/"><u>Mastering Code with AI Assistants: Comparing GitHub Copilot to ChatGPT for Developers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-browser-functionality-chromes-full-screen-video-playback-for-2024/"><u>Maximize Browser Functionality Chrome's Full-Screen Video Playback for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/mpora-content-grabber-quick-guide-to-retrieve-and-save-outdoor-footage/"><u>Mpora Content Grabber: Quick Guide to Retrieve and Save Outdoor Footage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-resolving-driver-problems-with-your-logitech-c615/"><u>Quick Fix: Resolving Driver Problems with Your Logitech C615</u></a></li>
+<li><a href="https://driver-download.techidaily.com/razer-naga-control-pad-fresh-windows-drivers-and-update-guide/"><u>Razer Naga Control Pad - Fresh Windows Drivers and Update Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolve-your-startech-device-compatibility-problems-on-windows-operating-systems/"><u>Resolve Your StarTech Device Compatibility Problems on Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016856796-troubleshooting-tips-making-your-logitech-g-pro-x-mic-work-again/"><u>Troubleshooting Tips: Making Your Logitech G PRO X Mic Work Again</u></a></li>
 </ul></div>
 

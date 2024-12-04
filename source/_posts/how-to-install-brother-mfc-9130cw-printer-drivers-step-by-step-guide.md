@@ -1,7 +1,7 @@
 ---
 title: How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide
-date: 2024-11-22T16:29:39.353Z
-updated: 2024-11-24T21:40:06.701Z
+date: 2024-11-29T03:57:04.554Z
+updated: 2024-12-03T23:24:40.787Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c2e04fc7d.jpg)
 
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
 
@@ -41,16 +37,12 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
@@ -61,8 +53,17 @@ Follow these steps:
 2. Type**WF-3620** in the search box, and select your printer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c49506f41.jpg)
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -79,15 +80,11 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
@@ -95,6 +92,10 @@ Follow these steps:
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -127,18 +128,21 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-gadgets-that-shine-in-travel-videography/"><u>2024 Approved Gadgets That Shine in Travel Videography</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-c53-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme C53 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/57ea5lik54sh6zmq6yep56kp5asn5b2x5yop5lil6lyjic0g5yuv55wr546l/"><u>線上無限量碩大影像下載 - 動畫王</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-advice-on-reactivating-a-stalled-igfxem-component-successfully/"><u>Expert Advice on Reactivating a Stalled IgfxEM Component Successfully</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964330377-get-better-controls-discover-the-latest-update-for-your-logitech-extreme-3d-pro-drivers/"><u>Get Better Controls – Discover the Latest Update for Your Logitech Extreme 3D Pro Drivers!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973638237-get-your-iphone-connected-to-windows-11-with-our-driver-downloads/"><u>Get Your iPhone Connected to Windows 11 with Our Driver Downloads!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-canon-mg3600-driver-software/"><u>How to Get the Newest Canon MG3600 Driver Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c12-plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C12 Plus</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964678302-hp-driver-setup-made-effortless-start-here/"><u>HP Driver Setup Made Effortless - Start Here!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-face-off-sony-vegas-vs-adobe-premiere-pro-pros-cons-and-verdict/"><u>In 2024, Video Editing Face-Off Sony Vegas vs Adobe Premiere Pro - Pros, Cons, and Verdict</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974243200-latest-dell-wifi-driver-version-get-it-here-now/"><u>Latest Dell WiFi Driver Version - Get It Here Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-5-must-know-strategies-for-effective-team-video-calls/"><u>[Updated] In 2024, 5 Must-Know Strategies for Effective Team Video Calls</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/connecting-horizons-4-reasons-to-embrace-starlinks-prowess/"><u>Connecting Horizons: 4 Reasons to Embrace Starlink’s Prowess</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-latest-updates-for-your-epson-xp-440-printer/"><u>Download & Install Latest Updates for Your Epson XP-440 Printer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-ways-to-reduce-high-system-load-caused-by-the-popular-mmorpg-new-world/"><u>Efficient Ways to Reduce High System Load Caused by the Popular MMORPG, New World</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-out-of-your-steelseries-accessories-downloading-and-setting-up-windows-drivers/"><u>Get the Best Out of Your SteelSeries Accessories: Downloading and Setting Up Windows Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978621189-get-your-free-logitech-k400plus-keyboard-drivers-here/"><u>Get Your Free Logitech K400+ Keyboard Drivers Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-update-your-mediatek-usb-vcom-driver/"><u>How to Effortlessly Update Your MediaTek USB VCOM Driver</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-xr-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone XR Waze | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-critical-considerations-for-buying-a-smart-tv/"><u>Navigating the Market: Critical Considerations for Buying a Smart TV</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-mastering-the-art-of-ai-based-signal-denoising/"><u>New In 2024, Mastering the Art of AI-Based Signal Denoising</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-performance-solving-dying-lights-real-time-strategy-gameplay-lag-issues/"><u>Optimize Performance: Solving Dying Light's Real-Time Strategy Gameplay Lag Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-samsung-universal-print-driver-problems-for-windows-users/"><u>Resolving Samsung Universal Print Driver Problems for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamline-your-scansnap-experience-fast-and-simple-updates-for-windows-devices/"><u>Streamline Your ScanSnap Experience – Fast and Simple Updates for Windows Devices!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/402066-9781416587156-the-gabriel-method/"><u>The Gabriel Method | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-90-gt-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor 90 GT Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-latest-software-improved-performance-for-logitech-g93astery-g933/"><u>Update to the Latest Software: Improved Performance for Logitech G93astery G933</u></a></li>
 </ul></div>
 
