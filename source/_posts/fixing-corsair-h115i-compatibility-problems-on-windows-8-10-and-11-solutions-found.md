@@ -1,7 +1,7 @@
 ---
 title: Fixing Corsair H115i Compatibility Problems on Windows 8, 10 & 11 - Solutions Found
-date: 2024-11-27T02:25:55.031Z
-updated: 2024-12-03T21:02:54.714Z
+date: 2024-12-07T18:16:32.926Z
+updated: 2024-12-10T18:36:06.591Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ This post shows you how to download and update your**SAS driver**in Windows 10, 
 2. [Download and update SAS driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download and update SAS driver manually
@@ -41,7 +41,7 @@ You can download the SAS driver from the manufacturer website, but this takes ti
 If this method doesn’t work for you, don’t worry. You can try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update SAS driver automatically
@@ -54,14 +54,14 @@ If you don’t have time or patience, you can automatically update your SAS driv
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of**ALL** the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7b1ecbe979.jpg)  
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
@@ -88,19 +88,22 @@ If you don’t have time or patience, you can automatically update your SAS driv
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>[New] 2024 Approved ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-canva-expertise-10-sneak-peek-tips-for-photo-editors/"><u>[New] Canva Expertise 10 Sneak Peek Tips for Photo Editors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-affordable-asmr-recording-setup-excellence/"><u>[Updated] 2024 Approved Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-hp-laserjet-p3015-printer-driver-for-windows-systems/"><u>Download and Install the Latest HP LaserJet P3015 Printer Driver for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-logitech-audio-drivers-compatible-with-win10-win7-and-win8/"><u>Download the Latest Logitech Audio Drivers Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-sea-of-thieves-how-to-get-past-a-persistent-load-screen/"><u>Fixing Sea of Thieves: How to Get Past a Persistent Load Screen</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/get-your-free-program-to-remove-adobes-copyright-protection/"><u>Get Your Free Program to Remove Adobe's Copyright Protection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-system-performance-download-intel-usb-30-drivers-compatible-with-windows-11/"><u>Improve System Performance: Download Intel USB 3.0 Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-spark-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Spark 20 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>Lighten Your Load with Laughs FB Detainment Chuckle Highlighters</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-moto-g34-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola Moto G34 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-6-superior-alternatives-to-photoshop-that-wont-cost-you-a-penny/"><u>Unveiling 6 Superior Alternatives to Photoshop That Won't Cost You a Penny</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-samsung-960-evo-ssd-with-the-best-driver-download-tools-for-windows-systems/"><u>Update Your Samsung 960 EVO SSD with the Best Driver Download Tools for Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-gaming-revolution-experience-the-power-of-kinemaster-app/"><u>[New] Android's Gaming Revolution Experience the Power of KineMaster App</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-guide-to-adding-linktree-to-tiktok-bios-for-2024/"><u>[Updated] The Ultimate Guide to Adding Linktree to TikTok Bios for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/2008-gran-torino-with-eastwood-as-walt-kowalski-a-retired-auto-worker-in-detroit-whose-life-is-changed-after-he-discovers-his-family-sold-their-house-to-an-77/"><u>2008 - Gran Torino, with Eastwood as Walt Kowalski, a Retired Auto Worker in Detroit Whose Life Is Changed After He Discovers His Family Sold Their House to an Asian Family. The Film Was Based on the Unpublished Script ''Green Book''</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fading-frequencies-the-gentle-way-with-garageband/"><u>2024 Approved Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-access-to-all-essential-lenovo-x2eborne-15-laptop-drivers/"><u>Easy Access to All Essential Lenovo X2eborne 15 Laptop Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-amd-rx-6700-xt-drivers-now-compatible-with-windows-11107/"><u>Get the Newest AMD RX 6700 XT Drivers Now - Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-graphics-driver-for-windows-11-secure-your-optimal-performance-now/"><u>Get the Newest NVIDIA Quadro Graphics Driver for Windows 11 – Secure Your Optimal Performance Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959718335-get-your-windows-7-intel-bluetooth/"><u>Get Your Windows 지원하기 7에서 Intel Bluetooth 드라이버로 쉽게 다운로드합니다</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 10 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871392400-iphone-texting-made-simple-learn-to-send-voice-messages-today/"><u>IPhone Texting Made Simple: Learn to Send Voice Messages Today</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/junior-road-rules-and-racer-revelry-for-2024/"><u>Junior Road Rules & Racer Revelry for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/master-the-art-of-instagram-friendly-video-editing/"><u>Master the Art of Instagram-Friendly Video Editing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-navigating-through-the-premier-selection-of-free-vst-tools-ready-to-elevate-your-sound/"><u>New 2024 Approved Navigating Through the Premier Selection of FREE VST Tools Ready to Elevate Your Sound</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-steelseries-keyboard-with-freshly-updated-steelengine-drivers/"><u>Optimize Your SteelSeries Keyboard with Freshly Updated SteelEngine Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-samsung-blu-ray-compatibility-and-functionality-problems/"><u>Overcoming Samsung Blu Ray Compatibility and Functionality Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-tutorial-revamping-samsung-mobile-usb-drivers/"><u>The Ultimate Tutorial: Revamping Samsung Mobile USB Drivers</u></a></li>
 </ul></div>
 

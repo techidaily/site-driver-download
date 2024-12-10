@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing & Managing Lenovo Thunderbolt 3 Hub Drivers"
-date: 2024-11-10T14:43:12.842Z
-updated: 2024-11-15T04:51:46.267Z
+date: 2024-12-09T17:15:45.667Z
+updated: 2024-12-10T16:13:33.496Z
 tags:
   - win11
   - win10
@@ -40,10 +40,11 @@ There’re two ways you can update the Lenovo T450 drivers:
 3. Below you’ll be presented with a slew of component categories. Click the one whose drivers you need to update.![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-27_19-21-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Take the audio driver as an example. Click**Audio** and then you’ll see one or more drivers available for download on the pop-up page. Once you find the one you’d like to download, simply click the down arrow button which represents “Download.”  
@@ -51,10 +52,7 @@ There’re two ways you can update the Lenovo T450 drivers:
 5. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. **Reboot** your computer for the changes to take effect even if you’re not asked to.
@@ -76,19 +74,13 @@ There’re two ways you can update the Lenovo T450 drivers:
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-277.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.
@@ -116,18 +108,14 @@ There’re two ways you can update the Lenovo T450 drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-creating-immersive-video-games-experiences-on-steam/"><u>[New] In 2024, Creating Immersive Video Games Experiences on Steam</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-premier-9-multi-device-video-communication-tools-for-smartphones/"><u>[New] In 2024, Premier 9 Multi-Device Video Communication Tools for Smartphones</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-harmonious-hummingbird-hustle/"><u>[Updated] 2024 Approved Harmonious Hummingbird Hustle</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-cutting-edge-display-selections-10-mac-list/"><u>[Updated] Cutting-Edge Display Selections #10 Mac List</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-exclusive-list-of-the-top-10-digital-recording-apps-for-2024/"><u>[Updated] Exclusive List of the Top 10 Digital Recording Apps for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-dell-inspiron-g15-driver-downloads-and-easy-install-guide-for-windows/"><u>Free Dell Inspiron G15 Driver Downloads and Easy Install Guide for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-updated-mpow-bluetooth-driver-software-free-downloads-now-available/"><u>Freshly Updated MPOW Bluetooth Driver Software - Free Downloads Now Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-correctly-install-realtek-rtl8811au-driver-for-stable-wi-fi-connection/"><u>How to Correctly Install Realtek RTL8811AU Driver for Stable Wi-Fi Connection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-or-install-hp-probook-840-g3-device-drivers-easily/"><u>How to Update or Install HP ProBook 840 G3 Device Drivers Easily</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-prime-picks-for-effortless-screenshots/"><u>In 2024, Prime Picks for Effortless Screenshots</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-new-hp-deskjet-3050-printer-drivers-on-your-pc-free-download-and-compatibility-check-for-windows-users/"><u>Install New HP Deskjet 3050 Printer Drivers on Your PC - FREE Download & Compatibility Check for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-connectivity-problems-with-your-corsair-void-microphone-in-no-time/"><u>Resolving Connectivity Problems with Your Corsair Void Microphone in No Time</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations/"><u>The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971737599-download-free-asrock-ab350-pro4-driver-package-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Driver Package for Windows - Instantly!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-your-gameplay-with-the-latest-steelseries-engine-compatible-with-windows-10/"><u>Elevate Your Gameplay with the Latest SteelSeries Engine Compatible with Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-to-the-startech-usb-to-vga-adapter-software/"><u>Free Download: Ultimate Guide to the StarTech USB-to-VGA Adapter Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-1080-graphics-card-drivers-for-windows-10-quick-and-easy/"><u>Get the Latest NVIDIA 1080 Graphics Card Drivers for Windows 10 - Quick and Easy</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-restore-your-lenovo-thinkcentre-pc-to-its-default-out-of-the-box-configuration-learn-4-ways/"><u>How to Restore Your Lenovo ThinkCentre PC to Its Default Out-of-the-Box Configuration - Learn 4 Ways!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/intel-hd-graphics-4000-driver-download/"><u>Intel HD Graphics 4000 Driver Download</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-lenovos-windows-compatible-mac-studio-a-game-changer-for-tech-enthusiasts-insights-and-reviews/"><u>Introducing Lenovo's Windows-Compatible Mac Studio: A Game-Changer for Tech Enthusiasts? - Insights & Reviews</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-twitch-broadcasting-the-top-5-must-use-resources-for-streamers/"><u>Revolutionize Your Twitch Broadcasting: The Top 5 Must-Use Resources for Streamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/voice-vaults-acclaimed-transcription-apps-for-no-connectivity-for-2024/"><u>Voice Vaults Acclaimed Transcription Apps for No Connectivity for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support"
-date: 2024-11-27T00:54:51.241Z
-updated: 2024-12-03T19:49:00.787Z
+date: 2024-12-04T17:36:07.412Z
+updated: 2024-12-10T16:52:01.064Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 As you may have noticed, since Microsoft October 2018 Update, Windows 10 no longer includes**basic printer and scanner drivers** in Windows installation media, which is one of the big changes with Windows 10 version 1809 update. But don’t panic! You can get the right drivers for your printers and scanners with the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does Windows 10 remove inbox printer and scanner drivers?
@@ -26,7 +26,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install the drivers for printers and scanners?
@@ -35,6 +35,10 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
 1. [**Download the printer and scanner drivers manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download the printer and scanner drivers manually
 
@@ -55,7 +59,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download the printer and scanner drivers automatically
@@ -72,16 +76,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -109,22 +109,22 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-aces-top-10-list-choosing-superior-capture-cards/"><u>[New] Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-blurring-the-boundary-a-comprehensive-look-at-story-bokeh-for-2024/"><u>[Updated] Blurring the Boundary A Comprehensive Look at Story Bokeh for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-mastering-electrical-energy-the-best-lipo-for-uavs/"><u>[Updated] In 2024, Mastering Electrical Energy The Best LiPo for UAVs</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-streamlining-media-with-apple-music-and-video-mixes/"><u>2024 Approved Streamlining Media with Apple Music & Video Mixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-laserjet-p1606dn-printer-drivers-on-windows/"><u>Download & Install HP LaserJet P1606dn Printer Drivers on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-canon-pixma-mg3420-printer-drivers-compatible-with-windows-10-8-and-nversions/"><u>Download Canon PIXMA MG3420 Printer Drivers Compatible with Windows 10, 8 & Nversions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-oculus-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest Oculus Drivers Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-sound-with-the-latest-steelseries-arctis-5-drivers-free-downloads-and-installation-tips/"><u>Enhance Your Gaming Sound with the Latest SteelSeries Arctis #5 Drivers - Free Downloads & Installation Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-code-to-couplets-writing-captivating-poems-with-chatgpt-guidance/"><u>From Code to Couplets: Writing Captivating Poems with ChatGPT Guidance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-best-printing-experience-epson-xp-420-drivers-downloaded-here/"><u>Get the Best Printing Experience: Epson XP 420 Drivers Downloaded Here</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210820561-9781959895503-gracing-favor/"><u>GRACING FAVOR | Free Book</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-5-online-title-masters-revealed/"><u>In 2024, Leading 5 Online Title Masters Revealed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-thunderbolt-controller-drivers-available-free-for-windows-users/"><u>Latest Thunderbolt Controller Drivers Available Free for Windows Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition-for-2024/"><u>The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-to-upgrading-your-pc-with-the-newest-radeon-rx-590-drivers-on-windows/"><u>The Ultimate Guide to Upgrading Your PC with the Newest Radeon RX 590 Drivers on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-upgrades-what-sets-the-new-apple-airpods-4-apart-from-previous-versions-techinsights/"><u>Unveiling the Upgrades: What Sets the New Apple AirPods 4 Apart From Previous Versions | TechInsights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-hp-officejet-4500-to-the-latest-driver-version-of-2024-free-download-available/"><u>Update Your HP Officejet 4500 to the Latest Driver Version of 2024 | Free Download Available</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-earning-excellence-a-guide-to-maximize-money-from-mobile-youtube-viewers/"><u>[New] Earning Excellence A Guide to Maximize Money From Mobile YouTube Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-guide-to-enhancing-video-controls-and-performance-for-2024/"><u>[New] Expert Guide to Enhancing Video Controls and Performance for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-art-of-advertising-a-guide-to-profit-making-on-vimeo/"><u>[New] In 2024, The Art of Advertising A Guide to Profit-Making on Vimeo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-laptoppc-editors-steer-clear-of-inshot/"><u>[New] Laptop/PC Editors Steer Clear of Inshot</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-slow-motion-mobile-recording-solutions-iphoneandroid/"><u>[Updated] Innovative Slow Motion Mobile Recording Solutions iPhone/Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-lenovo-bluetooth-driver-for-windows-710-secure-and-reliable/"><u>Download & Update Lenovo Bluetooth Driver for Windows 7/10 - Secure and Reliable</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-firmware-get-your-hp-laserjet-p1007-printer-up-to-date/"><u>Download the Latest Firmware: Get Your HP LaserJet P1007 Printer Up-to-Date</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-printing-with-updated-canon-pixma-ts3322-drivers-secured-downloads/"><u>Ensure Optimal Printing with Updated Canon PIXMA TS3322 Drivers – Secured Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-2760-driver-for-windows-11-download-and-installation-guide/"><u>Get Your Epson WF-2760 Driver for Windows 11 - Download and Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-amd-video-cards-driver-update-on-windows/"><u>How to Get the Newest AMD Video Cards Driver Update on Windows</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-free-sound-effects-galore-how-to-discover-and-use-them-in-final-cut-pro-for-stunning-videos/"><u>In 2024, Free Sound Effects Galore How to Discover and Use Them in Final Cut Pro for Stunning Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>In 2024, Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-newest-all-in-one-printer-driver-for-your-hp-deskjet-eb3755-on-windows-platforms-windows-10-8-and-7/"><u>Installing the Newest All-in-One Printer Driver for Your HP DeskJet Eb3755 on Windows Platforms (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-samsung-m2070fw-driver-installation-direct-links-inside/"><u>Speedy Samsung M2070FW Driver Installation – Direct Links Inside!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-classes-on-your-windows-11-machine-guide/"><u>Troubleshooting Missing Classes on Your Windows 11 Machine [Guide]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-tp-link-network-interface-controller-software-for-windows-users-on-versions-10-8-and-7/"><u>Updated TP-Link Network Interface Controller Software for Windows Users on Versions 10, 8 and 7</u></a></li>
 </ul></div>
 

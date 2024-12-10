@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense"
-date: 2024-11-27T16:50:38.794Z
-updated: 2024-12-03T18:48:31.923Z
+date: 2024-12-03T17:45:30.456Z
+updated: 2024-12-10T17:03:45.467Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ft232r-usb-uart-driver-download-easily-quickly/#o2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the FT232R USB UART driver manually
@@ -36,7 +36,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
@@ -53,14 +53,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,19 +86,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-download-free-preview-clip-kits/"><u>[Updated] 2024 Approved Download Free Preview Clip Kits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-your-notes-opt-for-mematic/"><u>[Updated] Master Your Notes - Opt for Mematic</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-huawei-nova-y91-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Huawei Nova Y91 Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-samsung-960-evo-m2-drive-drivers-made-easy-for-windows-operating-systems/"><u>Download & Setup: Samsung 960 EVO M.2 Drive Drivers Made Easy for Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-realtek-rtl81andampcu-network-adapter-software-for-windows-10-7/"><u>Download the Latest Realtek RTL81^&amp;CU Network Adapter Software for Windows 10, 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-canon-mf743cdw-pixma-tr8620-drivers-and-software-for-pc-easy-install/"><u>Free Canon MF743Cdw PIXMA TR8620 Drivers & Software for PC | Easy Install</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-by-drfone-android/"><u>How Can We Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-set-up-steelseries-graphics-for-windows-users/"><u>How to Successfully Download and Set Up SteelSeries Graphics for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-google-pixel-fold-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Google Pixel Fold</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/j5-tactical-v1-pro-flashlight-evaluation-the-perfect-blend-of-portability-strength-and-exceptional-illumination-capabilities/"><u>J5 Tactical V1-Pro Flashlight Evaluation: The Perfect Blend of Portability, Strength, and Exceptional Illumination Capabilities</u></a></li>
-<li><a href="https://discover-data.techidaily.com/laban-movement-analysis/"><u>Laban Movement Analysis</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-downloading-asus-touchpad-drivers-on-windows-10/"><u>Quick & Easy Guide: Downloading ASUS Touchpad Drivers on Windows 10</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/"><u>Seamless Strategies Downloading Graphics Images From Facebook & Beyond</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamline-your-touch-experience-simple-guide-to-revamping-synaptics-ps2-drivers/"><u>Streamline Your Touch Experience: Simple Guide to Revamping Synaptics PS/2 Drivers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-fix-iphone-camera-not-focusing-problem/"><u>[New] How to Fix iPhone Camera Not Focusing Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-eco-friendly-cities-redefining-urban-spaces-for-nature/"><u>[New] In 2024, Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison-for-2024/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-windows-cutting-tools-for-editors-and-vids/"><u>[Updated] 2024 Approved Top Windows Cutting Tools for Editors & Vids</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>[Updated] In 2024, 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerate-your-excel-workflow-discover-the-latest-speed-enhancing-functionality/"><u>Accelerate Your Excel Workflow: Discover the Latest Speed-Enhancing Functionality!</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-photosmart-7520-printer-utilities-and-software-for-hassle-free-setup/"><u>Download HP Photosmart 7520 Printer Utilities and Software for Hassle-Free Setup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961534014-get-the-latest-logitech-m525-driver-downloads-here-easy-setup-tutorial-included/"><u>Get the Latest Logitech M525 Driver Downloads Here – Easy Setup Tutorial Included</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-stream-drivers-instantly-for-smooth-operation/"><u>Get Your HP Stream Drivers Instantly for Smooth Operation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-intel-nvme-drivers-today-for-speedy-installation/"><u>Get Your Intel NVMe Drivers Today for Speedy Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-logitech-t630-mouse-drivers-on-pc-windows-7-8-and-10-guides/"><u>How to Install Logitech T630 Mouse Drivers on PC - Windows 7, 8 & 10 Guides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60s?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-windows-compatible-bluetooth-adapter-drivers-available-now/"><u>Latest Windows Compatible Bluetooth Adapter Drivers Available Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-drivers-for-hp-laserjet-m506-quick-downloads-to-improve-performance/"><u>New Drivers for HP LaserJet M506 - Quick Downloads to Improve Performance</u></a></li>
 </ul></div>
 

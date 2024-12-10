@@ -1,7 +1,7 @@
 ---
 title: Latest GPU Drivers for Lenovo Legion 5 Pro, Model 16ACH6H - Get Them Here!
-date: 2024-11-13T18:14:18.413Z
-updated: 2024-11-15T02:50:11.874Z
+date: 2024-12-09T18:00:52.825Z
+updated: 2024-12-10T18:40:30.039Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 [2: Update your keyboard drivers](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Install the Logitech G HUB software
 
  Logitech G HUB is a software platform to help users set up a keyboard of the brand. If the software is not automatically installed when you first connect the keyboard to your computer, then your keyboard may not work or would only have limited functions. Follow the steps below to find and install it from the official website:
@@ -39,6 +43,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  05 Click**Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/04.jpg)
@@ -46,6 +54,10 @@ Logitech G910 not working? You may need to download the software for further con
  06 Click**Download Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/05-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  07 Open the Downloads folder and you will find the installer. If you’re using a Chrome browser, click**Show in folder** .
 
@@ -55,17 +67,29 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  09 The installer will reopen once the computer restarts. If not, you can open the installer manually. Click**INSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-34-21.jpg)
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Update your keyboard drivers
 
  Logitech G910 keyboard not working is usually a result of an outdated or faulty driver. You would need to check your keyboard driver is up-to-date and functioning properly..
 
  There are two ways you can get the right drivers for your keyboard: automatically or manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Automatically (Recommended!)
 
@@ -91,13 +115,6 @@ Check your keyboard to see if it works.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: via Device Manager
 
  Device Manager is a Windows tool that allows you to check and alter hardware settings as well as driver statuses. You may need some computer skills for the following steps:
@@ -107,22 +124,12 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-42-52.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  02 Select**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  03 Select**Keyboards** .
 
@@ -137,13 +144,6 @@ Check your keyboard to see if it works.
  05 Click**Search automatically for drivers** . Make sure your computer has an internet connection. Windows would automatically scan and install available drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
@@ -162,10 +162,7 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_11-04-39.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10 Click**OK** to start the installation.
@@ -195,18 +192,18 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-modern-moods-best-rated-desktop-imagery/"><u>[New] Modern Moods Best-Rated Desktop Imagery</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-industrys-preferred-6-social-networking-sites-for-firms/"><u>[Updated] 2024 Approved Industry's Preferred 6 Social Networking Sites for Firms</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-icons-of-illusion-youtubes-most-influential-gurus/"><u>[Updated] Icons of Illusion YouTube's Most Influential Gurus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-m54-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy M54 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/chuckle-chronicles-top-youtube-humorists-masterpieces/"><u>Chuckle Chronicles Top YouTube Humorists' Masterpieces</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-drivers-gigabyte-geforce-wb867d-graphics-card/"><u>Download Drivers: Gigabyte GeForce WB867D Graphics Card</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-download-get-your-scansnap-s1300i-scanner-software-updated-today/"><u>Effortless Download: Get Your ScanSnap S1300i Scanner Software Updated Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-audio-free-gigabyte-high-fidelity-driver-download/"><u>Enhance Your PC's Audio: Free Gigabyte High-Fidelity Driver Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-zebra-printer-drivers-on-your-pc-a-step-by-nstep-guide/"><u>How to Get the Newest Zebra Printer Drivers on Your PC: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-common-issues-with-your-logitech-peripheral-devices/"><u>Resolving Common Issues with Your Logitech Peripheral Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-process-keeping-your-monitor-drivers-current-with-windows-support/"><u>Step-by-Step Process: Keeping Your Monitor Drivers Current with Windows Support</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-or-download-brother-hl-l2350dw-printer-drivers-step-by-step-guide/"><u>Update or Download Brother HL-L2350DW Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-asus-rog-phone-7-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Asus ROG Phone 7 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-music-free-converters-for-youtube-and-mac-users/"><u>[New] 2024 Approved Unlocking Music Free Converters for YouTube & Mac Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-chapter-division-in-youtube-videos/"><u>[New] Mastering Chapter Division in YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-your-messenger-presence-a-zodiac-guide/"><u>[Updated] Mastering Your Messenger Presence - A Zodiac Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-quality-audio-awaits-with-these-premium-asmr-mics/"><u>[Updated] Quality Audio Awaits with These Premium ASMR Mics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/creating-synergy-how-youtube-aligns-with-brands/"><u>Creating Synergy How YouTube Aligns with Brands</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-gaming-mouse-drivers-compatible-with-windows-pcs/"><u>Download Logitech Gaming Mouse Drivers: Compatible with Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-steps-for-downloading-the-latest-xp-pen-driver-updates/"><u>Easy Steps for Downloading the Latest XP-PEN Driver Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-the-best-resources-for-your-thunderbolt-tb16-dell-connectivity-device-downloads-and-updates-available/"><u>Find the Best Resources for Your Thunderbolt TB16 (Dell) Connectivity Device - Downloads & Updates Available</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-hp-laserjet-p1102w-drivers-for-windows-step-by-step-tutorial/"><u>Installing the Latest HP LaserJet P1102w Drivers for Windows - Step-by-Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-hp-printer-driver-updates-for-windows-10-and-11-users-download-here/"><u>Latest HP Printer Driver Updates for Windows 10 & 11 Users - Download Here</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/monday-to-domingo-learn-the-days-of-the-week-in-spanish/"><u>Monday to Domingo – Learn the Days of the Week in Spanish</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-rtl8188cu-wifi-drivers-fresh-updates-for-windows-107-users-start-your-free-download-today/"><u>Realtek RTL8188CU WiFi Drivers: Fresh Updates for Windows 10/7 Users – Start Your Free Download Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-transition-ps4-to-ps5-gameplay/"><u>Seamless Transition: PS4 to PS5 Gameplay</u></a></li>
 </ul></div>
 

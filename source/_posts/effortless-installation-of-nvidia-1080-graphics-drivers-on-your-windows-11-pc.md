@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2024-12-01T16:41:26.749Z
-updated: 2024-12-03T18:08:21.622Z
+date: 2024-12-04T16:28:15.116Z
+updated: 2024-12-10T17:57:00.993Z
 tags:
   - win11
   - win10
@@ -19,20 +19,12 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
  Keeping your driver up to date can not only bring you the best possible experience, but prevent any problems cause by your driver as well. So you should consider updating your **BCM20702A0 driver** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
 1. [Download the BCM20702A0 driver manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Download and update the BCM20702A0 driver**automatically**](https://tools.techidaily.com/drivereasy/download/)
 
  Note: the screenshots below come from Windows 10, and methods apply to Windows 8 and Windows 7.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Download the BCM20702A0 driver manually
 
@@ -55,21 +47,25 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
 
@@ -84,12 +80,16 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -112,14 +112,22 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/1728461939057-windows/"><u>「Windows系列中的還原技術：如何在不同版本上恢復壓縮文件」</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-troubleshooting-how-to-fix-initialization-failed-error/"><u>Destiny 2 Troubleshooting: How to Fix 'Initialization Failed' Error</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-overcoming-usb-recognition-problems-with-your-260ci-wia-drive/"><u>Guide to Overcoming USB Recognition Problems with Your 260CI WiA Drive</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-obtain-and-install-the-correct-driver-for-your-epson-xp-830/"><u>How to Obtain and Install the Correct Driver for Your Epson XP-830</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-version-of-logitech-g29-drive-download-for-windows-11107/"><u>Latest Version of Logitech G29 Drive: Download for Windows 11/10/7</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establishing-service-connections-in-windows-1011-after-ms-sql-hiccup/"><u>Re-Establishing Service Connections in Windows 10/11 After MS SQL Hiccup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rundll32exe-explained-essential-information-and-action-plans/"><u>rundll32.exe Explained: Essential Information and Action Plans</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-downloading-thunderbolt-drivers-windows-compatible/"><u>Step-by-Step Tutorial on Downloading Thunderbolt Drivers (Windows Compatible)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-sky-high-explorations-made-simple-a-compreenasive-review-of-dji-sparks-miniature-drone-design/"><u>[New] 2024 Approved Sky High Explorations Made Simple A Compreenasive Review of DJI Spark's Miniature Drone Design</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[New] A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-best-15-online-photo-editors-you-should-try/"><u>[New] In 2024, Best 15 Online Photo Editors You Should Try</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-updated-compilation-prime-top-10-android-apps-for-facebook-video-download/"><u>[Updated] 2024 Approved Updated Compilation Prime Top 10 Android Apps for Facebook Video Download</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>[Updated] In 2024, Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-pixtra-photo-editor-deep-dive-for-2024/"><u>[Updated] Pixtra Photo Editor Deep Dive for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-sound-savvy-your-guide-to-the-top-6-free-android-downloader-apps-for-youtube-for-2024/"><u>[Updated] Sound Savvy Your Guide to the Top 6 Free Android Downloader Apps for Youtube for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-lenovo-chromebook-duet-cube-analysis-a-detailed-look-at-the-cost-effective-convertible/"><u>Affordable Lenovo Chromebook Duet Cube Analysis - A Detailed Look at the Cost-Effective Convertible</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-download-links-for-nvidias-rtx-3070-ti-on-windows-10-8-and-7-systems/"><u>Direct Download Links for NVIDIA's RTX 3070 Ti on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-asus-motherboard-drivers-on-windows-pcs-step-by-step-guide/"><u>Download & Install ASUS Motherboard Drivers on Windows PCs: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-for-swiftly-fixing-problematic-lenovo-usb-drivers-with-precision/"><u>Expert Tips for Swiftly Fixing Problematic Lenovo USB Drivers with Precision</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-frustration-to-finishing-how-magix-vpx-saves-time-for-2024/"><u>From Frustration to Finishing How Magix VPX Saves Time for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-new-intel-wireless-ac-7260-drivers-instantly-quick-and-easy-download-guide/"><u>Get the New Intel Wireless-AC 7260 Drivers Instantly - Quick & Easy Download Guide!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-thrustmaster-t300-racing-controller-up-to-date-on-windows-11-and-windows-10/"><u>Get Your Thrustmaster T300 Racing Controller Up to Date on Windows 11 & Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keeping-your-internet-connection-stable-update-wireless-network-adapter-on-windows-11-or-10/"><u>Keeping Your Internet Connection Stable: Update Wireless Network Adapter on Windows 11 or 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-successfully-update-your-usb-c-driver-for-windows-10/"><u>Quick Fix: How To Successfully Update Your USB-C Driver for Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revitalize-acer-sound-performance-quickly-easy-driver-update-process/"><u>Revitalize Acer Sound Performance Quickly – Easy Driver Update Process</u></a></li>
 </ul></div>
 

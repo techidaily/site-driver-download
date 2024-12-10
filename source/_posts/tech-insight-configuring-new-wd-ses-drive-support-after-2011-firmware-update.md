@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2024-11-18T16:25:37.252Z
-updated: 2024-11-24T16:48:00.518Z
+date: 2024-12-09T17:47:51.398Z
+updated: 2024-12-10T17:45:23.858Z
 tags:
   - win11
   - win10
@@ -31,25 +31,25 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/02-1-1200x811.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  03 Click the**G910 image** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-29-22-1200x955.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  04 Click**Support** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  05 Click**Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  06 Click**Download Now** .
 
@@ -64,7 +64,7 @@ Logitech G910 not working? You may need to download the software for further con
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/07-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  09 The installer will reopen once the computer restarts. If not, you can open the installer manually. Click**INSTALL** .
@@ -79,6 +79,10 @@ Logitech G910 not working? You may need to download the software for further con
 
  There are two ways you can get the right drivers for your keyboard: automatically or manually.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Automatically (Recommended!)
 
  If you don’t have the time, patience, or computer skills to update your keyboard drivers manually, you can do it automatically with[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .
@@ -92,6 +96,10 @@ Logitech G910 not working? You may need to download the software for further con
  02 Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
@@ -119,17 +127,9 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
@@ -141,12 +141,16 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  07 Select**Let me pick from a list of available drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  08 Click**Have Disk** .
@@ -154,16 +158,12 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_11-04-39.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  10 Click**OK** to start the installation.
 
@@ -192,22 +192,20 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-cheat-sheet-inserting-vimeo-videos-into-slides/"><u>[New] The Ultimate Cheat Sheet Inserting Vimeo Videos Into Slides</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-metaverse-advertising-playbook/"><u>[Updated] The Ultimate Metaverse Advertising Playbook</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-comparing-features-avi-video-converter-factory-vs-pro-version/"><u>1. Comparing Features: AVI Video Converter Factory Vs. Pro Version</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discovering-the-viewers-of-your-google-documents-a-comprehensive-guide/"><u>Discovering the Viewers of Your Google Documents: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-m185-drivers/"><u>Download Logitech M185 Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhanced-compatibility-windows-10-os-now-supports-built-in-basic-printing-and-scanning-solutions/"><u>Enhanced Compatibility: Windows 10 OS Now Supports Built-In Basic Printing & Scanning Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-l3110-compatible-printer-drivers-available-now-for-windows-11107-get-your-free-downloads-here/"><u>Epson L3110 Compatible Printer Drivers Available Now for Windows 11/10/7 - Get Your Free Downloads Here!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-formula-for-fluent-advanced-english/"><u>Mondly's Formula for Fluent, Advanced English</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722955725786-qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/realtek-wireless-network-adapter-driver-version-download-for-optimal-windows-10-experience/"><u>Realtek Wireless Network Adapter Driver Version - Download for Optimal Windows 10 Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-installation-of-updated-synaptics-touchpad-controller/"><u>Seamless Installation of Updated Synaptics Touchpad Controller</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-solutions-resolving-i2c-based-hid-driver-problems/"><u>Simple Solutions: Resolving I2C-Based HID Driver Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/switching-to-customized-pdf-program-on-pc/"><u>Switching to Customized PDF Program on PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-lide-120-scan-device-driver-on-pc-step-by-step/"><u>Updating Your LiDE 120 Scan Device Driver on PC - Step by Step</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-the-intel-centrino-advanced-n-6230-wireless-network-adapter-drivers-a-comprehensive-guide/"><u>Upgrading the Intel Centrino Advanced-N 6230 Wireless Network Adapter Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-optimal-zoom-audio-enhancing-quality-two-fold-approach/"><u>[New] 2024 Approved Optimal Zoom Audio Enhancing Quality, Two-Fold Approach</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-flawlessrecorder-suite-w10-edition/"><u>[New] FlawlessRecorder Suite W10 Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/forest-fire-control-including-water-bombing/"><u>Forest Fire Control (Including Water Bombing).</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-compatible-toshiba-multifunction-device-drivers-installed-on-your-windows-computer-today/"><u>Get the Latest Compatible Toshiba Multifunction Device Drivers Installed on Your Windows Computer Today</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y56-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo Y56 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-epson-wf-2760-drivers-on-your-windows-11108-pc/"><u>Installing the Latest Epson WF-2760 Drivers on Your Windows 11/10/8 PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-game-on-10plus-trusted-websites-to-download-games-this-year/"><u>New 2024 Approved Game On! 10+ Trusted Websites to Download Games This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/order-of-excellence-how-to-enjoy-every-james-bond-movie-back-to-back/"><u>Order of Excellence: How to Enjoy Every James Bond Movie Back-to-Back</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-how-to-update-your-msi-graphics-drivers-in-windows-10-and-windows-7/"><u>Simple Steps: How to Update Your MSI Graphics Drivers in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972781906-step-by-step-update-for-intels-latest-iris-plus-graphics-card-drive-with-speed-and-ease/"><u>Step-by-Step Update for Intel's Latest Iris Plus Graphics Card - Drive with Speed and Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-driver-installation-for-windows-devices-over-wifi-or-usb-only/"><u>The Ultimate Guide: Driver Installation for Windows Devices Over WiFi or USB Only</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/tinyvid-recorder-examination-and-reviews/"><u>TinyVid Recorder Examination & Reviews</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-v27-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo V27 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

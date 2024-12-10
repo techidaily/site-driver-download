@@ -1,7 +1,7 @@
 ---
 title: Broadcom Bluetooth Software Update - Compatible with Windows 10/8/7
-date: 2024-11-27T02:21:03.300Z
-updated: 2024-12-03T22:11:08.377Z
+date: 2024-12-09T18:05:04.809Z
+updated: 2024-12-10T17:35:02.055Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ To get your Zexmte Bluetooth dongle working properly, you need the correct Bluet
 
 **[Option 2: Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-zexmte-bluetooth-adapter-driver-windows-10-8-7/#option2)**  – One of the easiest ways to get the latest Bluetooth driver. All it takes will be just a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Install Bluetooth drivers manually
 
  If you’re familiar with computer hardware, you can try to install/update your Zexmte adapter driver manually. If you don’t know how, just do the following:
@@ -33,18 +37,14 @@ To get your Zexmte Bluetooth dongle working properly, you need the correct Bluet
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. Click**Bluetooth** to expand the category. Right-click your Bluetooth adapter and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-bluetooth-update.jpg)
 3. In the pop-up window, select**Search automatically for drivers** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Windows 7
 
@@ -53,11 +53,11 @@ To get your Zexmte Bluetooth dongle working properly, you need the correct Bluet
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/zexmte-windows-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update Zexmte Bluetooth drivers (Recommended)
@@ -73,12 +73,12 @@ To get your Zexmte Bluetooth dongle working properly, you need the correct Bluet
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-update-all-qualcomm.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -103,20 +103,24 @@ To get your Zexmte Bluetooth dongle working properly, you need the correct Bluet
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-top-10-asmr-apps-on-smart-devices/"><u>[New] Top 10 ASMR Apps on Smart Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-ad-removal-chrome-firefox-android-iphone-methods/"><u>2024 Approved Mastering YouTube Ad Removal Chrome, Firefox, Android, iPhone Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-peek-at-all-shared-images-and-videos-in-chats/"><u>2024 Approved Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/crystal-clear-visuals-effective-methods-and-steps-for-better-quality-videos/"><u>Crystal Clear Visuals: Effective Methods and Steps for Better Quality Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-asus-laptop-driver-software/"><u>Download and Update ASUS Laptop Driver Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-wireless-mouse-software-compatible-with-windows/"><u>Download Logitech Wireless Mouse Software Compatible with Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-downloads-installing-dell-latitude-e6420-drivers/"><u>Fast and Simple Downloads: Installing Dell Latitude E6420 Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972007584-get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-update-your-graphics-card-amd-rx-upgrade-and-optimize-with-latest-drivers/"><u>How to Effortlessly Update Your Graphics Card: AMD RX 지Upgrade & Optimize with Latest Drivers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-k11-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo K11 5G Phone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/maximize-revenue-with-youtube-shorts-strategies/"><u>Maximize Revenue with YouTube Shorts Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-start-how-to-preserve-your-favorite-internet-streams-for-2024/"><u>Quick Start How To Preserve Your Favorite Internet Streams for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revitalize-your-phones-performance-updating-samsung-usb-driver-instructions/"><u>Revitalize Your Phone's Performance: Updating Samsung USB Driver Instructions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[Updated] 2024 Approved Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-best-free-mobile-editing-aids-to-elevate-your-images-quality-for-2024/"><u>[Updated] Best FREE Mobile Editing Aids to Elevate Your Image's Quality for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-budget-planning-for-music-video-production/"><u>[Updated] Budget Planning for Music Video Production</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-mobile-melodies-personalize-ios-ringtones/"><u>2024 Approved Mastering Mobile Melodies Personalize iOS Ringtones</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-screencast-maker-for-fb-chat/"><u>2024 Approved ScreenCast Maker for FB Chat</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972435332-amd-gpu-utility-tools-download-your-free-driver-package-today/"><u>AMD GPU Utility Tools - Download Your Free Driver Package Today!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/niently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>Conveniently Share Your Videos YouTube Shorts Mobile/Computer Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975847156-download-and-update-hp-laptop-drivers-step-by-step-guide-for-windows-users/"><u>Download & Update HP Laptop Drivers: Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-printer-drivers-on-windows-1011-get-the-latest-versions-now/"><u>Download & Update HP Printer Drivers on Windows 10/11 - Get the Latest Versions Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ecoflow-portable-generator-saved-my-household-throughout-the-latest-blackouts-a-comprehensive-review-by-zdnet/"><u>EcoFlow Portable Generator Saved My Household Throughout the Latest Blackouts - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fifa-footage-analysis-trendy-video-patterns-for-2024/"><u>FIFA Footage Analysis Trendy Video Patterns for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-vega-graphics-card-drivers-quick-and-effortless-updates-for-gamers/"><u>Get the Latest AMD Vega Graphics Card Drivers: Quick & Effortless Updates for Gamers!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978993537-get-the-latest-lenovo-ideapad-x23er-software-drivers-instantly/"><u>Get the Latest Lenovo Ideapad X23er Software Drivers Instantly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-brother-hl-l2300d-printer-driver-for-your-pc-or-mac/"><u>Get the Newest Brother HL-L2300D Printer Driver for Your PC or Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-rtx-1er-gtx-1650-supers-driver-update-for-microsofts-windows-11-os/"><u>Get the Newest NVIDIA RTX 1Er GTX 1650 Supers Driver Update for Microsoft's Windows 11 OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-overcome-halo-4s-ue4-catastrophic-crash-issue-update/"><u>Guide to Overcome Halo 4'S UE4 Catastrophic Crash Issue Update</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-driver-updates-how-to-keep-your-microsoft-mouse-running-smoothly-on-windows/"><u>Mastering Driver Updates: How to Keep Your Microsoft Mouse Running Smoothly on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971435571-windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily</u></a></li>
 </ul></div>
 

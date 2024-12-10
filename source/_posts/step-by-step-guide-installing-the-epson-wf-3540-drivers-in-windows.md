@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing the Epson WF-3540 Drivers in Windows"
-date: 2024-08-13T11:58:16.467Z
-updated: 2024-08-14T11:58:16.467Z
+date: 2024-12-04T19:09:55.744Z
+updated: 2024-12-10T18:49:14.378Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7f38f48d6c1e2e7dd4ffc2cf3530de002749e2e66
 
 If you’re using Arduino products to create your own work but failed to connect with your Windows computer, then you’ve come to the right place. It’s maybe caused by driver issues. This post is going to tell you how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -25,9 +29,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -38,6 +39,10 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -45,26 +50,31 @@ OR
 1. Go to the[](https://www.amd.com/en/support) [Arduino official download website](https://www.arduino.cc/en/Main/Software) .
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -76,15 +86,9 @@ OR
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -98,8 +102,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +109,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-acoustic-dissolve-windowsmac-playback-guide/"><u>[New] Acoustic Dissolve Windows/Mac Playback Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo/"><u>[New] Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-swiftly-restoring-eliminated-reddit-content/"><u>[Updated] In 2024, Swiftly Restoring Eliminated Reddit Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-12-mouse-focused-pc-games-for-enthusiasts-for-2024/"><u>Best 12 Mouse-Focused PC Games for Enthusiasts for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-galaxy-a25-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-lenovo-thinkpad-t4nt430-drivers-compatible-with-multiple-windows-versions/"><u>Easy Download: Lenovo ThinkPad T4nT430 Drivers Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-ralink-rt3290-wireless-drivers-on-windows-11-8-and-7-solutions-unveiled/"><u>Fixing Ralink RT3290 Wireless Drivers on Windows 11, 8 & 7: Solutions Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-geforce-rtx-drivers-for-your-pc-with-windows-v1087/"><u>Get the Newest GeForce RTX Drivers for Your PC with Windows (V10/8/7)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-persistent-crashing-in-insurgency-sandstorm-a-complete-guide/"><u>How to Fix Persistent Crashing in Insurgency: Sandstorm - A Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-install-epson-es-400-scanner-software-for-your-windows-computer-fast/"><u>How to Get and Install Epson ES-400 Scanner Software for Your Windows Computer - Fast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-updated-canoscan-lide-220-scanner-driver-for-enhanced-performance/"><u>How to Install the Updated CanoScan LiDE 220 Scanner Driver for Enhanced Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-recover-nvidia-configurations-on-windows-os/"><u>How to Recover NVIDIA Configurations on Windows OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-spark-go-2024-easily-by-drfone-android/"><u>How To Unlock a Tecno Spark Go (2024) Easily?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-quadro-graphics-drivers-secure-your-downloads-now-optimized-for-windows-experience-and-visual-professions/"><u>NVIDIA Quadro Graphics Drivers: Secure Your Downloads Now - Optimized for Windows eXperience & Visual Professions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-sound-glitches-and-warping-issues-in-windows-117-a-comprehensive-guide/"><u>Resolving Sound Glitches & Warping Issues in Windows 11/7: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-graphics-drivers-in-windows-11/"><u>Step-by-Step Guide: Updating Your Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successfully-installupdate-elan-smbus-drivers-a-comprehensive-guide-for-windows-operating-systems/"><u>Successfully Install/Update ELAN SMBus Drivers: A Comprehensive Guide for Windows Operating Systems</u></a></li>
+</ul></div>
 

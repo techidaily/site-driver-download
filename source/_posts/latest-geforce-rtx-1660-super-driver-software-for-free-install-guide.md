@@ -1,7 +1,7 @@
 ---
 title: Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide
-date: 2024-11-26T19:22:08.616Z
-updated: 2024-12-04T02:39:07.872Z
+date: 2024-12-08T18:27:03.868Z
+updated: 2024-12-10T18:58:30.842Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a08ed497d8.jpg)It’s always important to update the driver for your **HP ENVY 5660** printer so as to keep it in tip-top shape and prevent all kinds of unexpected computer issues (like system crashes).  In this post, we’re showing you 2 easy ways to get the latest **HP ENVY 5660**  drivers. Check them out…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 options to update **HP ENVY 5660 drivers**
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
@@ -40,12 +40,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
@@ -55,14 +59,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
@@ -90,16 +90,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-best-android-photos-tactics/"><u>[New] Unveiling Best Android Photos Tactics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-your-instant-offline-playlist-how-to-pull-youtube-videos-onto-idevices/"><u>[Updated] Your Instant Offline Playlist How to Pull YouTube Videos Onto iDevices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976723662-elgato-hd60-drivers-malfunctioning-heres-how-to-fix-it-quickly-and-efficiently/"><u>Elgato HD60 Drivers Malfunctioning? Here's How to Fix It Quickly & Efficiently!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-issues-with-missing-dbghelpdll-files-steps-and-tips/"><u>Fixing Issues with Missing dBghelp.dll Files: Steps and Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-toshiba-printer-drivers-for-windows-operating-system/"><u>Get the Latest Toshiba Printer Drivers for Windows Operating System</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/highest-rated-silent-wearable-tech-2024/"><u>Highest Rated Silent Wearable Tech 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-laserjet-1018-driver-software-compatible-and-free-downloads/"><u>HP LaserJet 1018 Driver Software - Compatible & Free Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-creative-expression-adding-video-filters-in-zoom-for-2024/"><u>Mastering Creative Expression Adding Video Filters in Zoom for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolved-issue-igfxem-chipset-fails-to-function-how-we-overcame-it/"><u>Resolved Issue: IgfxEM Chipset Fails to Function - How We Overcame It</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a58-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A58 4G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-visual-voyage-exploring-pexels-for-perfect-shots/"><u>[New] A Visual Voyage Exploring Pexels for Perfect Shots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-enhance-clarity-of-online-video-content/"><u>[New] How to Enhance Clarity of Online Video Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-17-premier-lights-and-cameras/"><u>[New] The Ultimate Guide 17 Premier Lights & Cameras</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets-for-2024/"><u>[Updated] Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-fastest-vid-tuning-tools-reviewed-for-2024/"><u>Android's Fastest Vid Tuning Tools Reviewed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/broadcast-platform-showdown-obs-or-twitch-studio-in-2024/"><u>Broadcast Platform Showdown OBS or Twitch Studio, In 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bypassing-the-problem-of-missing-dts-sound-support-in-your-preferred-audio-system/"><u>Bypassing the Problem of Missing DTS Sound Support in Your Preferred Audio System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-ultimate-resource-for-the-most-recent-rndis-drivers-for-windows-systems/"><u>Download & Update: Ultimate Resource for the Most Recent RNDIS Drivers for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-wacom-graphics-tablet-drivers-instantly-step-by-step-guide/"><u>Download Wacom Graphics Tablet Drivers Instantly: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-apply-the-latest-windows-compatible-amd-vega-64-driver-updates-your-problem-solved/"><u>Find and Apply the Latest Windows-Compatible AMD Vega 64 Driver Updates – YOUR PROBLEM SOLVED</u></a></li>
+<li><a href="https://driver-download.techidaily.com/focusrite-scarlett-scarlett-2i4-secure-your-audio-drivers-for-windows-systems/"><u>Focusrite Scarlett (Scarlett 2I4): Secure Your Audio Drivers for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-rtx-2060-graphics-cards-drivers-compatible-with-windows-11-10-8-and-7-systems/"><u>Get Updated RTX 2060 Graphics Cards Drivers Compatible with Windows 11, 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-3520-driver-and-firmware-download-ensure-compatibility-and-functionality/"><u>HP Deskjet 3520 Driver & Firmware Download - Ensure Compatibility and Functionality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-presentations-harnessing-aiseesoft-screen-recordings/"><u>In 2024, Elevate Presentations Harnessing Aiseesoft Screen Recordings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-f25-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo F25 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/maximize-your-experience-with-the-newest-intel-iris-plus-g7-graphics-drivers-for-microsofts-latest-operating-systems/"><u>Maximize Your Experience with the Newest Intel® Iris Plus G7 Graphics Drivers for Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-elevate-your-videos-how-to-use-picture-in-picture-in-final-cut-pro-for-2024/"><u>New Elevate Your Videos How to Use Picture-in-Picture in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-refreshing-your-dell-sm-bus-controller-driver/"><u>Step-by-Step Guide: Refreshing Your Dell SM Bus Controller Driver</u></a></li>
 </ul></div>
 
