@@ -1,7 +1,7 @@
 ---
 title: "Download & Install HP ZBook 15 G3 Drivers on Windows: Step-by-Step Guide"
-date: 2024-08-13T11:55:08.484Z
-updated: 2024-08-14T11:55:08.484Z
+date: 2024-12-12T18:53:13.008Z
+updated: 2024-12-16T18:50:45.099Z
 tags:
   - win11
   - win10
@@ -25,44 +25,46 @@ thumbnail: https://thmb.techidaily.com/cd61def31c266f510e96724b2a8477792657278ca
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
 If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)** or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
 
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -77,8 +79,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +86,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-guide-to-aiseesofts-screencasting-features/"><u>[New] In 2024, Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>[New] In 2024, Voicing Freedom How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-master-list-of-top-online-video-conferencing-platforms-all-free-for-2024/"><u>[New] Master List of Top Online Video Conferencing Platforms (All Free) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-videos-at-full-hd-your-watchful-pathway-for-2024/"><u>[New] Twitter Videos at Full HD - Your Watchful Pathway for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[Updated] Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-solution-for-asus-pce-ac56-wireless-network-card-drivers-issues-in-latest-windows-versions/"><u>Comprehensive Solution for Asus PCE-AC56 Wireless Network Card Drivers Issues in Latest Windows Versions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnosing-faulty-connectivity-in-printers/"><u>Diagnosing Faulty Connectivity in Printers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-focusrite-scarlett-scartlett-2i4-windows-sound-card-drivers/"><u>Download the Latest Focusrite Scarlett ([Scartlett] 2I4) Windows Sound Card Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970450417-effortlessly-install-lenovo-x220-driver-pack-get-started-now/"><u>Effortlessly Install Lenovo X220 Driver Pack - Get Started Now!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-seamless-web-navigation-and-media-consumption-with-the-cost-effective-lenovo-tab-m10-hd-2020-edition-review/"><u>Experience Seamless Web Navigation & Media Consumption with The Cost-Effective Lenovo Tab M10 HD - 2020 Edition Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-easycap-drivers-now-simple-and-quick-installation/"><u>Get Your EasyCAP Drivers Now - Simple and Quick Installation!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-device-drivers-seamless-updates-on-any-windowed-system/"><u>Hassle-Free Device Drivers: Seamless Updates on Any Windowed System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-windows-pc-with-broadcoms-bluetooth-device-driver/"><u>How to Update Your Windows PC with Broadcom's Bluetooth Device Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-wf-2540-printer-driver-for-multiple-windows-os-download-now/"><u>Latest Epson WF 2540 Printer Driver for Multiple Windows OS - Download Now!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/launch-announcement-premiere-your-new-dex-3-line-dex-3-lere-and-dex/"><u>Launch Announcement: Premiere Your New DEX 3 Line – Dex 3 Le/Re & Dex</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smoother-playthrough-of-overwatch-after-critical-driver-update/"><u>Smoother Playthrough of Overwatch After Critical Driver Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-hp-officejet-5740-driver-downloads-ensure-smooth-functionality-on-your-windows-pc-windows-11-10-and-8/"><u>Up-to-Date HP OfficeJet 5740 Driver Downloads: Ensure Smooth Functionality on Your Windows PC (Windows 11, 10 & 8)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2024-12-05T19:05:01.583Z
-updated: 2024-12-10T16:45:14.796Z
+date: 2024-12-13T21:20:02.268Z
+updated: 2024-12-16T21:59:44.109Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update your Intel Thunderbolt Controller driver
 
 There are two ways you can update your driver:
@@ -33,6 +29,10 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -40,7 +40,7 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -48,7 +48,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -64,11 +64,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -99,17 +99,24 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-augmenting-film-quality-integrating-letterboxing-in-digital-spaces/"><u>[New] In 2024, Augmenting Film Quality Integrating Letterboxing in Digital Spaces</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premium-webcam-guide-5-best-options-with-mic-integration/"><u>[New] In 2024, Premium Webcam Guide 5 Best Options with Mic Integration</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ve-high-rankings-on-youtube-with-top-seo-tips-1-11/"><u>Achieve High Rankings on YouTube with Top SEO Tips (1-11)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-asus-rog-phone-7-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Asus ROG Phone 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-download-compatible-hp-designjet-printer-drivers-t520g409f310-models/"><u>Find & Download Compatible HP DesignJet Printer Drivers (T520/G409/F310 Models)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967435848-get-optimized-performance-download-rtx-2060-super-drivers-for-windows-11-today/"><u>Get Optimized Performance: Download RTX 2060 Super Drivers for Windows 11 Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-how-to-properly-setup-a-samsung-960-evo-m2-ssd-in-windows/"><u>Get the Latest Drivers: How to Properly Setup a Samsung 960 EVO M.2 SSD in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-improve-youtube-video-quality-and-clarity/"><u>How to Improve YouTube Video Quality and Clarity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-hp-laserjet-pro-m428fdw-driver-on-windows-11107-step-by-step-guide/"><u>Installing HP LaserJet Pro M428fdw Driver on Windows 11/10/7: Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-streaming-hits-for-movie-lovers/"><u>Ultimate Streaming Hits for Movie Lovers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-toshiba-laptop-step-by-step-guide-to-download-drivers-on-windows/"><u>Update Your Toshiba Laptop: Step-by-Step Guide to Download Drivers on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dial-back-unrequested-youtube-recommendations/"><u>[New] 2024 Approved Dial Back Unrequested YouTube Recommendations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-imaging-insights-for-professionals/"><u>[New] IPhone Imaging Insights for Professionals</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-privacy-settings-for-secure-online-viewing/"><u>Adjust Privacy Settings for Secure Online Viewing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-installation-of-nvidia-quadro-drivers-on-windows-10-fresh-release-by-dch/"><u>Direct Installation of NVIDIA Quadro Drivers on Windows 10 - Fresh Release by DCH</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722768260372-discover-the-top-10-travel-gadgets-today/"><u>Discover the Top 10 Travel Gadgets Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-perfect-drivers-for-your-wacom-intuos-pro-on-windows-10/"><u>Download and Install the Perfect Drivers for Your Wacom Intuos Pro on Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloading-the-latest-asus-router-software/"><u>Downloading the Latest ASUS Router Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-winx-dvd-isodvd/"><u>DVD 備份制作指南：如何使用WinX DVD抄版器将 ISO/DVD复制</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967039375-epson-l3150-drivers-download-install-and-upgrade-for-windows-11-10-8-and-7-easy-guide/"><u>Epson L3150 Drivers: Download, Install & Upgrade for Windows 11, 10, 8, and 7 - Easy Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-virtual-assessment-vll-of-apps-for-2024/"><u>Expertise in Virtual Assessment VLL of Apps for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-arduino-mega-2560-driver-setup-start-today/"><u>Fast & Simple Arduino Mega 2560 Driver Setup - Start Today</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-league-of-legends-disconnecting-on-windows/"><u>How to Fix League of Legends Disconnecting on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/interchangeable-logitech-mice-receivers-a-comprehensive-tutorial-for-seamless-connection/"><u>Interchangeable Logitech Mice Receivers - A Comprehensive Tutorial for Seamless Connection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-brother-hl-l2350dw-printer-driver-for-windows-and-mac-available-now/"><u>Latest Version of Brother HL-L2350DW Printer Driver for Windows & Mac Available Now!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-smart-exposure-the-ultimate-guide-to-hdr-tech-in-cameras-for-2024/"><u>Mastering Smart Exposure The Ultimate Guide to HDR Tech in Cameras for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-start-downloading-and-setting-up-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install141/"><u>Quick Start: Downloading & Setting Up Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-guide-update-and-install-amd-radeon-rx-470-drivers/"><u>Simple Guide: Update and Install AMD Radeon RX 470 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-trick-to-update-and-configure-new-video-card-drivers-in-windows/"><u>Ultimate Trick to Update & Configure New Video Card Drivers in Windows</u></a></li>
 </ul></div>
 

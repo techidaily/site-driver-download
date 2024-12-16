@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of Thrustmaster TS RacePad F90 Joystick Drivers – Instant Download Options Available
-date: 2024-12-07T19:03:06.718Z
-updated: 2024-12-10T18:38:40.585Z
+date: 2024-12-15T20:44:07.145Z
+updated: 2024-12-16T18:43:47.890Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
  If you see **Advanced Micro Devices, Inc driver update for AMD SMBus** in Windows Update, just**DON’T** install the update via Windows Update. Since it could very well just fail and cause further problems . Here we show you 2 safe and easy options to**update your AMD SMBus driver** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 options to update AMD SMBus drivers
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 2. **[Update your AMD SMBus driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your **SMBus driver driver** automatically (Recommended)
 
@@ -47,16 +43,20 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your**AMD** **SMBus**  driver manually
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 3. Under **Latest AMD Drivers and Software** , locate **AMD Chipset, AHCI, USB 3.0 and RAID Drivers** , click**the bit version** that corresponds with**your own Windows OS** (even if you’re using the**AMD X399 Chipset** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174e63eec18.png)
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Restart your computer for the changes to take effect.
@@ -106,20 +106,20 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-recording-wizardry-5-tactics-for-windows-enthusiasts/"><u>[New] Recording Wizardry 5 Tactics for Windows Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-podcast-perfection-editing-techniques-in-garageband/"><u>[Updated] In 2024, Podcast Perfection Editing Techniques in GarageBand</u></a></li>
-<li><a href="https://driver-download.techidaily.com/aircraft-engaged-in-parachute-landing-aircraft-activities/"><u>Aircraft Engaged in Parachute Landing Aircraft Activities.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-vivo-y100a-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Vivo Y100A</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-upgrading-dell-g3-graphics-card-drivers/"><u>Enhance Your Gaming: Upgrading Dell G3 Graphics Card Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-advice-on-resolving-issues-with-your-realtek-graphics-drivers/"><u>Expert Advice on Resolving Issues with Your Realtek Graphics Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-logitech-webcam-software-downloads-compatible-with-windows/"><u>Free Logitech Webcam Software Downloads Compatible with Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-c33-2023-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme C33 2023 Is Unlocked</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tune-the-frame-diy-music-video-production-with-iphone/"><u>In 2024, Tune the Frame DIY Music Video Production with iPhone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/instant-access-to-your-acer-predator-xb271hus-full-potential-with-easy-drivers-download-guide/"><u>Instant Access to Your Acer Predator XB271HU's Full Potential with Easy Drivers Download Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-unsettling-trends-in-facebook-metaverse/"><u>Navigating Through Unsettling Trends in Facebook Metaverse</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341692803-ocular-trauma-requires-a-thorough-examination-by-an-ophthalmologist-including-assessment-of-visual-acuity-and-intraocular-pressure/"><u>Ocular Trauma Requires a Thorough Examination by an Ophthalmologist, Including Assessment of Visual Acuity and Intraocular Pressure.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-seamlessly-install-the-most-recent-amd-graphics-drivers/"><u>Quick Fix: How to Seamlessly Install the Most Recent AMD Graphics Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speedy-setup-for-hp-envy-5055-printers-professional-driver-downloads/"><u>Speedy Setup for HP Envy 5055 Printers: Professional Driver Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-repairing-lgs-incompatible-usb-drivers-on-various-windows-systems-win11-win8-and-win7/"><u>Step-by-Step Guide to Repairing LG's Incompatible USB Drivers on Various Windows Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-framework-for-fullscreen-proficiency-in-premiere/"><u>[New] 2024 Approved The Ultimate Framework for Fullscreen Proficiency in Premiere</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/igital-dominance-youtubes-best-female-gamers-for-2024/"><u>[New] Digital Dominance YouTube's Best Female Gamers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exciting-quests-selecting-the-top-10-adventure-gaming-treasures/"><u>[Updated] 2024 Approved Exciting Quests Selecting the Top 10 Adventure Gaming Treasures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-iphones-ultimate-video-capture-list/"><u>[Updated] 2024 Approved IPhone's Ultimate Video Capture List</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-successfully-installing-your-dell-mouse-driver-solutions-inside/"><u>Easy Guide: Successfully Installing Your Dell Mouse Driver – Solutions Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-tutorial-for-your-epson-xp-400-printer-driver-download-and-setup-steps/"><u>Easy Installation Tutorial for Your Epson XP-400 Printer Driver – Download & Setup Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficient-tutorial-how-to-get-and-install-up-to-date-epson-driver-software-on-windows-10-systems/"><u>Efficient Tutorial: How to Get and Install Up-to-Date Epson Driver Software on Windows 10 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-soundmax-audio-driver-downloaded-and-running-in-no-time/"><u>Get Your SoundMax Audio Driver Downloaded and Running in No Time</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-new-hp-device-drivers-download-with-ease/"><u>Instant Access to New HP Device Drivers - Download with Ease!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-privacy-in-media-cutting-out-unwanted-visibility-for-2024/"><u>Mastering Privacy in Media Cutting Out Unwanted Visibility for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revealing-truthgpt-police-crackdown-on-mullvad-vpn-showcase-of-top-free-gaming-titles-for-your-computer-and-what-you-need-to-know-about-mechanical-keys/"><u>Revealing TruthGPT: Police Crackdown on Mullvad VPN, Showcase of Top Free Gaming Titles for Your Computer & What You Need To Know About Mechanical Keys</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961773412-simplified-driver-upgrade-for-synaptics-ps2-touchpads-improve-functionality-instantly/"><u>Simplified Driver Upgrade for Synaptics PS/2 Touchpads - Improve Functionality Instantly!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/smooth-streams-from-obs-to-insta/"><u>Smooth Streams From OBS to Insta</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-xbox-one-streaming-glitches-with-repaired-netflix-access/"><u>Solving Xbox One Streaming Glitches with Repaired Netflix Access</u></a></li>
+<li><a href="https://extra-information.techidaily.com/vegas-pro-21-the-new-standard-for-sportsbook-simplicity-and-complexity/"><u>Vegas Pro '21 - The New Standard for Sportsbook Simplicity & Complexity</u></a></li>
 </ul></div>
 

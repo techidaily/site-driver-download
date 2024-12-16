@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense"
-date: 2024-12-03T17:45:30.456Z
-updated: 2024-12-10T17:03:45.467Z
+date: 2024-12-11T17:42:04.652Z
+updated: 2024-12-16T20:21:58.672Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ft232r-usb-uart-driver-download-easily-quickly/#o2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the FT232R USB UART driver manually
@@ -36,7 +36,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
@@ -53,14 +53,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,20 +86,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-how-to-fix-iphone-camera-not-focusing-problem/"><u>[New] How to Fix iPhone Camera Not Focusing Problem</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-eco-friendly-cities-redefining-urban-spaces-for-nature/"><u>[New] In 2024, Eco-Friendly Cities Redefining Urban Spaces for Nature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-10-best-live-tv-streaming-services-with-comparison-for-2024/"><u>[Updated] 10 Best Live TV Streaming Services - With Comparison for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-top-windows-cutting-tools-for-editors-and-vids/"><u>[Updated] 2024 Approved Top Windows Cutting Tools for Editors & Vids</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>[Updated] In 2024, 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/accelerate-your-excel-workflow-discover-the-latest-speed-enhancing-functionality/"><u>Accelerate Your Excel Workflow: Discover the Latest Speed-Enhancing Functionality!</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-hp-photosmart-7520-printer-utilities-and-software-for-hassle-free-setup/"><u>Download HP Photosmart 7520 Printer Utilities and Software for Hassle-Free Setup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722961534014-get-the-latest-logitech-m525-driver-downloads-here-easy-setup-tutorial-included/"><u>Get the Latest Logitech M525 Driver Downloads Here – Easy Setup Tutorial Included</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-stream-drivers-instantly-for-smooth-operation/"><u>Get Your HP Stream Drivers Instantly for Smooth Operation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-intel-nvme-drivers-today-for-speedy-installation/"><u>Get Your Intel NVMe Drivers Today for Speedy Installation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-logitech-t630-mouse-drivers-on-pc-windows-7-8-and-10-guides/"><u>How to Install Logitech T630 Mouse Drivers on PC - Windows 7, 8 & 10 Guides</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60s?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-windows-compatible-bluetooth-adapter-drivers-available-now/"><u>Latest Windows Compatible Bluetooth Adapter Drivers Available Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-drivers-for-hp-laserjet-m506-quick-downloads-to-improve-performance/"><u>New Drivers for HP LaserJet M506 - Quick Downloads to Improve Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-focusrite-scarlett-2i2-driver-for-windows/"><u>[Download] Focusrite Scarlett 2I2 Driver For Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-top-6-best-webcams-for-zoom/"><u>2024 Approved Top 6 Best Webcams for Zoom</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-amd-radeon-rx-6800-graphics-card-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Latest AMD Radeon RX 6800 Graphics Card Drivers - Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-windows-8-amd-radeon-gpu-drivers-for-free/"><u>Download Windows 8 AMD Radeon GPU Drivers for Free</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevating-your-gaming-the-xbox-recorder-playbook/"><u>Elevating Your Gaming The Xbox Recorder Playbook</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967326351-get-the-latest-msi-sound-card-drivers-on-your-windows-system-today/"><u>Get the Latest MSI Sound Card Drivers on Your Windows System Today!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-definition-spectacle-top-ten-4ks/"><u>High Definition Spectacle – Top Ten 4Ks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-linksys-wusb6300-wi-fi-usb-adapter-complete-tutorial/"><u>How to Install Linksys WUSB6300 Wi-Fi USB Adapter - Complete Tutorial</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-launch-a-creative-vision-start-xps-moviemaker-suite/"><u>In 2024, Launch a Creative Vision, Start Xp’s Moviemaker Suite</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/probleme-mit-der-taskbar-von-windows-11-gelost-durch-aktualisierung-erkunde-diese-5-schritte-zur-wiederherstellung/"><u>Probleme Mit Der Taskbar Von Windows 11, Gelöst Durch Aktualisierung - Erkunde Diese 5 Schritte Zur Wiederherstellung</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/protect-your-web-pages-methods-to-halt-openai-data-collection/"><u>Protect Your Web Pages: Methods to Halt OpenAI Data Collection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976838096-targus-peripheral-connection-made-simple-driver-download-here/"><u>Targus Peripheral Connection Made Simple – Driver Download Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-playlist-portability-service-to-service-swap/"><u>The Art of Playlist Portability Service to Service Swap</u></a></li>
 </ul></div>
 

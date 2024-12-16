@@ -1,7 +1,7 @@
 ---
 title: "How to Obtain and Install HP OfficeJet 4655 Drivers: A Step-by-Step Guide"
-date: 2024-08-13T11:50:44.246Z
-updated: 2024-08-14T11:50:44.246Z
+date: 2024-12-11T19:13:30.050Z
+updated: 2024-12-16T18:37:19.079Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  Can’t get your new**HP Scanjet** working? Or maybe you’d like to improve the performance of your HP Scanjet? If yes, then you should check or update the driver for your scanner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you need to update your driver
 
  Drivers are essential to the computer. They function as a bridge between your devices and the computer. Without them, there’s a high chance your devices won’t work as expected.
@@ -26,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to download and update your HP Scanjet driver
 
 Here’re 2 ways you can download and update your HP Scanjet driver:
@@ -43,34 +48,34 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
  We recommend downloading**HP ScanJet Pro 3000 s3 Full Feature Software and Driver** , just so you’ll enable all the features of your scanner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
  1)**Connect** HP Scanjet to your computer.
@@ -85,9 +90,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -104,8 +106,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +113,23 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[Updated] 2024 Approved Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-5-video-editing-platforms-that-dont-feature-in-youtoo-for-2024/"><u>[Updated] Best 5 Video Editing Platforms That Don't Feature in YouToo for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-making-text-dance-2-creative-animation-strategies-for-2024/"><u>[Updated] Making Text Dance 2 Creative Animation Strategies for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-maximizing-fun-in-the-stardew-ginger-region/"><u>[Updated] Maximizing Fun in the Stardew Ginger Region</u></a></li>
+<li><a href="https://driver-download.techidaily.com/accelerate-your-webcam-experience-with-fast-and-easy-to-download-drivers/"><u>Accelerate Your Webcam Experience with Fast and Easy to Download Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-microsoft-ergonomic-keyboard-4000-drivers-instantly-simple-steps-for-speedy-installation/"><u>Download Microsoft Ergonomic Keyboard 4000 Drivers Instantly: Simple Steps for Speedy Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-troubleshooting-fresh-install-of-epson-ds-510-driver-on-windows-a-step-by-step-tutorial/"><u>Easy Troubleshooting: Fresh Install of Epson DS-510 Driver on Windows - A Step by Step Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973969916-get-the-latest-intel-hd-graphics-4400-drivers-now-available-for-download/"><u>Get the Latest Intel HD Graphics 4400 Drivers - Now Available for Download</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-environment-choices-for-live-sharing-for-2024/"><u>Key Environment Choices for Live Sharing for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-workforce-ds-30-driver-for-windows-users-download-now/"><u>Latest Epson WorkForce DS 30 Driver for Windows Users: Download Now!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-total-iphone-data-reset-with-these-expert-tips/"><u>Master the Art of Total iPhone Data Reset with These Expert Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/revisit-facebooks-top-watches-a-step-by-step/"><u>Revisit Facebook's Top Watches A Step-by-Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-minecraft-delays-expert-tips-for-optimizing-your-play-experience/"><u>Say Goodbye to Minecraft Delays - Expert Tips for Optimizing Your Play Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-install-sas-drivers-on-windows-compatible-with-windows-11-8-and-7/"><u>Update or Install SAS Drivers on Windows - Compatible with Windows 11, 8 and 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-konica-minolta-driver-effortlessly-complete-guide/"><u>Update Your Konica Minolta Driver Effortlessly - Complete Guide</u></a></li>
+</ul></div>
 

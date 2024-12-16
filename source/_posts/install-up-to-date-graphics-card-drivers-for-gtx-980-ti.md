@@ -1,7 +1,7 @@
 ---
 title: Install Up-to-Date Graphics Card Drivers for GTX 980 Ti
-date: 2024-09-27T17:12:25.520Z
-updated: 2024-10-01T18:04:19.711Z
+date: 2024-12-10T20:37:22.212Z
+updated: 2024-12-16T19:13:12.324Z
 tags:
   - win11
   - win10
@@ -105,25 +105,25 @@ Then restart your computer if you want.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/utting-edge-techniques-for-setting-the-optimal-size-of-your-youtube-videos/"><u>[New] Cutting-Edge Techniques for Setting the Optimal Size of Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presence-the-art-of-seo-optimization/"><u>[New] In 2024, Elevate Your YouTube Presence The Art of SEO Optimization</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-selecting-from-the-top-9-free-youtube-tools/"><u>[New] In 2024, The Ultimate Guide to Selecting From the Top 9 FREE YouTube Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/park-inspiration-free-premium-designs-for-video-marketers/"><u>[New] Spark Inspiration Free, Premium Designs for Video Marketers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-online-presence/"><u>Automated Marketing with Cookiebot: Enhance Your Online Presence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-frame-rate-in-assassins-creed-valhalla-expert-tips-and-tricks/"><u>Boosting Frame Rate in Assassin's Creed Valhalla: Expert Tips and Tricks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-experience-on-windows-10-or-11-with-newly-released-nvidia-rtx-2060-super-drivers/"><u>Enhance Your Gaming Experience on Windows 10 or 11 with Newly Released NVIDIA RTX 2060 Super Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-advanced-pc-components-with-toms-gear-guidance/"><u>Exploring Advanced PC Components with Tom's Gear Guidance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-new-generic-bluetooth-adapter-software-today-optimized-for-windows-pcs/"><u>Get Your New Generic Bluetooth Adapter Software Today: Optimized for Windows PCs!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-instantly-update-your-windows/"><u>How To: Instantly Update Your Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-brother-l2740dx-printer-software-for-your-windows-machine-download-free-driver-packages-here/"><u>Install Brother L2740DX Printer Software for Your Windows Machine – Download Free Driver Packages Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mg2522-printer-drivers-free-download-and-updates/"><u>Latest Canon PIXMA MG2522 Printer Drivers – Free Download & Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-new-in-macos-15-sequoia-unveiling-the-latest-release-dates-and-innovative-features/"><u>What's New in macOS 15 'Sequoia': Unveiling the Latest Release Dates & Innovative Features!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-5-rapid-ways-to-access-obliviated-reddit-content-for-2024/"><u>[New] 5 Rapid Ways to Access Obliviated Reddit Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps-for-2024/"><u>[New] Charting Your Course in YouTubing Dodge These Top 8 Common Missteps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-lens-exploration-key-angles-to-elevate-your-photo-game/"><u>[New] IPhone Lens Exploration Key Angles to Elevate Your Photo Game</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-compliance-with-copyright-law-when-sharing-media-through-fb-for-2024/"><u>[Updated] Compliance with Copyright Law when Sharing Media Through FB for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram-for-2024/"><u>Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-your-windows-pc/"><u>Download and Update Toshiba Dynabook Driver Software on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/driver-fixes-for-common-lg-monitor-compatibility-issues-in-windows-operating-systems/"><u>Driver Fixes for Common LG Monitor Compatibility Issues in Windows Operating Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-video-intro-templates-you-need-to-download-for-2024/"><u>Free Video Intro Templates You Need to Download for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-setup-nexiq-usb-link-version-2-drivers/"><u>How to Securely Download & Setup Nexiq USB-Link Version 2 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-newest-epson-v600-scan-software-for-free-download-now/"><u>Install the Newest Epson V600 Scan Software for Free - Download Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-version-of-canoscan-lide-220-driver-secure-download-and-comprehensive-installation-tips/"><u>Latest Version of CanoScan LiDE 220 Driver - Secure Download & Comprehensive Installation Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722899840863-samsungs-next-smartphone-projected-price-points-release-date-and-leaked-tech-info-for-galaxy-s25/"><u>Samsung's Next Smartphone: Projected Price Points, Release Date & Leaked Tech Info for Galaxy S25!</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-where-do-you-start/"><u>Top 4 iOS Emulation Apps: Where Do You Start?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-the-elan-smbus-driver-for-windows-systems/"><u>Troubleshooting & Updating the ELAN SMBus Driver for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-non-detected-usb-peripherals-in-windows-11-explained/"><u>Troubleshooting Non-Detected USB Peripherals in Windows 11 Explained</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-and-mac-ffmpeg/"><u>Windows & Macにフルーツネクター - FFmpegを初心者も楽しめるようセットアップガイド</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

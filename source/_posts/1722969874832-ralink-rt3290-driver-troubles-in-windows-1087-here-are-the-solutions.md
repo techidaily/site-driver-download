@@ -1,7 +1,7 @@
 ---
 title: Ralink RT3290 Driver Troubles in Windows 10/8/7? Here Are the Solutions
-date: 2024-08-13T11:56:05.194Z
-updated: 2024-08-14T11:56:05.194Z
+date: 2024-12-12T17:24:03.199Z
+updated: 2024-12-16T17:06:17.989Z
 tags:
   - win11
   - win10
@@ -20,9 +20,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -31,6 +31,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. **[Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
@@ -45,15 +49,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -64,9 +66,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -80,8 +79,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -101,8 +101,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
@@ -138,8 +139,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elite-apps-for-secure-android-cloud-vaults/"><u>[New] In 2024, Elite Apps for Secure Android Cloud Vaults</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-portable-gear-for-travel-cinematography-for-2024/"><u>[New] Portable Gear for Travel Cinematography for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-wirecast-overview-and-comparable-solutions/"><u>2024 Approved WireCast Overview & Comparable Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-spark-go-2024-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Spark Go (2024) Phone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/activating-slack-alerts-on-an-apple-watch-a-step-by-step-guide/"><u>Activating Slack Alerts on an Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-drone-deals-ready-to-buy/"><u>Best Drone Deals Ready to Buy</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976400104-effortless-installation-of-hp-envy-56e-drivers-get-them-now/"><u>Effortless Installation of HP Envy 56E Drivers – Get Them Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-up-to-date-nvidia-video-card-drivers-for-your-pc-windows-os-supported-win7-win8-win10/"><u>Find and Install Up-to-Date Nvidia Video Card Drivers for Your PC - Windows OS Supported (Win7, Win8, Win10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-and-install-latest-epson-l3150-printer-driver-compatible-with-windows-7810/"><u>Get & Install Latest Epson L3150 Printer Driver - Compatible with Windows 7/8/10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-gigabyte-speakers-running-free-drivers-available/"><u>Get Your Gigabyte Speakers Running - Free Drivers Available 🔊</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-find-and-install-the-latest-d-link-driver-updates-for-windows/"><u>How to Easily Find and Install the Latest D-Link Driver Updates for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-install-the-latest-amd-vega-56-graphics-card-driver-on-windows-complete-guide/"><u>How to Get and Install the Latest AMD Vega #56 Graphics Card Driver on Windows - Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-visible-pins-in-the-win-11-start-menu/"><u>Increase Visible Pins in the Win 11 Start Menu</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-dell-wireless-network-driver-download/"><u>Latest Dell Wireless Network Driver Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-1650-super-fresh-driver-release-for-maximum-performance-in-windows-1110/"><u>NVIDIA GeForce RTX 1650 SUPER - Fresh Driver Release for Maximum Performance in Windows 11/10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcome-itbm-not-available-driver-glitch-without-a-hitch/"><u>Overcome ITBM 'Not Available' Driver Glitch Without a Hitch</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-slow-wi-fi-woes-uncovering-the-top-7-reasons-for-mobile-internet-delays/"><u>Solve Slow Wi-Fi Woes: Uncovering the Top 7 Reasons for Mobile Internet Delays</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-nokia-130-music-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nokia 130 Music FRP Bypass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-system-with-the-official-microsoft-audio-driver-easy-download-and-installation-guide/"><u>Update Your System with the Official Microsoft Audio Driver - Easy Download & Installation Guide</u></a></li>
+</ul></div>
 

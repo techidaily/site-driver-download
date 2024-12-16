@@ -1,7 +1,7 @@
 ---
 title: Download & Install Updates for HP LaserJet Pro M404n Printer Software
-date: 2024-08-13T11:51:31.015Z
-updated: 2024-08-14T11:51:31.015Z
+date: 2024-12-13T22:07:31.850Z
+updated: 2024-12-16T17:08:37.949Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9c17d408eef8eb942c240704209721146d1ae1a43
 
 Just purchased the HP LaserJet Pro M404n printer? Then you need to download the driver to enable all the features that your printer supports. And if your printer isn’t functioning properly, updating your printer driver may help. Read on to find out how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download software & driver for your printer
 
  To download the software and driver for your HP LaserJet Pro M404n, take these steps:
@@ -27,15 +31,20 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/HP-smart.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Install** to download and install HP Smart. Then follow the instructions on screen to finish the download and installation.  
   
 ![how to download and install HP Smart](https://images.drivereasy.com/wp-content/uploads/2021/04/install.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  HP Smart is what HP recommends to install when you’re trying to set up your printer. It’s a useful application that makes setting up a printer or troubleshooting printer issues become easier. But if you just need that driver for your LaserJet Pro M404n printer, you can download it in the**Basic Drivers** section.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Update your printer driver
 
  When you’re not able to print a document or some of the features are not working as expected, you need to check if your printer driver is out of date or corrupt. While driver updates come with bug fixes and performance improvements. To get the most out of your printer, you’re supposed to update your printer driver.
@@ -43,8 +52,9 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
  There are two ways you can update your printer driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your printer driver
 
  You can update your printer driver manually by visiting the the manufacturer’s website or go to the Device Manager:
@@ -57,19 +67,17 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  3) Double-click**Printers** to show the list. Then right-click**HP LaserJet Pro M404n** and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-trhough-the-Device-Manager-1.png)
 
  4) Click**Search automatically for drivers** . Then Windows will start updating your driver. You’ll be notified if the update is finished.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update printer driver via the Device Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/search-automatically-1.png)
 
  However, you may be told that your driver is already up to date. It’s possible that it still takes time for Microsoft to test and sign the new drivers that just have been submitted. If that’s your case, you can use the driver updater tools such as Driver Easy to automatically update your drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your printer driver (recommended)
 
@@ -81,17 +89,11 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
 
  2) Click **Scan Now** . Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-with-Driver-Easy-1-1200x900.png)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -108,8 +110,6 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,22 @@ Just purchased the HP LaserJet Pro M404n printer? Then you need to download the 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-frosty-frontiers-winter-games-apex-moments/"><u>[New] Frosty Frontiers Winter Games Apex Moments</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-techniques-for-stronger-video-content-with-b-clips/"><u>[Updated] 2024 Approved Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-insights-mastering-youtube-keyword-strategies/"><u>[Updated] In 2024, Essential Insights Mastering YouTube Keyword Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-facebook-live-your-2023-playbook/"><u>[Updated] Navigating Facebook Live Your 2023 Playbook</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unveiling-the-secrets-of-a-fresh-twitter-account-for-2024/"><u>[Updated] Unveiling the Secrets of a Fresh Twitter Account for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/audio-technica-device-optimization-how-to-fetch-new-driver-packages/"><u>Audio-Technica Device Optimization: How to Fetch New Driver Packages</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensuring-optimal-performance-toshiba-dynabook-driver-update-guide-for-windows-users/"><u>Ensuring Optimal Performance: Toshiba Dynabook Driver Update Guide for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-tm-t88v-printer-management-download-and-upgrade-windows-drivers-now/"><u>EPSON TM-T88V Printer Management: Download & Upgrade Windows Drivers Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-canon-mp560-printer-software-downloads-and-updates/"><u>Fast & Simple Guide: Canon MP560 Printer Software Downloads & Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978868492-get-your-m-audio-fast-track-driver-for-multiple-windows-versions-here/"><u>Get Your M-Audio Fast Track Driver for Multiple Windows Versions Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-acer-aspire-e15-with-latest-windows-11-compatible-drivers/"><u>How to Update Your Acer Aspire E15 with Latest Windows 11 Compatible Drivers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-sony-fdr-x1000v-action-camera-complete-review/"><u>In 2024, Sony FDR-X1000V Action Camera Complete Review</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-final-cut-pro-vs-lumafusion-which-suits-you-best/"><u>New 2024 Approved Final Cut Pro Vs Lumafusion Which Suits You Best</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-instructions-unsubscribing-from-tv-services-via-ios-device/"><u>Step-by-Step Instructions: Unsubscribing From TV Services via iOS Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/toshiba-dynabook-drivers-for-windows-download-update-and-compatibility-check/"><u>Toshiba Dynabook Drivers for Windows - Download, Update and Compatibility Check</u></a></li>
+</ul></div>
 

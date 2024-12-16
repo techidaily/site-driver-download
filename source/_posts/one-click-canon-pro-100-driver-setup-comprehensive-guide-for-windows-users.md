@@ -1,7 +1,7 @@
 ---
 title: "One-Click Canon PRO 100 Driver Setup: Comprehensive Guide for Windows Users"
-date: 2024-12-08T19:14:25.355Z
-updated: 2024-12-10T19:16:00.918Z
+date: 2024-12-09T20:28:12.052Z
+updated: 2024-12-16T19:28:14.037Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  By updating your ELAN SMBus driver to the latest version, you can keep your ELAN SMBus controller in good condition and avoid many unexpected computer issues in the future!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **To download and update ELAN SMBus Driver:**
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 3. Click **Update**  next to **ELAN SMBus Driver** to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000266.png)  
  You can do this for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,19 +73,22 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-android-lightroom-a-complete-and-detailed-review-for-2024/"><u>[New] Android Lightroom A Complete and Detailed Review for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-high-fidelity-remote-call-software-beyond-zoom-for-2024/"><u>[New] High-Fidelity Remote Call Software (Beyond Zoom) for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-video-upload-made-easy-a-comprehensive-guide-for-mac-and-pc-tiktok-for-2024/"><u>[New] Video Upload Made Easy A Comprehensive Guide for Mac & PC (TikTok) for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-critical-examination-of-lg-bp350-screen-size-and-viewing-distance/"><u>[Updated] Critical Examination of LG BP350 Screen Size & Viewing Distance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tune-up-your-whatsapp-status-snapshot/"><u>[Updated] Tune Up Your WhatsApp Status Snapshot</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-hd-7870-latest-driver-downloads-and-update-guide-for-windows-10/"><u>AMD Radeon HD 7870: Latest Driver Downloads and Update Guide for Windows 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mf743cdw-windows-printer-drivers-free-download-guide/"><u>Canon MF743CDW Windows Printer Drivers: Free Download Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/comprehensive-collection-of-downloads-for-pci-hardware-support-in-windows-operating-systems/"><u>Comprehensive Collection of Downloads for PCI Hardware Support in Windows Operating Systems</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ering-learning-through-educational-videos-on-youtube-for-2024/"><u>Empowering Learning Through Educational Videos on YouTube for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-audio-interruptions-on-windows-107-a-step-by-step-guide/"><u>How to Resolve Audio Interruptions on Windows 10/7 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-turn-off-audio-descriptions-on-a-samsung-hdtv/"><u>How to Turn Off Audio Descriptions on a Samsung HDTV</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-fix-for-your-usb-device-not-showing-up-on-windows-11/"><u>The Ultimate Fix for Your USB Device Not Showing Up on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-hid-compatible-mouse-drivers-a-step-by-step-guide/"><u>Update Your HID-Compatible Mouse Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mastering-image-cropping-in-fcpx-advanced-techniques/"><u>Updated 2024 Approved Mastering Image Cropping in FCPX Advanced Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-tools-free-online-youtuber-starters-for-2024/"><u>[New] Essential Tools Free Online Youtuber Starters for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-street-saga-best-gaming-matches-to-gta-v-for-2024/"><u>[New] Street Saga Best Gaming Matches to GTA V for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-times-up-rapid-tiktok-video-extraction-techniques/"><u>[Updated] 2024 Approved Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-not-stopping-generic-audio-issue/"><u>Addressing 'Windows Not Stopping Generic Audio' Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-step-by-step-installation-tutorial-linksys-wusb6300-network-adapter-drivers/"><u>Complete Step-by-Step Installation Tutorial: Linksys WUSB6300 Network Adapter Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-installing-acer-predator-xb271h-graphics-drivers/"><u>Fast and Simple Guide: Installing Acer Predator XB271H Graphics Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-equipped-with-the-latest-epson-artisan-1430-drivers-compatible-with-windows-11108/"><u>Get Equipped with the Latest Epson Artisan 1430 Drivers - Compatible With Windows 11/10/8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-official-sades-headset-drivers-fast-guaranteed-safety-on-windows-os/"><u>Get Your Official Sades Headset Drivers Fast: Guaranteed Safety on Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-lenovo-thinkpad-t430-driver-downloads-compatible-with-windows-11-8-7/"><u>Hassle-Free Guide to Lenovo ThinkPad T4^30 Driver Downloads Compatible With Windows 11 / 8 / 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-eos-d530-firmware-upgrade-get-the-new-driver/"><u>Latest Canon EOS D530 Firmware Upgrade: Get the New Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-mx150-driver-update-for-windows-how-to-get-the-most-recent-version-today/"><u>NVIDIA MX150 Driver Update for Windows: How to Get the Most Recent Version Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/review-magix-editing-suite/"><u>Review MAGIX Editing Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/saving-powerpoint-presentation-to-video-for-2024/"><u>Saving PowerPoint Presentation to Video for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-essential-guide-to-blurring-video-borders-in-teams-for-2024/"><u>The Essential Guide to Blurring Video Borders in Teams for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-wacom-cintiq-graphics-tablet-fast-install-guide/"><u>Update Your Wacom CintiQ Graphics Tablet: Fast Install Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/yakuza-like-a-dragon-review-why-you-cant-miss-out-on-this-epic-rpg-adventure/"><u>Yakuza: Like A Dragon Review - Why You Can't Miss Out on This Epic RPG Adventure</u></a></li>
 </ul></div>
 

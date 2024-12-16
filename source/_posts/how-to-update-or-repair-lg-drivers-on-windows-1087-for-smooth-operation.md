@@ -1,7 +1,7 @@
 ---
 title: How to Update or Repair LG Drivers on Windows 10/8/7 for Smooth Operation
-date: 2024-12-05T17:41:07.587Z
-updated: 2024-12-10T18:08:47.862Z
+date: 2024-12-10T18:52:30.017Z
+updated: 2024-12-16T21:52:26.371Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
  In this post, we’re going to show you 2 safe and easy ways to help you get the latest driver for your **Brother MFC7360N** printer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose the way you prefer
 
  Both methods below work in **Windows 10** , **8** and **7** . You may not have to try both; just decide if you want to do it manually or automatically and take your pick:
@@ -41,33 +37,34 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Head to **[Brother’s official website Support & Downloads page](http://support.brother.com/g/b/countrytop.aspx?c=us&lang=en)**  and click**Product Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
@@ -75,13 +72,17 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
@@ -124,21 +125,18 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] 2024 Approved High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-duel-masters-switch-edition-the-best-of-ten/"><u>[New] In 2024, Duel Masters Switch Edition - The Best of Ten</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-innovation-unveiled-5-cutting-edge-webcams-with-sound-tech/"><u>[Updated] Innovation Unveiled 5 Cutting-Edge Webcams With Sound Tech</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-creativity-with-these-4-simple-steps-to-loops-on-instagram/"><u>[Updated] Unleash Creativity with These 4 Simple Steps to Loops on Instagram</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95935436-9781844099610-bach-flower-remedies-for-animals/"><u>Bach Flower Remedies for Animals | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-lenovo-x1-carbon-drivers-made-simple-supports-windows-10windows-users/"><u>Download Lenovo X1 Carbon Drivers Made Simple - Supports Windows 10/Windows ^Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722964825612-effortless-installation-of-radeon-rx-ebytes-470-graphics-card-drivers-get-the-latest-version-now/"><u>Effortless Installation of Radeon RX Ebytes 470 Graphics Card Drivers – Get the Latest Version Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-realtek-audio-driver-update-for-windows-11-users/"><u>Effortless Installation: Realtek Audio Driver Update for Windows 11 Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortlessly-update-to-the-latest-free-windows-8-amd-radeon-graphic-card-drivers-today/"><u>Effortlessly Update to the Latest Free Windows 8 AMD Radeon Graphic Card Drivers Today!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/fostering-a-community-best-practices-for-youtubers/"><u>Fostering a Community Best Practices for YouTubers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-6s-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 6s Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-photogenius-ai-suite-elevate-your-edits/"><u>In 2024, PhotoGenius AI Suite Elevate Your Edits</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-hp-officejet-3830-driver-download-and-support-windows-version/"><u>Official HP OfficeJet 3830 Driver Download & Support - Windows Version</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-with-asrock-ab350-pro4-download-drivers-at-no-cost-for-seamless-windows-integration/"><u>Quick Start with ASRock AB350 Pro4 - Download Drivers at No Cost for Seamless Windows Integration</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-razer-support-guide-secure-the-latest-drivers-for-smooth-gaming-experience-windows-11-8-7-xp-and-vista/"><u>Ultimate Razer Support Guide: Secure the Latest Drivers for Smooth Gaming Experience (Windows 11, 8, 7, XP & Vista)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-sync-systems-swiftly-fastest-file-methods/"><u>[New] Sync Systems Swiftly Fastest File Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-optimizing-fb-techniques-for-shooting-and-posting-360-vids/"><u>[Updated] Optimizing FB Techniques for Shooting & Posting 360 Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-eluding-home-school-video-content-for-2024/"><u>[Updated] The Art of Eluding Home School Video Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creating-intriguing-movie-summaries/"><u>Creating Intriguing Movie Summaries</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-graphics-acceleration-nvidia-rtx-cu-drivers-for-windows-1187-support/"><u>Get the Latest Graphics Acceleration: NVIDIA RTX Cu Drivers for Windows 11/8/7 Support</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-install-amds-gpio-driver/"><u>How to Securely Download and Install AMD's GPIO Driver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-perfecting-google-meet-ppt-sessions-on-desktoptablet/"><u>In 2024, Perfecting Google Meet PPT Sessions on Desktop/Tablet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-health-objectives-a-step-by-step-guide-using-chatgpt/"><u>Mastering Health Objectives: A Step-by-Step Guide Using ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-pci-cryptographic-engine-driver-problems-enhanced-security/"><u>Resolved PCI Cryptographic Engine Driver Problems - Enhanced Security</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-fixes-for-overcoming-directx-errors-in-your-fifa-19-game/"><u>Simple Fixes for Overcoming DirectX Errors in Your FIFA 19 Game</u></a></li>
+<li><a href="https://fox-links.techidaily.com/starting-with-green-magic-an-in-depth-guide-to-the-filmmakers-color-technique/"><u>Starting with Green Magic An In-Depth Guide to the Filmmaker’s Color Technique</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installation-of-logitech-drivers-for-windows-users/"><u>Step-by-Step Installation of Logitech Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/swift-installation-effortless-downloading-of-the-rs232-to-usb-interface-driver/"><u>Swift Installation: Effortless Downloading of the RS232 to USB Interface Driver</u></a></li>
 </ul></div>
 

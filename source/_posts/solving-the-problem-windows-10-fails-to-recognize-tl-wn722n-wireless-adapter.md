@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem: Windows 10 Fails to Recognize TL-WN722N Wireless Adapter"
-date: 2024-08-13T11:51:15.546Z
-updated: 2024-08-14T11:51:15.546Z
+date: 2024-12-14T17:17:50.433Z
+updated: 2024-12-16T19:52:02.060Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -32,8 +33,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update the Ralink RT3290 driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,17 +48,19 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -78,9 +82,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -99,10 +100,11 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -137,8 +139,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +146,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-how-to-use-jump-cuts-in-your-vlog/"><u>[New] In 2024, How To Use Jump Cuts in Your Vlog</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-unboxing-gurus-toolkit-amplifying-video-likes-on-tiktok/"><u>[New] The Unboxing Guru's Toolkit Amplifying Video Likes on TikTok</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-complete-guide-to-crafting-killer-youtube-outros/"><u>[Updated] In 2024, Complete Guide to Crafting Killer YouTube Outros</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehending-the-basics-of-whatsapp-calls/"><u>2024 Approved Comprehending the Basics of WhatsApp Calls</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-hp-printer-software-on-your-windows-pc/"><u>Download & Setup HP Printer Software on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-free-hp-deskjet-ink-advantage-3520-support-software/"><u>Download Drivers: Free HP DeskJet Ink Advantage 3520 Support Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-effective-methods-to-download-and-install-asus-wifi-drivers/"><u>Expert Advice: Effective Methods to Download and Install ASUS WiFi Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-wifi-drivers-for-windows-7-with-quick-downloads-and-updates/"><u>Get the Latest WiFi Drivers for Windows 7 with Quick Downloads and Updates!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-ch340-serial-port-device-on-windows-11-systems/"><u>Get the Newest Drivers for CH340 Serial Port Device on Windows 11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-update-for-intel-wireless-ac-9560-get-it-now/"><u>Latest Driver Update for Intel Wireless AC 9560: Get It Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971210914-latest-steelseries-engine-version-ready-to-boost-your-pc-compatible-with-windows-11-free-download-here/"><u>Latest SteelSeries Engine Version Ready to Boost Your PC – Compatible with Windows 11, Free Download Here!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/pinnacle-websites-showcasing-diverse-text-styling-options/"><u>Pinnacle Websites Showcasing Diverse Text Styling Options</u></a></li>
+<li><a href="https://article-posts.techidaily.com/premium-caller-id-changers-the-magic-app-series-for-2024/"><u>Premium Caller ID Changers The Magic App Series for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reative-summit-top-talent-junction-for-2024/"><u>The Creative Summit Top Talent Junction for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-fixes-for-the-notorious-roblox-code-277-glitch-in-pc-games-update-guide-2024/"><u>Top Fixes for the Notorious Roblox Code 277 Glitch in PC Games - Update Guide 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-msi-gs65-with-optimal-windows-drivers-direct-download-links-available/"><u>Update Your MSI GS65 with Optimal Windows Drivers – Direct Download Links Available!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/zoom-seamless-recording-of-zoom-sessions-a-guide-to-cutting-techniques/"><u>スムーズなZoom録音保持:トリミング技術ガイド - Seamless Recording of Zoom Sessions: A Guide to Cutting Techniques</u></a></li>
+</ul></div>
 

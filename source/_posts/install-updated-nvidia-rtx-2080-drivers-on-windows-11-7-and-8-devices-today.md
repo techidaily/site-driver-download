@@ -1,7 +1,7 @@
 ---
 title: Install Updated NVIDIA RTX 2080 Drivers on Windows 11, 7 & 8 Devices Today
-date: 2024-08-13T11:50:21.456Z
-updated: 2024-08-14T11:50:21.456Z
+date: 2024-12-13T21:55:03.689Z
+updated: 2024-12-16T20:20:08.257Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
 
 ## Find & Install Updated ThinkPad T420s Drivers Compatible with Windows 11 Here
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/lenovo-thinkpad-t420s.jpg)
 
  **Lenovo ThinkPad T420s** is a rather old model of computer. You will see the notification telling you that it is “**no longer available for purchase on lenovo.com** ” even if you want to purchase it now.  
@@ -36,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg)
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
   
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg)
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
@@ -54,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
 
  4) Then choose**Search automatically for updated driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d275459f1b-600x437.jpg)
 
  5) As we mentioned above, this model of computer is rather old, so there is a big chance that you are not getting the latest version of the device drivers in this way, and you will be very likely to see the following notification:
@@ -81,23 +69,14 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452fa664cc3-1024x193.png)
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
   
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453032d36ec.jpg)
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
@@ -118,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
   
  There are only two steps required in[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , step one, press the**Scan Now** button so it helps you scan for needed drivers. And step two, press the**Update** button to get the device drivers you need updated!
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e89bb942da7.jpg)
 
  If you want to experience the ONE-click-update-all-driver feature, as well as driver backup and driver restore, plus the professional tech support team, why not take a look at this amazing[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) ? If you are not satisfied with your purchase, you can always ask for a refund thirty days within the purchase. Guarantee!
@@ -133,8 +109,6 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +116,28 @@ thumbnail: https://thmb.techidaily.com/db7b5b29f3dd85ab1439e42aeefbd0af6cf9e882c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-urban-to-agrarian-journey-stardew-titles-traced/"><u>[New] 2024 Approved Urban to Agrarian Journey Stardew Titles Traced</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-behind-the-scenes-windows-pc-essentials-for-flawless-live-tv-screen-capture/"><u>[New] In 2024, Behind the Scenes Windows PC Essentials for Flawless Live TV Screen Capture</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-live-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>2024 Approved Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-srt-to-xmlssattml-mastery-guide/"><u>2024 Approved Step-by-Step SRT to XML/SSA/TTML Mastery Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/accessibility-analysis-ensures-the-greatest-number-of-residents-can-benefit-from-the-new-park/"><u>Accessibility Analysis Ensures the Greatest Number of Residents Can Benefit From the New Park.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-guide-to-installing-the-newest-drivers-for-geforce-rtx-3070-on-your-windows-1110-computer/"><u>Direct Guide to Installing the Newest Drivers for GeForce RTX 3070 on Your Windows 11/10 Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-installation-of-realtek-audiophile-drivers-on-your-windows-10-pc/"><u>Download and Installation of RealTek Audiophile Drivers on Your Windows 10 PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-updating-your-windows-pcs-fingerprint-drivers/"><u>Easy Guide to Downloading and Updating Your Windows PC's Fingerprint Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-your-hp-officejet-pro-9015-runs-smoothly-download-updated-printer-drivers-today/"><u>Ensure Your HP OfficeJet Pro 9015 Runs Smoothly - Download Updated Printer Drivers Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-future-with-bard-the-7-most-exciting-additions-revealed-at-google-io-2023/"><u>Explore the Future with BARD: The 7 Most Exciting Additions Revealed at Google I/O 2023</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-to-download-top-rated-3d-animation-apps-for-mobile-devices-for-2024/"><u>Free to Download Top-Rated 3D Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updates-how-to-download-new-drivers-for-your-brother-mfc-7860dw-on-windows-pcs/"><u>Get Updates: How to Download New Drivers for Your Brother MFC-#7860DW on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-samsung-960-evo-m2-ssd-on-a-windows-pc-complete-guide/"><u>How to Install Samsung 960 EVO M.2 SSD on a Windows PC: Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-logitech-brio-webcam-driver-for-windows-7-8-or-10-free-download-guide/"><u>How to Update Your Logitech Brio Webcam Driver for Windows 7, 8 or 10 - Free Download Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>In 2024, The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secrets-to-bypassing-the-trustedinstaller-lock-on-windows-11/"><u>Secrets to Bypassing the TrustedInstaller Lock on Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/shielding-your-media-what-does-unlisted-mean-in-youtube-for-2024/"><u>Shielding Your Media What Does Unlisted Mean in YouTube for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
