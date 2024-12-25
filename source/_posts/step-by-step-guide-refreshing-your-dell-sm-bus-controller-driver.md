@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Refreshing Your Dell SM Bus Controller Driver"
-date: 2024-12-10T21:20:24.485Z
-updated: 2024-12-16T17:25:57.899Z
+date: 2024-12-22T16:45:35.871Z
+updated: 2024-12-25T17:04:23.196Z
 tags:
   - win11
   - win10
@@ -50,15 +50,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-649.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -74,10 +74,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
@@ -85,10 +81,6 @@ OR
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click **OK** .
 
@@ -98,10 +90,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
@@ -109,16 +97,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
@@ -127,6 +111,10 @@ OR
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
@@ -144,6 +132,10 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -158,9 +150,17 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -192,15 +192,22 @@ Wait for the download process to be complete.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>[Updated] Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-win11s-quickest-image-viewing-experience-for-2024/"><u>[Updated] Win11's Quickest Image Viewing Experience for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-maximizing-audience-reach-the-6-step-roadmap-to-youtube-success/"><u>2024 Approved Maximizing Audience Reach The 6-Step Roadmap to YouTube Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-roccat-mousedriver-your-complete-downloading-and-setup-resource/"><u>Easy Installation of Roccat MouseDriver – Your Complete Downloading & Setup Resource</u></a></li>
-<li><a href="https://driver-download.techidaily.com/genetic-susceptibility/"><u>Genetic Susceptibility</u></a></li>
-<li><a href="https://driver-download.techidaily.com/identify-the-make-and-model-of-your-computers-motherboard-by-searching-online-with-its-serial-number-usually-found-near-a-barcode-sticker-on-the-back/"><u>Identify the Make and Model of Your Computer's Motherboard by Searching Online with Its Serial Number (Usually Found Near a Barcode Sticker on the Back).</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-s23plus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy S23+ Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-corsair-mouse-drivers-and-features-a-complete-step-by-step-guide/"><u>Installing Corsair Mouse Drivers & Features: A Complete Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-avs-video-editor-a-comprehensive-analysis/"><u>New In 2024, AVS Video Editor A Comprehensive Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-we-know-about-google-pixel-buds-pro-2-leaked-information-on-features-timing-and-expected-cost/"><u>What We Know About Google Pixel Buds Pro 2: Leaked Information on Features, Timing & Expected Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-truth-behind-instas-video-selfie-authenticity-check/"><u>[New] The Truth Behind Insta's Video Selfie Authenticity Check</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-strategic-insights-into-making-emotional-connection-with-customer-success-videos/"><u>[Updated] 2024 Approved Strategic Insights Into Making Emotional Connection with Customer Success Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-artisans-almanac-makeup-tools-and-more-on-youtube/"><u>[Updated] In 2024, The Artisan's Almanac Makeup, Tools & More on Youtube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vimeos-edge-over-youtube-what-the-data-says/"><u>2024 Approved Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-brother-mfc-l2n690dw-printer-driver-software/"><u>Download and Install the Latest Brother MFC-L2n690dw Printer Driver Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722896007181-exclusive-insights-into-the-upcoming-macbook-with-touch-screen-functionality-price-sneak-peek/"><u>Exclusive Insights Into the Upcoming MacBook with Touch Screen Functionality – Price Sneak Peek!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/from-silent-videos-to-engaging-content-swiftly-add-captions-on-fb/"><u>From Silent Videos to Engaging Content Swiftly Add Captions on FB</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-optimal-printing-with-hp-laserjet-pro-m428fdx-drivers-seamless-compatibility-for-windows-11107-devices/"><u>Get Optimal Printing with HP LaserJet Pro M428fdx Drivers: Seamless Compatibility for Windows 11/10/7 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-zebra-gk420d-drivers-fast-and-simple-installation/"><u>Get Your Hands on Zebra GK420D Drivers - Fast and Simple Installation!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-quickly-install-or-update-microsoft-drivers-on-windows-7810/"><u>How to Quickly Install or Update Microsoft Drivers on Windows 7/8/10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-videography-stabilizers-enhancing-mobile-and-dslr-shots/"><u>In 2024, Premier Videography Stabilizers Enhancing Mobile & DSLR Shots</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-soundmax-audio-drivers-in-windows-tips-and-tricks-for-optimal-performance/"><u>Installing SoundMAX Audio Drivers in Windows: Tips and Tricks for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g29-racing-wheel-driver-installation-windows-10-11-and-7-supported/"><u>Logitech G29 Racing Wheel Driver Installation: Windows 10, 11 & 7 Supported</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-driver-update-for-enhanced-performance-on-your-hp-z440-workstation/"><u>Step-by-Step Driver Update for Enhanced Performance on Your HP Z440 Workstation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-find-free-songs-for-video-editing/"><u>Updated 2024 Approved Find Free Songs for Video Editing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgraded-tp-link-network-interface-controller-software-for-pc-systems/"><u>Upgraded TP-Link Network Interface Controller Software for PC Systems</u></a></li>
 </ul></div>
 

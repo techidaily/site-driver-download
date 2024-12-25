@@ -1,7 +1,7 @@
 ---
 title: Latest Magicard Rio Pro Driver Update Now Available - Compatible with Windows 11/8.1/7
-date: 2024-09-24T23:30:54.193Z
-updated: 2024-10-01T16:04:23.110Z
+date: 2024-12-23T16:18:56.548Z
+updated: 2024-12-25T16:40:56.648Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-495.png)
 
  Are you trying to update your Lenovo Thunderbolt 3 Dock driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update the Lenovo Thunderbolt 3 Dock driver
 
@@ -44,19 +48,13 @@ OR
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Lenovo Thunderbolt 3 Dock driver for now, simply click the**Update**  button next to it.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-52-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -64,13 +62,6 @@ OR
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Option 2 – Update the driver manually
 
@@ -81,10 +72,11 @@ OR
 3. Expand the list of**Software and Utilities** and select**Thunderbolt 3 Graphics Dock Driver** from the results. To download this driver, simply click the down arrow button below**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-32-54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
@@ -112,14 +104,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-accelerating-productivity-microsoft-azure-speech-recognition/"><u>[New] Accelerating Productivity Microsoft Azure Speech Recognition</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-deciphering-how-to-spot-your-video-enthusiasts/"><u>[Updated] Deciphering How to Spot Your Video Enthusiasts</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-firmware-hp-laserjet-p1007-printer-software-upgrade/"><u>Download Latest Firmware: HP LaserJet P1007 Printer Software Upgrade</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-dell-wi-fi-adapter-software-here/"><u>Get the Latest Dell Wi-Fi Adapter Software Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/getting-the-latest-amd-radeon-r9-360-graphics-driver-on-your-windows-11-pc/"><u>Getting the Latest AMD Radeon R9 360 Graphics Driver on Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-netgear-wifi-adapter-efficiently/"><u>How to Install Updated Drivers for Your NETGEAR WiFi Adapter Efficiently</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-essential-drivers-for-asus-motherboards-on-windows-systems/"><u>Installing Essential Drivers for ASUS Motherboards on Windows Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-no-fuss-guides-for-documenting-video-calls/"><u>[New] No-Fuss Guides for Documenting Video Calls</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-5-gaming-headsets-for-youtube/"><u>[New] Top 5 Gaming Headsets for YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-chaptered-videos-on-vimeo-a-comprehensible-guide-for-2024/"><u>[Updated] Chaptered Videos on Vimeo A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ultimate-resource-list-get-youtube-previews-and-templates-online/"><u>2024 Approved Ultimate Resource List Get YouTube Previews and Templates Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/boosting-windows-7-boot-times-expert-troubleshooting-tips/"><u>Boosting Windows 7 Boot Times: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/channel-driven-connections-in-social-circles/"><u>Channel-Driven Connections in Social Circles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-epson-workforce-ds30-printer-driver-for-windows-11-8-and-7/"><u>Download the Latest Epson WorkForce DS30 Printer Driver for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-access-downloading-the-right-software-for-your-canon-pixar-mx920-on-pcs/"><u>Easy Access: Downloading the Right Software for Your Canon PIXAR MX920 on PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-intel-wireless-ac-9560-driver-software-free-download/"><u>Latest Updates for Intel Wireless AC 9560 Driver Software - Free Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-windows-7-speedy-and-simple-guide-to-upgrading-your-webcam-drivers/"><u>Mastering Window's 7: Speedy and Simple Guide to Upgrading Your Webcam Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/struggling-to-get-into-game-mode-solving-your-rocket-league-startup-woes/"><u>Struggling to Get Into Game Mode? Solving Your Rocket League Startup Woes</u></a></li>
 </ul></div>
 

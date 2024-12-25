@@ -1,7 +1,7 @@
 ---
 title: Install Windows Drivers for Focusrite Scarlett 18I20 Audio Interface
-date: 2024-09-27T22:09:48.254Z
-updated: 2024-10-02T00:19:50.680Z
+date: 2024-12-18T16:50:32.421Z
+updated: 2024-12-25T16:05:41.121Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
 It’s always important to update the driver for your **Focusrite Scarlett** **18i20** to make sure it works in tip-top shape and improve your overall computer performance. In this post, we’re showing you 2 easy ways to get the latest **Focusrite Scarlett** **18i20** drivers. Check them out…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To download & install **Focusrite Scarlett** 18i20**driver**
 
  Here are two options for you to update the Focusrite Scarlett 18i20 driver:
@@ -27,10 +31,7 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update **Focusrite Scarlett 18i20**  automatically (Recommended)
@@ -46,37 +47,18 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-easy-update-now.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Restart** your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Update **Focusrite Scarlett 18i2** 0 driver manually
 
@@ -89,6 +71,11 @@ Here is how to update the driver manually:
 1. Go to[](https://focusrite.com/) **[Focusrite’s official website](https://focusrite.com/)**  , click**SUPPORT** \>**DOWNLOADS** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20.jpg)
 2. Select your **model type** from the drop-down menus, then in the list of results, select the one for Windows and click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20-2.jpg)
 3. Double-click on the file and follow the wizard to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -112,24 +99,24 @@ Here is how to update the driver manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transforming-mobile-content-into-profitable-youtube-experiences/"><u>[Updated] 2024 Approved Transforming Mobile Content Into Profitable YouTube Experiences</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-content-learn-igtv-upload-techniques-for-2024/"><u>[Updated] Elevate Your Content Learn IGTV Upload Techniques for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-best-cameras-for-pixel-art-animation/"><u>[Updated] In 2024, Best Cameras for Pixel Art Animation</u></a></li>
-<li><a href="https://win11.techidaily.com/27-tips-for-personalizing-your-windows-11-experience/"><u>27 Tips for Personalizing Your Windows 11 Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-hl-l2300d-printer-driver-get-installed-latest-update-available-now/"><u>Brother HL-L2300D Printer Driver - Get Installed | Latest Update Available Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-asus-mouse-pad-compatibility-software-for-windows/"><u>Download ASUS Mouse Pad Compatibility Software for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-way-to-install-the-latest-corsair-headset-driver-for-windows-users/"><u>Easy Way to Install the Latest Corsair Headset Driver for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-of-ft232r-uartusb-drivers-for-optimal-performance/"><u>Effortless Installation of FT232R UART/USB Drivers for Optimal Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-brother-mfc-9130cw-quick-and-safe-download-links/"><u>Get the Latest Drivers for Brother MFC- 9130CW: Quick & Safe Download Links</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-drivers-secure-your-compatibility-with-win-1087/"><u>Get the Newest Nvidia Quadro RTX 8000 Drivers: Secure Your Compatibility with Win 10/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-update-your-razer-graphics-card-drivers-for-all-windows-versions-windows-10-through-vista/"><u>How to Securely Download & Update Your Razer Graphics Card Drivers for All Windows Versions - Windows 10 Through Vista</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-your-pcs-graphics-card-software-on-windows-complete-tutorial/"><u>How to Update Your PC's Graphics Card Software on Windows – Complete Tutorial</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-four-essential-tips-for-acquiring-youtube-srt/"><u>In 2024, Four Essential Tips for Acquiring YouTube SRT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-meizu-21-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Meizu 21 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-device-now-download-the-new-lenovo-t450-drivers-today/"><u>Optimize Your Device Now! Download the New Lenovo T450 Drivers Today</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/perfect-soundtrack-for-your-podcast-journey-top-9-level-9-portable-microphones-for-2024/"><u>Perfect Soundtrack for Your Podcast Journey Top 9 Level 9 Portable Microphones for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-windows-ndis-problem-solving-techniques/"><u>Swift Windows NDIS Problem Solving Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-hp-laptop-screenshot-methods-revealed/"><u>The Ultimate Trick: HP Laptop Screenshot Methods Revealed</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-step-by-step-guide-to-timestamps-in-video-sharing/"><u>[New] 2024 Approved A Step-by-Step Guide to Timestamps in Video Sharing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-professional-secrets-to-flawless-photo-cropping-online/"><u>[New] 2024 Approved Professional Secrets to Flawless Photo Cropping Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-beginners-blueprint-optimal-gopro-extras/"><u>[New] In 2024, Beginner’s Blueprint Optimal GoPro Extras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-zoom-in-google-meet-best-ways-for-2024/"><u>[Updated] How to Zoom in Google Meet [Best Ways] for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-upgraded-magicard-rio-professional-driving-toolkit-compatible-with-windows-modern-os-11817/"><u>Download the Upgraded Magicard Rio Professional Driving Toolkit – Compatible with Windows Modern OS: 11/8.1/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-driver-download-and-setup-compatible-with-brother-mfc-7360n-printers-on-windows-11-8-and-7/"><u>Easy Driver Download and Setup: Compatible with Brother MFC-7360N Printers on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-microsoft-sculpt-keyboard-driver-software-update-tutorial/"><u>Easy Installation: Microsoft Sculpt Keyboard Driver Software Update Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975787204-find-and-install-your-new-sound-card-driver-on-windows-pcs-easily/"><u>Find & Install Your New Sound Card Driver on Windows PCs Easily</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-f34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy F34 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-through-virtual-experiences-for-2024/"><u>Innovating Through Virtual Experiences for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>New 2024 Approved Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962530344-nvidia-1080-drivers-download-for-windows-10-easily/"><u>NVIDIA 1080 Drivers Download for Windows 10. Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamlessly-updating-your-computers-sata-and-achi-controller-software/"><u>Seamlessly Updating Your Computer's SATA and ACHI Controller Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-meizu-21-by-fonelab-android-recover-music/"><u>The way to get back lost music from Meizu 21</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966212650-troubleshooting-and-solution-guide-asus-pce-ac56-driver-woes-on-windows-11-8-and-7-now-fixed/"><u>Troubleshooting and Solution Guide: ASUS PCE-AC56 Driver Woes on Windows 11, 8 & 7 - Now Fixed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-steps-for-opening-davinci-resolve-on-a-window-os/"><u>Ultimate Troubleshooting Steps for Opening DaVinci Resolve on a Window OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-sound-card-software-top-microsoft-driver-download-options-for-windows-computers/"><u>Update Your Sound Card Software: Top Microsoft Driver Download Options for Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-troubleshooting-for-intel-hd-graphics-630-drivers-issues-addressed/"><u>Windows Troubleshooting for Intel HD Graphics 630 Drivers - Issues Addressed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726220160373-10/"><u>이 연도에 선보여진다: 10명의 무료 음악 프로그램 훌륭한 선택</u></a></li>
 </ul></div>
 

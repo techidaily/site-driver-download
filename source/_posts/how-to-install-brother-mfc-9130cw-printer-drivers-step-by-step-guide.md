@@ -1,7 +1,7 @@
 ---
 title: How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide
-date: 2024-12-13T19:44:06.812Z
-updated: 2024-12-16T22:49:27.190Z
+date: 2024-12-19T16:52:25.677Z
+updated: 2024-12-25T16:09:55.515Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c2e04fc7d.jpg)
 
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
 
@@ -38,7 +42,7 @@ Follow these steps:
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
@@ -47,10 +51,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After uninstalling, you can now download the printer driver from official website.
 
 1. Go to[Epson official support website](https://epson.com/Support/Printers/) .
@@ -58,12 +58,12 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c49506f41.jpg)
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -80,11 +80,15 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
@@ -92,10 +96,6 @@ Follow these steps:
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -128,24 +128,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-correcting-missed-audio-segments-in-obs-recordings/"><u>[New] Correcting Missed Audio Segments in OBS Recordings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-aerial-photography-revolution-with-mavic-pro/"><u>[New] In 2024, Aerial Photography Revolution with Mavic Pro</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-choice-5-sound-devices-for-streamers/"><u>[New] Ultimate Choice 5 Sound Devices for Streamers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-launching-into-the-world-of-web-flipping-videos-from-mac/"><u>[Updated] In 2024, Launching Into the World of Web-Flipping Videos From Mac</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-cream-of-the-crop-top-8-sites-for-rich-3d-and-text-for-2024/"><u>[Updated] The Cream of the Crop Top 8 Sites for Rich 3D & Text for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-firsthand-look-at-mistral-ais-le-chat-how-it-stands-up-to-chatgpt/"><u>A Firsthand Look at Mistral AI's Le Chat - How It Stands Up to ChatGPT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield-2042-performance-optimization-fixes-for-fps-hiccups-and-stutter-on-pcs/"><u>Battlefield 2042 Performance Optimization: Fixes for FPS Hiccups & Stutter on PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-installing-epson-xp-410-printer-drivers-on-windows-free-download-steps/"><u>Complete Guide: Installing Epson XP-410 Printer Drivers on Windows - Free Download Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-asus-realtek-usb-wifi-adapter-drivers-without-cost/"><u>Get Your ASUS RealTek USB WiFi Adapter Drivers Without Cost</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-setting-up-required-scanner-and-printer-functions-on-windows-10-os/"><u>Guide: Setting Up Required Scanner and Printer Functions on Windows 10 OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-i-fixed-my-amd-radeon-driver-issues-the-ultimate-guide/"><u>How I Fixed My AMD Radeon Driver Issues: The Ultimate Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-mastering-revenue-on-youtube-shorts/"><u>In 2024, Mastering Revenue on YouTube Shorts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-epson-perfection-v39-driver-downloads-for-windows-operating-systems-including-7810/"><u>Install Epson Perfection V39: Driver Downloads for Windows Operating Systems Including 7/8/10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/intel-wireless-adapter-ac-3160-streamlined-and-easy-setup-instructions/"><u>Intel Wireless Adapter AC 3160: Streamlined and Easy Setup Instructions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-guide-to-samsung-m2070-driver-update-and-installation/"><u>Quick-Start Guide to Samsung M2070 Driver Update and Installation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-selecting-the-ideal-projector-what-matters-most/"><u>The Ultimate Guide to Selecting the Ideal Projector - What Matters Most?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranking-gaming-console-analysis-unveiling-the-powerhouse-xbox-one-x/"><u>Top-Ranking Gaming Console Analysis: Unveiling the Powerhouse - Xbox One X</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-resolving-problems-with-the-realtek-rtl8723be-network-adapter/"><u>Troubleshooting Guide: Resolving Problems with the Realtek RTL8723BE Network Adapter</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-epson-xp-310-driver-software-with-this-guide-to-improved-printing-performance/"><u>Update Your Epson XP-310 Driver Software with This Guide to Improved Printing Performance</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-simplifying-complex-moves/"><u>'God of War': Simplifying Complex Moves</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/irect-transfer-solution-youtube-content-on-dailymotion-now-for-2024/"><u>[New] Direct Transfer Solution YouTube Content on Dailymotion Now for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y28-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-canon-eos-5d-mark-iii-drivers-step-by-step-guide/"><u>Download and Update Canon EOS 5D Mark III Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-hp-laserjet-5200-driver-download-for-microsoft-windows-version-11-to-8/"><u>Easy HP LaserJet 5200 Driver Download for Microsoft Windows: Version 11 to 8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974916363-easy-setup-get-your-hp-officejet-5740-software-now/"><u>Easy Setup: Get Your HP OfficeJet #5740 Software Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-targus-connectivity-drivers-get-them-here/"><u>Effortless Installation of Targus Connectivity Drivers - Get Them Here</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/facebook-fam-bites-in-snapchat-spotlight/"><u>Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-issues-resolving-borderlands-3-audio-problems-on-windows/"><u>Fixing Silent Issues: Resolving Borderlands 3 Audio Problems on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-diving-into-instagrams-visual-story-segments/"><u>In 2024, Diving Into Instagram's Visual Story Segments</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitech-g29-racing-wheel-drivers-on-your-pc-works-with-win-10win-11win-7/"><u>Install Logitech G29 Racing Wheel Drivers on Your PC - Works with Win 10/Win 11/Win 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-play-overcoming-variable-fps-challenges/"><u>Mastering Smooth Play: Overcoming Variable FPS Challenges</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-updating-your-msi-gpu-drivers-in-windows-11-and-7/"><u>Quick Guide: Updating Your MSI GPU Drivers in Windows 11 and 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-your-logitech-g35-headset-audio-download-official-drivers-for-win-7-8-and-10-users/"><u>Secure Your Logitech G35 Headset Audio - Download Official Drivers for Win 7, 8 and 10 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/step-by-step-to-emoji-stickers-a-complete-tutorial-for-telegram-and-beyond/"><u>Step-by-Step to Emoji Stickers A Complete Tutorial for Telegram and Beyond</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-hulus-rununk13-error-code-effectively/"><u>Troubleshooting Hulu's RUNUNK13 Error Code Effectively</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-software-install-new-drivers-for-your-wacom-graphic-pen-display/"><u>Updated Software: Install New Drivers for Your Wacom Graphic Pen Display</u></a></li>
 </ul></div>
 

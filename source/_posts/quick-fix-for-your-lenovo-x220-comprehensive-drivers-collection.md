@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Your Lenovo X220: Comprehensive Drivers Collection"
-date: 2024-12-10T18:25:58.482Z
-updated: 2024-12-16T21:43:59.378Z
+date: 2024-12-21T16:13:00.786Z
+updated: 2024-12-25T16:09:56.286Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-271-1024x667.png)
 
  If you are experiencing**driver issues** related to your**Xbox wireless adapter** such as Windows not recognizing the device, this article is definitely written for you. Rest assured that you are not alone – many people have reported a similar problem to yours. Now you just need to follow this tutorial and find out whether it does the trick or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download and install your Xbox wireless adapter drivers
 
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Update your Xbox wireless adapter driver manually
@@ -63,26 +63,26 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 2. In the search box located in the upper right corner of the site, type**Xbox wireless** and click**Search** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 5. Extract the downloaded driver file.
 6. Plug in the wireless receiver of your Xbox adapter. Then, on your keyboard, Press the**Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type**devmgmt.msc**  and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 7. Here pops up your**Device Manager** . Double-click on the**Other devices** node and you’ll find the faulty device there, usually appearing as an unknown device named “XBOX ACC”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -110,24 +110,18 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rafting-team-videos-to-foster-viewership-and-following/"><u>[New] Crafting Team Videos to Foster Viewership and Following</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-treasure-trove-the-most-popular-tweeps/"><u>[New] Tweet Treasure Trove The Most Popular Tweeps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[Updated] 2024 Approved The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-voice-change-mastery-for-sony-game-systems/"><u>2024 Approved Voice Change Mastery for Sony Game Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-drivers-enhanced-performance-for-windows-games/"><u>Download Updated NVIDIA Drivers: Enhanced Performance for Windows Games</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965484373-ensure-seamless-connectivity-with-updated-netgear-adapter-drivers-download-now/"><u>Ensure Seamless Connectivity with Updated NETGEAR Adapter Drivers - Download Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-repairing-your-sound-blaster-mic-when-it-fails-to-work/"><u>Expert Tips for Repairing Your Sound Blaster Mic When It Fails to Work</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos-for-2024/"><u>From Noob to Pro Making the List of Popular FB Songs and Videos for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-amd-ryzen-3-2200g-gpu-drivers-instantly/"><u>Get the Newest AMD Ryzen 3 2200G GPU Drivers Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-updates-hp-officejet-pro-8620-drivers-for-windows-pcs/"><u>Get the Newest Updates: HP OfficeJet Pro 8620 Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-fixing-and-troubleshooting-issues-with-the-windows-compatible-neat-scanner-software/"><u>Guide to Fixing and Troubleshooting Issues with the Windows-Compatible Neat Scanner Software</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-ace-2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus Ace 2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-synaptic-smbus-driver-problems-in-windows-11-a-step-by-step-guide/"><u>Resolving Synaptic SMBus Driver Problems in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-experience-how-to-automatically-detect-and-install-upgraded-amd-drivers/"><u>Seamless Experience: How to Automatically Detect and Install Upgraded AMD Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-installing-updated-pl2303-usb-chipset-drivers-for-windows-pcs/"><u>Step-by-Step Guide to Installing Updated PL2303 USB Chipset Drivers for Windows PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/troubleshooting-resolving-persistent-reboots-on-your-iphone-post-ios-17-upgrade/"><u>Troubleshooting: Resolving Persistent Reboots on Your iPhone Post-iOS 17 Upgrade</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722966227819-try-different-usb-ports-on-your-computer-including-usb-30-and-usb-c-ports-if-available/"><u>Try Different USB Ports on Your Computer, Including USB 3.0 and USB-C Ports if Available.</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-on-using-winxdvd-software-effectively/"><u>Ultimate Guide on Using WinXDVD Software Effectively</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximizing-facebook-favorites-perfecting-square-video-crafting-for-2024/"><u>[New] Maximizing Facebook Favorites Perfecting Square Video Crafting for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-network-necessities-how-to-add-friends-on-devices-for-2024/"><u>[Updated] Network Necessities How to Add Friends on Devices for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-checklist-for-professional-live-streaming/"><u>[Updated] The Ultimate Checklist for Professional Live Streaming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-complete-guide-to-crafting-captivating-snapchat-boomers/"><u>2024 Approved The Complete Guide to Crafting Captivating Snapchat Boomers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-2940-printer-drivers-how-to-download-and-install-on-win7win81win10/"><u>Epson WF-2940 Printer Drivers: How to Download and Install on Win7/Win8.1/Win10</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/fixes-and-solutions-how-to-restore-your-apple-mobile-devices-usb-connection-on-windows-systems/"><u>Fixes & Solutions: How To Restore Your Apple Mobile Device's USB Connection On Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-dell-inspiron-g15-driver-downloads-and-easy-install-guide-for-windows/"><u>Free Dell Inspiron G15 Driver Downloads and Easy Install Guide for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-windows-system-up-to-date-with-the-new-intel-wifi-drivers/"><u>Get Your Windows System Up-to-Date with the New Intel WiFi Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-hp-deskjet-3050-printer-drivers-on-your-pc-free-download-and-compatibility-check-for-windows-users/"><u>Install New HP Deskjet 3050 Printer Drivers on Your PC - FREE Download & Compatibility Check for Windows Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-sync-up-the-best-lip-sync-video-maker-apps-for-2024/"><u>New Sync Up! The Best Lip Sync Video Maker Apps for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-seminar-title-inventor-suite/"><u>Premier Seminar Title Inventor Suite</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-compendium-of-2024s-videography-tech/"><u>The Ultimate Compendium of 2024'S Videography Tech</u></a></li>
 </ul></div>
 

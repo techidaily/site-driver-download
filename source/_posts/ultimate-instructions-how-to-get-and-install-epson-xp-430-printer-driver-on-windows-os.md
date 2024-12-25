@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Instructions: How to Get and Install Epson XP-430 Printer Driver on Windows OS"
-date: 2024-12-09T18:36:11.798Z
-updated: 2024-12-16T22:36:06.670Z
+date: 2024-12-24T16:46:14.979Z
+updated: 2024-12-25T16:09:32.613Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
  A wrong or outdated printer driver could cause problems such as**print jobs getting stuck in a queue** ,**error notifications** **randomly popping up and printers being accidently offline** . To keep your printer in good performance, you should always keep your Epson ET-3760 driver up-to-date. Below is the guide of how to update the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Here are the two methods to try
@@ -33,7 +33,7 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 2. **[Automaticallyupdate the driver with Driver Easy (recommended)](https://www.drivereasy.com/knowledge/epson-et-3760-driver-update-and-download/#method-2)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Manually update your Epson ET-3760 driver
@@ -45,13 +45,21 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-download-page-1.jpg)
 3. In the list expanding below, click the**Download** in the**Printer Driver v2.68.02** option.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Epson-3760-click-download.jpg)
 4. Double-click on the downloaded file and follow the on-screen instructions to install your printer driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Automatically update the driver with Driver Easy
@@ -65,17 +73,9 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click the **Update** button next to a flagged **Epson ET-3760** driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _All_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-et-3760.jpg)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com.**](https://tools.techidaily.com/drivereasy/download/)
 
@@ -100,24 +100,24 @@ Whether at the office or at home, we all want to have jobs done smoothly. Yet if
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-xplits-rival-software-for-effortless-splits/"><u>[New] 2024 Approved Xplit's Rival Software for Effortless Splits</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-5-effective-tricks-for-youtube-subscriber-surges/"><u>[Updated] 5 Effective Tricks for YouTube Subscriber Surges</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-expression-understanding-snapchat-emojis-deeply/"><u>[Updated] Beyond Expression Understanding Snapchat Emojis Deeply</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleash-your-inner-shutterbug-on-android/"><u>[Updated] Unleash Your Inner Shutterbug on Android</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-blinking-displays-on-windows-7/"><u>Banishing Blinking Displays on Windows 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-hp-officejet-4655-printer-drivers-and-updates/"><u>Download the Latest HP OfficeJet 4655 Printer Drivers and Updates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-updated-amd-radeon-drivers-and-overcoming-challenges/"><u>Easy Guide to Installing Updated AMD Radeon Drivers and Overcoming Challenges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-academic-research-via-ai-solutions/"><u>Efficient Academic Research via AI Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-d-link-driver-updates-for-windows-systems-here/"><u>Get the Latest D-Link Driver Updates for Windows Systems Here</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-2020-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone SE (2020) without Apple ID?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-guide-updating-amd-drivers-on-windows-11-8-and-7-systems/"><u>Latest Guide: Updating AMD Drivers on Windows 11, 8 & 7 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-intel-graphics-drivers-compatibility-problems-on-windows-pcs/"><u>Resolving Intel Graphics Drivers Compatibility Problems on Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722970022167-step-by-step-instructions-fresh-driver-installation-for-amd-vega-56-on-your-pc-with-windows-no-more-problems/"><u>Step-by-Step Instructions: Fresh Driver Installation for AMD Vega 56 on Your PC with Windows – No More Problems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-easy-driver-update-for-intels-iris-plus-640-graphics-card/"><u>Step-by-Step: Easy Driver Update for Intel's Iris Plus 640 Graphics Card</u></a></li>
-<li><a href="https://driver-download.techidaily.com/techkeys-official-bluetooth-driver-software-for-windows-operating-systems-10-7-n-8-download/"><u>Techkey's Official Bluetooth Driver Software for Windows Operating Systems: 10, 7, N 8 Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-tutorial-downloading-and-setting-up-arduino-drivers-for-windows-pcs/"><u>The Ultimate Tutorial: Downloading and Setting Up Arduino Drivers for Windows PCs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-empower-your-journey-through-cinemas-best-10-titles-for-2024/"><u>[New] Empower Your Journey Through Cinema's Best 10 Titles for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-release-dates-for-podcast-episodes/"><u>2024 Approved Best Release Dates for Podcast Episodes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mcb-channel-background-and-template-set/"><u>2024 Approved MCB Channel Background & Template Set</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-youtube-film-series-collections/"><u>2024 Approved Top YouTube Film Series Collections</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapters-on-your-windows-pc/"><u>Download and Install Atheros Network Adapters on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-solutions-correcting-the-lg-usb-driver-malfunction-on-various-windows-platforms/"><u>Expert Solutions: Correcting the LG USB Driver Malfunction on Various Windows Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-the-newest-drivers-compatible-with-netgear-a6100-for-windows-operating-systems/"><u>Find the Newest Drivers: Compatible with Netgear A6100 for Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-logitech-g27-racing-wheel-gamepad-driver-software-for-pc-compatible-with-windows-7-8-and-10/"><u>Free Logitech G27 Racing Wheel Gamepad Driver Software for PC - Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-innovations-friend-or-foe-to-truth/"><u>Generative Innovations: Friend or Foe to Truth?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-hp-elitebook-x360-1030-g2-compatible-driver-pack-available-now/"><u>Get Your Hands on HP EliteBook X360 (1030 G2) - Compatible Driver Pack Available Now</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966957856-latest-epson-wf-7710-printer-drivers-secure-and-fast-installation-on-any-windows-os/"><u>Latest Epson WF-7710 Printer Drivers: Secure and Fast Installation on Any Windows OS!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-and-drivers-available-now-optimize-your-hp-laserjet-p160n6d-for-windows-systems/"><u>Latest Updates & Drivers Available Now: Optimize Your HP LaserJet P160n6d for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-logitech-webcam-driver-for-windows-immediate-free-access-to-enhanced-video-quality/"><u>Secure Logitech Webcam Driver for Windows - Immediate Free Access to Enhanced Video Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-sims-4-wont-open-expert-advice-and-tricks/"><u>The Ultimate Solution for 'Sims 4 Won't Open': Expert Advice and Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-digital-diary-in-depth-reviews-and-guides/"><u>Tom's Digital Diary: In-Depth Reviews & Guides</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210761849-9781591798804-true-meditation/"><u>True Meditation | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-list-of-steadicams-for-uav-videography-enthusiasts-for-2024/"><u>Ultimate List of Steadicams for UAV Videography Enthusiasts for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966111183-update-and-get-amd-radeon-rx-580-graphics-card-drivers-fast-and-simple/"><u>Update and Get AMD Radeon RX 580 Graphics Card Drivers - Fast & Simple!</u></a></li>
 </ul></div>
 

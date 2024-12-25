@@ -1,7 +1,7 @@
 ---
 title: "[Download] Z270 Gaming Pro Carbon Drivers"
-date: 2024-08-13T11:53:35.212Z
-updated: 2024-08-14T11:53:35.212Z
+date: 2024-12-24T17:06:14.564Z
+updated: 2024-12-25T16:57:19.703Z
 tags:
   - win11
   - win10
@@ -31,37 +31,22 @@ You can use two ways to download drivers for ASUS Z170 Pro Gaming motherboard. O
 
  2\. Click**Support** in top menu bar and select**Consumer** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591015be844e3.png)
 
  3\. Enter the motherboard model name in the search box then click the**Start** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5910166499e6d.png)
 
  4\. Click**Drivers & Tools** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591016b682e6c.png)
 
  5\. Select the**OS** (Operating System). For example, if your computer is running Windows 10 64-bit, select Windows 10 64bit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591017b4b964c.png)
 
  6\. Click the Minus circular button to expand the categories. Then download the drivers that you need. For example, if you wish to update chipset drivers, click the Minus circular button next to it (see below screenshot) then you can download the latest chipset drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_591018a2cf735.png)
 
   Way 2: Download the drivers automatically
@@ -72,18 +57,6 @@ You can use two ways to download drivers for ASUS Z170 Pro Gaming motherboard. O
 
  1\. Click the**Scan Now** button. Then Driver Easy will scan your computer for a few seconds to detect problem drivers. After that, you will get a list of new drivers.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59101cfd945d3.png)
 
  2\. Click**Update All** button. Then all drivers will be downloaded and installed automatically.
@@ -102,8 +75,6 @@ Hope you find the tips here helpful.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +82,30 @@ Hope you find the tips here helpful.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-step-by-step-installation-of-professional-vrecorder-for-2024/"><u>[New] Step-by-Step Installation of Professional VRecorder for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-review-best-dynamic-capture-devices-for-2024/"><u>[Updated] Essential Review Best Dynamic Capture Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-stop-video-preview-on-all-platforms-with-yt-for-2024/"><u>[Updated] Stop Video Preview on All Platforms with YT for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-video-trimming-with-ease-on-windows-11-photos/"><u>2024 Approved Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpio-control-program-free-download/"><u>AMD GPIO Control Program - Free Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/breathtaking-4k-videos-you-wont-want-to-miss-for-2024/"><u>Breathtaking 4K Videos You Wont Want to Miss for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-with-these-reliable-driver-downloads-free/"><u>Get Your Corsair Keyboard Up and Running on Windows with These Reliable Driver Downloads (Free)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-brother-mfc-j480dw-printer-drivers-on-your-windows-pc/"><u>How to Install the Latest Brother MFC-J480DW Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-canon-pixma-mx922-printer-drivers-for-windows-computers/"><u>How to Update Canon PIXMA MX922 Printer Drivers for Windows Computers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illuminated-influence-elevating-your-cinematic-presentations/"><u>Illuminated Influence Elevating Your Cinematic Presentations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-15-essential-gaming-capture-programs/"><u>In 2024, 15 Essential Gaming Capture Programs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 12 mini</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-latest-driver-for-your-epson-wf-2750/"><u>Install the Latest Driver for Your Epson WF-2750</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-access-to-latest-surface-book-drivers-and-updates/"><u>Quick Access to Latest Surface Book Drivers and Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-canon-mg3620-printing-drivers-safely/"><u>Step-by-Step Guide to Downloading Canon MG3620 Printing Drivers Safely</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-your-hp-officejet-4500-printer-driver/"><u>Step-by-Step Guide to Downloading Your HP OfficeJet 4500 Printer Driver</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stepwise-deletion-of-previous-chatgpt-data/"><u>Stepwise Deletion of Previous ChatGPT Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-chatgpts-default-features/"><u>The Role of ChatGPT's Default Features</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-logitech-m310-a-step-by-step-guide/"><u>Updating Your Logitech M310: A Step-by-Step Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

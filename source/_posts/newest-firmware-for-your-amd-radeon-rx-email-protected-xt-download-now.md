@@ -1,7 +1,7 @@
 ---
 title: Newest Firmware for Your AMD Radeon RX ([Email Protected]) XT - Download Now!
-date: 2024-12-09T20:30:19.326Z
-updated: 2024-12-16T20:39:25.128Z
+date: 2024-12-24T17:20:27.981Z
+updated: 2024-12-25T17:07:44.184Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 
  Your MSI X470 GAMING PLUS motherboard is packed with exclusive gaming features, offering the best possible gaming experience. To make sure your motherboard is working properly, it’s important to keep the drivers for your motherboard up to date. But how to update your MSI X470 GAMING PLUS driver?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: The traditional way
 
  You can download the motherboard drivers from its[official manufacturer website](https://www.msi.com/Motherboard/support/X470-GAMING-PLUS#down-driver) and install them manually.
@@ -28,20 +32,16 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 2. Expand each category and download the driver accordingly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/driver-list.jpg)
 3. Extract the downloaded file and run the driver installation application. You may need to run it as an administrator to do this. While some of the drivers require you to install it in Device manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once complete, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update all MSI X470 GAMING PLUS automatically (Recommended)
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 4. Restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,22 +94,24 @@ thumbnail: https://thmb.techidaily.com/abb037fb1e94f759471049583ead053b2f01326e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-examining-the-economic-impact-of-mr-beast/"><u>[New] In 2024, Examining the Economic Impact of Mr. Beast</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-excellent-4k-capture-gear-the-18-best-ones/"><u>[New] In 2024, Excellent 4K Capture Gear - The 18 Best Ones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-culinary-kings-and-queens-youtube-food-experts/"><u>[Updated] Culinary Kings & Queens YouTube Food Experts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-chronological-counterflow-technique-for-snapchat/"><u>[Updated] In 2024, The Chronological Counterflow Technique for Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-a-guide-to-coloring-composition-with-confidence/"><u>2024 Approved A Guide to Coloring Composition with Confidence</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-free-gigabyte-audio-drivers-today/"><u>Download Free Gigabyte Audio Drivers Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969906436-get-your-corsair-keyboard-up-and-running-on-windows-with-these-safe-driver-downloads/"><u>Get Your Corsair Keyboard Up & Running on Windows with These Safe Driver Downloads!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973941949-get-your-csr-bluetooth-chip-drivers-here/"><u>Get Your CSR Bluetooth Chip Drivers Here!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-magic-5-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 5 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-premium-cameras-perfect-for-podcasts/"><u>In 2024, Premium Cameras Perfect for Podcasts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-logitech-gaming-mouse-g203-software-on-windows-pcs-windows-71011/"><u>Install Logitech Gaming Mouse G203 Software on Windows PCs (Windows 7/10/11)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-stop-motion-works-the-ultimate-15-selection-for-2024/"><u>Premier Stop-Motion Works The Ultimate 15 Selection for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-dell-laptop-model-d3100-with-the-newest-drivers/"><u>Step-by-Step Guide to Updating DELL Laptop Model D3100 with the Newest Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-finding-the-correct-epson-xp-245-software-for-windows-7810/"><u>Step-by-Step Guide: Finding the Correct Epson XP 245 Software for Windows 7/8/10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-complete-walkthrough-for-installing-logitech-mx-software-on-your-device/"><u>The Complete Walkthrough for Installing Logitech MX Software on Your Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974095428-update-or-download-free-killer-wi-fi-drivers-on-windows-11-8-and-7-get-enhanced-connectivity-today/"><u>Update or Download Free Killer Wi-Fi Drivers on Windows 11, 8 & 7: Get Enhanced Connectivity Today</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-streamlining-your-workflow-our-selection-of-the-6-best-automatic-transcription-programs/"><u>Updated 2024 Approved Streamlining Your Workflow Our Selection of the 6 Best Automatic Transcription Programs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dji-mavic-pro-vs-gopro-karma/"><u>[New] In 2024, Dji Mavic Pro Vs GoPro Karma</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-capturing-seconds-extended-a-comprehensive-review-of-slomo-2024/"><u>[Updated] Capturing Seconds Extended A Comprehensive Review of SloMo, 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-8-pitfalls-for-novice-youtube-creators/"><u>2024 Approved Top 8 Pitfalls for Novice YouTube Creators</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/accessing-nvidias-generative-ai-for-your-projects/"><u>Accessing NVIDIA's Generative AI for Your Projects</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-acers-official-wifi-driver-for-free-today/"><u>Download Acer's Official WiFi Driver for Free Today!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10s-nvidiaintel-switchable-card-issue/"><u>Fixing Windows 10'S Nvidia/Intel Switchable Card Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-graphics-performance-for-your-amd-rx-480-with-easy-driver-downloads/"><u>Get the Latest Graphics Performance for Your AMD RX 480 with Easy Driver Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-download-and-update-your-windows-rndis-drivers-solved/"><u>How to Effortlessly Download & Update Your Windows RNDIS Drivers [SOLVED]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c12-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C12?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-1320-windows-compatible-driver-download-and-installation-guide/"><u>HP LaserJet 1320 Windows-Compatible Driver Download & Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-computers-visual-experience-download-and-install-nvidia-940mx-graphics-card-drivers-rtx/"><u>Improve Your Computer's Visual Experience: Download & Install Nvidia 940MX Graphics Card Drivers (RTX)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revitalize-your-pcs-webcam-in-windows-10-with-driver-updates/"><u>Revitalize Your PC's Webcam in Windows 10 with Driver Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/setting-up-your-western-digital-ses-usb-device-a-users-guide-updated-for-2011plus-models/"><u>Setting Up Your Western Digital SES USB Device: A User's Guide (Updated for 2011+ Models)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-your-system-with-the-latest-elan-smbus-driver-update-for-windows/"><u>Troubleshoot Your System with the Latest Elan SMBus Driver Update for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-audiophile-setup-with-free-gigabyte-audio-drivers-download-now/"><u>Upgrade Your Audiophile Setup with Free Gigabyte Audio Drivers - Download Now</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10s-forgotten-ui-elements-now-showing-up/"><u>Win10's Forgotten UI Elements: Now Showing Up</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-networking-made-simple-linking-windows-11-devices-to-a-wi-fi-router/"><u>Wireless Networking Made Simple: Linking Windows 11 Devices to a Wi-Fi Router</u></a></li>
 </ul></div>
 

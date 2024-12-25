@@ -1,7 +1,7 @@
 ---
 title: Install Up-to-Date Graphics Card Drivers for GTX 980 Ti
-date: 2024-12-10T20:37:22.212Z
-updated: 2024-12-16T19:13:12.324Z
+date: 2024-12-22T16:12:34.930Z
+updated: 2024-12-25T17:13:11.415Z
 tags:
   - win11
   - win10
@@ -105,25 +105,26 @@ Then restart your computer if you want.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-5-rapid-ways-to-access-obliviated-reddit-content-for-2024/"><u>[New] 5 Rapid Ways to Access Obliviated Reddit Content for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps-for-2024/"><u>[New] Charting Your Course in YouTubing Dodge These Top 8 Common Missteps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-lens-exploration-key-angles-to-elevate-your-photo-game/"><u>[New] IPhone Lens Exploration Key Angles to Elevate Your Photo Game</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-compliance-with-copyright-law-when-sharing-media-through-fb-for-2024/"><u>[Updated] Compliance with Copyright Law when Sharing Media Through FB for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram-for-2024/"><u>Capture & Share with Confidence A Step-by-Step Guide to Desktop Video Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-your-windows-pc/"><u>Download and Update Toshiba Dynabook Driver Software on Your Windows PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/driver-fixes-for-common-lg-monitor-compatibility-issues-in-windows-operating-systems/"><u>Driver Fixes for Common LG Monitor Compatibility Issues in Windows Operating Systems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-video-intro-templates-you-need-to-download-for-2024/"><u>Free Video Intro Templates You Need to Download for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-securely-download-and-setup-nexiq-usb-link-version-2-drivers/"><u>How to Securely Download & Setup Nexiq USB-Link Version 2 Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-newest-epson-v600-scan-software-for-free-download-now/"><u>Install the Newest Epson V600 Scan Software for Free - Download Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-version-of-canoscan-lide-220-driver-secure-download-and-comprehensive-installation-tips/"><u>Latest Version of CanoScan LiDE 220 Driver - Secure Download & Comprehensive Installation Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899840863-samsungs-next-smartphone-projected-price-points-release-date-and-leaked-tech-info-for-galaxy-s25/"><u>Samsung's Next Smartphone: Projected Price Points, Release Date & Leaked Tech Info for Galaxy S25!</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-4-ios-emulation-apps-where-do-you-start/"><u>Top 4 iOS Emulation Apps: Where Do You Start?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-updating-the-elan-smbus-driver-for-windows-systems/"><u>Troubleshooting & Updating the ELAN SMBus Driver for Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-non-detected-usb-peripherals-in-windows-11-explained/"><u>Troubleshooting Non-Detected USB Peripherals in Windows 11 Explained</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-and-mac-ffmpeg/"><u>Windows & Macにフルーツネクター - FFmpegを初心者も楽しめるようセットアップガイド</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds/"><u>[New] The FreeFrame Forum A Collector's Paradise for Budget-Friendly Backgrounds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos/"><u>[Updated] Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-driver-pack-for-enhanced-graphics-performance-msi-b350s-tomahawk-edition-with-support-on-win11-and-win7/"><u>Compatible Driver Pack for Enhanced Graphics Performance: MSI B350's Tomahawk Edition with Support on Win11 & Win7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-epson-perfection-v600-driver-setup-secure-and-reliable-source/"><u>Easy Epson Perfection V600 Driver Setup - Secure and Reliable Source</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-compatibility-how-to-secure-and-install-microsoft-surface-pro-4-drivers-for-optimal-windows-functionality/"><u>Effortless Compatibility: How to Secure and Install Microsoft Surface Pro 4 Drivers for Optimal Windows Functionality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/embrace-your-inner-cartoon-how-to-apply-snapchats-anime-effect/"><u>Embrace Your Inner Cartoon How To Apply Snapchat's Anime Effect</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-optimal-performance-with-updated-creative-webcam-drivers-for-windows/"><u>Ensure Optimal Performance with Updated Creative Webcam Drivers for Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-brother-scanner-driver-updates-now-available-for-windows-systems/"><u>Latest Brother Scanner Driver Updates Now Available for Windows Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists-for-2024/"><u>Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-thinkpad-t430-latest-driver-downloads-compatible-with-windows-11-10-and-7/"><u>Lenovo ThinkPad T430 - Latest Driver Downloads Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a14-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A14 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/red-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes-for-2024/"><u>Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-editors-companion-for-effective-video-cropping-for-2024/"><u>The Instagram Editor's Companion for Effective Video Cropping for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968420614-top-rated-free-motherboard-drivers-for-your-asus-rog-strix-z270-e-enhance-gaming-performance-now/"><u>Top-Rated Free Motherboard Drivers for Your ASUS ROG Strix Z270-E: Enhance Gaming Performance Now!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upgrade-options-enhance-cpu-and-gpu-speeds/"><u>Upgrade Options: Enhance CPU and GPU Speeds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/z270-gaming-mastery-secure-your-z270-carbon-drivers-today/"><u>Z270 Gaming Mastery: Secure Your Z270 Carbon Drivers Today!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

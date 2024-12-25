@@ -1,7 +1,7 @@
 ---
 title: "One-Click Canon PRO 100 Driver Setup: Comprehensive Guide for Windows Users"
-date: 2024-12-09T20:28:12.052Z
-updated: 2024-12-16T19:28:14.037Z
+date: 2024-12-20T16:06:17.039Z
+updated: 2024-12-25T17:28:19.646Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  By updating your ELAN SMBus driver to the latest version, you can keep your ELAN SMBus controller in good condition and avoid many unexpected computer issues in the future!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **To download and update ELAN SMBus Driver:**
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 3. Click **Update**  next to **ELAN SMBus Driver** to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000266.png)  
  You can do this for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,22 +73,16 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ssential-tools-free-online-youtuber-starters-for-2024/"><u>[New] Essential Tools Free Online Youtuber Starters for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-street-saga-best-gaming-matches-to-gta-v-for-2024/"><u>[New] Street Saga Best Gaming Matches to GTA V for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-times-up-rapid-tiktok-video-extraction-techniques/"><u>[Updated] 2024 Approved Time's Up Rapid TikTok Video Extraction Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/addressing-windows-not-stopping-generic-audio-issue/"><u>Addressing 'Windows Not Stopping Generic Audio' Issue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-step-by-step-installation-tutorial-linksys-wusb6300-network-adapter-drivers/"><u>Complete Step-by-Step Installation Tutorial: Linksys WUSB6300 Network Adapter Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-installing-acer-predator-xb271h-graphics-drivers/"><u>Fast and Simple Guide: Installing Acer Predator XB271H Graphics Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-equipped-with-the-latest-epson-artisan-1430-drivers-compatible-with-windows-11108/"><u>Get Equipped with the Latest Epson Artisan 1430 Drivers - Compatible With Windows 11/10/8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-official-sades-headset-drivers-fast-guaranteed-safety-on-windows-os/"><u>Get Your Official Sades Headset Drivers Fast: Guaranteed Safety on Windows OS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-lenovo-thinkpad-t430-driver-downloads-compatible-with-windows-11-8-7/"><u>Hassle-Free Guide to Lenovo ThinkPad T4^30 Driver Downloads Compatible With Windows 11 / 8 / 7</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-canon-eos-d530-firmware-upgrade-get-the-new-driver/"><u>Latest Canon EOS D530 Firmware Upgrade: Get the New Driver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-mx150-driver-update-for-windows-how-to-get-the-most-recent-version-today/"><u>NVIDIA MX150 Driver Update for Windows: How to Get the Most Recent Version Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/review-magix-editing-suite/"><u>Review MAGIX Editing Suite</u></a></li>
-<li><a href="https://video-capture.techidaily.com/saving-powerpoint-presentation-to-video-for-2024/"><u>Saving PowerPoint Presentation to Video for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-essential-guide-to-blurring-video-borders-in-teams-for-2024/"><u>The Essential Guide to Blurring Video Borders in Teams for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-wacom-cintiq-graphics-tablet-fast-install-guide/"><u>Update Your Wacom CintiQ Graphics Tablet: Fast Install Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/yakuza-like-a-dragon-review-why-you-cant-miss-out-on-this-epic-rpg-adventure/"><u>Yakuza: Like A Dragon Review - Why You Can't Miss Out on This Epic RPG Adventure</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-access-royalty-free-beats-for-your-vlog-and-more/"><u>[New] Access Royalty-Free Beats for Your Vlog & More</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-secrets-to-sustaining-high-view-count-in-youtube-videos/"><u>[New] Secrets to Sustaining High View Count in YouTube Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elite-systems-unveiled-the-best-of-the-bunch/"><u>[Updated] Elite Systems Unveiled - The Best of the Bunch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-inside-look-at-instagrams-subtle-yet-powerful-features/"><u>[Updated] In 2024, Inside Look at Instagram's Subtle Yet Powerful Features</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-dual-mode-displays-value-in-pc-gaming/"><u>Assessing Dual-Mode Display's Value in PC Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-6968-drivers-for-your-computer-today/"><u>Get the Latest HP OfficeJet Pro 6968 Drivers for Your Computer Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-get-your-rs232-driver-downloads-from-usb-in-minutes/"><u>Instant Access: Get Your RS232 Driver Downloads From USB in Minutes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722957482635-speedy-links-secure-your-network-with-linksys-wrt32x-firmware-download-now/"><u>Speedy Links: Secure Your Network with Linksys WRT32X Firmware - Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-finding-your-compatible-roccat-mouse-drivers-online-free/"><u>Ultimate Guide to Finding Your Compatible Roccat Mouse Drivers Online – Free!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-productivity-chatgpt-for-effective-time-utilization/"><u>Unlocking Productivity: ChatGPT for Effective Time Utilization</u></a></li>
 </ul></div>
 

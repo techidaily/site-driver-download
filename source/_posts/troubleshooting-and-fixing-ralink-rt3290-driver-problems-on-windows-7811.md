@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Ralink RT3290 Driver Problems on Windows 7/8/11
-date: 2024-12-10T18:48:00.637Z
-updated: 2024-12-16T20:52:42.921Z
+date: 2024-12-20T16:24:06.093Z
+updated: 2024-12-25T16:00:57.437Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to download and update your Ralink RT3290 driver**
 
  You can download and update the Ralink RT3290 driver either automatically and manually:
@@ -29,7 +33,7 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
@@ -47,16 +51,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -65,6 +65,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 **Option 1** can be applied to all versions of Windows. Still, if you opt to download and update your Ralink RT3290 driver manually, please read on and try Option 2 (it only works for Windows 8 and Windows 7).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
@@ -81,7 +85,7 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -101,10 +105,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -148,22 +148,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-comprehensive-guide-to-photo-to-video-conversion-via-pixiz/"><u>[Updated] In 2024, Comprehensive Guide to Photo-to-Video Conversion via Pixiz</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-key-top-5-agile-camcorders-for-adventure-selections/"><u>[Updated] Key Top 5 Agile Camcorders for Adventure Selections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-beam-wise-video-setups-expert-strategies-to-shine/"><u>2024 Approved Beam-Wise Video Setups Expert Strategies to Shine</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-your-macro-videos-a-comprehensive-checklist/"><u>Elevating Your Macro Videos A Comprehensive Checklist</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-new-blue-snowball-driver-version-now-with-this-easy-windows-update-process/"><u>Get the New Blue Snowball Driver Version Now with This Easy Windows Update Process</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-graphics-driver-for-windows-10-quick-and-secure-update-process/"><u>Get the Newest Nvidia Quadro Graphics Driver for Windows 10 – Quick and Secure Update Process</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972784260-get-your-hands-on-the-latest-qualcomm-atheros-ar3011-bluetooth-v3-driver-now/"><u>Get Your Hands on the Latest Qualcomm Atheros AR3011 Bluetooth V3 Driver Now</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-tecno-spark-go-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Spark Go (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-launching-your-first-product-critique-network-a-step-by-step-guide/"><u>In 2024, Launching Your First Product Critique Network A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-the-development-process-behind-microsofts-classic-3d-pipes-screen-saver/"><u>Inside the Development Process Behind Microsoft's Classic 3D Pipes Screen Saver</u></a></li>
-<li><a href="https://driver-download.techidaily.com/m-audio-fast-track-drivers-complete-guide-to-download-for-windows-107881/"><u>M-Audio Fast Track Drivers: Complete Guide to Download for Windows 10/7/8/8.1</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969874832-ralink-rt3290-driver-troubles-in-windows-1087-here-are-the-solutions/"><u>Ralink RT3290 Driver Troubles in Windows 10/8/7? Here Are the Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sunbritetv-55-inch-outdoor-masterpiece-a-fearless-4k-hd-tv-with-exceptional-hdr-display/"><u>SunBriteTV 55 Inch Outdoor Masterpiece: A Fearless 4K HD TV with Exceptional HDR Display</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-selection-of-cost-free-high-quality-video-editors-for-2024/"><u>The Ultimate Selection of Cost-Free, High-Quality Video Editors for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-made-easy-replacing-outdated-sharp-printer-drivers-on-a-windows-system/"><u>Troubleshooting Made Easy: Replacing Outdated Sharp Printer Drivers on a Windows System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-nvidia-geforce-rtx-3070-drivers-compatible-with-windows-1110-systems/"><u>Updating NVIDIA GeForce RTX 3070 Drivers: Compatible with Windows 11/10 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-webcam-drivers-on-windows-11-a-step-by-step-guide/"><u>Updating Your Webcam Drivers on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits/"><u>[New] In 2024, Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vanguard-enterprises-of-spatial-display-tech/"><u>[New] Vanguard Enterprises of Spatial Display Tech</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oom-in-how-to-sequentially-play-youtube-videos-for-free/"><u>[New] Zoom In How to Sequentially Play YouTube Videos for Free</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-leap-over-a-thousand-followers-on-youtube-quickly/"><u>[Updated] In 2024, Leap Over a Thousand Followers on YouTube Quickly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-voice-recording-made-easy-with-ipad-for-2024/"><u>[Updated] Professional Voice Recording Made Easy with iPad for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-influencing-cultures-through-memetic-expression/"><u>2024 Approved Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-realme-c53-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Realme C53</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-lenovo-x240-driver-update-tips-get-started-today/"><u>Effortless Lenovo X240 Driver Update Tips - Get Started Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-typing-experience-secure-logitech-mk70mk710-driver-downloads-and-updates/"><u>Enhance Your Typing Experience: Secure Logitech MK70/MK710 Driver Downloads and Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-techkey-bluetooth-adapter-drivers-supports-win10-win7-and-win8/"><u>Get Your Techkey Bluetooth Adapter Drivers: Supports Win10, Win7, and Win8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-hp-p1606dn-laptop-or-desktop-printers-drivers/"><u>How to Find & Update Your HP P1606dn Laptop or Desktop Printer's Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-most-recent-version-of-magiccard-rio-professional-driver-software-on-your-windows-pc/"><u>Install the Most Recent Version of Magiccard Rio Professional Driver Software on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/magicard-rio-expert-driver-install-pack-updated-version-for-all-windows-users-including-win-10-81-and-7/"><u>Magicard Rio Expert Driver Install Pack | Updated Version for All Windows Users Including Win 10, 8.1 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-fixes-for-the-malfunctioning-igfxem-graphics-module/"><u>Resolved: Fixes for the Malfunctioning igfxEM Graphics Module</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-generating-word-mailing-labels-using-your-excel-spreadsheet/"><u>Step-by-Step Guide: Generating Word Mailing Labels Using Your Excel Spreadsheet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-and-download-updated-drivers-for-amd-vega-64-under-windows-operating-systems-fixed/"><u>Troubleshoot and Download Updated Drivers for AMD Vega 64 Under Windows Operating Systems - FIXED</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970217687-unlock-full-potential-of-your-logitech-g402-with-the-newest-software-version/"><u>Unlock Full Potential of Your Logitech G402 with the Newest Software Version!</u></a></li>
 </ul></div>
 

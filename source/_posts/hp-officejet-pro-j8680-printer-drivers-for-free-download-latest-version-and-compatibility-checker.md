@@ -1,7 +1,7 @@
 ---
 title: HP OfficeJet Pro J8680 Printer Drivers for Free Download - Latest Version & Compatibility Checker
-date: 2024-12-10T16:20:45.483Z
-updated: 2024-12-16T18:58:25.018Z
+date: 2024-12-22T16:55:48.225Z
+updated: 2024-12-25T16:01:29.646Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Elo touch screen driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: Update your Elo touch screen driver automatically
@@ -42,15 +42,11 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap173-1.png)
 3. Click **Update**  next to your Elo touch screen to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap174.png)  
  You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -64,22 +60,26 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap175.png)
 3. Click**Select Product Category** . Then select**Touch Drivers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap176-2.png)
 4. Click**Select Operating System** . Then select the OS you’re currently using.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap178.png)
 5. Click the driver you want to download to download it to your PC. Make sure you download the right driver for your Elo touch screen.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Snap179.png)
 6. **Double-click** the downloaded driver file and follow the on-screen instruction to install it on your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have any questions or suggestions, please leave your comment below.
 
@@ -101,16 +101,24 @@ thumbnail: https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-engagement-a-compendium-of-the-top-20-youtube-hacks-for-2024/"><u>[Updated] Mastering Engagement A Compendium of the Top 20 YouTube Hacks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube-in-2024/"><u>Content Choice Conundrum Is Podcasting Right, Or Should You Go for YouTube, In 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-amd-gpu-drivers-for-new-windows-11-systems-rtx-3060-ti-edition/"><u>Download Updated AMD GPU Drivers for New Windows 11 Systems: RTX 3060 Ti Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/downloading-the-logitech-brio-webcam-drivers-compatible-with-windows-1087/"><u>Downloading the Logitech Brio Webcam Drivers Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-et-am2750-ready-free-windows-printer-driver-downloads-and-installation-instructions/"><u>Get Your Epson ET-Am2750 Ready: Free Windows Printer Driver Downloads & Installation Instructions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-speed-change-audio-utilities-list/"><u>In 2024, Leading Speed-Change Audio Utilities List</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-netgear-a6100-running-smoothly-with-updated-windows-drivers/"><u>Keep Your Netgear A6100 Running Smoothly with Updated Windows Drivers!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-top-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>The Top Social Media Giants: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://driver-download.techidaily.com/toshiba-bluetooth-software-upgrade-free-downloads-available/"><u>Toshiba Bluetooth Software Upgrade - Free Downloads Available</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-gtfo-application-disruptions-efficiently/"><u>Understanding and Resolving GTFO Application Disruptions Efficiently</u></a></li>
-<li><a href="https://driver-install.techidaily.com/winrtx-3090-ti-performance-enhancer/"><u>WinRTX 3090 Ti Performance Enhancer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-screen-record-on-mac-for-2024/"><u>[New] How to Screen Record on Mac for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-picture-in-picture-unveiled-your-guide-to-firefoxs-pip-for-2024/"><u>[New] Picture-in-Picture Unveiled Your Guide to Firefox’s PIP for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-productivity-boosters-while-binge-listening-to-podcasts-for-2024/"><u>[New] Productivity Boosters While Binge-Listening to Podcasts for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-professional-earnings-forecaster-for-tiktok-creators/"><u>[New] Professional Earnings Forecaster for TikTok Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-celestial-vision-high-definition-touch-screens/"><u>[Updated] 2024 Approved Celestial Vision High Definition Touch Screens</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-commanding-the-screen-top-10-women-gamers-yt-for-2024/"><u>[Updated] Commanding the Screen Top 10 Women Gamers YT for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-rx-6800-xt-windows-111087-drivers-enhance-your-gaming-experience-free/"><u>AMD RX 6800 XT Windows 11/10/8/7 Drivers - Enhance Your Gaming Experience [Free]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/answers-to-common-problems-downloading-and-updating-your-mouse-driver-for-windows-7-easily/"><u>Answers to Common Problems: Downloading & Updating Your Mouse Driver for Windows 7 Easily</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-asus-bt500-bluetooth-50-usb-dongle-driver-for-windows-11-10-and-8/"><u>Download Asus BT500 Bluetooth 5.0 USB Dongle Driver for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-kyocera-printer-drivers-for-windows-platforms/"><u>Get the Latest KYOCERA Printer Drivers for Windows Platforms</u></a></li>
+<li><a href="https://driver-download.techidaily.com/grab-your-samsung-m2070fw-drivers-instantly-quick-guide-for-smooth-operations/"><u>Grab Your Samsung M2070FW Drivers Instantly: Quick Guide for Smooth Operations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-wi-fi-drivers-in-windows-11-and-10/"><u>How to Update Wi-Fi Drivers in Windows 11 & 10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-expert-strategies-to-elevate-your-gopro-footage/"><u>In 2024, Expert Strategies to Elevate Your GoPro Footage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-and-twitch-expand-your-viewership-with-multi-streaming-techniques/"><u>In 2024, Mastering YouTube & Twitch Expand Your Viewership with Multi-Streaming Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/is-it-time-to-upgrade-from-your-current-ipad-version/"><u>Is It Time to Upgrade From Your Current iPad Version?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-supported-drivers-for-80211n-wifi-devices-on-windows-download-for-windows-11-10-8-and-aturate-your-device-with-the-most-recent-drivers/"><u>Latest Supported Drivers for 802.11N WiFi Devices on Windows: Download for Windows 11, 10, 8 & Aturate Your Device with the Most Recent Drivers!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/stealthy-methods-to-watch-unseen-stories-for-2024/"><u>Stealthy Methods to Watch Unseen Stories for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-drivers-for-your-surface-book-fast-and-easy-access-now/"><u>Up-to-Date Drivers for Your Surface Book - Fast & Easy Access Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972196218-upgrade-with-ease-essential-zebra-gk420d-printed-circuit-board-drivers-download-here/"><u>Upgrade with Ease: Essential Zebra GK420D Printed Circuit Board Drivers – Download Here</u></a></li>
 </ul></div>
 
