@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2024-12-20T17:22:34.640Z
-updated: 2024-12-25T16:23:31.299Z
+date: 2024-12-28T20:01:01.316Z
+updated: 2025-01-03T19:49:37.108Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
  You can not only keep your Surface Book 2 in good condition but also avoid many unexpected computer issues after updating its drivers to the latest version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **There are two methods to download & update the drivers for your Surface Book 2:**
 
 [**Method 1 – Manually:**](https://tools.techidaily.com/drivereasy/download/) You can download and update the drivers for your Surface Book 2 on your own. This requires some time, patience, and sometimes even computer skills.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
@@ -46,11 +42,15 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
@@ -77,12 +77,12 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -106,24 +106,17 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-a-comparative-analysis-of-macs-best-snipping-tools/"><u>[New] In 2024, A Comparative Analysis of Mac's Best Snipping Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrams-best-but-unseen-your-guide/"><u>[New] Instagram's Best, But Unseen - Your Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mp560-driver-download-and-update-quickly-and-easily/"><u>Canon MP560 Driver Download & Update | Quickly & Easily</u></a></li>
-<li><a href="https://ai-video.techidaily.com/capturing-moments-kids-laughter/"><u>Capturing Moments, Kids Laughter</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-intel-iris-xe-graphics-g1-driver-v39720-compatible-with-windows-11/"><u>Download Intel Iris Xe Graphics G1 Driver v39.720 - Compatible with Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974003911-efficient-setup-for-your-samsung-m2070-download-the-latest-drivers-today/"><u>Efficient Setup for Your Samsung M2070 - Download the Latest Drivers Today!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/get-liked-faster-on-tinder-clever-bio-tricks-that-work/"><u>Get Liked Faster on Tinder Clever Bio Tricks That Work</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-wf-3540-windows-driver-free-downloads-available/"><u>Get the Latest Epson WF-3540 Windows Driver - Free Downloads Available</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-most-recent-hp-laserjet-m514-driver-update-for-optimal-performance/"><u>How to Get the Most Recent HP LaserJet M514 Driver Update for Optimal Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-preview-fullscreen-mastery-with-premiere-pro/"><u>In 2024, Perfect Your Preview Fullscreen Mastery with Premiere Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-c51-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme C51 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-caught-in-data-recovery-cycle-mastering-fixes-to-restore-functionality/"><u>IPhone Caught in Data Recovery Cycle? Mastering Fixes to Restore Functionality</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-compatibility-hurdles-ensuring-your-pc-detects-the-tl-wn722n-card-in-windows/"><u>Overcoming Compatibility Hurdles: Ensuring Your PC Detects the TL-WN722N Card in Windows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/scripting-signal-sequences-for-2024/"><u>Scripting Signal Sequences for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/successful-intel-optane-drive-installation-downloading-and-updating-drivers-on-windows/"><u>Successful Intel Optane Drive Installation: Downloading and Updating Drivers on Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unraveling-the-imovie-video-edge-policy-for-2024/"><u>Unraveling the iMovie Video Edge Policy for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969374124-update-your-intel-integrated-graphics-on-windows-get-fresh-drivers-now/"><u>Update Your Intel Integrated Graphics on Windows: Get Fresh Drivers Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-surface-book-2-drivers-easy-steps-for-a-smooth-experience/"><u>Update Your Surface Book 2 Drivers: Easy Steps for a Smooth Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-aquatic-cinematography-with-these-7-essential-strategies-for-2024/"><u>[Updated] Mastering Aquatic Cinematography with These 7 Essential Strategies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-how-much-video-can-64gb128gb-holds/"><u>2024 Approved How Much Video Can 64GB/128GB Holds?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/channel-cash-crusade-harnessing-every-device-with-yt-studio/"><u>Channel Cash Crusade Harnessing Every Device with YT Studio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-iphone-fixes-suite-your-ultimate-guide-to-solving-all-ios-issues/"><u>Comprehensive iPhone Fixes Suite: Your Ultimate Guide to Solving All iOS Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-officejet-inkjet-5740-printer-driver-compatible-with-windows-11-10-and-8/"><u>Download HP Officejet Inkjet 5740 Printer Driver: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-connectivity-with-newest-thunderbolt-3-driver-downloads-compatible-with-win-1087/"><u>Enhance Your PC's Connectivity with Newest Thunderbolt 3 Driver Downloads – Compatible with Win 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978073007-free-audio-upgrade-with-the-m-audio-fast-track-ultra-start-today/"><u>Free Audio Upgrade with the M-Audio Fast Track Ultra – Start Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Without iTunes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-hp-deskjet-ink-advantage-3520-find-the-right-drivers-here/"><u>Installing HP Deskjet Ink Advantage ˈ3520': Find the Right Drivers Here</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-the-most-recent-updates-hp-deskjet-2700-printer-driver-software-downloads/"><u>Secure the Most Recent Updates - HP DeskJet 2700 Printer Driver Software Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-gaming-experience-with-the-latest-nvidia-graphics-driver-supporting-windows-1110/"><u>Upgrade Your Gaming Experience with the Latest Nvidia Graphics Driver Supporting Windows 11/10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Process: Keeping Your Monitor Drivers Current with Windows Support"
-date: 2024-12-18T16:57:15.255Z
-updated: 2024-12-25T16:37:58.189Z
+date: 2025-01-01T21:01:37.234Z
+updated: 2025-01-04T00:08:49.088Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 [**Download Drivers with just 2 Clicks**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How to Download the Drivers from NVIDIA Manually**
@@ -33,16 +33,12 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![NVIDIA Drivers](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ccd935a0f0a.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Under Option 1, select “Product Type” to**GeForce** , “Product Series” to**GeForce 10 Series** , “Product” to**Geforce GTX 1080** , then select the Operating System to the specific version that you are using (Windows 10 32-bit or Windows 10 64-bit). If you are not sure what Windows version that you have, see[How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
@@ -52,13 +48,13 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Download Drivers with just 2 Clicks**
@@ -68,6 +64,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within 20 seconds and find new drivers for your instantly.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Click**Update** button to download the driver that you wish to install.
 
@@ -90,15 +90,22 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-nintendos-best-hd-recorders-for-enthusiasts/"><u>[New] 2024 Approved Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-and-save-with-ease-top-5-pc-snipers-reviewed-for-2024/"><u>[New] Capture & Save with Ease Top 5 PC Snipers Reviewed for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-filmmakers-toolkit-for-dynamic-video-colors/"><u>[New] In 2024, The Filmmaker's Toolkit for Dynamic Video Colors</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>[New] The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sculpting-shareable-online-laughter/"><u>[Updated] 2024 Approved Sculpting Shareable Online Laughter</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-illuminate-your-images-adding-life-with-illustrator-motion-for-2024/"><u>[Updated] Illuminate Your Images Adding Life with Illustrator Motion for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-most-recent-nvidia-rtx-2070-drivers-supporting-win10-8-and-7-platforms/"><u>Download the Most Recent NVIDIA RTX 2070 Drivers Supporting Win10, 8 & 7 Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-update-instructions-for-your-razer-mouse-on-different-windows-platforms/"><u>Easy Update Instructions for Your Razer Mouse on Different Windows Platforms</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-ensure-optimal-performance-upgrading-ati-radeon-graphics-drivers-on-windows-machines/"><u>How To Ensure Optimal Performance: Upgrading ATI Radeon Graphics Drivers on Windows Machines</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977595968-quick-and-simple-way-to-download-and-upgrade-your-canon-printer-drivers-for-windows-pcs/"><u>Quick & Simple Way to Download & Upgrade Your Canon Printer Drivers for Windows PCs!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kissanime/"><u>完全なKissAnimeダウンロードマスタリーと、不可視ディテール対策を一刀両断！</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-vivo-y27s-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Vivo Y27s</u></a></li>
+<li><a href="https://driver-download.techidaily.com/choosing-freedom/"><u>Choosing Freedom</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-epson-wf-3540-printer-drivers-for-windows-users/"><u>Easy Installation of Epson WF-3540 Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-keeping-your-epson-xp-640-running-windows-driver-update-tips/"><u>Easy Instructions for Keeping Your Epson XP-640 Running: Windows Driver Update Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortlessly-install-microsoft-wireless-mouse-5000-how-to-secure-your-essential-drivers-fast/"><u>Effortlessly Install: Microsoft Wireless Mouse 5000 | How to Secure Your Essential Drivers Fast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967189649-fast-track-get-your-amd-ryzen-5-2600-gpu-drivers-installed-today/"><u>Fast Track: Get Your AMD Ryzen 5 2600 GPU Drivers Installed Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-newest-acer-fusion-drive-e5-1200ge5-1200t-w570-touchpad-compatible-with-win11-free-drivers-here/"><u>Get Your Newest Acer Fusion Drive, E5-1200G/E5-1200T, W570 Touchpad Compatible with Win11 – Free Drivers Here</u></a></li>
+<li><a href="https://os-tips.techidaily.com/handheld-gaming-on-steam-without-the-necessity-of-a-steam-deck/"><u>Handheld Gaming on Steam Without the Necessity of a Steam Deck</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/hashtag-hype-unveiling-twitters-toptiktok-videos-for-2024/"><u>Hashtag Hype Unveiling Twitter's #TopTikTok Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-high-speed-video-snapshots-avoid-technical-hurdles/"><u>In 2024, High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-tp-link-wifi-network-adapter-drivers-for-windows-operating-systems-windows-1187/"><u>Latest TP-Link WiFi Network Adapter Drivers for Windows Operating Systems: Windows 11/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-intel-hd-graphics-630-driver-challenges-in-windows-a-step-by-step-solution-guide/"><u>Overcoming Intel HD Graphics 630 Driver Challenges in Windows: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/premium-laps-top-match-up-samsung-galaxy-book-2-ultra-takes-on-apples-macbook-pro-in-a-high-stakes-tech-battle/"><u>Premium Laps Top Match-Up: Samsung Galaxy Book 2 Ultra Takes on Apple's MacBook Pro in a High Stakes Tech Battle</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-exclusive-8-iphone-shoot-out-gear-on-sale-final-deals-of-cyber-monday-event-zdnet/"><u>Secure Your Exclusive $8 iPhone Shoot-Out Gear on Sale - Final Deals of Cyber Monday Event | ZDNET.</u></a></li>
+<li><a href="https://win-studio.techidaily.com/solucion-al-problema-de-migracion-entre-dispositivos-errores-resueltos-en-transferencia-de-google-y-samsung/"><u>Solución Al Problema De Migración Entre Dispositivos: Errores Resueltos en Transferencia De Google Y Samsung</u></a></li>
 </ul></div>
 

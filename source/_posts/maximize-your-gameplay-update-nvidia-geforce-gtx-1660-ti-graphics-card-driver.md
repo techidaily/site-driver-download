@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Gameplay: Update NVIDIA GeForce GTX 1660 Ti Graphics Card Driver"
-date: 2024-12-19T16:56:29.756Z
-updated: 2024-12-25T17:11:33.187Z
+date: 2024-12-31T01:07:09.192Z
+updated: 2025-01-03T21:44:33.988Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ There are two ways to update your Nvidia display driver.
 [**Option 2 – Automatically (Recommended)**](https://www.drivereasy.com/knowledge/nvidia-display-driver-download-and-install-for-windows/#o2) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Download and install the Nvidia display driver manually
@@ -34,7 +34,7 @@ There are two ways to update your Nvidia display driver.
  Once you’ve downloaded the correct display driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Nvidia display driver
@@ -47,14 +47,14 @@ There are two ways to update your Nvidia display driver.
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bacace00b167.jpg)  
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [driver](https://tools.techidaily.com/drivereasy/download/)
@@ -74,20 +74,22 @@ There are two ways to update your Nvidia display driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-guide-to-incorited-visuals-in-text-without-cost/"><u>[Updated] In 2024, Guide to Incorited Visuals in Text Without Cost</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-setup-official-corsair-k70-mouse-control-programs/"><u>Download & Setup: Official Corsair K70 Mouse Control Programs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-solved-ghostrunner-critical-crashes-in-windows-10/"><u>Fixing the [Solved]: GhostRunner Critical Crashes in Windows 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-nvidia-quadro-rtx-groovy-download-for-windows-1187-systems-now/"><u>Get Your Nvidia Quadro RTX Groovy Download for Windows 11/8/7 Systems Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-logitech-extreme-3d-pro-driver-upgrade-a-step-by-step-guide/"><u>How to Install the Latest Logitech Extreme 3D Pro Driver Upgrade: A Step-by-Step Guide |</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-clip-on-lens-accessories-and-stabilizers/"><u>In 2024, Clip-On Lens Accessories and Stabilizers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/linksys-ae2500-update-easy-download-of-your-routers-newest-driver-software/"><u>Linksys AE2500 Update - Easy Download of Your Router's Newest Driver Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/msi-z370-a-pro-motherboard-essential-driver-downloads/"><u>MSI Z370-A PRO Motherboard: Essential Driver Downloads</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-your-microphone-setup-fixing-voice-chat-glitches-in-sea-of-thieves-pc/"><u>Optimizing Your Microphone Setup: Fixing Voice Chat Glitches in Sea of Thieves (PC)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-driver-update-for-your-microsoft-sculpt-ergonomic-keyboard/"><u>Step-by-Step Driver Update for Your Microsoft Sculpt Ergonomic Keyboard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-art-of-connectivity-seamless-bose-soundlink-speaker-pairing-techniques/"><u>The Art of Connectivity: Seamless Bose Soundlink Speaker Pairing Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-link-re-link-issues-in-granblue-fantasy-for-windows/"><u>Troubleshooting Steps to Resolve Link Re-Link Issues in Granblue Fantasy for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-updating-your-razer-blade-17-graphics-and-chipset-drivers-on-windows-11-10-8-and-7/"><u>Ultimate Guide: Updating Your Razer Blade 17 Graphics and Chipset Drivers on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/unleash-the-star-within-elevate-your-karaoke-experience-subscription-with-top-tier-audio-mixers-at-karaoke-cloud-pro/"><u>Unleash the Star Within: Elevate Your Karaoke Experience Subscription with Top-Tier Audio Mixers at Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-youtube-thumbnails-made-simple/"><u>[New] 2024 Approved Enhance Visibility YouTube Thumbnails Made Simple</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-amd-vega-graphics-card-drivers-optimize-gaming-performance/"><u>Download & Update AMD Vega Graphics Card Drivers - Optimize Gaming Performance</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expanding-capabilities-with-cloud-based-ocr-sdks-insights-from-the-abbyy-experts/"><u>Expanding Capabilities with Cloud-Based OCR SDKs – Insights From the ABBYY Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-lenovo-legion-7i-gen9-review-exceptional-laptop-performance-beyond-expectations/"><u>Exploring the Lenovo Legion 7I Gen9 Review: Exceptional Laptop Performance Beyond Expectations!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/for-the-abstract-art-assembly-instructions/"><u>For the Abstract Art Assembly Instructions:</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-optimized-logitech-g-pro-wireless-mouse-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Optimized Logitech G Pro Wireless Mouse Drivers for Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-helldivers-2-msvcr110dll-not-found-error/"><u>How to Fix Helldivers 2 MSVCR110.dll Not Found Error</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-perform-amd-graphics-card-updates-on-windows-10-11-and-7/"><u>How to Perform AMD Graphics Card Updates on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-geforce-210-drivers-for-windows-11/"><u>Install the Newest Nvidia GeForce 지오라인드210 드라이버스(Drivers) for Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/integrating-timestamps-in-youtube-content-for-2024/"><u>Integrating Timestamps in YouTube Content for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-fix-for-realtek-integrated-graphics-driver-concerns-now-resolved/"><u>Step-by-Step Fix for Realtek Integrated Graphics Driver Concerns - Now Resolved!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-winning-transforming-your-pc-into-a-powerhouse-for-ps1-gaming/"><u>The Key to Winning: Transforming Your PC Into a Powerhouse for PS1 Gaming</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/top-12-action-cams-with-precision-global-locating-systems-for-2024/"><u>TOP 12 Action Cams with Precision Global Locating Systems for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-resolving-issues-with-amd-radeon-driver-updates/"><u>Troubleshooting: Resolving Issues with AMD Radeon Driver Updates</u></a></li>
+<li><a href="https://driver-download.techidaily.com/z270-gaming-pro-motherboard-carbon-exclusive-free-download-with-advanced-connectivity/"><u>Z270 Gaming Pro Motherboard (Carbon) - Exclusive FREE Download with Advanced Connectivity</u></a></li>
 </ul></div>
 

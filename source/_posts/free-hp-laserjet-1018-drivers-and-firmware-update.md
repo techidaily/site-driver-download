@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2024-12-24T16:31:08.861Z
-updated: 2024-12-25T16:12:55.646Z
+date: 2025-01-01T18:41:30.440Z
+updated: 2025-01-03T22:33:35.854Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
  If you’d like to download or update your HP LaserJet 1018 driver, you’ve come to the right place. After reading this, you’ll know exactly what to do.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these methods
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 * **[Method 1 – Automatically update the HP LaserJet 1018 driver (Recommended)](https://www.drivereasy.com/knowledge/hp-laserjet-1018-driver-download-for-windows-7-8-10/#a)**
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -79,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -105,17 +105,20 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-symphony-of-streams-efficiently-uploading-melodies-for-2024/"><u>[Updated] Symphony of Streams Efficiently Uploading Melodies for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-g42-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia G42 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-newest-geforce-drivers-from-nvidia-boost-your-window-games-today/"><u>Download the Newest GeForce Drivers From Nvidia – Boost Your Window Games Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-upgrade-your-dymo-labelwriter-450/"><u>How to Seamlessly Upgrade Your Dymo LabelWriter 450</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-touchpad-driver-for-acer-notebooks-model-w130-w129-on-windows-11-free-download-now/"><u>Latest Touchpad Driver for Acer Notebooks (Model: W130, W129) on Windows 11 - Free Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-new-windows-11-system-with-intel-iris-graphics-drivers-v655/"><u>Optimize Your New Windows 11 System with Intel Iris Graphics Drivers V655</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/picture-perfect-support-portal-for-2024/"><u>Picture Perfect Support Portal for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-hp-monitor-driver-problems-in-windows-10-8-and-7/"><u>Resolving HP Monitor Driver Problems in Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solutions-for-optimizing-your-playerunknowns-battlegrounds-gameplay-on-desktop-systems/"><u>Solutions for Optimizing Your PLAYERUNKNOWN'S BATTLEGROUNDS Gameplay on Desktop Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-issue-how-to-restore-your-non-functional-windows-11-start-menu/"><u>Solving the Issue: How to Restore Your Non-Functional Windows 11 Start Menu</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-picks-unbeatable-prime-day-electronics-offers-best-laptops-of-october-2024-featured/"><u>Top Picks: Unbeatable Prime Day Electronics Offers - Best Laptops of October 2024 Featured</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-journey-discovering-top-online-practitioners/"><u>Yogic Journey Discovering Top Online Practitioners</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-needed-blank-display-on-mouse-input-device/"><u>[Fix Needed]: Blank Display on Mouse Input Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-exploring-the-future-together-top-vr-gear/"><u>[New] Exploring the Future Together Top VR Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-pc-gaming-capturing-your-adventures-on-win10-for-2024/"><u>[New] Mastering PC Gaming Capturing Your Adventures on Win10 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sail-through-smooth-sharing-with-instagram-troubleshooting-for-2024/"><u>[New] Sail Through Smooth Sharing with Instagram Troubleshooting for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-expandiert-globale-zugange-zu-ihren-ki-technologien-im-q4-2018/"><u>ABBYY Expandiert Globale Zugänge Zu Ihren KI-Technologien Im Q4 2018</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-drivers-for-the-dell-inspiron-15-on-windows-11/"><u>Compatible Drivers for the Dell Inspiron 15 on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-finding-and-installing-hp-laserjet-p30n-drivers-on-windows/"><u>Complete Guide to Finding & Installing HP LaserJet P30n Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-dell-monitor-software-updates-quick-and-effortless-downloads/"><u>Easy Dell Monitor Software Updates: Quick and Effortless Downloads</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-change-ogg-files-into-m4a-format-with-ease-movavis-guide/"><u>Free Online Converter: Change OGG Files Into M4A Format with Ease – Movavi's Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-workforce-ds-30-driver-installed-on-windows-1187-systems-today/"><u>Get Your Epson WorkForce DS-30 Driver Installed on Windows 11/8/7 Systems Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-ralink-network-adapter-drivers-on-your-pc/"><u>How to Successfully Update Ralink Network Adapter Drivers on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-x9b-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor X9b Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nixplay-seed-review-why-its-among-top-photo-displays/"><u>Nixplay Seed Review: Why It's Among Top Photo Displays</u></a></li>
+<li><a href="https://driver-download.techidaily.com/rtx-2080-super-graphics-card-drivers-free-download-and-update-guide-for-windows-11/"><u>RTX 2080 Super Graphics Card Drivers: Free Download and Update Guide for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-ftdi-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your FTDI Drivers on Windows</u></a></li>
 </ul></div>
 

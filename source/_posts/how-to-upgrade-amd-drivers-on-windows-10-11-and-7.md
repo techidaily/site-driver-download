@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade AMD Drivers on Windows 10, 11 & 7
-date: 2024-08-19T15:45:33.283Z
-updated: 2024-08-20T15:45:33.283Z
+date: 2025-01-02T18:18:26.390Z
+updated: 2025-01-03T22:34:08.884Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ## Download the Newest Drivers for RTX 2080 on Windows 10, 7 & 8 - Get Them Now
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap457.png)
 
  Want to enjoy the best gaming performance with your **Geforce RTX 2080** ? Or do you want to keep it in good condition? If your answer is YES, try updating Geforce RTX 2080 driver to the latest version. By doing it, you can also avoid many unexpected gaming issues.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **There are two methods to update your Geforce RTX 2080 driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-driver-download-for-windows/#b) This option is **much quicker and easier** . **All** you need to do is **just a couple of mouse clicks** !
@@ -34,17 +32,9 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Update your Geforce RTX 2080 driver automatically
 
  If you don’t have the time, patience or computer skills to update your Geforce RTX 2080 driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -55,22 +45,28 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  2\. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy** will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
  You can download the updated driver file for your Geforce RTX 2080 graphics card from the official website of **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  . You can follow the steps below:
@@ -79,9 +75,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2080** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
  3\. Click the **DOWNLOAD** button to download the driver file.
@@ -101,8 +94,6 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +101,24 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ultimate-guide-to-camstudio-recording-and-capturing/"><u>[New] 2024 Approved Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-uncover-recent-facebook-watched-content-swiftly/"><u>[New] Uncover Recent Facebook Watched Content Swiftly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-strategies-for-3d-lut-implementation-in-photoshop/"><u>[Updated] Expert Strategies for 3D LUT Implementation in Photoshop</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-13-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi 13 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-continuity-a-detailed-manual-for-screen-recordings-on-windows-pcs-for-2024/"><u>Capturing Continuity A Detailed Manual for Screen Recordings on Windows PCs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8-for-2024/"><u>Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8) for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-epson-tm-t88v-printer-driver-for-windows/"><u>Download and Install the Latest EPSON TM-T88V Printer Driver for Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-download-intuitive-guide-to-installing-the-intel-wireless-ac-7260-network-adapter/"><u>Effortless Download: Intuitive Guide to Installing the Intel Wireless AC 7260 Network Adapter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-the-cutting-edge-graphics-card-driver-for-your-geforce-gtx-1050-effortlessly/"><u>How To Download The Cutting-Edge Graphics Card Driver For Your GeForce GTX 1050 Effortlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-update-process-for-amd-ryzen-5-amoled-with-newest-drivers/"><u>Quick and Simple Update Process for AMD Ryzen 5 Amoled with Newest Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-rapid-driver-installation-for-dell-g7-systems/"><u>Quick Guide: Rapid Driver Installation for Dell G7 Systems</u></a></li>
+<li><a href="https://win-tips.techidaily.com/resolved-windows-11-boot-issues-and-the-ultimate-fix/"><u>Resolved: Windows 11 Boot Issues and the Ultimate Fix!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-solutions-resolving-i2c-based-hid-driver-problems/"><u>Simple Solutions: Resolving I2C-Based HID Driver Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/temperature-ranges/"><u>Temperature Ranges</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-resolve-ssd-not-detected-issue-safely-without-losing-data/"><u>Troubleshooting Guide: Resolve 'SSD Not Detected' Issue Safely Without Losing Data</u></a></li>
+</ul></div>
 

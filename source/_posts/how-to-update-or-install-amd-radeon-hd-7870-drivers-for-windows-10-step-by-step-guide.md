@@ -1,7 +1,7 @@
 ---
 title: How to Update or Install AMD Radeon HD 7870 Drivers for Windows 10 - Step by Step Guide
-date: 2024-12-22T17:07:23.992Z
-updated: 2024-12-25T16:46:06.916Z
+date: 2024-12-28T20:29:38.976Z
+updated: 2025-01-03T17:56:04.094Z
 tags:
   - win11
   - win10
@@ -24,7 +24,7 @@ If you’re looking for the latest driver to**unlock the full potential of your 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – Requires time, patience and a certain level of computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Download and update your RTX 3070 driver automatically (Recommended)
@@ -37,21 +37,17 @@ If you’re looking for the latest driver to**unlock the full potential of your 
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve updated your RTX 3070 driver, restart your PC and get ready for the next-gen gaming experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Download and update your RTX 3070 driver manually
 
@@ -63,11 +59,15 @@ If you’re looking for the latest driver to**unlock the full potential of your 
 2. Click**Download** . Then run the install wizard to install the graphics driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/rtx-3070-nv-driver-dl-manually-2.jpg)
 3. Once you’ve installed the latest RTX 3070 driver, restart your PC for it to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,24 +88,20 @@ If you’re looking for the latest driver to**unlock the full potential of your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ransitioning-from-imovie-editing-suite-to-youtube-showcase/"><u>[New] Transitioning From iMovie Editing Suite to YouTube Showcase</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-make-a-difference-youtubes-quick-thumbnail-guide/"><u>2024 Approved Make a Difference YouTube's Quick Thumbnail Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-elevate-your-video-in-the-trending-topics/"><u>2024 Approved Strategies to Elevate Your Video in the Trending Topics</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963971087-brother-mfc7360n-drivers-seamless-download-and-installation-for-windows-1187-users/"><u>Brother MFC7360N Drivers: Seamless Download & Installation for Windows 11/8/7 Users!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-to-updating-and-installing-soundmax-drivers-on-your-windows-system/"><u>Complete Guide to Updating & Installing SoundMAX Drivers on Your Windows System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-guide-updating-your-lenovo-docking-station-software/"><u>Complete Guide: Updating Your Lenovo Docking Station Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-hp-officejet-pro-6970-driver-update-for-windows-systems-tips-and-tricks/"><u>Easy Guide to Downloading HP OfficeJet Pro 6970 Driver Update for Windows Systems: Tips & Tricks</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhanced-online-security-made-easy-discover-how-proton-enables-full-data-protection-through-its-new-password-manager-as-explored-by-zdnet-experts/"><u>Enhanced Online Security Made Easy: Discover How Proton Enables Full Data Protection Through Its New Password Manager, as Explored by ZDNet Experts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-laserjet-p1006-drivers-free-downloads-available/"><u>Get the Latest HP LaserJet P1006 Drivers - Free Downloads Available</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oneplus-11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your OnePlus 11 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-list-7-mac-focused-vids/"><u>In 2024, Ultimate List 7 Mac-Focused Vids</u></a></li>
-<li><a href="https://driver-download.techidaily.com/international-collaboration-is-crucial-for-biosecurity-policy-effectiveness-due-to-the-global-nature-of-health-risks/"><u>International Collaboration Is Crucial for Biosecurity Policy Effectiveness Due to the Global Nature of Health Risks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-pl2303-chipset-drivers-for-windows-pcs-download-and-update-instructions/"><u>Latest PL2303 Chipset Drivers for Windows PCs: Download & Update Instructions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/leading-5-hd-cameras-to-enhance-your-twitch-experience-for-2024/"><u>Leading 5 HD Cameras to Enhance Your Twitch Experience for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-tips-to-get-your-amd-radeon-rx-560-working-on-windows-11-10-8-and-7/"><u>Troubleshooting Tips to Get Your AMD Radeon RX 560 Working on Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-windows-get-the-newest-version-of-fingerprint-recognition-tool/"><u>Update Your Windows: Get the Newest Version of Fingerprint Recognition Tool</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[New] 2024 Approved Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-a-guide-to-the-top-12-most-captivating-pc-clickers-for-2024/"><u>[Updated] A Guide to the Top 12 Most Captivating PC Clickers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ultimate-vr-showdown-scoring-the-best-oculus-models/"><u>[Updated] Ultimate VR Showdown Scoring the Best Oculus Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/essential-guide-to-selecting-a-superior-dvd-conversion-software-for-easy-disc-transfers/"><u>Essential Guide to Selecting a Superior DVD Conversion Software for Easy Disc Transfers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-compatible-windows-11-bluetooth-adapter-drivers-for-smooth-connectivity/"><u>Free Download: Compatible Windows 11 Bluetooth Adapter Drivers for Smooth Connectivity</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-stop-amber-alerts-from-popping-up-on-your-android-screen/"><u>How To Stop Amber Alerts From Popping Up On Your Android Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-2700-printer-drivers-download-2024-update/"><u>HP DeskJet 2700 Printer Drivers Download | 2024 Update</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-eprint-driver-download-and-install-guide/"><u>HP DeskJet ePrint Driver Download & Install Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g29-steering-wheel-free-software-downloads-for-win-10-11-and-7-users/"><u>Logitech G29 Steering Wheel: Free Software Downloads for Win 10, 11, and 7 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-installation-guide-downloading-zexmte-bluetooth-adapter-driver-windows-compatible/"><u>Quick Installation Guide: Downloading Zexmtē Bluetooth Adapter Driver (Windows Compatible)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996262439-steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-to-get-your-lenovo-x1-carbon-up-and-running-on-windows-10-and-7/"><u>Step-by-Step Tutorial to Get Your Lenovo X1 Carbon Up and Running on Windows 10 & 7!</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/ultimate-guide-to-the-10-finest-window-recording-applications-on-windows-10-including-cost-free-choices/"><u>Ultimate Guide to the 10 Finest Window Recording Applications on Windows 10, Including Cost-Free Choices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-user-manual-unlock-the-full-potential-of-your-seagate-backup-plus-with-pro-tips/"><u>Ultimate User Manual: Unlock the Full Potential of Your Seagate Backup Plus with Pro Tips</u></a></li>
 </ul></div>
 

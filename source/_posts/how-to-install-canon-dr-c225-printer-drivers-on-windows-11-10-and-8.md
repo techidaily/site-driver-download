@@ -1,7 +1,7 @@
 ---
 title: How to Install Canon DR-C225 Printer Drivers on Windows 11, 10 & 8
-date: 2024-12-18T17:31:50.536Z
-updated: 2024-12-25T17:26:58.761Z
+date: 2024-12-30T01:18:16.024Z
+updated: 2025-01-03T17:05:57.014Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
@@ -45,36 +49,32 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
@@ -94,12 +94,12 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article**  for more expedient and efficient guidance. ?
 
@@ -125,20 +125,22 @@ thumbnail: https://thmb.techidaily.com/a647a01836d870e92eab00fc9c203e743d8484c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pixelpilot-video-snapshot/"><u>[New] 2024 Approved PixelPilot Video Snapshot</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-latest-android-selection-ranked-top-10-apps-for-saving-facebook-videos-for-2024/"><u>[Updated] Latest Android Selection Ranked Top 10 Apps for Saving Facebook Videos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-5-cameras-for-extended-time-lapses/"><u>[Updated] Superior 5 Cameras for Extended Time-Lapses</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-installation-secure-your-usb-camera-drivers-here/"><u>Effortless Installation - Secure Your USB Camera Drivers Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-started-with-nexiq-usb-link-quick-guide-to-download-and-setup/"><u>Get Started with NEXIQ USB Link: Quick Guide to Download and Setup</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-m-audio-fast-track-ultra-driver-installer-at-no-cost/"><u>Get Your M-Audio Fast Track Ultra Driver Installer at No Cost</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-and-setup-epson-xp-400-drivers-tutorial/"><u>How To Download and Setup Epson XP-400 Drivers - Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-microsoft-bluetooth-driver-on-various-windows-versions-xp-vista-7-8-10-11/"><u>How to Find and Update Your Microsoft Bluetooth Driver on Various Windows Versions (XP, Vista, 7, 8, 10, 11)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-epson-xp-640-printer-drivers-on-your-pc/"><u>How to Install the Latest Epson XP-640 Printer Drivers on Your PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-google-pixel-8-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Google Pixel 8 to Another | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ipad-showdown-a-detailed-side-by-side-comparison-table/"><u>IPad Showdown: A Detailed Side-by-Side Comparison Table</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimize-your-internet-experience-with-newly-released-intel-network-driver-supporting-win11107/"><u>Optimize Your Internet Experience with Newly Released Intel Network Driver Supporting Win11/10/7</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-importing-canon-xf-codec-videos-into-cyberlinks-powerdirector-software/"><u>Step-by-Step Guide: Importing Canon XF Codec Videos Into CyberLink's PowerDirector Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>[Updated] Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-reverberation-artisan-collection-for-2024/"><u>[Updated] Reverberation Artisan Collection for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>[Updated] Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-lenovo-thinkpad-t430-drivers-compatible-with-windows-1087-simple-steps/"><u>Download Lenovo ThinkPad T430 Drivers Compatible with Windows 10/8/7: Simple Steps!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722955266418-effortless-driver-downloading-for-dell-latitude-e6420-fast-reliable-sources-revealed/"><u>Effortless Driver Downloading for Dell Latitude E6420 - Fast, Reliable Sources Revealed!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guide-complet-pour-transferer-en-toute-securite-vos-donnees-dvd-entre-windows-et-mac-avec-des-methodes-simples-a-suivre/"><u>Guide Complet Pour Transférer en Toute Sécurité Vos Données DVD Entre Windows Et Mac Avec Des Méthodes Simples À Suivre</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-flawlessly-install-new-targus-driver-software-for-windows-users/"><u>How to Flawlessly Install New Targus Driver Software for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-audio-drivers-free-downloads-for-the-focusrite-scarlett-18i20-on-windows-pcs/"><u>Install New Audio Drivers: Free Downloads for the Focusrite Scarlett 18I20 on Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722960243992-memory-protection/"><u>Memory Protection:</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029058147-mkv/"><u>MKVビデオの音が出ない件: 原因分析と解決策</u></a></li>
+<li><a href="https://driver-download.techidaily.com/obtaining-the-latest-support-for-your-logitech-m525-driver-downloads-available/"><u>Obtaining the Latest Support for Your Logitech M525: Driver Downloads Available</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionize-workouts-with-fitbit-versa-3s-integrated-gps-and-wellness-tools-to-keep-you-motivated/"><u>Revolutionize Workouts with Fitbit Versa 3'S Integrated GPS and Wellness Tools to Keep You Motivated</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-usb-driver-update-process-for-smartphones-explained/"><u>Samsung USB Driver Update Process for Smartphones Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009987243-swtor-launch-woes-heres-how-you-can-easily-solve-them/"><u>SWTOR Launch Woes? Here's How You Can Easily Solve Them</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-window-clutter-reduction-in-win11/"><u>The Ultimate Guide to Window Clutter Reduction in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-and-resolving-packet-loss-challenges-on-discord/"><u>Troubleshooting Guide: Addressing & Resolving Packet Loss Challenges on Discord</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-fixing-issues-with-the-realtek-rtl8723be-network-adapter-driver-on-your-laptop/"><u>Troubleshooting Guide: Fixing Issues with the Realtek RTL8723BE Network Adapter Driver on Your Laptop</u></a></li>
 </ul></div>
 
