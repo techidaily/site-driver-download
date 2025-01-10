@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Compatible Intel Iris Plus Graphics Card Drivers Version 655
-date: 2024-08-23T16:20:54.002Z
-updated: 2024-08-24T16:20:54.002Z
+date: 2025-01-05T20:24:58.896Z
+updated: 2025-01-10T20:06:42.048Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/23f13f96d936d78089a7e8a3b93e560ac0ab85876
 
 ## Get the Latest Graphics Drivers for AMD Radeon RX 6900 XT: Compatible with All Windows Versions
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![amd rx-6900 xt driver](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-rx-6900xt-driver.jpg)
 
  AMD RX 6900 XT, the newest gaming GPU of AMD’s Radeon 6000 series, has arrived. To enjoy the ultra-high frame rates and serious 4K gameplay as this flagship GPU deserves, you’ll need the latest AMD RX 6900 XT driver.
@@ -31,8 +28,9 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6900 XT driver by yourself, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,15 +43,18 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -66,16 +67,19 @@ OR
 
 1. Go to **[AMD’s support page](https://www.amd.com/en/support)**  .
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -93,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +104,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-bringing-realities-closer-google-cardboard-vs-samsung-gear-for-2024/"><u>[New] Bringing Realities Closer Google Cardboard Vs. Samsung Gear for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-social-media-insta-to-tiksync/"><u>[Updated] Mastering Social Media Insta-To-TikSync</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-altered-text-aesthetics-in-visual-media/"><u>[Updated] Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-views-top-14-gaming-video-ideas-that-work/"><u>Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-k55-user-grab-the-newest-driver-software-right-now/"><u>Corsair K55 User? Grab the Newest Driver Software Right Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-the-perfect-atheros-network-card-drivers-for-windows-os/"><u>Find and Install the Perfect Atheros Network Card Drivers for Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-connection-obtain-startechs-usb-to-vga-driver-software-today/"><u>Seamless Connection: Obtain StarTech's USB-to-VGA Driver Software Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/up-to-date-geforce-rtx-3080-ti-graphics-card-drivers-for-windows-users-on-win-10-8-and-7/"><u>Up-to-Date GeForce RTX 3080 Ti Graphics Card Drivers for Windows Users on Win 10, 8, and 7</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/winx-dvd-ripper-platino-convertidor-de-dvd-al-formato-digital-mas-rapido-para-windows-10/"><u>WinX DVD Ripper Platino: Convertidor De DVD Al Formato Digital Más Rápido Para Windows 10</u></a></li>
+</ul></div>
 

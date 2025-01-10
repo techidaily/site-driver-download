@@ -1,7 +1,7 @@
 ---
 title: Canon MG2520 Windows Drivers - Free Downloads and Updates Available
-date: 2024-08-23T16:23:37.105Z
-updated: 2024-08-24T16:23:37.105Z
+date: 2025-01-07T17:53:42.463Z
+updated: 2025-01-10T16:52:22.422Z
 tags:
   - win11
   - win10
@@ -24,9 +24,9 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -45,14 +45,15 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
 
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update printer driver automatically
 
@@ -66,24 +67,25 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3: Update printer driver in Device Manager
 
@@ -97,11 +99,12 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double click**Printers** to expand it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
@@ -110,9 +113,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
  5) Choose**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
 
  6) Then Windows will start to help search the new driver for your printer.
@@ -130,8 +130,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +137,24 @@ This is rather easy to update your Canon MG2520 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audacity-for-the-mac-enthusiast-advanced-recording-techniques-for-2024/"><u>[New] Audacity for the Mac Enthusiast Advanced Recording Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-from-amateur-to-pro-elevating-your-hdr-portrait-skills/"><u>[Updated] 2024 Approved From Amateur to Pro Elevating Your HDR Portrait Skills</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expedite-tech-advancement-how-to-embrace-macos-11-big-sur/"><u>[Updated] Expedite Tech Advancement How to Embrace macOS 11 Big Sur</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breakthrough-14-text-animation-samples-for-2024/"><u>Breakthrough 14 Text Animation Samples for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-gigabyte-geforce-wb867d-graphics-card/"><u>Download Drivers: Gigabyte GeForce WB867D Graphics Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-driver-setup-for-your-lenovo-x230-click-to-get-them-now/"><u>Effortless Driver Setup for Your Lenovo X230 - Click to Get Them Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-audio-free-gigabyte-high-fidelity-driver-download/"><u>Enhance Your PC's Audio: Free Gigabyte High-Fidelity Driver Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719306648168-fix-your-windows-onedrive-hurdles-now/"><u>Fix Your Windows OneDrive Hurdles Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-error-code-0x80072ee7-issue-with-windows-store-a-step-by-step-guide/"><u>Fixing the 'Error Code 0X80072EE7' Issue with Windows Store – A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977810105-get-the-newest-microsoft-sound-drivers-installed-on-windows-systems-now/"><u>Get the Newest Microsoft Sound Drivers Installed on Windows Systems Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-zebra-printer-drivers-on-your-pc-a-step-by-nstep-guide/"><u>How to Get the Newest Zebra Printer Drivers on Your PC: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nighttime-luminosity-on-iphone-photos/"><u>In 2024, Nighttime Luminosity on iPhone Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-killer-e2500-gigabit-ethernet-drivers-in-minutes/"><u>Install Your Killer E2500 Gigabit Ethernet Drivers in Minutes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mg-series-mp280-driver-installation-guide-windows/"><u>Latest Canon MG Series MP280 Driver Installation Guide (Windows)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-download-brother-hl-l2350dw-printer-drivers-step-by-step-guide/"><u>Update or Download Brother HL-L2350DW Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you-in-2024/"><u>Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You, In 2024</u></a></li>
+</ul></div>
 

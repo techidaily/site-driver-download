@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix for Your Lenovo X220: Comprehensive Drivers Collection"
-date: 2024-12-29T20:57:08.474Z
-updated: 2025-01-03T17:44:30.161Z
+date: 2025-01-07T17:49:31.134Z
+updated: 2025-01-10T19:18:38.304Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-271-1024x667.png)
 
  If you are experiencing**driver issues** related to your**Xbox wireless adapter** such as Windows not recognizing the device, this article is definitely written for you. Rest assured that you are not alone – many people have reported a similar problem to yours. Now you just need to follow this tutorial and find out whether it does the trick or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to download and install your Xbox wireless adapter drivers
 
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox wireless adapter driver for now, simply click the**Update** button next to it. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 3. On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
@@ -73,17 +69,21 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 7. Here pops up your**Device Manager** . Double-click on the**Other devices** node and you’ll find the faulty device there, usually appearing as an unknown device named “XBOX ACC”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Right-click on**XBOX ACC** and select**Update driver** from its context menu.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 9. In the next window, select**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
-10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+10. Click**Browse…** to select the folder where you’ve extracted the driver file. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
 11. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
@@ -110,20 +110,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[New] 2024 Approved Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-skype-record-simplified-techniques-for-dual-os-recording/"><u>[New] Skype Record Simplified Techniques for Dual OS Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-game-strategy-experience-the-best-free-voice-transformer-today/"><u>2024 Approved Boost Your Game Strategy Experience the Best Free Voice Transformer Today</u></a></li>
-<li><a href="https://win-dash.techidaily.com/boost-your-mono-laser-printing-a-step-by-step-guide-to-updating-dells-2330d-and-2330dn-printer-drivers/"><u>Boost Your Mono Laser Printing: A Step-by-Step Guide to Updating Dell's 2330D and 2330DN Printer Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-g510-controller-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech G510 Controller Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-and-speedy-installation-of-epson-et-4550-printer-drivers-on-windows-systems/"><u>Easy & Speedy Installation of Epson ET-4550 Printer Drivers on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-top-performance-with-updated-epson-v600-driver-downloads/"><u>Ensure Top Performance with Updated Epson V600 Driver Downloads!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-from-live-streaming-to-lively-gifs-harnessing-vimeo-content/"><u>In 2024, From Live Streaming to Lively Gifs Harnessing Vimeo Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-guide-on-how-to-remove-apple-id-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, Guide on How To Remove Apple ID From iPhone SE (2020)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-6-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor Magic 6 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-update-available-enhance-your-brother-mfc-l2690dw-wireless-printer-experience/"><u>Latest Update Available: Enhance Your Brother MFC-L2690DW Wireless Printer Experience!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/qualcomm-driver-installation-pack-for-all-windows-versions-download-today/"><u>Qualcomm Driver Installation Pack for All Windows Versions: Download Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-printing-downloading-and-updating-hp-printer-drivers-for-windows-11-systems/"><u>Seamless Printing: Downloading & Updating HP Printer Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-potential-lenovos-simple-upgrade-path/"><u>Unleash Potential: Lenovo's Simple Upgrade Path</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-transforming-your-facebook-display-photo-quickly-for-2024/"><u>[New] Transforming Your Facebook Display Photo Quickly for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-copyrighted-chords-navigating-music-uploads-to-insta/"><u>[Updated] 2024 Approved Copyrighted Chords Navigating Music Uploads to Insta</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] How to Make Collab Videos and Grow Your Channel?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1998-true-crime-with-eastwood-as-jim-keane-a-former-detective-who-becomes-the-prime-suspect-in-the-murder-of-an-old-friend-and-now-tries-to-solve-his-own-ca274/"><u>1998 - True Crime, with Eastwood as Jim Keane, a Former Detective Who Becomes the Prime Suspect in the Murder of an Old Friend and Now Tries to Solve His Own Case. The Film Was Based on Andrew Klavan's Novel ''True Crime.'</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-330-printer-driver-download-free-and-upgraded/"><u>Epson XP-330 Printer Driver Download – Free and Upgraded</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-implications-of-ai-assistants-on-future-search-engine-technologies/"><u>Exploring the Implications of AI Assistants on Future Search Engine Technologies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/fast-windows-file-check-up-tips-and-tricks/"><u>Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-your-intel-nucs-performance-with-these-driver-upgrade-tips/"><u>Fast-Track Your Intel NUC's Performance with These Driver Upgrade Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-windows-compatible-intel-iris-xe-graphics-drivers-here/"><u>Get the Newest Windows-Compatible Intel Iris Xe Graphics Drivers Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-startpect-to-carry-out-smooth-draws-with-fresh-xp-pen-driver-installation-steps/"><u>Getting Startpect to Carry Out Smooth Draws with Fresh XP-Pen Driver Installation Steps!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-smoothly-updating-hp-device-drivers-easy-download-and-install/"><u>Guide to Smoothly Updating HP Device Drivers – Easy Download & Install!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-huawei-nova-y91-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Huawei Nova Y91 Phones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitechs-latest-software-version-for-optimal-performance-on-your-windows-machine/"><u>Install Logitech's Latest Software Version for Optimal Performance on Your Windows Machine</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-cyber-dangers-exploring-six-key-security-concerns-with-chatgpt/"><u>Navigating Cyber Dangers: Exploring Six Key Security Concerns with ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-rtx-2070-super-driver-software-free-download-and-update-instructions-for-pcs-running-windows-1011/"><u>NVIDIA RTX 2070 Super Driver Software: Free Download and Update Instructions for PCs Running Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-guide-successfully-viewing-iso-images-using-an-android-phone/"><u>Quick Guide: Successfully Viewing ISO Images Using an Android Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-itel-s23-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Itel S23 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

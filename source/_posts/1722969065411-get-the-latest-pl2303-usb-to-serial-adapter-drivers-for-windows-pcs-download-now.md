@@ -1,7 +1,7 @@
 ---
 title: Get the Latest PL2303 USB-to-Serial Adapter Drivers for Windows PCs - Download Now
-date: 2024-08-23T16:24:11.852Z
-updated: 2024-08-24T16:24:11.852Z
+date: 2025-01-08T18:38:12.645Z
+updated: 2025-01-10T18:28:53.582Z
 tags:
   - win11
   - win10
@@ -20,9 +20,9 @@ Looking for the **latest correct Prolific PL2303 driver for your Windows compute
  In this post, you’ll learn two safe and quick methods to download and update your PL2303 driver. Read on and follow the easy guide.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pick the way you prefer
 
 **[Option 1 – Manually –](https://tools.techidaily.com/drivereasy/download/)**  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -32,23 +32,21 @@ OR
 **[Option 2 – Automatically (Recommended) –](https://www.drivereasy.com/knowledge/download-update-pl2303-driver-for-your-windows-computer/#o2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Prolific keeps updating drivers. To get them, you need to go to[the official Prolific website](http://www.prolific.com.tw/US/) , find the drivers corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download the driver manually.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5bb088f33d239.jpg)
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update your PL2303 driver
 
  If you don’t have the time, patience or computer skills to update the PL2303 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,17 +58,20 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-**Note:** You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note:** You can do it for free if you like, but it’s partly manual.  
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Prolific-USB-to-Serial-Comm-Port.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems while using Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -85,8 +86,6 @@ Feel free to comment below if you have any questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +93,22 @@ Feel free to comment below if you have any questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-comprehensible-method-for-ifunny-meme-downloads/"><u>[New] 2024 Approved The Comprehensible Method for iFunny Meme Downloads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diving-into-youtube-creation-and-making-it-monetary/"><u>[New] Diving Into YouTube Creation & Making It Monetary</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-appreciation-series-unlimited-freepaid-otus/"><u>[Updated] 2024 Approved Appreciation Series Unlimited Free/Paid OTUs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-plainvidwin11-intuitive-simple-screen-recorder-for-pcs/"><u>2024 Approved PlainVidWin11 Intuitive, Simple Screen Recorder for PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-intel-usb-30-driver-software-for-windows-11/"><u>Download the Latest Intel USB 3.0 Driver Software for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-compatible-mouse-drivers-on-windows-7-operating-systems/"><u>Effortless Installation of Compatible Mouse Drivers on Windows 7 Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-or-repair-lg-drivers-on-windows-1087-for-smooth-operation/"><u>How to Update or Repair LG Drivers on Windows 10/8/7 for Smooth Operation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pathway-to-get-your-hands-on-movie-maker-6/"><u>In 2024, Pathway to Get Your Hands on Movie Maker 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-and-wi-fi-woes-heres-how-you-can-get-connected-again/"><u>IPad and Wi-Fi Woes? Here's How You Can Get Connected Again!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722958799935-quick-guide-how-to-download-arduino-mega-2560-driver-get-started-fast/"><u>Quick Guide: How to Download Arduino Mega 2560 Driver - Get Started Fast!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/realtek-audio-driver-installation-guides-for-windows-11107-free-software-update-available/"><u>Realtek Audio Driver Installation Guides for Windows 11/10/7 – Free Software Update Available</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-huawei-nova-y71-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Huawei Nova Y71 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-updating-your-windows-pc-with-amd-radeon-rx-590-graphics-drivers/"><u>Step-by-Step Tutorial: Updating Your Windows PC with AMD Radeon RX 590 Graphics Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pricey-reality-behind-exclusive-ai-tech-in-new-iphones-leaving-older-devices-behind/"><u>The Pricey Reality Behind Exclusive AI Tech in New iPhones, Leaving Older Devices Behind</u></a></li>
+<li><a href="https://driver-download.techidaily.com/top-ranking-microsoft-audio-software-download-the-right-drivers-for-windows-setup/"><u>Top-Ranking Microsoft Audio Software: Download the Right Drivers for Windows Setup</u></a></li>
+</ul></div>
 

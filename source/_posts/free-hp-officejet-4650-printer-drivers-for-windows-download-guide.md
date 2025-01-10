@@ -1,7 +1,7 @@
 ---
 title: Free HP OfficeJet 4650 Printer Drivers for Windows - Download Guide
-date: 2024-08-23T16:22:25.323Z
-updated: 2024-08-24T16:22:25.323Z
+date: 2025-01-08T20:36:53.609Z
+updated: 2025-01-10T17:45:44.498Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**  printer? Or you know it’s time but still looking for a quick & safe download? Look no further, this is your guide!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 options to update HP OfficeJet Pro 8720 driver
 
  Both methods below work in**Windows 10** ,**8** and**7** .  And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -27,9 +28,6 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. **[Update your HP OfficeJet Pro 8720 printer driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-officejet-pro-8720-driver-download-update-for-windows/#O1)**
 2. **[Update your HP OfficeJet Pro 8720 printer driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Update your HP OfficeJet Pro 8720 automatically(Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,19 +44,20 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a171125168.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update your HP OfficeJet Pro 8720 **printer**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -66,17 +65,20 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click **Printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type **HP OfficeJet Pro 8720** into the box and click **Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a01155946b.png)
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click **Download** in**the first result** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a0206ca291.jpg)
 4. Run the wizard and follow the onscreen instructions to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -91,8 +93,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +100,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-clearer-horizons-the-ultimate-tweet-video-viewing-guide/"><u>[New] Clearer Horizons The Ultimate Tweet Video Viewing Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-capturing-motion-setting-up-a-timelapse-on-an-ipad-for-2024/"><u>[Updated] Capturing Motion Setting up a Timelapse on an iPad for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-elevate-your-messaging-game-with-hidden-whatsapp-secrets/"><u>[Updated] Elevate Your Messaging Game with Hidden WhatsApp Secrets</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-edits-best-8-tools-for-linux-users-for-2024/"><u>[Updated] Essential Edits Best 8 Tools for Linux Users for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-proven-strategies-in-advanced-obs-studio-filmmaking/"><u>2024 Approved Proven Strategies in Advanced OBS Studio Filmmaking</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-canon-mf4500-printer-official-drivers-available-here/"><u>Download and Setup Canon MF4500 Printer - Official Drivers Available Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-guide-downloading-your-samsung-c460-printing-software/"><u>Fast Guide: Downloading Your Samsung C460 Printing Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963396803-how-to-update-your-amd-ryzen-5-nvmes-drivers-with-new-release-step-by-step/"><u>How to Update Your AMD Ryzen 5 Nvme's Drivers with New Release – Step by Step!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-corsair-k70-mouse-free-downloads-available-here/"><u>How to Update Your Corsair K70 Mouse - Free Downloads Available Here</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>In 2024, Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intels-iris-plus-graphics-effortless-and-rapid-driver-upgrade-process-update/"><u>Intel's Iris Plus Graphics - Effortless and Rapid Driver Upgrade Process [Update]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-simple-asus-laptop-touchpad-installation-guide-for-windows-11/"><u>Quick and Simple ASUS Laptop Touchpad Installation Guide for Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tips-for-enabling-or-disabling-virtual-keyboard-interface-on-windows-10-system/"><u>Quick Tips for Enabling or Disabling Virtual Keyboard Interface on Windows 10 System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ready-to-go-printer-support-secure-your-epson-perfection-v500-driver-now/"><u>Ready-to-Go Printer Support: Secure Your Epson Perfection V500 Driver Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "One-Click Canon PRO 100 Driver Setup: Comprehensive Guide for Windows Users"
-date: 2024-12-29T20:36:04.635Z
-updated: 2025-01-03T19:41:51.149Z
+date: 2025-01-08T20:01:46.778Z
+updated: 2025-01-10T16:32:48.948Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  By updating your ELAN SMBus driver to the latest version, you can keep your ELAN SMBus controller in good condition and avoid many unexpected computer issues in the future!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **To download and update ELAN SMBus Driver:**
@@ -43,14 +43,14 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 3. Click **Update**  next to **ELAN SMBus Driver** to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000266.png)  
  You can do this for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,24 +73,24 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-methods-streaming-audio-recording-made-easy-online-for-2024/"><u>[New] Essential Methods Streaming Audio Recording Made Easy Online for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-masterful-video-transitions-with-these-10-editors/"><u>[New] Masterful Video Transitions with These 10 Editors</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-sound-studio-everything-about-the-sound-recording-studio-mac/"><u>[Updated] In 2024, Sound Studio - Everything About the Sound Recording Studio Mac</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unlock-creative-potential-with-xps-movie-creation-toolkit/"><u>[Updated] In 2024, Unlock Creative Potential with XP’s Movie Creation Toolkit</u></a></li>
-<li><a href="https://win-studio.techidaily.com/accelerez-le-demarrage-de-windows-11-avec-ces-8-methodes-optimales-pour-ssd/"><u>Accélérez Le Démarrage De Windows 11 Avec Ces 8 Méthodes Optimales Pour SSD</u></a></li>
-<li><a href="https://driver-download.techidaily.com/creep-occurs-at-high-temperatures-typically-above-04-times-a-materials-melting-temperature-in-kelvin/"><u>Creep Occurs at High Temperatures, Typically Above 0.4 Times a Material's Melting Temperature (in Kelvin)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-installation-guide-get-your-corsair-void-pro-drivers-on-pc/"><u>Effortless Installation Guide: Get Your Corsair Void Pro Drivers On PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-on-the-kootek-laptop-fan-stand-the-ideal-choice-for-cooling-needs/"><u>Expert Analysis on the Kootek Laptop Fan Stand - The Ideal Choice for Cooling Needs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-implement-the-latest-drivers-for-intel-graphics-in-windows-11-step-by-step-guide/"><u>Find and Implement the Latest Drivers for Intel Graphics in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-official-amd-ryzen-chipset-drivers/"><u>Free Download: Official AMD Ryzen Chipset Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-logitech-g920-gamepad-driver-installation-files-on-your-windows-machine-supporting-win11-win10-and-older/"><u>How to Get Logitech G920 Gamepad Driver Installation Files on Your Windows Machine - Supporting Win11, Win10 & Older</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy M54 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>In 2024, Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-official-drivers-for-your-amd-ryzen-processor/"><u>Installing Official Drivers for Your AMD Ryzen Processor</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nahimic-sound-enhancement-simple-and-fast-installation-guide/"><u>Nahimic Sound Enhancement: Simple and Fast Installation Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-and-updating-the-scansnap-s1300i-software/"><u>Quick Guide: Downloading and Updating the ScanSnap S1300i Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/radeon-hd-7850-graphics-card-driver-downloads-and-updates-expert-tips-for-windows-11-users/"><u>Radeon HD 7850 Graphics Card Driver Downloads & Updates: Expert Tips for Windows 11 Users</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-picks-for-smartphone-shopping-where-to-find-the-latest-models/"><u>Top Picks for Smartphone Shopping: Where to Find the Latest Models</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-nvidia-geforce-gtx-1660-graphics-card-drivers-with-simple-steps/"><u>Update Your Nvidia GeForce GTX 1660 Graphics Card Drivers with Simple Steps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-steps-to-the-top-gaming-video-editing-programs/"><u>[New] Easy Steps to the Top Gaming Video Editing Programs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpio-controller-drivers-free-downloads-available-now/"><u>AMD GPIO Controller Drivers - Free Downloads Available Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-resolving-full-game-crashes-in-horizon-forbidden-west-pc-tips/"><u>Complete Guide: Resolving Full Game Crashes in Horizon Forbidden West - PC Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-the-latest-startech-vga-drivers-usb-version/"><u>Easy Installation Guide for the Latest StarTech VGA Drivers (USB Version)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-intel-wireless-network-adapter-ax200-drivers-for-windows-1110-free-downloads-and-updates/"><u>Get the Latest Intel Wireless Network Adapter (AX200) Drivers for Windows 11/10 - Free Downloads & Updates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How To Fix OEM Unlock Missing on ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-5740-drivers-for-windows-11windows-10windows-8-free-download/"><u>HP Officejet Pro 5740 Drivers for Windows 11/Windows 10/Windows 8 - Free Download</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-htc-u23-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked HTC U23 Pro Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-asus-rog-phone-7-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Asus ROG Phone 7 Device SIM</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-motorola-edge-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Edge 2023 Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-corsairs-optimized-mouse-drivers-with-this-quick-download-tool/"><u>Install Corsair's Optimized Mouse Drivers with This Quick Download Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-canon-mf743-cddvd-drive-on-windows-step-by-step-guide-to-download-and-setup/"><u>Installing Canon MF743 CD/DVD Drive on Windows – Step-by-Step Guide to Download and Setup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-hp-deskjet-3755-inkjet-mfp-drivers-compatible-with-windows-1087-free-downloads/"><u>New Release: HP DeskJet 3755 Inkjet MFP Drivers Compatible with Windows 10/8/7 – Free Downloads</u></a></li>
+<li><a href="https://win-great.techidaily.com/overcoming-errors-when-attempting-to-transfer-data-via-apples-airdrop-feature/"><u>Overcoming Errors When Attempting to Transfer Data via Apple's AirDrop Feature</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-installing-your-new-intel-tri-band-wifi-adapter-drivers-included/"><u>Quick Guide: Installing Your New Intel Tri-Band WiFi Adapter - Drivers Included</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installation-of-updated-hp-840-g3-computer-drivers/"><u>Step-by-Step Installation of Updated HP 840 G3 Computer Drivers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-explainer-video-creation-made-easy-top-picks/"><u>Updated In 2024, Explainer Video Creation Made Easy Top Picks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-ultimate-guide-to-online-stop-motion-software-5-top-picks/"><u>Updated In 2024, The Ultimate Guide to Online Stop Motion Software 5 Top Picks</u></a></li>
 </ul></div>
 

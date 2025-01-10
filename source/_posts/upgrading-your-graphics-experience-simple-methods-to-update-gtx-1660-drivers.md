@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers"
-date: 2024-12-30T19:20:14.953Z
-updated: 2025-01-03T18:21:07.014Z
+date: 2025-01-09T18:15:35.851Z
+updated: 2025-01-10T17:33:12.137Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
 
  Are you a PC gamer who cares most about visual experience but feels reluctant to fiddle with all the driver updating stuff? If the answer is yes, and you’re also using the**GTX 1660** graphics card, then you’ve come to the right place. As Nvidia keeps updating its GTX 1660 drivers, you should keep up with it in order to get the most out of your graphics card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update your GTX 1660 driver
 
 There are mainly two ways you can update the driver :
@@ -38,7 +34,7 @@ There are mainly two ways you can update the driver :
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your driver automatically (Recommended)
@@ -55,13 +51,13 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the GTX 1660 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-584.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -70,7 +66,7 @@ There are mainly two ways you can update the driver :
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your driver manually
@@ -83,9 +79,17 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-205.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then you’ll be presented with a list of drivers available for download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-577.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the driver you’re interested in. On the next page, you’re able to see the detailed information about that driver. If you want to download it, simply click the**DOWNLOAD** button.
 
@@ -94,10 +98,6 @@ There are mainly two ways you can update the driver :
  5) Open the folder in which you’ve just downloaded the driver. There you’ll see an**exe** file, as illustrated below (the version of your driver may be different). Double-click on it, then follow the on-screen instructions to install the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-192.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Wait till the installation is completed. After that, reboot your PC for the changes to take effect.
 
@@ -123,21 +123,21 @@ There are mainly two ways you can update the driver :
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-optimal-audibility-techniques-to-enhance-recording-quality/"><u>[New] 2024 Approved Optimal Audibility Techniques to Enhance Recording Quality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-steps-for-documenting-online-meetings-for-2024/"><u>[New] Advanced Steps for Documenting Online Meetings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-finest-9-free-youtube-brand-tools-online/"><u>[New] Unveiling the Finest 9 Free YouTube Brand Tools Online</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-hot-30i-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Hot 30i</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-smooth-functionality-of-your-brother-mfc-7860dw-by-updating-windows-drivers/"><u>Ensure Smooth Functionality of Your Brother MFC-7860DW by Updating Windows Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fertilization/"><u>Fertilization</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-set-up-updated-drivers-for-asus-mobo-in-windows-environment/"><u>Find and Set Up Updated Drivers for ASUS Mobo in Windows Environment</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/guia-paso-a-paso-para-transferir-tu-sistema-windows-desde-una-copia-de-seguridad-en-un-nuevo-ordenador-independientemente-del-tipo-de-hardware/"><u>Guía Paso a Paso Para Transferir Tu Sistema Windows Desde Una Copia De Seguridad en Un Nuevo Ordenador, Independientemente Del Tipo De Hardware</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-v-purse-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor V Purse?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-driver-and-support-software-for-the-hp-officejet-3830-on-windows-systems/"><u>Official Driver and Support Software for the HP OfficeJet 3830 on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-updating-asus-maximus-x-hero-graphics-card-drivers-with-ease/"><u>Quick Guide: Updating ASUS Maximus X Hero Graphics Card Drivers with Ease</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-functionality-solutions-for-your-locked-iphoneipad/"><u>Restoring Functionality: Solutions for Your Locked iPhone/iPad</u></a></li>
-<li><a href="https://driver-download.techidaily.com/solution-found-for-broken-igfxem-module-incident/"><u>Solution Found for Broken Igfxem Module Incident</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-purpose-of-vessel-monitoring-systems-vms-and-automatic-identification-system-ais-explain-how-they-provide-real-time-data-on-the-vessels-identity-positio37/"><u>The Purpose of Vessel Monitoring Systems (VMS) and Automatic Identification System (AIS): Explain How They Provide Real-Time Data on the Vessel's Identity, Position, Speed, Course, and Navigational Status, Which Aids in Maritime Safety and Security.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-changes-in-popularity-for-programming-languages-since-2016-key-findings-and-implications-zdnet/"><u>Understanding Changes in Popularity for Programming Languages Since 2016: Key Findings & Implications - ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-your-contents-potential-for-1m-views-on-youtube/"><u>Unleash Your Content's Potential for 1M Views on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-techniques-for-saving-lol-games-for-2024/"><u>[New] Essential Techniques for Saving LOL Games for 2024</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-real-time-ai-voice-changer-revolutionizing-communication/"><u>2024 Approved Real-Time AI Voice Changer Revolutionizing Communication</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bloodborne-game-analysis-exploring-a-hauntingly-beautiful-realm/"><u>Bloodborne Game Analysis: Exploring a Hauntingly Beautiful Realm</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/camrecorder-essential-techniques-for-gaming-pros-for-2024/"><u>CamRecorder Essential Techniques for Gaming Pros for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-wacom-cintiq-13hd-driver/"><u>Download & Update Wacom Cintiq 13HD Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-1535-wi-fi-card-driver-for-ultimate-internet-connectivity/"><u>Download the Latest 1535 Wi-Fi Card Driver for Ultimate Internet Connectivity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-updates-for-intel-hd-graphics/"><u>Find and Install Updates for Intel HD Graphics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-of-canon-tr4520-printer-drivers-for-windows-systems/"><u>Free Download of Canon TR4520 Printer Drivers for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-how-to-install-drivers-for-your-xbox-360-gamepad/"><u>Free Download: How To Install Drivers For Your Xbox 360 Gamepad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956336403-get-the-latest-graphics-card-software-amd-rx-480-driver-updates/"><u>Get the Latest Graphics Card Software - AMD RX 480 Driver Updates!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Smart 8 Plus Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-say-goodbye-to-crooked-videos-10-best-online-rotation-tools-for-2024/"><u>New Say Goodbye to Crooked Videos 10 Best Online Rotation Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-compatible-lexadrive-usb-software/"><u>Quick Download: Compatible LexaDrive USB Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-rated-secure-ssd-cleaner-app-ensuring-data-permanence-through-advanced-erasure/"><u>Top-Rated Secure SSD Cleaner App: Ensuring Data Permanence Through Advanced Erasure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-editing-obs-videos-without-a-watermark-top-7-tools-compared/"><u>Ultimate Guide to Editing OBS Videos without a Watermark – Top 7 Tools Compared</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-ai-voice-over-for-2024/"><u>What Is AI Voice Over for 2024</u></a></li>
 </ul></div>
 

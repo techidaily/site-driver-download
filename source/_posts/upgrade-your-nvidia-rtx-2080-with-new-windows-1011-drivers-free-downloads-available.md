@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Nvidia RTX 2080 with New Windows 10/11 Drivers - Free Downloads Available
-date: 2024-12-27T21:23:45.109Z
-updated: 2025-01-04T01:08:10.604Z
+date: 2025-01-07T16:51:20.748Z
+updated: 2025-01-10T20:04:21.196Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 ways to install the RTX 2080 SUPER driver
@@ -30,7 +30,7 @@ OR
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Install the RTX 2080 SUPER driver manually
@@ -43,10 +43,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
@@ -58,16 +66,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,21 +94,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-securely-snapshot-streaming-top-6-techniques-for-netflix-on-mac/"><u>[New] 2024 Approved Securely Snapshot Streaming Top 6 Techniques for Netflix on Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-steady-shots-how-to-avoid-lens-cloudiness/"><u>[New] Steady Shots How to Avoid Lens Cloudiness</u></a></li>
-<li><a href="https://driver-download.techidaily.com/compatible-canon-pixma-mg3420-software-for-windows-7-8-and-10-direct-download-links-inside/"><u>Compatible Canon Pixma MG3420 Software for Windows 7, 8 & 10 - Direct Download Links Inside!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-official-focusrite-scarlett-2i4-audio-interface-drivers-for-windows/"><u>Download & Install Official Focusrite Scarlett 2I4 Audio Interface Drivers for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-the-right-speaker-software-download-logitech-sound-card-drivers-for-win-1078-free/"><u>Find the Right Speaker Software: Download Logitech Sound Card Drivers for Win 10/7/8 - Free</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-most-recent-nvidia-rtx-2080-drivers-for-your-windows-pc-compatible-with-win10-win7-and-win8/"><u>Get the Most Recent NVIDIA RTX 2080 Drivers for Your Windows PC: Compatible with Win10, Win7 & Win8</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/hevc-zu-mp4-konvertieren-ohne-bild-und-tonqualitatsverlust-professionelle-tipps/"><u>HEVC Zu MP4 Konvertieren Ohne Bild- Und Tonqualitätsverlust - Professionelle Tipps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus/"><u>In 2024, Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-recognize-songs-on-iphone-withwithout-iphone-music-recognition/"><u>New How to Recognize Songs on iPhone With/Without iPhone Music Recognition</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reflex-product-assembly/"><u>Reflex Product Assembly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/streamlining-gaming-experience-how-to-record-games-obs/"><u>Streamlining Gaming Experience How to Record Games OBS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tech-picks-in-depth-comparison-of-leading-brands-like-apple-and-dell-zdnet/"><u>Top Tech Picks : In-Depth Comparison of Leading Brands Like Apple & Dell | ZDNet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshoot-and-fix-usb-recognition-issues-on-your-belkin-wireless-router-260ci/"><u>Troubleshoot & Fix: USB Recognition Issues on Your Belkin Wireless Router (260Ci)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/trustworthy-source-of-canon-mf4500-driver-safe-reliable-and-instant-access/"><u>Trustworthy Source of Canon MF4500 Driver - Safe, Reliable, and Instant Access</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-to-newest-rtx-nvidia-gaming-performance-enhancing-drivers-windows-11-ready/"><u>Update to Newest RTX Nvidia Gaming Performance Enhancing Drivers - Windows 11 Ready!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-nighttime-portrait-etiquette-dos-and-donts/"><u>[New] 2024 Approved Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-comprehensive-list-audio-pace-modification-tools/"><u>[Updated] In 2024, Comprehensive List Audio Pace Modification Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals-for-2024/"><u>Comprehensive Review Navigating Adobe Cloud + Comparing Rivals for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-amd-ryzen-driver-updates-and-downloads-for-optimal-performance/"><u>Effortless AMD Ryzen Driver Updates & Downloads for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978875056-effortless-download-and-update-of-surface-book-2s-drivers-get-started-now/"><u>Effortless Download & Update of Surface Book 2'S Drivers – Get Started Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-guide-getting-broadcoms-official-bluetooth-drivers-for-your-windows-system-1187/"><u>Essential Guide: Getting Broadcom's Official Bluetooth Drivers for Your Windows System (11/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970493716-hassle-free-and-rapid-downloading-of-samsung-nvme-drivers-your-essential-how-to-resource/"><u>Hassle-Free and Rapid Downloading of Samsung NVMe Drivers - Your Essential How-To Resource!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-techniques-for-outstanding-gopro-vlogs/"><u>In 2024, Top Techniques for Outstanding GoPro Vlogs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-hp-scanjet-drivers-compatible-with-windows-10-8-and-ebx-secure-your-printer/"><u>Install New HP Scanjet Drivers Compatible with Windows 10, 8 & Ebx | Secure Your Printer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logiteche-racing-wheel-driver-software-for-windows-7-8-and-10-free-download/"><u>Latest Logiteche Racing Wheel Driver Software for Windows 7, 8 & 10 - Free Download</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-your-pcs-sound-with-asus-realtek-audio-driver-free/"><u>Quick Fix Your PC's Sound with ASUS Realtek Audio Driver – FREE!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-transition-instructions-for-installing-new-software-on-samsung-televisions/"><u>Seamless Transition: Instructions for Installing New Software on Samsung Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-shopping-tips-navigating-the-process-of-picking-out-and-procuring-home-televisions/"><u>Smart Shopping Tips: Navigating the Process of Picking Out and Procuring Home Televisions</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/solusi-perangkoan-dan-cara-otomatis-untuk-memulihkan-berkas-dari-hard-disk-menurut-kegiatan-format/"><u>Solusi Perangkoan Dan Cara Otomatis Untuk Memulihkan Berkas Dari Hard Disk Menurut Kegiatan Format!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-fixing-dts-audio-not-supported-on-your-selected-output-device/"><u>Troubleshooting: Fixing 'DTS Audio Not Supported' On Your Selected Output Device</u></a></li>
 </ul></div>
 

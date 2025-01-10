@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2025-01-01T17:38:24.169Z
-updated: 2025-01-03T17:00:03.261Z
+date: 2025-01-06T16:32:49.383Z
+updated: 2025-01-10T18:54:35.278Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
  Note: the screenshots below come from Windows 10, and methods apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Download the BCM20702A0 driver manually
 
  There are two ways to manually download the BCM20702A0 driver for your computer. You can download it from the website, then install it via Device Manager.
@@ -51,20 +47,24 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
@@ -81,7 +81,7 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -89,7 +89,7 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -112,20 +112,21 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhancing-instagram-video-visibility/"><u>[Updated] 2024 Approved Enhancing Instagram Video Visibility</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-sub/"><u>2024 Approved Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-dusk-dance-pre-pro-fades/"><u>2024 Approved The Dusk Dance - Pre-Pro Fades</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/avoiding-social-media-isolation-tweet-on-fb-for-2024/"><u>Avoiding Social Media Isolation Tweet on FB for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-asus-laptop-driver-software/"><u>Download and Update ASUS Laptop Driver Software</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-downloads-installing-dell-latitude-e6420-drivers/"><u>Fast and Simple Downloads: Installing Dell Latitude E6420 Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972007584-get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-effortlessly-update-your-graphics-card-amd-rx-upgrade-and-optimize-with-latest-drivers/"><u>How to Effortlessly Update Your Graphics Card: AMD RX 지Upgrade & Optimize with Latest Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8600-driver-download-for-windows/"><u>HP Officejet Pro 8600 Driver Download for Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-k70e-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi K70E Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y36-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y36 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revitalize-your-phones-performance-updating-samsung-usb-driver-instructions/"><u>Revitalize Your Phone's Performance: Updating Samsung USB Driver Instructions</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g14-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G14 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976400104-effortless-installation-of-hp-envy-56e-drivers-get-them-now/"><u>Effortless Installation of HP Envy 56E Drivers – Get Them Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-up-to-date-nvidia-video-card-drivers-for-your-pc-windows-os-supported-win7-win8-win10/"><u>Find and Install Up-to-Date Nvidia Video Card Drivers for Your PC - Windows OS Supported (Win7, Win8, Win10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-gigabyte-speakers-running-free-drivers-available/"><u>Get Your Gigabyte Speakers Running - Free Drivers Available 🔊</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-installation-comprehensive-guide-for-downloading-your-xbox-wireless-adapter-drivers/"><u>Hassle-Free Installation: Comprehensive Guide for Downloading Your Xbox Wireless Adapter Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-find-and-install-the-latest-d-link-driver-updates-for-windows/"><u>How to Easily Find and Install the Latest D-Link Driver Updates for Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-f54-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy F54 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-install-the-latest-amd-vega-56-graphics-card-driver-on-windows-complete-guide/"><u>How to Get and Install the Latest AMD Vega #56 Graphics Card Driver on Windows - Complete Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-exclusive-list-of-premium-online-and-desktop-gif-makers/"><u>In 2024, Exclusive List of Premium Online & Desktop GIF Makers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-navigating-the-art-of-360-live-on-facebook/"><u>In 2024, Navigating the Art of 360 Live on Facebook</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-dell-wireless-network-driver-download/"><u>Latest Dell Wireless Network Driver Download</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-maze-fb-messengers-a-video-downloading-guide/"><u>Navigating the Maze FB Messengers - A Video Downloading Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/romance-and-its-roots-in-language-culture/"><u>Romance and Its Roots in Language Culture</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-extended-frame-videos-on-iphone-for-2024/"><u>The Art of Extended Frame Videos on iPhone for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-ai-driven-creative-hubs/"><u>Top 7 AI-Driven Creative Hubs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-system-with-the-official-microsoft-audio-driver-easy-download-and-installation-guide/"><u>Update Your System with the Official Microsoft Audio Driver - Easy Download & Installation Guide</u></a></li>
 </ul></div>
 

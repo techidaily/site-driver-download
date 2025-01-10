@@ -1,7 +1,7 @@
 ---
 title: "Free of Charge: Install and Update to New HP Deskjet INK Advantage Printer Drivers for Windows Systems"
-date: 2024-08-23T16:23:48.607Z
-updated: 2024-08-24T16:23:48.607Z
+date: 2025-01-08T18:33:05.301Z
+updated: 2025-01-10T17:30:37.013Z
 tags:
   - win11
   - win10
@@ -35,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**HP DeskJet 2652** in the search box, and click**Submit** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1-2-1.jpg)
 
 **3)** Make sure the**Detected operating system** is correct. Then, download the correct driver based on your needs.
@@ -51,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
  If this method doesn’t work for you, there is an easier and quicker option.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update your HP DeskJet 2652 driver (recommended)
 
@@ -66,11 +71,19 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the HP DeskJet 2600 series driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free it you like, but it’s partly manual.
 
@@ -83,40 +96,28 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Option 3 – Update your HP DeskJet 2652 driver using Device Manager
 
  Apart from the above two methods, you could also update the printer driver using Device Manager, a Windows built-in tool to control your hardware. Simply take the following steps:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/5.jpg)
 
 **2)** Double-click**Printers** to see the devices under this category.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click**HP DeskJet 2652** , and click**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/7.jpg)
 
 **4)** Select**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/8.jpg)
 
  If there is any new update, Windows will directly download and install it. Then, reboot your computer for the changes to take effect. Otherwise, it will show you that the best drivers for your device are already installed.
@@ -134,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +142,22 @@ thumbnail: https://thmb.techidaily.com/bedf5c8b53d1004ac14c8188bc2b10e8fa9f12bca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/1723208722915-diagnosing-and-repairing-when-you-cant-watch-netflix-solutions-inside/"><u>Diagnosing & Repairing When You Can't Watch Netflix – Solutions Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-get-your-intel-usb-30-drivers-updated-for-windows-11/"><u>Easy Installation: Get Your Intel USB 3.0 Drivers Updated for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-microsoft-drivers-installation-and-updates-for-windows-10-8-and-7-users/"><u>Easy Microsoft Drivers Installation & Updates for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/emailing-a-flipbook-creation-tips-and-tricks-for-flipbuilder-users/"><u>Emailing a FlipBook Creation - Tips and Tricks for FlipBuilder Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-pci-hardware-drivers-update-for-windows-versions-win11-win10-win8-and-win7/"><u>Free PCI Hardware Drivers Update for Windows Versions: Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976859139-get-your-amd-radeon-vega-64-up-to-date-download-and-install-drivers-easily-on-windows-pcs/"><u>Get Your AMD Radeon VEGA 64 Up to Date - Download & Install Drivers Easily on Windows PCs!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-tuneful-texts-musical-infusion-on-whatsapp/"><u>In 2024, Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-logitech-c920-driver-download-for-new-windows-11-pc/"><u>Latest Logitech C920 Driver Download for New Windows 11 PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/leading-techniques-for-youtube-mpeg-migration-for-2024/"><u>Leading Techniques for YouTube MPEG Migration for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978270802-the-insulation-resistance-of-an-electrical-system-can-decrease-over-time-due-to-factors-such-as-moisture-ingress-temperature-changes-and-aging-materials/"><u>The Insulation Resistance of an Electrical System Can Decrease over Time Due to Factors Such as Moisture Ingress, Temperature Changes, and Aging Materials.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrading-your-graphics-experience-simple-methods-to-update-gtx-1660-drivers/"><u>Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers</u></a></li>
+</ul></div>
 

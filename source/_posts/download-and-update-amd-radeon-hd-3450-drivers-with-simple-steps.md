@@ -1,7 +1,7 @@
 ---
 title: Download and Update AMD Radeon HD 3450 Drivers with Simple Steps
-date: 2024-08-23T16:20:49.842Z
-updated: 2024-08-24T16:20:49.842Z
+date: 2025-01-09T18:09:21.968Z
+updated: 2025-01-10T17:21:15.021Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 ## Download and Update Surface Book Drivers with Simple Steps
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cf002737a.jpg)
 
  It’s always important to**keep all the drivers in your Surface Book up-to-date** so as to keep it in tip top condition and nip all sorts of common computer issues like BOSD in the bud.
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
  In this post, we’re going to show you 2 easy ways to get the latest drivers for your **Surface Book.**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## To update Surface Book Drivers
 
 **[Option 1 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/surface-book-drivers-download-update-easily/#O1)**  –  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
@@ -36,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -48,20 +47,27 @@ thumbnail: https://thmb.techidaily.com/5d0cffeef3a457f6d646442a32f08e24ee51602aa
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart**   your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
 
@@ -71,9 +77,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 1. Go to **[Microsoft Surface Book Products Help](https://support.microsoft.com/en-us/hub/4295272/surface-book-products-help)**  .
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
@@ -91,8 +94,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +101,22 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-best-buys-for-your-digital-chime-preferences-in-snapchat-for-2024/"><u>[New] Best Buys for Your Digital Chime Preferences in SnapChat for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[Updated] 2024 Approved Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-channel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>[Updated] Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gameplay-in-focus-scrutinizing-screen-recorders-for-2024/"><u>[Updated] Gameplay in Focus Scrutinizing Screen Recorders for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-sonic-selection-software-for-android-users/"><u>Best Sonic Selection Software for Android Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-sound-card-software-for-free-simplified-steps/"><u>Download HP Sound Card Software for FREE – Simplified Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-2760-print-driver-for-windows-11-download-and-installation-guide/"><u>Epson WF-2760 Print Driver for Windows 11: Download & Installation Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-common-errors-in-pci-protectionunlock-driver-systems-expert-tips/"><u>Fixing Common Errors in PCI Protection/Unlock Driver Systems - Expert Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-best-quality-video-with-logitech-c525-driver-update-for-windows-easy-download-options/"><u>Get the Best Quality Video with Logitech C525 Driver Update for Windows - Easy Download Options</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-intel-iris-xe-graphics-card-updated-drivers-for-windows-11-here/"><u>Get Your Intel Iris Xe Graphics Card Updated Drivers for Windows 11 Here!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-camera-care-needed-trust-our-superior-photo-gear-fixes/"><u>Immediate Camera Care Needed? Trust Our Superior Photo Gear Fixes!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-x7b-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor X7b Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-drivers-for-epson-perfection-v39-on-windows-7-8-and-10-get-them-here/"><u>Latest Drivers for Epson Perfection V39 on Windows 7, 8 & 10 - Get Them Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-setup-obtain-your-linksys-ae1200-drivers-with-these-simple-tips/"><u>Speedy Setup: Obtain Your Linksys AE1200 Drivers with These Simple Tips</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/why-are-you-experiencing-device-driver-problems-solutions-by-yl-software-specialists/"><u>Why Are You Experiencing Device Driver Problems? Solutions by YL Software Specialists</u></a></li>
+</ul></div>
 

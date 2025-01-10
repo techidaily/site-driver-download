@@ -1,7 +1,7 @@
 ---
 title: Quick and Secure GTX 780 Driver Downloads for Your Windows PC
-date: 2024-08-23T16:23:41.651Z
-updated: 2024-08-24T16:23:41.651Z
+date: 2025-01-07T19:33:34.429Z
+updated: 2025-01-10T16:18:18.191Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c95c5b89385ea5c16d5bf29142574c7f6fa915aba
 
 You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What’s the iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -36,28 +33,33 @@ There are two ways to download iCUE.
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download iCUE from the product page
 
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
 
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
 
@@ -71,10 +73,6 @@ There are two ways to download iCUE.
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
@@ -82,6 +80,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -97,8 +99,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +106,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-tunetinker-tweaking-the-audio-map/"><u>[Updated] TuneTinker Tweaking the Audio Map</u></a></li>
+<li><a href="https://driver-download.techidaily.com/dts-playback-failure-identifying-and-correcting-unavailable-audio-equipment/"><u>DTS Playback Failure: Identifying and Correcting Unavailable Audio Equipment</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-surface-book-2-driver-downloads-simple-and-quick-installation/"><u>Free Surface Book 2 Driver Downloads - Simple and Quick Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/geforce-rtx-3090-driver-update-get-the-best-performance-for-your-windows-system/"><u>GeForce RTX 3090 Driver Update: Get the Best Performance for Your Windows System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>In 2024, 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-elevate-your-discord-statues-with-fun-emoji-add-ons/"><u>In 2024, Elevate Your Discord Statues with Fun Emoji Add-Ons</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-x7frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find X7FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/obs-wasnt-capturing-learn-how-we-solved-the-screen-recording-glitches/"><u>OBS Wasn't Capturing? Learn How We Solved the Screen Recording Glitches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-installation-guide-for-intel-irisplus-graphics-640-drivers-hassle-free-and-quick-setup-tips/"><u>Speedy Installation Guide for Intel Iris+ Graphics 640 Drivers – Hassle-Free and Quick Setup Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-successfully-installing-your-epson-xp-830-printer-driver/"><u>Step-by-Step Guide: Successfully Installing Your Epson XP-830 Printer Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-wacom-intuos-pro-driver-installation-on-windows-11/"><u>Step-by-Step Tutorial: Wacom Intuos Pro Driver Installation on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/which-is-better-for-streamers-obs-studio-or-fraps-in-2024/"><u>Which Is Better for Streamers, OBS Studio or Fraps, In 2024</u></a></li>
+</ul></div>
 

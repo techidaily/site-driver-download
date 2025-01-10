@@ -1,7 +1,7 @@
 ---
 title: "HP LaserJet P1606dn Printer Drivers for Windows: Free Download & Update Instructions"
-date: 2024-12-30T20:52:18.880Z
-updated: 2025-01-03T22:38:01.236Z
+date: 2025-01-04T19:30:36.280Z
+updated: 2025-01-10T18:39:56.724Z
 tags:
   - win11
   - win10
@@ -17,16 +17,16 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a08ed497d8.jpg)It’s always important to update the driver for your **HP ENVY 5660** printer so as to keep it in tip-top shape and prevent all kinds of unexpected computer issues (like system crashes).  In this post, we’re showing you 2 easy ways to get the latest **HP ENVY 5660**  drivers. Check them out…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
 
 1. **[Update HP ENVY 5660 driver automatically(Recommended)](https://www.drivereasy.com/knowledge/hp-envy-5660-driver-download-install-easily/#O1)**
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
@@ -37,12 +37,16 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -52,17 +56,13 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
@@ -89,16 +89,15 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-discover-the-power-of-easy-trimming-with-windows-photos-app-for-2024/"><u>[New] Discover the Power of Easy Trimming with Windows Photos App for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-prime-engagement-hook-generator-for-2024/"><u>[New] Prime Engagement Hook Generator for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-captivating-clips-select-5-brightening-apps/"><u>[Updated] Captivating Clips Select 5 Brightening Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/10-ultimate-webcam-reviews-for-informed-buyers/"><u>10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/apple-pay-declined-discover-the-6-key-methods-to-restore-your-purchasing-power/"><u>Apple Pay Declined: Discover the 6 Key Methods to Restore Your Purchasing Power</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978863143-compatible-with-windows-71n11-get-your-free-logitech-driving-force-gt-wheel-software-download-now/"><u>Compatible with Windows 7/1N/11: Get Your Free Logitech Driving Force GT Wheel Software Download Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-logitech-hd-c270-webcam-drivers-and-software-for-windows-10-and-11/"><u>Download Logitech HD C270 WebCam Drivers & Software for Windows 10 and 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-google-wifi-the-ideal-smart-router-find-out-in-our-detailed-analysis-and-recommendations/"><u>Is Google Wifi The Ideal Smart Router? Find Out in Our Detailed Analysis and Recommendations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-mpow-bluetooth-driver-versions-now-available-perfect-compatibility-with-windows-11-8-and-amoled/"><u>Latest MPOW Bluetooth Driver Versions Now Available - Perfect Compatibility with Windows 11, 8 & Amoled</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-update-your-amd-radeon-rx-470-drivers/"><u>Quick and Simple Guide: Update Your AMD Radeon RX 470 Drivers</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/t6-dslr-features-wallet-friendly-selection/"><u>T6 DSLR Features: Wallet-Friendly Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-engagement-with-expert-level-niche-creators-for-2024/"><u>[Updated] Elevating Engagement with Expert-Level Niche Creators for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fundamental-equipment-for-channel-foundations/"><u>[Updated] In 2024, Fundamental Equipment for Channel Foundations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[Updated] In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-honor-magic-6-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Honor Magic 6 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164636469-challenges-associated-with-updating-outdated-or-incorrect-maps/"><u>Challenges Associated with Updating Outdated or Incorrect Maps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-pixma-mx340-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon PIXMA MX340 Printer Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-s23-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel S23 Safely | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/master-the-setup-downloading-and-configuring-sandisk-ssd-driver-software-efficiently/"><u>Master the Setup: Downloading and Configuring Sandisk SSD Driver Software Efficiently.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-effortless-way-to-install-new-amd-gpu-drivers/"><u>Quick & Effortless Way to Install New AMD GPU Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-your-arduino-drivers-on-a-pc-with-windows/"><u>Step-by-Step Guide: Installing Your Arduino Drivers on a PC with Windows</u></a></li>
 </ul></div>
 
