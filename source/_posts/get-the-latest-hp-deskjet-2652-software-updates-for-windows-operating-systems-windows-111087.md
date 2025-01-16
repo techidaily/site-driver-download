@@ -1,7 +1,7 @@
 ---
 title: Get the Latest HP DeskJet 2652 Software Updates for Windows Operating Systems (Windows 11/10/8/7)
-date: 2024-09-01T00:48:03.411Z
-updated: 2024-09-02T00:48:03.411Z
+date: 2025-01-08T22:55:05.888Z
+updated: 2025-01-15T17:11:49.651Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
  Check out the 2 methods below and you’ll have the latest**Atheros** driver installed in no time! 😉
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Choose the way you prefer
 
  Both methods below work in**Window 10** ,**8.1** and**7** . You may not have to try both; just browse through the list and take your pick:
@@ -38,27 +39,26 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
  1) On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
  2) In**Device Manager** , right-click your **Atheros products** and click**Update** .
 
  3) Click **Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b60227d330f0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Depending on whether Windows provides you a driver update:
 
 * If **yes** , then follow the on-screen instructions to update the driver and skip the rest of the steps. Then restart your computer for the changes to take effect.
 * If **no** , and instead you got the message **The best drivers for your device already installed** , then you might have to continue with the following steps to get the latest driver for your**Atheros** product. Since the message isn’t always true and Windows can be slow in keeping up with driver releases .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b602d7234e1b.jpg)
 
  5) Under contractual obligations, Qualcomm Atheros doesn’t offer drivers for us users. Instead, we might have to  go to the original equipment manufacturer’s website, and click the**Support** (or**Drivers** /**Downloads** ) section.
@@ -72,6 +72,10 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
  9) Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your Atheros drivers automatically (Recommended)
 
@@ -87,16 +91,14 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
 
  2) Run Driver Easy and click **Scan Now** .  Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b19bf43ece.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
  You can click **Update**  to  do it for free if you like, but it’s partly manual.
@@ -115,8 +117,6 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,18 @@ Looking to update your (**Qualcomm** ) **Atheros** drivers but struggling to fin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highpoint-craftsman-workspace-review/"><u>2024 Approved Highpoint Craftsman Workspace Review</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-ip110-printer-driver-download-compatible-with-various-windows-versions-including-win-11-10-8-and-7/"><u>Canon iP110 Printer Driver Download: Compatible with Various Windows Versions Including Win 11, 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-downloading-and-installing-canon-ip1-groovy10-printer-drivers-for-all-windows-users/"><u>Easy Guide: Downloading & Installing Canon IP1 Groovy10 Printer Drivers for All Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-i2c-hid-driver-problems-a-users-guide-to-simple-solutions/"><u>Fixing I2C HID Driver Problems: A User's Guide to Simple Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-expert-tips-for-radial-blur-techniques-in-photoshop/"><u>In 2024, Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-narzo-n53-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme Narzo N53 FRP Locks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-download-linksys-ae1200-wi-fi-router-drivers-with-ease/"><u>Quick Guide: Download Linksys AE1200 Wi-Fi Router Drivers with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/separating-fake-flagship-trailers-from-real-ones/"><u>Separating Fake Flagship Trailers From Real Ones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshoot-display-errors-solving-graphics-driver-issue-alert-on-your-pc/"><u>Troubleshoot Display Errors: Solving 'Graphics Driver Issue Alert' On Your PC</u></a></li>
+</ul></div>
 

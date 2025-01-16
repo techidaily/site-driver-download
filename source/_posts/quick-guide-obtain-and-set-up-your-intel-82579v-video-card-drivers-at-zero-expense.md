@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense"
-date: 2025-01-09T16:25:30.492Z
-updated: 2025-01-10T20:44:34.730Z
+date: 2025-01-11T11:34:13.107Z
+updated: 2025-01-16T12:23:12.448Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ft232r-usb-uart-driver-download-easily-quickly/#o2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the FT232R USB UART driver manually
@@ -36,7 +36,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
@@ -53,14 +53,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,20 +86,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] 2024 Approved 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-comprehensive-guide-to-climbing-the-facebook-rankings-ladder/"><u>[New] 2024 Approved A Comprehensive Guide to Climbing the Facebook Rankings Ladder</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-cutting-edge-4k-recordings-our-choice-of-the-best-for-2024/"><u>[Updated] Cutting-Edge 4K Recordings Our Choice of the Best for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-mastering-slow-motion-on-tiktok-a-step-by-step-guide/"><u>[Updated] Mastering Slow Motion on TikTok A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-metaverse-vs-multimetaverse-key-distinctions-and-comparison/"><u>2024 Approved Metaverse Vs. Multimetaverse Key Distinctions and Comparison</u></a></li>
-<li><a href="https://windows11.techidaily.com/combining-kali-with-windows-os-seamlessly/"><u>Combining Kali with Windows OS Seamlessly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974419118-direct-injection-di-injects-fuel-directly-into-the-combustion-chamber-allowing-for-precise-control-over-timing-and-quantity-of-fuel-delivery/"><u>Direct Injection (DI) Injects Fuel Directly Into the Combustion Chamber, Allowing for Precise Control over Timing and Quantity of Fuel Delivery</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-sound-blaster-z-drivers-seamlessly-for-windows-10-systems/"><u>Download the Sound Blaster Z Drivers Seamlessly for Windows 10 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-acer-device-drivers-on-windows-ultimate-guide/"><u>How to Fix Acer Device Drivers on Windows: Ultimate Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-6968-printer-drivers-free-download/"><u>HP OfficeJet Pro 6968 Printer Drivers: Free Download</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transformative-editing-experience-windows-photos-meets-story-remix/"><u>In 2024, Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-canon-pixma-mx922-software-updates-for-microsoft-windows-users/"><u>Latest Canon PIXMA MX922 Software Updates for Microsoft Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-latest-wireless-device-drivers-on-win11win10-systems/"><u>Step-by-Step Guide: Installing Latest Wireless Device Drivers on Win11/Win10 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-reasons-why-claude-surpasses-chatgpt-as-an-ai-conversationalist/"><u>Top 4 Reasons Why Claude Surpasses ChatGPT as an AI Conversationalist</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-installing-the-latest-drivers-on-razer-blade-17-running-windows-operating-systems/"><u>Ultimate Guide to Installing the Latest Drivers on Razer Blade 17 Running Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-6-effortless-steps-to-add-social-media-live-content-online/"><u>[New] 2024 Approved 6 Effortless Steps to Add Social Media Live Content Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-echo-of-the-land-downloading-and-personalizing-tamil-ringtones/"><u>[Updated] 2024 Approved Echo of the Land Downloading & Personalizing Tamil Ringtones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-10-best-online-vimeo-video-downloaders/"><u>2024 Approved 10 Best Online Vimeo Video Downloaders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-elevate-your-content-game-with-professional-facebook-slideshow-techniques/"><u>2024 Approved Elevate Your Content Game with Professional Facebook Slideshow Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/a-detailed-history-and-neurological-examination-are-crucial-for-narrowing-down-the-differential-diagnosis/"><u>A Detailed History and Neurological Examination Are Crucial for Narrowing Down the Differential Diagnosis</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-erase-your-iphones-history-once-and-for-all/"><u>Complete Guide: Erase Your iPhone's History Once and For All</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963043624-elevate-your-pc-gaming-download-optimized-geforce-rtx-3090-drivers-for-windows-11-8-and-7/"><u>Elevate Your PC Gaming - Download Optimized GeForce RTX 3090 Drivers for Windows 11, 8 & 7!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965456391-enhance-your-gaming-experience-with-updated-rtx-2080-super-graphics-card-drivers-on-windows-11-download-now/"><u>Enhance Your Gaming Experience with Updated RTX 2080 Super Graphics Card Drivers on Windows 11 - Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-microsoft-windows-8-driver-downloads-for-radeon-amd-graphics/"><u>Free Microsoft Windows 8 Driver Downloads for Radeon AMD Graphics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fresh-installation-of-brother-hl-l2370dw-driver-begin-here/"><u>Fresh Installation of Brother HL-L2370DW Driver - Begin Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-laserjet-1018-driver-fast-install-guide-and-downloads/"><u>Get Your HP LaserJet 1018 Driver - Fast Install Guide & Downloads</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17t-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo S17t Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-instagram-narratives-through-captioning/"><u>Mastering Instagram Narratives Through Captioning</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-best-film-trailer-editing-tools-for-mac-and-windows-users/"><u>New Best Film Trailer Editing Tools for Mac and Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210006685-9781401961541-secrets-of-space-clearing/"><u>Secrets of Space Clearing | Free Book</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-comprehensive-guide-to-installing-hp-officejet-pro-8610-drivers-on-windows-11-and-earlier-editions/"><u>The Comprehensive Guide to Installing HP Officejet Pro 8610 Drivers on Windows 11 and Earlier Editions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959039814-update-your-pc-with-intels-ac-9560-network-card-driver-free-guide/"><u>Update Your PC with Intel's AC 9560 Network Card Driver - Free Guide!</u></a></li>
 </ul></div>
 

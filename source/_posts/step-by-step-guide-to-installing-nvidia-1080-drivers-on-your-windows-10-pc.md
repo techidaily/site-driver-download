@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Installing NVIDIA 1080 Drivers on Your Windows 10 PC
-date: 2024-09-01T00:50:13.695Z
-updated: 2024-09-02T00:50:13.695Z
+date: 2025-01-09T20:31:42.644Z
+updated: 2025-01-16T09:53:44.935Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/f43e24b5652ac6ca705d21d4283165ba384a70210
 
 ## Update Your Razer Graphics Driver on Windows 10, 8, 7, XP & Vista: Step-by-Step Guide to Downloading New Versions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c0f38d7844.jpg)
 
  If you want to keep your Razer devices in good condition, and bring the best possible experience when using your Windows computer, try updating the**Razer drivers** .
@@ -26,17 +22,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In addition, if Razer Synapse is not working in your computer, you can also try the methods in this post to solve your problem and install the correct and latest drivers for your Razer devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to download or update Razer drivers?
 
 1. [Download or update Razer drivers manually](https://tools.techidaily.com/drivereasy/download/)
 2. [Download or update Razer drivers automatically](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download or update Razer drivers manually
 
  You can manually download the Razer drivers from the website.
@@ -49,15 +46,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c0dae2c9fd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c0dca72a44.jpg)
 
  3) On the product support page, click**Software & Drivers** on the left.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c0deff17d1.jpg)
 
  4) Download the software or driver that is compatible with your operating system.
@@ -65,6 +63,10 @@ Or
  5) Run the downloaded file and follow the on-screen instructions to install the drivers in your computer.
 
  Manually downloading the Razer drivers requires time and computer skills. If this method doesn’t work for you, don’t worry. We have another solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download or update Razer drivers automatically
 
@@ -78,18 +80,16 @@ Or
 
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c0f63de3a9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged device to automatically download the correct version of this driver (you can do this with the**FREE** version). Then install the driver in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c105ee642b.jpg)
 
  4) Restart your computer after updating, and you should have your Razer drivers up to date.
@@ -108,8 +108,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +115,26 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[New] 2024 Approved From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-sharex-examined-evaluations-and-alternatives/"><u>[New] ShareX Examined Evaluations & Alternatives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-crafting-youtube-trailers-a-filmora-guide/"><u>[Updated] 2024 Approved Crafting YouTube Trailers A Filmora Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unwind-and-capture-your-games-in-peace/"><u>2024 Approved Unwind and Capture Your Games in Peace</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-upgrade-intel-software-raid-drivers-for-latest-windows-os-versions-including-windows-11-10-8-and-e/"><u>Download and Upgrade Intel Software RAID Drivers for Latest Windows OS Versions Including Windows 11, 10, 8 & E</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977836468-get-your-realtek-device-driver-for-windows-11-here/"><u>Get Your Realtek Device Driver for Windows 11 Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722954033058-get-your-steelseries-driver-update-now-for-optimized-windows-11-performance/"><u>Get Your SteelSeries Driver Update Now for Optimized Windows 11 Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-and-update-rndis-drivers-on-your-windows-pc-fixed/"><u>How to Download and Update RNDIS Drivers on Your Windows PC – Fixed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-f5-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco F5 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-create-a-youtube-channel-today/"><u>In 2024, How to Create A YouTube Channel Today</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-high-dynamic-range-step-by-step-guide/"><u>In 2024, IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-new-or-update-existing-windows-drivers-for-the-netgear-a610er-fast-guide-and-resources/"><u>Install New or Update Existing Windows Drivers for the Netgear A610er - Fast Guide & Resources</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-compatible-driver-update-brother-hl-2240-for-windows-systems/"><u>Newest Compatible Driver Update: Brother HL-2240 for Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961869175-nvidia-driver-downloads-secure-and-optimized-for-windows-11-7-and-8/"><u>NVIDIA Driver Downloads - Secure & Optimized for Windows 11, 7 and 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-your-investments-exposing-the-truth-about-bingchatgpt-and-fraudulent-crypto-assets/"><u>Safeguard Your Investments: Exposing the Truth About BingChatGPT and Fraudulent Crypto Assets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solving-hp-monitor-driver-problems-in-windows-11-8-and-7/"><u>Solving HP Monitor Driver Problems in Windows 11, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-update-to-version-2004-with-enhanced-conexant-driver-step-by-step-instructions/"><u>Windows 10 Update to Version 2004 with Enhanced Conexant Driver – Step by Step Instructions</u></a></li>
+</ul></div>
 

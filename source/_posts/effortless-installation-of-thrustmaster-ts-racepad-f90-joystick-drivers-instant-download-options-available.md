@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of Thrustmaster TS RacePad F90 Joystick Drivers – Instant Download Options Available
-date: 2025-01-06T20:01:18.523Z
-updated: 2025-01-10T16:14:45.565Z
+date: 2025-01-13T03:20:05.363Z
+updated: 2025-01-16T04:11:26.636Z
 tags:
   - win11
   - win10
@@ -19,12 +19,20 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
  If you see **Advanced Micro Devices, Inc driver update for AMD SMBus** in Windows Update, just**DON’T** install the update via Windows Update. Since it could very well just fail and cause further problems . Here we show you 2 safe and easy options to**update your AMD SMBus driver** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update AMD SMBus drivers
 
 1. **[Update your AMD SMBus driver automatically (Recommended)](https://www.drivereasy.com/knowledge/advanced-micro-devices-inc-driver-update-for-amd-smbus-solved/#O1)**
 2. **[Update your AMD SMBus driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your **SMBus driver driver** automatically (Recommended)
 
@@ -39,15 +47,11 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your**AMD** **SMBus**  driver manually
@@ -73,15 +77,11 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 4. Click**DOWNLOAD** in the first result to make sure you download the latest**AMD Chipset** **Drivers** version.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174cf9e1f05.png)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Restart your computer for the changes to take effect.
 
@@ -106,16 +106,14 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds/"><u>[New] Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-ultimate-playwriting-workshop-for-2024/"><u>[New] Ultimate Playwriting Workshop for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/bringing-vision-to-life-the-art-of-post-color-enhancement/"><u>Bringing Vision to Life The Art of Post-Color Enhancement</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-the-issue-how-to-resolve-260ci-wi-fi-adapter-usb-connection-troubles/"><u>Fixing the Issue: How to Resolve 260Ci Wi-Fi Adapter USB Connection Troubles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974014848-get-your-latest-msi-windows-sound-and-audio-driver-download-fast-and-easy/"><u>Get Your Latest MSI Windows Sound & Audio Driver Download - Fast and Easy</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-dextraction-dvd-gratuit-transformation-aisee-de-dvd-proteges-en-fichiers-accessibles/"><u>Guide D'Extraction DVD Gratuit - Transformation Aisée De DVD Protégés en Fichiers Accessibles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-start-guide-to-obtaining-hp-audio-device-drivers-for-free/"><u>Quick-Start Guide to Obtaining HP Audio Device Drivers for Free</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolve-microphone-malfunctions-in-counter-strike-2-with-these-proven-techniques/"><u>Resolve Microphone Malfunctions in Counter-Strike 2 with These Proven Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/safe-lenovo-bluetooth-software-updates-for-windows-7-and-windows-e-easy-download-and-installation-tips/"><u>Safe Lenovo Bluetooth Software Updates for Windows 7 and Windows E: Easy Download & Installation Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-the-d3d932dll-not-found-problem/"><u>Troubleshooting Steps for the d3d9_32.dll Not Found Problem</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-chose-the-best-live-platform/"><u>[New] Ultimate Guide to Chose the Best Live Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fists-vs-followers-choosing-the-champion/"><u>[Updated] 2024 Approved Fists vs Followers Choosing the Champion</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-success-in-win11-meetings-with-advanced-zooming-techniques/"><u>2024 Approved Secure Success in Win11 Meetings with Advanced Zooming Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vdl-screen-capturers-critique-in-depth-look/"><u>2024 Approved VDL Screen Capturer's Critique In-Depth Look</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-updated-hp-laserjet-p1102dw-printing-software-for-windows-users/"><u>Easy Installation of Updated HP LaserJet P1102dw Printing Software for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974209948-how-to-successfully-download-your-broadcom-wifi-drivers-a-step-by-step-guide/"><u>How to Successfully Download Your Broadcom WiFi Drivers - A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-fixes-getting-the-logitech-f710-to-work-with-your-pcs-operating-system/"><u>Step-by-Step Fixes: Getting the Logitech F710 to Work with Your PC's Operating System</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969777813-this-simplifies-to/"><u>This Simplifies To</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>Updated 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide
-date: 2025-01-06T20:34:25.143Z
-updated: 2025-01-10T18:46:07.754Z
+date: 2025-01-11T21:27:40.354Z
+updated: 2025-01-15T21:01:10.308Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
@@ -41,15 +41,19 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
 
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
  After uninstalling, you can now download the printer driver from official website.
 
@@ -62,7 +66,7 @@ Follow these steps:
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -80,15 +84,11 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
@@ -128,18 +128,22 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-t5-camera-for-extreme-clips/"><u>[New] 2024 Approved Ultimate T5 Camera for Extreme Clips</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-captivating-content-crafting-impactful-insta-videos/"><u>[New] In 2024, Captivating Content Crafting Impactful Insta-Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-screencastify-a-comprehensive-recording-how-to/"><u>[New] In 2024, Screencastify A Comprehensive Recording How-To</u></a></li>
-<li><a href="https://driver-download.techidaily.com/after-every-quote-integration-include-a-parenthetical-citation-with-the-year-when-the-quote-was-said-eg-preparedness-is-key-the-best-way-to-predict-your-fut325/"><u>After Every Quote Integration, Include a Parenthetical Citation with the Year when the Quote Was Said (E.g., Preparedness Is Key: 'The Best Way to Predict Your Future...' (Warren Buffett, 2014))</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mx410-driver-download-for-windows/"><u>Canon MX410 Driver Download for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-speaker-problems-resolved-fixing-audio-drivers-on-windows-10-8-and-7/"><u>HP Speaker Problems Resolved: Fixing Audio Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/optimieren-sie-ihre-compliance-losungen-erweiterte-moglichkeiten-mit-der-erneuerten-ediscovery-suite-von-deloitte/"><u>Optimieren Sie Ihre Compliance-Lösungen - Erweiterte Möglichkeiten Mit Der Erneuerten eDiscovery Suite Von Deloitte</u></a></li>
-<li><a href="https://driver-download.techidaily.com/steelseries-arctis-5-headset-drivers-easy-downloading-and-setup-guide/"><u>SteelSeries Arctis 5 Headset Drivers: Easy Downloading and Setup Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fix-overcoming-bluetooth-driver-errors-on-your-windows-11-machine/"><u>Step-by-Step Fix: Overcoming Bluetooth Driver Errors on Your Windows 11 Machine</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/swiftly-flip-your-iphone-video-clips/"><u>Swiftly Flip Your iPhone Video Clips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/trending-tweet-treasures-1-10-showdown-for-2024/"><u>Trending Tweet Treasures #1-#10 Showdown for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-masterclass-eliminating-freezing-in-outriders-for-a-seamless-pc-gaming-session/"><u>Troubleshooting Masterclass: Eliminating Freezing in Outriders for a Seamless PC Gaming Session</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-graphics-nvidia-rtx-3070-driver-update-and-install-for-windows/"><u>Upgrade Your Graphics: NVIDIA RTX 3070 Driver Update & Install for Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-outlining-expenses-creating-a-music-video/"><u>[New] 2024 Approved Outlining Expenses Creating a Music Video</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-get-your-targus-dock-up-and-running-with-our-driver-software/"><u>[STEP-BY-STEP INSTRUCTIONS] Get Your Targus Dock Up and Running with Our Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976936949-approach-evaluate-how-these-devices-interact-with-structural-elements-during-an-earthquake/"><u>Approach: Evaluate How These Devices Interact with Structural Elements During an Earthquake.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2690dw-printing-device-get-the-latest-software-update-now/"><u>Brother L2690dw Printing Device: Get the Latest Software Update Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-simplified-amd-ati-radeon-hd-grove-3450-graphics-card-drivers/"><u>Download & Update Simplified - AMD ATI Radeon HD Grove 3450 Graphics Card Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-your-pc-gaming-rig-with-the-new-asus-rog-strix-geforce-gtx-1660-ti-graphics-card/"><u>Elevate Your PC Gaming Rig with the New ASUS ROG STRIX GeForce GTX 1660 Ti Graphics Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-wireless-driver-installation-download-options-inside/"><u>Hassle-Free Wireless Driver Installation - Download Options Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-obtain-the-latest-free-drivers-for-nvidias-3d-vision-technology-on-windows/"><u>How to Obtain the Latest Free Drivers for NVIDIA’s 3D Vision Technology on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor 90 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-zbook-15-g3-windows-driver-installation-instructions-and-download-links/"><u>HP ZBook 15 G3 - Windows Driver Installation Instructions & Download Links</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-capturing-clarity-top-methods-for-ppt-videos/"><u>In 2024, Capturing Clarity Top Methods for PPT Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-easeus-review-inclusivity-in-action/"><u>In 2024, EaseUS Review Inclusivity in Action</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-13c-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi 13C 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-access-to-new-canon-driver-software-seamless-setup-on-windows-computers/"><u>Quick Access to New Canon Driver Software: Seamless Setup on Windows Computers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-xs-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone XS Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-smooth-gameplay-restored-for-mass-effect-legendary-collection/"><u>Update: Smooth Gameplay Restored for Mass Effect Legendary Collection</u></a></li>
 </ul></div>
 

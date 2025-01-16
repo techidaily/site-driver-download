@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing & Managing Lenovo Thunderbolt 3 Hub Drivers"
-date: 2025-01-07T17:52:06.481Z
-updated: 2025-01-10T20:52:52.281Z
+date: 2025-01-13T16:56:01.358Z
+updated: 2025-01-16T00:58:16.520Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ There’re two ways you can update the Lenovo T450 drivers:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Update the drivers manually
 
  Lenovo keeps updating drivers for the T450 laptops. To get them, you need to visit the support website of Lenovo, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the drivers manually. Here’s the details:
@@ -44,7 +40,11 @@ There’re two ways you can update the Lenovo T450 drivers:
 3. Below you’ll be presented with a slew of component categories. Click the one whose drivers you need to update.![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-27_19-21-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Take the audio driver as an example. Click**Audio** and then you’ll see one or more drivers available for download on the pop-up page. Once you find the one you’d like to download, simply click the down arrow button which represents “Download.”  
@@ -58,7 +58,7 @@ There’re two ways you can update the Lenovo T450 drivers:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically update the drivers
@@ -74,13 +74,13 @@ There’re two ways you can update the Lenovo T450 drivers:
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-277.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.
@@ -108,24 +108,20 @@ There’re two ways you can update the Lenovo T450 drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficient-guide-image-conversion-to-professional-youtube-thumbnails/"><u>[Updated] 2024 Approved Efficient Guide Image Conversion to Professional YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-excellence-in-penmanship-8-screenplay-classics/"><u>[Updated] Excellence in Penmanship 8 Screenplay Classics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-sound-engineering-tips-to-elevate-your-video-content/"><u>[Updated] In 2024, Sound Engineering Tips to Elevate Your Video Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-inshot-pc-editing-made-easy/"><u>[Updated] Mastering Inshot PC Editing Made Easy</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/choosing-between-iphone-16-pro-and-14-pro-is-the-newest-model-worth-it-expert-review/"><u>Choosing Between iPhone 16 Pro and 14 Pro: Is the Newest Model Worth It? - Expert Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-setup-guide-hp-laserjet-pro-m452dn-with-fast-driver-download-links/"><u>Complete Setup Guide: HP LaserJet Pro M452dn with Fast Driver Download Links</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-focusrite-scarlett-solo-desktop-audio-interface-for-pc/"><u>Free Download: Focusrite Scarlett Solo Desktop Audio Interface for PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-realtek-pci-express-fe-chipset-drivers-on-windows-10-no-cost/"><u>Get the Latest Realtek PCI Express FE Chipset Drivers on Windows 10 - No Cost!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-epson-artisan-11108/"><u>Get Your Epson Artisan 지원 드라이버 - 웹스톰 11/10/8에서 다운로드하세요</u></a></li>
-<li><a href="https://driver-download.techidaily.com/gigabyte-windforce-wb86-8gb-ddr5-memory-module-secure-and-easy-driver-downloads-here/"><u>Gigabyte WindForce WB86 8GB DDR5 Memory Module: Secure & Easy Driver Downloads Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-address-the-amd-rx-560-driver-conflicts-in-different-windows-editions/"><u>How to Address the AMD RX 560 Driver Conflicts in Different Windows Editions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-the-iphone-not-ringing-problem/"><u>How to Fix the iPhone Not Ringing Problem</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-a2plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi A2+ Safely | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/how-to-perform-mbr-table-recovery-for-windows-xp-through-win11-comprehensive-guide-and-steps/"><u>How to Perform MBR Table Recovery for Windows XP Through Win11 - Comprehensive Guide and Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-gtx-1660-driver-quickly-and-easily/"><u>How to Update GTX 1660 Driver | Quickly & Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-ensure-your-razer-blade-17-runs-smoothly-with-updated-windows-and-graphics-drivers/"><u>How To: Ensure Your Razer Blade 17 Runs Smoothly with Updated Windows & Graphics Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-printer-driver-download-and-update-for-windows-10-11/"><u>HP Printer Driver Download & Update for Windows 10, 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/successful-steps-to-install-samsung-t5-drive-driver-guide-resolved/"><u>Successful Steps to Install Samsung T5 Drive: Driver Guide Resolved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-potential-effects-of-artificial-intelligence-on-game-development-and-the-gaming-market/"><u>The Potential Effects of Artificial Intelligence on Game Development and the Gaming Market</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-segmentviewpoint-report/"><u>[New] 2024 Approved SegmentViewpoint Report</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[New] In 2024, Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-decoding-the-divergence-360-film-vs-virtual-reality/"><u>[Updated] 2024 Approved Decoding the Divergence 360° Film Vs. Virtual Reality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-cg-centrals-luts-into-vfx-production-flows/"><u>2024 Approved Integrating CG Central's Luts Into VFX Production Flows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-csr-bluetooth-driver/"><u>Download CSR Bluetooth Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-and-install-the-most-recent-creative-audio-drivers-for-windows-10-devices/"><u>Get and Install the Most Recent Creative Audio Drivers for Windows 10 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-asus-vg2ebe-monitor-under-windows-with-ease/"><u>Get the Newest Drivers for Asus VG2ebe Monitor Under Windows with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-amd-ryzen-5-2400g-up-to-date-effortless-driver-downloads-and-steps/"><u>Get Your AMD Ryzen 5 2400G Up-to-Date: Effortless Driver Downloads & Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-13-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 13 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-8-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 8 Plus without Apple Account</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Hot 40? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-steelseries-keyboard-essential-drivers-available-here/"><u>Install Your SteelSeries Keyboard: Essential Drivers Available Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-integration-a-user-friendly-approach-to-getting-your-arduino-up-and-running-on-windows/"><u>Seamless Integration: A User-Friendly Approach to Getting Your Arduino Up & Running on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-seat-of-arbitration-determines-the-procedural-law-that-governs-the-arbitration-process-and-can-affect-the-degree-of-court-intervention/"><u>The Seat of Arbitration Determines the Procedural Law that Governs the Arbitration Process and Can Affect the Degree of Court Intervention</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-10-free-ai-voice-generators-to-use-in-daily-life/"><u>Updated Best 10 Free AI Voice Generators to Use in Daily Life</u></a></li>
 </ul></div>
 

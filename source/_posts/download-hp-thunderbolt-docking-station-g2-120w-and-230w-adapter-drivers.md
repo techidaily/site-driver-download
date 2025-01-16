@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2025-01-09T16:52:39.538Z
-updated: 2025-01-10T17:01:55.652Z
+date: 2025-01-09T18:35:18.902Z
+updated: 2025-01-15T22:21:17.023Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel Thunderbolt Controller driver
@@ -34,7 +34,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -43,16 +43,12 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -68,7 +64,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -99,20 +99,19 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>[New] 2024 Approved Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>[New] Old to New Crafting a Video Journey From Classic Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-prime-locations-boosting-your-youtube-content-visibility/"><u>[New] Prime Locations Boosting Your YouTube Content Visibility</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>2024 Approved Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-radeon-rx-590-free-download-and-quick-install-of-windows-drivers/"><u>AMD Radeon RX 590 - Free Download & Quick Install of Windows Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973406413-brother-hl-l2370dw-driver-update-enhanced-features-and-compatibility-download-today/"><u>Brother HL-L2370DW Driver Update: Enhanced Features & Compatibility - Download Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-toshiba-dynabook-device-drivers-on-windows/"><u>Download & Update Toshiba Dynabook Device Drivers on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortlessly-repair-and-resume-playing-genshin-impact/"><u>Effortlessly Repair and Resume Playing Genshin Impact</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-atheros-driver-software-installed-in-your-windows-pc/"><u>Get the Latest Atheros Driver Software Installed in Your Windows PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a58-4g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo A58 4G Bootloader Easily</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975756255-master-the-download-of-your-samsung-c460-driver-speedy-guide-inside/"><u>Master the Download of Your Samsung C460 Driver - Speedy Guide Inside</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fix-for-winning-against-dell-optiplex-790s-driver-complications/"><u>Step-by-Step Fix for Winning Against Dell OptiPlex 790'S Driver Complications</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-updating-your-printers-software-epson-artisan-1430-driver-for-windows-platforms-11-10-and-8/"><u>The Ultimate Guide: Updating Your Printer's Software - Epson Artisan 1430 Driver for Windows Platforms (11, 10 & 8)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-tap-into-audience-desires-strategies-for-video-templates/"><u>[New] In 2024, Tap Into Audience Desires Strategies for Video Templates</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-the-secrets-of-efficient-banner-use-in-game-channels-for-2024/"><u>[New] Unlock the Secrets of Efficient Banner Use in Game Channels for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-soundscapes-for-visual-storytelling/"><u>[Updated] Ultimate Soundscapes for Visual Storytelling</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970428665-download-and-update-rtx-2080-super-drivers-windows-1011/"><u>Download & Update RTX 2080 SUPER Drivers - Windows 10/11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/effortless-online-subtitles-the-leading-free-services-for-2024/"><u>Effortless Online Subtitles The Leading Free Services for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-process-to-download-and-update-microsoft-drivers-on-windows-10-8-or-7-systems/"><u>Effortless Process to Download & Update Microsoft Drivers on Windows 10, 8 or 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-gaming-performance-with-newly-released-geforce-rtx-drivers-windows-supported/"><u>Enhance Gaming Performance with Newly Released GeForce RTX Drivers (Windows Supported)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-microsoft-surface-pro-windows-compatibility-tutorial/"><u>Get the Latest Microsoft Surface Pro 지원된 드라이버 - Windows Compatibility Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-logitech-brio-hd-webcam-on-your-windows-device-windows-10-8-and-7-free-driver-downloads-available/"><u>Install Logitech Brio HD Webcam on Your Windows Device (Windows 10, 8 & 7) – Free Driver Downloads Available</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-ultimate-guide-to-mp3-to-mp4-file-format-transition-for-2024/"><u>New The Ultimate Guide to MP3-to-MP4 File Format Transition for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newly-released-geforce-nvidia-210-drivers-compatible-with-windows-11-get-them-now/"><u>Newly Released GeForce nVidia 210 Drivers Compatible with Windows 11 - Get Them Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-steams-connection-to-its-official-gaming-servers/"><u>Resolved: Issues with Steam's Connection to Its Official Gaming Servers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96370940-9780876047187-the-calling/"><u>The Calling | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 13C 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Guide: Upgrading the Nvidia GTX nVIDIA 1660 Driver in Minutes"
-date: 2024-09-01T00:51:22.031Z
-updated: 2024-09-02T00:51:22.031Z
+date: 2025-01-14T09:40:35.060Z
+updated: 2025-01-15T20:33:55.538Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1 – Automatically update the driver
 
@@ -68,43 +72,40 @@ OR
 
  3) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-532.png)
 
  7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
@@ -125,10 +126,11 @@ OR
 
 Wait for the download process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-672.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  14) Save your downloaded driver file in a USB flash drive and transfer it to your computer that has no Internet access. Then you should install the driver on that computer manually.
 
@@ -138,9 +140,6 @@ Wait for the download process to be complete.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -149,10 +148,6 @@ Wait for the download process to be complete.
 
  2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
@@ -161,10 +156,11 @@ Wait for the download process to be complete.
 
  4) Click**I accept the terms in the license agreement** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -187,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +190,26 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-innovative-tactics-to-amplify-game-vids-via-hashtags-for-2024/"><u>[Updated] Innovative Tactics to Amplify Game Vids via Hashtags for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tech-savvy-tips-for-recording-video-calls/"><u>[Updated] Tech-Savvy Tips for Recording Video Calls</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860866356-2024-approved-easy-gaming-memories-start-recording-now/"><u>2024 Approved Easy Gaming Memories Start Recording Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-downloading-and-installing-brother-hl-l2380dw-drivers-on-windows/"><u>Complete Guide to Downloading and Installing Brother HL-L2380DW Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-installing-kyocera-printer-drivers-on-your-windows-pc/"><u>Complete Guide to Installing KYOCERA Printer Drivers on Your Windows PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-download-and-set-up-wacom-intuos-pro-for-windows-11-users/"><u>Easy Guide to Download and Set Up Wacom Intuos Pro for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-guide-for-logitech-k400-plus-with-complete-drivers-downloaded/"><u>Easy Install Guide for Logitech K400 Plus with Complete Drivers Downloaded</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-broadcom-bluetooth-driver-in-various-versions-of-windows/"><u>Easy Installation Guide for Broadcom Bluetooth Driver in Various Versions of Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-how-to-automatically-update-your-amd-drivers/"><u>Effortless Installation: How to Automatically Update Your AMD Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-seamless-connectivity-freshly-released-msi-bluetooth-drivers-for-modern-windows-systems/"><u>Ensure Seamless Connectivity: Freshly Released MSI Bluetooth Drivers for Modern Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-wi-fi-6-capabilities-with-the-netgear-nighthawk-rax80-a-users-perspective/"><u>Exploring Wi-Fi 6 Capabilities with the Netgear Nighthawk RAX80 – A User's Perspective</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/fast-and-easy-gif-transformation-ultimate-list-of-no-download-services/"><u>Fast and Easy GIF Transformation Ultimate List of No-Download Services</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-toshiba-devices-latest-bluetooth-drivers-download-now/"><u>Get Your Toshiba Device's Latest Bluetooth Drivers - Download Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-spark-go-2023-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Spark Go (2023)?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ideal-ringtones-picks-high-quality-destinations/"><u>Ideal Ringtones Picks High-Quality Destinations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722896385336-luxurious-advanced-technology-products-with-affordable-pricing-to-test-out/"><u>Luxurious, Advanced Technology Products with Affordable Pricing to Test Out</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solution-unlike-traditional-methods-that-focus-on-meeting-minimum-code-criteria-pbsd-aims-for-specific-performance-targets-eg-operational-or-life-safety-and22/"><u>Solution: Unlike Traditional Methods that Focus on Meeting Minimum Code Criteria, PBSD Aims for Specific Performance Targets (E.g., Operational or Life Safety) and Uses Advanced Analysis to Ensure These Goals Are Met Under Different Seismic Scenarios.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-set-up-your-epson-wf-2750-with-official-driver-download/"><u>Step-by-Step: Set Up Your Epson WF-2750 with Official Driver Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-depths-how-hybrid-work-transcends-remote-tech-with-essential-strategies-and-culture-insights-from-zdnet/"><u>Unveiling the Depths: How Hybrid Work Transcends Remote Tech with Essential Strategies & Culture - Insights From ZDNet</u></a></li>
+</ul></div>
 

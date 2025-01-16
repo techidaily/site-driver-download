@@ -1,7 +1,7 @@
 ---
 title: Latest Canon MX490 Printing Software for Windows Operating Systems
-date: 2024-09-01T00:50:21.992Z
-updated: 2024-09-02T00:50:21.992Z
+date: 2025-01-13T01:40:09.617Z
+updated: 2025-01-16T03:43:07.786Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  Looking for**Validity fingerprint sensor drivers** for Windows**10/8.1/8/7** ? If the answer is “yes,” then you’ve come into the right place. Drivers that are not compatible with your operating system may impose a detriment upon your PC, even causing it to crash unexpectedly. Now follow this tutorial and update the driver by yourself!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update Validity fingerprint sensor drivers
 
  There’re mainly 3 ways for you to update the Validity fingerprint sensor drivers. Each of them has different features so you may pick the one you like most and see whether that answers your demand.
@@ -41,20 +42,21 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  The following screenshots come from Windows 8.1 but this option is also available to other Windows versions.
 
 1. Click the**Windows Logo key** in the bottom left corner of your computer screen.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
@@ -62,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -81,11 +84,12 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -106,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +117,22 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>[New] 2024 Approved Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-list-of-prestige-business-strategy-titles-24/"><u>[New] The Ultimate List of Prestige Business Strategy Titles '24</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hats-the-real-distinction-between-youtube-and-dailymention/"><u>[New] What's the Real Distinction Between YouTube and DailyMention?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-boosting-connections-on-snapchat-master-the-art-of-sharing-gifs/"><u>2024 Approved Boosting Connections on Snapchat Master the Art of Sharing GIFs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/determining-the-price-of-a-music-video-setup/"><u>Determining the Price of a Music Video Setup</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-set-up-corsair-void-pro-drivers-on-windows-simple-steps/"><u>Download and Set Up Corsair Void Pro Drivers on Windows - Simple Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effortless-techniques-for-saving-youtube-videos/"><u>Effortless Techniques for Saving YouTube Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-epson-wf-3540-driver-for-windows-systems-free-download/"><u>Get the Latest Epson WF- 3540 Driver for Windows Systems - Free Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mg3620-up-and-running-with-safe-driver-downloads/"><u>Get Your Canon MG3620 Up-and-Running with Safe Driver Downloads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-create-an-iconic-pfp-for-your-discogamer-life/"><u>How to Create an Iconic Pfp for Your DiscoGamer Life</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-official-epson-wf-2940-drivers-for-windows-users-on-7-81-and-10-versions/"><u>Install Official Epson WF-2940 Drivers for Windows Users on 7, 8.1 & 10 Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-windows-11-experience-with-the-new-nvidia-geforce-210-graphics-card-driver/"><u>Optimize Your Windows 11 Experience With the New Nvidia GeForce 210 Graphics Card Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-of-updated-amd-smbus-drivers-for-smooth-performance/"><u>Quick Download of Updated AMD SMBus Drivers for Smooth Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-graphics-and-chipset-drivers-on-your-dell-xps-15-in-windows/"><u>Updating Graphics and Chipset Drivers on Your Dell XPS 15 in Windows</u></a></li>
+</ul></div>
 

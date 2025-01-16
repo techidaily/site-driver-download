@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2025-01-05T16:00:33.080Z
-updated: 2025-01-10T19:59:56.436Z
+date: 2025-01-12T07:28:51.813Z
+updated: 2025-01-16T11:33:38.862Z
 tags:
   - win11
   - win10
@@ -19,16 +19,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If you’d like to download or update your HP LaserJet 1018 driver, you’ve come to the right place. After reading this, you’ll know exactly what to do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  Here are 2 methods you can try to update the driver; just select the one you need.
 
 * **[Method 1 – Automatically update the HP LaserJet 1018 driver (Recommended)](https://www.drivereasy.com/knowledge/hp-laserjet-1018-driver-download-for-windows-7-8-10/#a)**
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
 
@@ -44,25 +44,17 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -75,16 +67,24 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Software, Drivers and Firmware** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -105,18 +105,18 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-science-of-scaling-characters-in-digital-creativity/"><u>[Updated] 2024 Approved The Science of Scaling Characters in Digital Creativity</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>[Updated] The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y56-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y56 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-zexmt-bluetooth-adapter-driver-for-seamless-connectivity-in-windows-operating-systems/"><u>Download the Latest Zexmt Bluetooth Adapter Driver for Seamless Connectivity in Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-guide-epson-xp-400-printer-drivers-downloaded/"><u>Easy Installation Guide: Epson XP-400 Printer Drivers Downloaded</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722958658836-easy-ralink-driver-download-and-update-tutorial-for-windows-users-resolved/"><u>Easy Ralink Driver Download & Update Tutorial for Windows Users - Resolved!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-of-asus-pad-and-stylus-on-windows-10-with-the-latest-drivers/"><u>Effortless Setup of ASUS Pad & Stylus on Windows 10 with the Latest Drivers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevate-your-viewing-unlocking-the-potential-of-netflixs-pip-for-2024/"><u>Elevate Your Viewing Unlocking the Potential of Netflix’s PIP for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-15-plus-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 15 Plus without Losing Data? | Stellar</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/screen-capture-showdown-is-obs-better-than-fraps/"><u>Screen Capture Showdown Is OBS Better Than Fraps?</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/windows-10-pc/"><u>Windows 10 PCで動画が再生しない時の解決策</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-11-optimized-nvidia-geforce-rtx-3060-ti-driver-software-immediate-download/"><u>Windows 11-Optimized NVIDIA GeForce RTX 3060 Ti Driver Software [Immediate Download]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-zoom-settings-for-top-notch-audio-capture-for-2024/"><u>[New] Navigating ZOOM Settings for Top-Notch Audio Capture for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-filters-for-smooth-streaming-sessions/"><u>[New] Prime Filters for Smooth Streaming Sessions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-compatibility-download-the-newest-canon-pixma-mg2522-drivers-here/"><u>Ensure Compatibility: Download the Newest Canon PIXMA MG2522 Drivers Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-compatible-mouse-drivers-for-windows-7-systems/"><u>Find and Install Compatible Mouse Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-overcome-usb-connection-problems-for-hp-260ci-wireless-internet-adapter/"><u>How to Overcome USB Connection Problems for HP 260Ci Wireless Internet Adapter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-upgrade-enhanced-compatibility-and-performance-dell-2330ddn-monochrome-laser-printer-software-update/"><u>Latest Upgrade: Enhanced Compatibility & Performance - Dell 2330D/Dn Monochrome Laser Printer Software Update</u></a></li>
+<li><a href="https://review-topics.techidaily.com/poco-data-recovery-recover-lost-data-from-poco-c55-by-fonelab-android-recover-data/"><u>Poco Data Recovery – recover lost data from Poco C55</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-hp-beats-sound-card-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving HP Beats Sound Card Problems on Windows 11, 8 & 7 - A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-hp-device-maintenance-software-and-driver-support/"><u>Ultimate Guide to HP Device Maintenance: Software & Driver Support</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-10-seo-kompanij-v-prage-polnyj-spisok-professionalnyh-specialistov-po-optimizacii-dlya-chehii/"><u>Топ-10 SEO-Компаний В Праге: Полный Список Профессиональных Специалистов По Оптимизации Для Чехии</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mpeg-flv/"><u>ウェブ上でのフリーかつ簡単なMPEG FLVコンバートツール - ムヴァヴィ</u></a></li>
 </ul></div>
 

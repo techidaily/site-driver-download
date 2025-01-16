@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Windows-Compatible AMD Radeon RX 590 Graphics Card Drivers
-date: 2024-09-01T00:51:25.995Z
-updated: 2024-09-02T00:51:25.995Z
+date: 2025-01-12T16:48:56.182Z
+updated: 2025-01-16T05:53:29.830Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
 ## Get the Latest Graphics Drivers for AMD Radeon RX 6900 XT: Compatible with All Windows Versions
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![amd rx-6900 xt driver](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-rx-6900xt-driver.jpg)
 
  AMD RX 6900 XT, the newest gaming GPU of AMD’s Radeon 6000 series, has arrived. To enjoy the ultra-high frame rates and serious 4K gameplay as this flagship GPU deserves, you’ll need the latest AMD RX 6900 XT driver.
@@ -31,8 +28,9 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your AMD RX 6900 XT driver by yourself, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,12 +43,18 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -58,27 +62,22 @@ OR
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2 – Download and install the driver manually
 
  AMD keeps updating its GPU drivers for general improvements, bug fixes and compatibility with the latest games like Cyberpunk 2077 and CoD Black Ops Cold War. To get them manually, simply follow the instruction below:
 
 1. Go to **[AMD’s support page](https://www.amd.com/en/support)**  .
 2. Scroll to the search section. Then, select**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6900 Series** \>**AMD Radeon RX 6900 XT** , and click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
 
@@ -98,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +104,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[New] 2024 Approved Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[New] Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
+<li><a href="https://driver-download.techidaily.com/z270-download-free-z2erse-gaming-pro-carbon-driver-in-japanese/"><u>「Z270 ゲーミング強化カーボンドライバー」無料ダウンロード - Download Free Z2erse Gaming Pro Carbon Driver in Japanese</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-leading-clearcut-screen-capture-options-no-commercials/"><u>2024 Approved Leading Clearcut Screen Capture Options (No Commercials)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bypass-ralink-rt3290-wifi-driver-hiccups-in-different-windows-environments-windows-1087/"><u>Bypass Ralink RT3290 WiFi Driver Hiccups in Different Windows Environments (Windows 10/8/7)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-technology-with-toms-hardware-experts/"><u>Exploring Computer Technology with Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-4-black-screen-issue-fix-and-enjoy-uninterrupted-gaming/"><u>Fallout 4 Black Screen Issue: Fix and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-epson-stylus-pro-4950-driver-software/"><u>Free Download: Epson Stylus Pro 4950 Driver Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-brother-mfc-s7860dw-drivers-on-windows-free-download-now/"><u>Get the Latest Version of Brother MFC-S7860DW Drivers on Windows - Free Download Now!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-brother-dcp-l2540dw-drivers-in-windows-step-by-step-guide/"><u>Installing the Brother DCP-L2540DW Drivers in Windows: Step by Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-printer-running-smoothly-download-and-update-epson-xp-42e-drivers-here/"><u>Keep Your Printer Running Smoothly: Download and Update Epson XP-42e Drivers Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-radeon-r5-graphics-driver-download-for-windows-11-10-8-7/"><u>Latest AMD Radeon R5 Graphics Driver Download for Windows 11, 10, 8, 7</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/safe-software-removal-techniques-expert-guide-from-yl-computing/"><u>Safe Software Removal Techniques: Expert Guide From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-reviving-your-iphone-15/"><u>Step-by-Step Guide: Reviving Your iPhone 15</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pioneering-project-by-elon-musk/"><u>The Pioneering Project by Elon Musk</u></a></li>
+</ul></div>
 
