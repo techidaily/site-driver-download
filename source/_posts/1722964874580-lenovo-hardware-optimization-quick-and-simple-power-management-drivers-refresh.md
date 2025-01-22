@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Hardware Optimization: Quick & Simple Power Management Drivers Refresh."
-date: 2024-09-05T05:03:04.270Z
-updated: 2024-09-06T05:03:04.270Z
+date: 2025-01-21T17:31:07.589Z
+updated: 2025-01-22T16:08:27.986Z
 tags:
   - win11
   - win10
@@ -30,44 +30,37 @@ If you want to update the sound driver to fix computer no sound issues, you can 
 2. Type**devmgmt.msc** in the run box and click the**OK** button to open Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a29b2e1392.png)
 3. Expand the category**Sound, video and game controllers** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a29e4b1d05.jpg)
 4. Right-click on the sound device and select**Update Driver Software** (in Windows 10, this could be**Update driver** ). The common sound device is Realtek High Definition Audio. In the example below, we update the Realtek High Definition Audio driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a26e1bb4.jpg)
 5. Click**Search automatically for updated driver software** .  
+
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a8a55799.jpg)  
  Then Windows will search for the new driver, then automatically install it. The process just takes a few seconds.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2a7e19276.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Download and update the audio drivers automatically
 
  If you can’t update the sound driver successfully via Device Manager, or if you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -78,34 +71,10 @@ If you want to update the sound driver to fix computer no sound issues, you can 
 2. Launch Driver Easy and click the **Scan Now** button. Driver Easy will detect all problem drivers instantly and provide you with new drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2aaed7a8e.jpg)
 3. Click the **Update** button next to the audio driver (for example, the Realtek audio driver), then download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click the **Update All** button (if you go Pro) to download and install all drivers automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9a2ac16a0e0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully you can download and update the sound drivers successfully with the tips above. If you have any questions or ideas, please feel free to leave your comment below.
 
 * [Drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -117,8 +86,6 @@ If you want to update the sound driver to fix computer no sound issues, you can 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +93,18 @@ If you want to update the sound driver to fix computer no sound issues, you can 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-digital-brushstrokes-unearthing-the-best-8-artist-apps-for-iphones-for-2024/"><u>[New] Digital Brushstrokes Unearthing the Best 8 Artist Apps for iPhones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-live-recording-with-chromebooks-and-hp-for-2024/"><u>[New] Optimizing Live Recording with Chromebooks & HP for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/beheben-sie-bsod-probleme-mit-dem-windows-server-2022-funf-effektive-methoden-im-jahr-2024/"><u>Beheben Sie BSOD-Probleme Mit Dem Windows Server 2022: Fünf Effektive Methoden Im Jahr 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/elevate-performance-how-to-update-and-download-the-newest-drivers-for-amd-radeon-hd-7870-on-your-window-10-pc/"><u>Elevate Performance - How to Update and Download the Newest Drivers for AMD Radeon HD 7870 on Your Window 10 PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-asus-realtek-audio-drivers-get-them-here/"><u>Free ASUS Realtek AUDIO Drivers - Get Them Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-amd-radeon-graphics-drivers-for-your-windows-7-pc-today/"><u>Get Updated AMD Radeon Graphics Drivers for Your Windows 7 PC Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/et-guide-culinary-video-production/"><u>Gourmet Guide Culinary Video Production</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-samsung-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Samsung</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968616478-quick-solutions-to-get-your-elgato-hd60-drive-running-smoothly-again/"><u>Quick Solutions to Get Your Elgato HD60 Drive Running Smoothly Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-installation-conexant-drivers-for-a-flawless-windows-11-update-v2004/"><u>Streamlined Installation: Conexant Drivers for a Flawless Windows 11 Update (V2004)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-comprehensible-guide-to-winning-at-ps1-in-windows-duckstation-way/"><u>The Comprehensible Guide to Winning at PS1 in Windows - Duckstation Way</u></a></li>
+</ul></div>
 

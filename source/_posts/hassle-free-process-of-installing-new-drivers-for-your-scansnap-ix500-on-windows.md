@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Process of Installing New Drivers for Your ScanSnap iX500 on Windows
-date: 2024-09-05T05:09:19.633Z
-updated: 2024-09-06T05:09:19.633Z
+date: 2025-01-21T18:25:04.042Z
+updated: 2025-01-22T16:28:30.511Z
 tags:
   - win11
   - win10
@@ -30,11 +30,9 @@ OR
 **[Option 2 – Automatically (recommended):](https://www.drivereasy.com/knowledge/canon-pixma-pro-100-driver-download-and-update-in-windows-10-7-and-8-1/#option2)**  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -44,43 +42,31 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -95,28 +81,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Note: you can do it for free if you like, but it’s partly manual.
 
  If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if you need further assistance.
@@ -133,8 +105,6 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +112,26 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-copyrighted-chords-navigating-music-uploads-to-insta/"><u>[New] 2024 Approved Copyrighted Chords Navigating Music Uploads to Insta</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-maximizing-profits-on-youtube-the-latest-policy/"><u>[New] In 2024, Maximizing Profits on YouTube The Latest Policy</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unmatched-tech-elevation-through-srs-enhancement-for-2024/"><u>[New] Unmatched Tech Elevation Through SRS Enhancement for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audiovisual-success-recording-gotomeetings-easily/"><u>[Updated] In 2024, Audiovisual Success Recording GoToMeetings Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-your-gaming-experience-with-fbx-recording-tips/"><u>[Updated] In 2024, Elevate Your Gaming Experience with FBX Recording Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-swift-tip-extracting-and-storing-twitter-video-on-phone/"><u>[Updated] Swift Tip Extracting and Storing Twitter Video on Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-incorporating-new-fonts-into-after-effects/"><u>2024 Approved Step-by-Step Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-wacom-cintiq-13hd-driver/"><u>Download & Update Wacom Cintiq 13HD Driver</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-updates-for-intel-hd-graphics/"><u>Find and Install Updates for Intel HD Graphics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-how-to-install-drivers-for-your-xbox-360-gamepad/"><u>Free Download: How To Install Drivers For Your Xbox 360 Gamepad</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956336403-get-the-latest-graphics-card-software-amd-rx-480-driver-updates/"><u>Get the Latest Graphics Card Software - AMD RX 480 Driver Updates!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-uge-driver-software-for-windows-computers/"><u>Get the Latest HP Officejet Pro Uge Driver Software for Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-m452dn-printer-working-step-by-step-driver-installation/"><u>Get Your HP M452dn Printer Working: Step-by-Step Driver Installation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-p2035-printer-drivers-troubleshooting-and-fixes-on-windows/"><u>HP LaserJet P2035 Printer Drivers: Troubleshooting & Fixes on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-pop-8-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Pop 8 to Protect Your Individual Information</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oppo-k11x-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Oppo K11x to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-your-discord-app-steps-to-prevent-and-repair-crashes/"><u>Solving Your Discord App: Steps to Prevent and Repair Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-realtek-rtl8-overcoming-drivers-challenges/"><u>Troubleshooting Guide: Realtek RTL8# - Overcoming Drivers Challenges</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-amicable-driver-downloads-for-your-usb-c-peripherals/"><u>Windows Amicable Driver Downloads for Your USB-C Peripherals.</u></a></li>
+</ul></div>
 

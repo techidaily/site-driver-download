@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Your Graphics Experience: Simple Methods to Update GTX 1660 Drivers"
-date: 2025-01-10T05:27:44.065Z
-updated: 2025-01-15T21:15:55.639Z
+date: 2025-01-21T16:44:53.741Z
+updated: 2025-01-22T17:57:40.345Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c58
  Are you a PC gamer who cares most about visual experience but feels reluctant to fiddle with all the driver updating stuff? If the answer is yes, and you’re also using the**GTX 1660** graphics card, then you’ve come to the right place. As Nvidia keeps updating its GTX 1660 drivers, you should keep up with it in order to get the most out of your graphics card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your GTX 1660 driver
@@ -37,10 +37,6 @@ There are mainly two ways you can update the driver :
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Update your driver automatically (Recommended)
 
  Some people may find it hard to locate the correct version of GTX 1660 drivers online. And even if you successfully find it, it’s still time-consuming and error-prone to install the driver. So if you don’t have the time, patience or computer skills to update your GTX 1660 driver manually,   **you can do it automatically with[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -56,12 +52,16 @@ There are mainly two ways you can update the driver :
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the GTX 1660 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-584.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -79,20 +79,20 @@ There are mainly two ways you can update the driver :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-205.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then you’ll be presented with a list of drivers available for download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-577.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Click the driver you’re interested in. On the next page, you’re able to see the detailed information about that driver. If you want to download it, simply click the**DOWNLOAD** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-189.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Open the folder in which you’ve just downloaded the driver. There you’ll see an**exe** file, as illustrated below (the version of your driver may be different). Double-click on it, then follow the on-screen instructions to install the driver.
@@ -123,20 +123,19 @@ There are mainly two ways you can update the driver :
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-experts-picks-top-5-webcams-revolutionizing-game-streaming-for-2024/"><u>[New] Expert's Picks Top 5 Webcams Revolutionizing Game Streaming for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-first-steps-in-filmmaking-mastering-key-camera-techniques-for-2024/"><u>[New] First Steps in Filmmaking Mastering Key Camera Techniques for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-experience-transformative-text-design-with-these-leading-platforms-for-2024/"><u>[Updated] Experience Transformative Text Design with These Leading Platforms for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-monetize-more-strategies-for-youtubes-updated-partner-plan-for-2024/"><u>[Updated] Monetize More Strategies for YouTube's Updated Partner Plan for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-skill-elevation-rising-through-the-ranks-in-designing/"><u>[Updated] Skill Elevation Rising Through the Ranks in Designing</u></a></li>
-<li><a href="https://techidaily.com/abbyys-board-guidance-by-expert-alex-beregovsky/"><u>ABBYY's Board Guidance by Expert, Alex Beregovsky</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-video-editing-in-youtube-studio-explained/"><u>Cutting-Edge Video Editing in YouTube Studio Explained</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977766938-download-and-latest-updates-for-canon-mg3022-printer-drivers/"><u>Download & Latest Updates for Canon MG3022 Printer Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-pro-8620-driver-updates-on-windows/"><u>Download and Install HP OfficeJet Pro 8620 Driver Updates on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-guide-for-microsoft-driver-installation-and-updates-on-windows-versions-10-8-7/"><u>Effortless Guide for Microsoft Driver Installation & Updates on Windows Versions (10, 8, 7)</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-asus-pce-ac56-wifi-adapter-problems-on-windows-11-8-and-7-solutions-applied/"><u>How to Fix ASUS PCE-AC56 WiFi Adapter Problems on Windows 11, 8 & 7 - Solutions Applied</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-updated-sound-card-control-panel-programs-on-windows-systems/"><u>How to Get Updated Sound Card Control Panel Programs on Windows Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/keep-your-xp-pen-functional-a-guide-on-downloading-and-updating-its-drivers/"><u>Keep Your XP-PEN Functional: A Guide on Downloading & Updating Its Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-download-of-realtek-alc-high-definition-drivers-on-windows-11/"><u>Streamlined Download of Realtek ALC High Definition Drivers on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-live-demos-to-online-sharing-mastering-idevice-screenshots-for-video-content/"><u>[Updated] 2024 Approved From Live Demos to Online Sharing Mastering iDevice Screenshots for Video Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-full-insight-demystifying-dji-inspire-2/"><u>[Updated] 2024 Approved Full Insight Demystifying DJI Inspire 2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apex-gk-quizmasters-video-channel-list/"><u>[Updated] Apex GK Quizmasters' Video Channel List</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/50-noteworthy-latin-sayings-and-idioms-for-eloquent-company/"><u>50 Noteworthy Latin Sayings & Idioms for Eloquent Company</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mf4500-printer-drivers-free-download-and-installation-guide/"><u>Canon MF4500 Printer Drivers - Free Download & Installation Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-tutorial-for-editing-videos-using-windows-nx-whats-new/"><u>Complete Tutorial for Editing Videos Using Windows nX – What's New</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-amd-radeon-rx-470-drivers-with-simple-steps/"><u>Download and Update AMD Radeon RX 470 Drivers with Simple Steps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-gaming-mouse-t630-drivers-for-latest-operating-systems/"><u>Download Logitech Gaming Mouse T630 Drivers for Latest Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S23+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-13c-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi 13C to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-drone-purchase-primer-the-beginners-guide-to-informed-buying/"><u>In 2024, Drone Purchase Primer The Beginner's Guide to Informed Buying</u></a></li>
+<li><a href="https://driver-download.techidaily.com/open-itunes-on-your-computer-go-to-help-)-check-for-updates-for-windows-or-app-store-)-updates-for-macos-if-an-update-is-available-install-it-and-restart-th168/"><u>Open iTunes on Your Computer, Go to Help > Check for Updates (for Windows) or App Store > Updates (for macOS). If an Update Is Available, Install It and Restart the Application Afterward</u></a></li>
+<li><a href="https://driver-download.techidaily.com/sas-drivers-download-and-update-in-windows-1087/"><u>SAS Drivers Download & Update in Windows 10/8/7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-civi-3-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Civi 3 Phone Hassle-Free</u></a></li>
 </ul></div>
 

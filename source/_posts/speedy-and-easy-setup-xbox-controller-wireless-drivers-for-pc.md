@@ -1,7 +1,7 @@
 ---
 title: "Speedy and Easy Setup: Xbox Controller Wireless Drivers for PC"
-date: 2024-09-01T00:53:10.309Z
-updated: 2024-09-02T00:53:10.309Z
+date: 2025-01-15T16:25:19.027Z
+updated: 2025-01-22T18:21:08.277Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update the driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,9 +52,6 @@ OR
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
@@ -79,9 +80,6 @@ OR
 
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
 
  6) Click **OK** .
@@ -90,18 +88,16 @@ OR
 
  7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
@@ -110,24 +106,27 @@ OR
 
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wait for the download process to be complete.
 
@@ -141,9 +140,6 @@ Wait for the download process to be complete.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -152,10 +148,11 @@ Wait for the download process to be complete.
 
  2) On the pop-up page, click **Intel® PROSet/Wireless Software and Drivers for Intel® Dual Band Wireless-AC 3160.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
@@ -186,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +190,24 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-from-basics-to-brilliance-the-fb-cover-video-journey-for-2024/"><u>[New] From Basics to Brilliance The FB Cover Video Journey for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-guide-to-quick-video-recording-on-youtube-for-2024/"><u>[New] Guide to Quick Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advanced-3d-media-player-for-android-users-for-2024/"><u>Advanced 3D Media Player for Android Users for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-closing-and-deleting-your-twitch-account-securely/"><u>Complete Guide: Closing and Deleting Your Twitch Account Securely</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/decoding-dvd-standards-are-they-in-hd-with-480p-720p-or-108np-resolution/"><u>Decoding DVD Standards: Are They in HD with 480P, 720P, or 108nP Resolution?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-best-thunderbolt-drivers-tailored-for-your-windows-pc-today/"><u>Download the Best Thunderbolt Drivers Tailored for Your Windows PC Today</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-ultimate-focusrite-scarlett-2i2-windows-sound-card-for-producers/"><u>Download the Ultimate Focusrite Scarlett 2I2 Windows Sound Card for Producers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-affordable-fitbit-versa-lite-exceptional-value-in-fitness-tracking/"><u>Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-toshiba-bluetooth-support-software-secure-download-links/"><u>Free Toshiba Bluetooth Support Software – Secure Download Links</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-edge-40-neo-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Edge 40 Neo to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-geforce-rtx-1660-super-driver-software-for-free-install-guide/"><u>Latest GeForce RTX 1660 Super Driver Software for Free - Install Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-the-art-of-personalizing-youtube-visuals/"><u>Mastering the Art of Personalizing YouTube Visuals</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975945155-quick-and-simple-guide-installing-your-wireless-nic-drivers-today/"><u>Quick and Simple Guide: Installing Your Wireless NIC Drivers Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-obtain-and-set-up-your-intel-82579v-video-card-drivers-at-zero-expense/"><u>Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revamp-your-speakers-expert-guide-to-updating-audio-technica-device-drivers/"><u>Revamp Your Speakers: Expert Guide to Updating Audio-Technica Device Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-refresh-your-gpu-drivers-on-windows-11-systems/"><u>Step-by-Step Tutorial: How to Refresh Your GPU Drivers on Windows 11 Systems</u></a></li>
+</ul></div>
 

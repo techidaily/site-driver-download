@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support"
-date: 2025-01-15T04:47:40.639Z
-updated: 2025-01-16T06:49:23.560Z
+date: 2025-01-18T16:30:39.633Z
+updated: 2025-01-22T17:15:21.827Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 As you may have noticed, since Microsoft October 2018 Update, Windows 10 no longer includes**basic printer and scanner drivers** in Windows installation media, which is one of the big changes with Windows 10 version 1809 update. But don’t panic! You can get the right drivers for your printers and scanners with the solutions in this post.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why does Windows 10 remove inbox printer and scanner drivers?
@@ -26,7 +26,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install the drivers for printers and scanners?
@@ -37,7 +37,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the printer and scanner drivers manually
@@ -59,7 +59,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download the printer and scanner drivers automatically
@@ -76,7 +76,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
@@ -109,24 +109,15 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-download.techidaily.com/download-wacom-intuos-pro-driver-on-windows-11-easily/"><u>[Download] Wacom Intuos Pro Driver on Windows 11 Easily</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-drawing-apps-for-iphones/"><u>[New] 2024 Approved Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-switch-game-screencasting/"><u>[New] 2024 Approved The Ultimate Guide to Switch Game Screencasting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023-fb-video-downloader-app-windows-macos-android/"><u>[New] In 2024, 2023 FB Video Downloader App - Windows, macOS, Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-elden-ring-not-launching/"><u>[SOLVED] Elden Ring Not Launching</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>[Updated] Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dont-just-recycle-sell-your-old-cpu-to-newegg-earn-300-on-intel-core-i9-14900k-and-220-on-amd-ryzen-7-7800x3d/"><u>Don't Just Recycle - Sell Your Old CPU to Newegg! Earn $300 on Intel Core I9-14900K and $220 on AMD Ryzen 7 7800X3D</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960250418-download-and-upgrade-surface-book-drivers-with-simplicity-get-started-now/"><u>Download and Upgrade Surface Book Drivers with Simplicity - Get Started Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-nvidia-quadro-graphics-drivers-and-updates-compatible-with-windows-11/"><u>Download NVIDIA Quadro Graphics Drivers & Updates Compatible with Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-latest-nvidia-rtx-3090-drivers-compatible-with-windows-11107/"><u>Free Download: Latest NVIDIA RTX 3090 Drivers Compatible with Windows 11/10/7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-12-proplus-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme 12 Pro+ 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhance-gaming-experience-with-voice-adjustment/"><u>In 2024, Enhance Gaming Experience with Voice Adjustment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-fresh-the-latest-drivers-for-amd-radeon-r5-series-on-all-windows-versions-11-8-7/"><u>Install Fresh: The Latest Drivers for AMD Radeon R5 Series on All Windows Versions (11-8-7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-windows-7-sound-card-driver-downloads/"><u>Latest Windows 7 Sound Card Driver Downloads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/aining-creative-commons-on-youtube-for-greater-exposure-for-2024/"><u>Maintaining Creative Commons on YouTube for Greater Exposure for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-issues-with-dell-mouse-driver-installation-a-comprehensive-guide/"><u>Resolving Issues with Dell Mouse Driver Installation – A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-installing-the-latest-lenovo-thinkpad-t45-2016-drivers-instantly-and-effortlessly/"><u>Step-by-Step: Installing the Latest Lenovo ThinkPad T45 2016 Drivers Instantly & Effortlessly!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-printer-software-hp-laserjet-1320-drivers-for-windows-systems/"><u>Update Your Printer Software: HP LaserJet 1320 Drivers for Windows Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-quick-photo-collage-with-google-images-in-minutes/"><u>[New] Master Quick Photo Collage with Google Images in Minutes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-maximize-your-fb-videos-full-screen-mode-guide-2023/"><u>[Updated] In 2024, Maximize Your FB Videos Full-Screen Mode Guide 2023</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-understanding-customer-acquisition-costs-and-their-impact-on-roi/"><u>[Updated] In 2024, Understanding Customer Acquisition Costs and Their Impact on ROI</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-world-of-youtube-music-shorts-for-2024/"><u>[Updated] Navigating the World of YouTube Music Shorts for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-musical-virtuoso-sessions/"><u>[Updated] Prime Musical Virtuoso Sessions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-crafting-seamless-tiktok-videos-through-stitching/"><u>2024 Approved Crafting Seamless TikTok Videos Through Stitching</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968422444-get-the-best-wifi-performance-update-drivers-for-windows-7-effortlessly/"><u>Get the Best WiFi Performance: Update Drivers for Windows 7 Effortlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970917549-get-the-most-recent-d-link-driver-software-for-your-pc-tips-and-tricks/"><u>Get the Most Recent D-Link Driver Software for Your PC - Tips & Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-sound-card-software-instant-installation-and-complimentary-download/"><u>HP Sound Card Software: Instant Installation and Complimentary Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722975421411-seamlessly-update-your-ryzen-graphics-find-and-download-the-right-drivers-for-model-2600/"><u>Seamlessly Update Your Ryzen Graphics: Find & Download the Right Drivers for Model #2600.</u></a></li>
 </ul></div>
 

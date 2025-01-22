@@ -1,7 +1,7 @@
 ---
 title: How to Update or Repair LG Drivers on Windows 10/8/7 for Smooth Operation
-date: 2025-01-09T16:35:11.507Z
-updated: 2025-01-15T21:14:04.728Z
+date: 2025-01-21T17:25:44.905Z
+updated: 2025-01-22T18:00:12.521Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
  In this post, we’re going to show you 2 safe and easy ways to help you get the latest driver for your **Brother MFC7360N** printer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Choose the way you prefer
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 1. On your keyboard, press   **the Windows logo key  ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time. Then copy & paste **devmgmt.msc** into the box and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2. Double-click on **Printer queues** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on **Brother MFC 7360N** and click **Uninstall device** .
@@ -53,15 +49,19 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b91f9dbc2b1f.jpg)
 5. Type **MFC 7360N** into the**Search by Model Name** box and click**Search** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
@@ -70,15 +70,11 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 9. Click **Agree to the EULA**  **and Download** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5aefd675a7c.jpg)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92188ba032e.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
@@ -125,16 +125,18 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-stop-video-buffering-during-streaming/"><u>[New] 2024 Approved Stop Video Buffering During Streaming</u></a></li>
-<li><a href="https://games-able.techidaily.com/alleviating-cross-platform-steam-errors/"><u>Alleviating Cross-Platform Steam Errors</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-asrock-ab350-pro4-driver-suite-for-free-step-by-step-guide/"><u>Download ASRock AB350 Pro4 Driver Suite for Free - Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-guide-resolving-issues-with-a-nonfunctional-logitech-g433-microphone/"><u>Expert Guide: Resolving Issues With A Nonfunctional Logitech G433 Microphone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/generic-bluetooth-adapter-driver-latest-download-for-windows/"><u>Generic Bluetooth Adapter Driver | Latest Download | For Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-stream-driver-updates-rapid-download-options-for-your-device/"><u>HP Stream Driver Updates: Rapid Download Options for Your Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/iphone-showdown-iphone-1epro-vs-iphone-14-pro-max-which-device-wins-as-your-optimal-tech-upgrade/"><u>IPhone Showdown: IPhone 1ePro Vs. IPhone 14 Pro Max - Which Device Wins as Your Optimal Tech Upgrade?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximizing-zoom-top-strategies-for-chromebooks-for-2024/"><u>Maximizing Zoom Top Strategies for Chromebooks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/outperforming-the-gear-360-best-cameras-of-the-year-reviewed/"><u>Outperforming the Gear 360 Best Cameras of the Year Reviewed</u></a></li>
-<li><a href="https://win-superb.techidaily.com/protecting-pcs-efficiently-the-ultimate-guide-to-creating-command-line-backups/"><u>Protecting PCs Efficiently: The Ultimate Guide to Creating Command Line Backups</u></a></li>
-<li><a href="https://driver-download.techidaily.com/researchers-are-exploring-biodegradable-and-biobased-thermoplastics-as-alternatives-to-traditional-plastics-in-wpcs-aiming-for-composites-that-can-break-dow41/"><u>Researchers Are Exploring Biodegradable and Biobased Thermoplastics as Alternatives to Traditional Plastics in WPCs, Aiming for Composites that Can Break Down More Easily at the End of Their Lifecycle or Be Recycled Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-manual-best-practices-for-using-mobizen-recording-tool/"><u>[New] Comprehensive Manual Best Practices for Using Mobizen Recording Tool</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-premium-top-ten-nintendo-switch-fighter-games-max-156/"><u>[New] In 2024, Premium Top Ten Nintendo Switch Fighter Games (Max 156)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-editors-guide-best-for-youtube-content/"><u>[New] The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/11-step-by-step-pathways-to-perfect-grading-for-2024/"><u>11 Step by Step Pathways to Perfect Grading for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-samsung-960-evo-ssd-drivers-on-windows-step-by-step-guide/"><u>Download & Install Samsung 960 EVO SSD Drivers on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-solutions-for-26e-wi-fi-adapters-usb-connectivity-woes-on-windows-pcs/"><u>Effective Solutions for 26E Wi-Fi Adapter's USB Connectivity Woes on Windows PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-metas-delayed-launch-the-reason-behind-lying-down-mode-in-the-upcoming-quest-3/"><u>Exploring Meta's Delayed Launch: The Reason Behind Lying Down Mode in the Upcoming Quest 3</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722970444431-free-and-easy-setup-of-asrock-amd-ab350-pro4-graphics-card-drivers-on-your-windows-device/"><u>Free and Easy Setup of Asrock AMD AB350 Pro4 Graphics Card Drivers on Your Windows Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-your-epson-wf-7710-printer-on-windows-downloads-for-win10-win81-win8-and-win7/"><u>Install Your Epson WF-7710 Printer on Windows: Downloads for Win10, Win8.1, Win8 & Win7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/noctuas-home-line-launch-spotlight-on-100-nv-fs1-desk-fan-as-headline-hit/"><u>Noctua's Home Line Launch: Spotlight on $100 NV-FS1 Desk Fan as Headline Hit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a1-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A1 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-motherboards-driver-in-windows/"><u>Step-by-Step Guide: Updating Your Motherboard's Driver in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-graphics-drivers-for-gigabytes-wb867d-model-secure-download-options/"><u>Update Graphics Drivers for Gigabyte's WB867D Model - Secure Download Options</u></a></li>
 </ul></div>
 

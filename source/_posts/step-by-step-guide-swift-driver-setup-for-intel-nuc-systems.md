@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Swift Driver Setup for Intel NUC Systems"
-date: 2024-09-05T05:06:32.975Z
-updated: 2024-09-06T05:06:32.975Z
+date: 2025-01-20T16:38:52.594Z
+updated: 2025-01-22T16:32:06.578Z
 tags:
   - win11
   - win10
@@ -50,12 +50,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the Intel Dual Band Wireless-AC 3160 driver to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -80,97 +74,59 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-532.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Open the folder where you’ve saved the offline scan file. Then**save** the file in a USB flash drive and**transfer** it to another computer**with Internet access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-672.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  14) Save your downloaded driver file in a USB flash drive and transfer it to your computer that has no Internet access. Then you should install the driver on that computer manually.
 
@@ -181,11 +137,9 @@ Wait for the download process to be complete.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -201,11 +155,9 @@ Wait for the download process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
@@ -231,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +190,26 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-crystal-lens-clearness-avoiding-videography-haze/"><u>[New] 2024 Approved Crystal Lens Clearness Avoiding Videography Haze</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-archive-everyday-moments-seamlessly-by-using-vlcs-webcam-function-for-2024/"><u>[New] Archive Everyday Moments Seamlessly by Using VLC's Webcam Function for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-evaluating-the-effectiveness-of-vidma-screen-recorders/"><u>[New] Evaluating the Effectiveness of Vidma Screen Recorders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-stubborn-start-up-solving-minecraft-loading-issues/"><u>Defeat the Stubborn Start-Up: Solving Minecraft Loading Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-printer-drivers-for-the-hp-laserjet-5200-on-latest-windows-systems/"><u>Download and Update Printer Drivers for the HP LaserJet 5200 on Latest Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971971661-download-geforce-rtx-drivers-now-compatible-with-windows-xp-to-10/"><u>Download GeForce RTX Drivers Now: Compatible With Windows XP to 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-installation-files-for-gigabyte-audio-technology/"><u>Free Installation Files for Gigabyte Audio Technology</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-free-download-ultimate-sound-blaster-audigy-drivers/"><u>Get the Latest [Free Download]: Ultimate Sound Blaster Audigy Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/get-your-free-passport-photos-with-our-easy-tool/"><u>Get Your FREE Passport Photos with Our Easy Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-a1x-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo A1x 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-tp-link-802ebxac-networking-driver-release-download-for-windows-11-8-and-7-users/"><u>Latest TP-Link 802.ebxAC Networking Driver Release | Download for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/microsoft-addresses-and-corrects-power-controller-issues-in-line-with-acpi-standards-for-optimal-performance/"><u>Microsoft Addresses and Corrects Power Controller Issues in Line with ACPI Standards for Optimal Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-realtek-alc892a-hd-audio-driver-for-windows-10/"><u>Quick Download: Realtek ALC892A HD Audio Driver for Windows 10</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862709534-score-big-savings-snag-asus-2024-rog-zephyrus-g14-oled-screen-rtx-4060-for-300-less/"><u>Score Big Savings: Snag ASUS 2024 ROG Zephyrus G14 - OLED Screen, RTX 4060 for $300 Less</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-finding-and-installing-updates-for-hp-laserjet-m506-printers/"><u>Troubleshooting: Finding and Installing Updates for HP Laserjet M506 Printers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-your-phones-potential-making-tiktok-rhythms-your-alarm-for-2024/"><u>Unlocking Your Phone's Potential Making TikTok Rhythms Your Alarm for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-newest-logitech-g910-keyboard-program-for-windows-users/"><u>Update to the Newest Logitech G910 Keyboard Program for Windows Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-bring-your-videos-to-life-best-text-animation-apps-for-phones/"><u>Updated Bring Your Videos to Life Best Text Animation Apps for Phones</u></a></li>
+</ul></div>
 

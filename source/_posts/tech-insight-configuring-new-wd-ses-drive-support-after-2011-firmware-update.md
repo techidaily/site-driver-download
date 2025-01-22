@@ -1,7 +1,7 @@
 ---
 title: "Tech Insight: Configuring New WD SES Drive Support After 2011 Firmware Update"
-date: 2025-01-09T19:45:30.887Z
-updated: 2025-01-15T21:46:41.926Z
+date: 2025-01-17T18:33:04.184Z
+updated: 2025-01-22T17:20:59.103Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 [2: Update your keyboard drivers](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Install the Logitech G HUB software
 
  Logitech G HUB is a software platform to help users set up a keyboard of the brand. If the software is not automatically installed when you first connect the keyboard to your computer, then your keyboard may not work or would only have limited functions. Follow the steps below to find and install it from the official website:
@@ -31,21 +35,29 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/02-1-1200x811.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  03 Click the**G910 image** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-29-22-1200x955.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  04 Click**Support** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  05 Click**Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  06 Click**Download Now** .
 
@@ -55,20 +67,20 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  08 Double click the installer file, and you would be prompted to restart your computer before installation. Click**Reboot Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/07-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  09 The installer will reopen once the computer restarts. If not, you can open the installer manually. Click**INSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-34-21.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
@@ -104,7 +116,7 @@ Check your keyboard to see if it works.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: via Device Manager
@@ -115,17 +127,9 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-42-52.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  02 Select**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  03 Select**Keyboards** .
 
@@ -141,6 +145,10 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-16-46.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  06 If the automatic scan doesn’t work, then click**Browse my computer for drivers** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-17-53.jpg)
@@ -149,17 +157,9 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-18-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  08 Click**Have Disk** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
 
@@ -192,17 +192,18 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nhance-your-youtube-journey-with-analytic-know-how/"><u>[New] Enhance Your YouTube Journey with Analytic Know-How</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-quick-fix-for-background-removal-in-figma-projects-for-2024/"><u>[New] Quick Fix for Background Removal in Figma Projects for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-evaluation-of-asuss-hdr-and-true-black-precision/"><u>[New] The Ultimate Evaluation of ASUS's HDR & True Black Precision</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pioneering-photography-with-advanced-software-for-2024/"><u>[Updated] Pioneering Photography with Advanced Software for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/determining-if-windows-defender-restricts-your-app-tips-and-tricks-from-yl-computing/"><u>Determining If Windows Defender Restricts Your App - Tips & Tricks From YL Computing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-drawing-experience-downloading-reliable-wacom-intuos-3-windows-drivers/"><u>Effortless Drawing Experience: Downloading Reliable Wacom Intuos 3 Windows Drivers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-online-traffic-with-our-cookiebot-power-solutions/"><u>Enhance Online Traffic with Our Cookiebot Power Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-updated-broadcom-bluetooth-drivers-for-windows-11-8-and-7-easy-guide/"><u>Get Your Updated Broadcom Bluetooth Drivers for Windows 11, 8 & 7 - Easy Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-magic-v2-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor Magic V2 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-flawlessly-update-and-setup-newest-evga-graphics-card-drivers-in-windows/"><u>How to Flawlessly Update and Setup Newest EVGA Graphics Card Drivers in Windows</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c210-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C210</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-update-webcam-driver-for-windows-10/"><u>How to Update Webcam Driver for Windows 10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-innovative-video-editing-strategies-with-gopro-studio/"><u>[Updated] 2024 Approved Innovative Video Editing Strategies with GoPro Studio</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-redefine-your-viewing-experience-without-xplit/"><u>2024 Approved Redefine Your Viewing Experience Without Xplit</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-essential-audio-drivers-from-msi-for-seamless-windows-experience/"><u>Download Essential Audio Drivers From MSI for Seamless Windows Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-drivers-enhanced-performance-for-windows-games/"><u>Download Updated NVIDIA Drivers: Enhanced Performance for Windows Games</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-updates-hp-officejet-pro-8620-drivers-for-windows-pcs/"><u>Get the Newest Updates: HP OfficeJet Pro 8620 Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/is-it-time-to-switch-to-ios-16-comprehensive-guide/"><u>Is It Time to Switch to iOS 16? Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-crypto-trades-with-chatgpt-explore-5-innovative-uses-for-better-returns/"><u>Mastering Crypto Trades with ChatGPT: Explore 5 Innovative Uses for Better Returns</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-installation-process-for-the-latest-lexar-usb-drivers-get-yours-today/"><u>Speedy Installation Process for the Latest Lexar USB Drivers - Get Yours Today</u></a></li>
+<li><a href="https://win-online.techidaily.com/speicheroptimierung-durch-bildreduzierung-und-zugriffsschutz-auf-systemdateien/"><u>Speicheroptimierung Durch Bildreduzierung Und Zugriffsschutz Auf Systemdateien</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-c55-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme C55 Phones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/king-the-secrets-to-increasing-video-engagement-on-youtube-for-2024/"><u>Unlocking the Secrets to Increasing Video Engagement on YouTube for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-your-razer-blade-17-drivers-on-windows-a-step-by-step-guide-for-win11-win10-win8-and-win7/"><u>Updating Your Razer Blade 17 Drivers on Windows: A Step-by-Step Guide for Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
 

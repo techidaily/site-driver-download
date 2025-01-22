@@ -1,7 +1,7 @@
 ---
 title: Installing Your Samsung 960 EVO M.2 Drive - Free Driver Download for Windows Users
-date: 2024-09-05T05:03:08.180Z
-updated: 2024-09-06T05:03:08.180Z
+date: 2025-01-20T16:13:27.380Z
+updated: 2025-01-22T18:06:12.295Z
 tags:
   - win11
   - win10
@@ -31,58 +31,22 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590809f687953.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **Option 1: Update Printer Driver via Device Manager**
 
  1) Press**Windows key** and**R** at the same time, then type in**devmgmt.msc** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_5907fef252f36.png)
  2) Locate and click to expand category**Print queues** .
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_590802e3114a1.jpg)
  3) Right click the**HP Officejet Pro 8600 printer** that you see here. Then choose**Update driver** option from the list.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080a9f4559f.png)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Then choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59080b75a70a9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Then Windows will start to help you with the search of the new driver. If you see the notification as below, which indicates that Windows cannot help you with the driver update, then you need to look for an alternative. Please move on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082342e5590.jpg)
@@ -111,12 +75,6 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/img_59082b9478bec.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).
@@ -132,8 +90,6 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +97,23 @@ thumbnail: https://thmb.techidaily.com/efac51dfc7513f6e62279e66dd7376ce64f0f15cd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-microphone-feedback-audio-recorder/"><u>[New] 2024 Approved Microphone Feedback Audio Recorder</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-your-step-by-step-guide-to-youtube-studio-mastery/"><u>[New] 2024 Approved Your Step-by-Step Guide to YouTube Studio Mastery</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-inside-with-lgs-360-degree-vr-world/"><u>[Updated] Step Inside with LG's 360-Degree VR World</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-v30t-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-laughing-in-the-metaverse-how-to-create-your-own-funny-memes/"><u>2024 Approved Laughing in the Metaverse How to Create Your Own Funny Memes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972435332-amd-gpu-utility-tools-download-your-free-driver-package-today/"><u>AMD GPU Utility Tools - Download Your Free Driver Package Today!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/bluetooth-support-for-csr-devices-download-the-official-driver-now/"><u>Bluetooth Support for CSR Devices – Download the Official Driver Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-printer-drivers-on-windows-1011-get-the-latest-versions-now/"><u>Download & Update HP Printer Drivers on Windows 10/11 - Get the Latest Versions Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-crystal-clear-photos-overcoming-auto-focus-challenges-on-an-iphone/"><u>Get Crystal Clear Photos: Overcoming Auto-Focus Challenges on an iPhone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-insignia-bluetooth-adapter-driver-software-for-windows-pcs/"><u>Get the Latest Insignia Bluetooth Adapter Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/revitalize-your-pc-top-5-solutions-to-restore-windows-defender-logs-in-w10-and-w11/"><u>Revitalize Your PC: Top 5 Solutions to Restore Windows Defender Logs in W10 & W11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726028560538-youtube/"><u>YouTube動画アーカイブを変更する詳細ガイド</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

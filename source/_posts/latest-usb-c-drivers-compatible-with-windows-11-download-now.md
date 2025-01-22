@@ -1,7 +1,7 @@
 ---
 title: "Latest USB-C Drivers Compatible with Windows 11: Download Now!"
-date: 2024-09-01T00:52:13.879Z
-updated: 2024-09-02T00:52:13.879Z
+date: 2025-01-18T16:39:29.169Z
+updated: 2025-01-22T16:40:11.565Z
 tags:
   - win11
   - win10
@@ -22,18 +22,15 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  Besides, always using the latest graphics driver offers more than just a performance boost. It also keeps your GPU in good condition.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -42,23 +39,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -70,10 +67,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -85,8 +88,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +95,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-art-of-discrete-audio-erosion-in-audacity/"><u>[New] In 2024, The Art of Discrete Audio Erosion in Audacity</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-decoding-the-art-of-enhanced-perception/"><u>[Updated] 2024 Approved Decoding the Art of Enhanced Perception</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-maximizing-memories-techniques-for-gameplay-recording/"><u>2024 Approved Maximizing Memories Techniques for Gameplay Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-techniques-for-stunning-shadow-photography-on-your-iphone/"><u>2024 Approved Techniques for Stunning Shadow Photography on Your iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-correcting-the-missing-vcompdll-error-on-your-pc/"><u>Comprehensive Guide: Correcting the 'Missing vcomp.dll' Error on Your PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-drivers-compatible-with-windows-1178-step-by-step-instructions/"><u>Download NVIDIA Drivers Compatible with Windows 11/7/8 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-pcs-audio-with-asus-realtek-drivers-free-download/"><u>Enhance Your PC's Audio with ASUS Realtek Drivers - FREE Download!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/flawless-driver-update-process-for-your-dell-latitude-e6430-on-any-version-of-windows/"><u>Flawless Driver Update Process for Your Dell Latitude E6430 on Any Version of Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-updated-arduino-drivers-on-windows-systems/"><u>Getting Started with Updated Arduino Drivers on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-update-installing-and-managing-lenovo-thunderbolt-3-hub-drivers/"><u>Latest Update: Installing & Managing Lenovo Thunderbolt 3 Hub Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-keyboard-setup-and-drivers-compatible-with-windows-10-download-here/"><u>Logitech Keyboard Setup & Drivers Compatible with Windows 10 – Download Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-guide-to-installing-microsoft-ergonomic-keyboard-4000-get-the-latest-drivers-now/"><u>Quick & Easy Guide to Installing Microsoft Ergonomic Keyboard 4000 - Get the Latest Drivers Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-hp-envy-5055-drivers-get-them-now/"><u>Quick Download: HP Envy 5055 Drivers – Get Them Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-get-your-windows-computer-set-up-with-arduino-nano-drivers/"><u>Quick Fix: How to Get Your Windows Computer Set Up with Arduino Nano Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-transition-expert-strategies-for-moving-to-your-newest-iphone-insights/"><u>Seamless Transition: Expert Strategies for Moving to Your Newest iPhone - Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-keeping-your-monitor-drivers-current-with-windows-support/"><u>Step-by-Step Process: Keeping Your Monitor Drivers Current with Windows Support</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/streaming-on-the-go-guide-to-connecting-your-prime-video-library-from-smartphone-pc-and-television/"><u>Streaming on the Go: Guide to Connecting Your Prime Video Library From Smartphone, PC & Television</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-turtle-beach-mic-heres-how-to-repair-it/"><u>Trouble with Your Turtle Beach Mic? Here's How to Repair It!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-from-footage-to-film-how-to-edit-gopro-videos-with-ease-on-macbook/"><u>Updated In 2024, From Footage to Film How to Edit GoPro Videos with Ease on MacBook</u></a></li>
+</ul></div>
 

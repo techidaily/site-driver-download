@@ -1,7 +1,7 @@
 ---
 title: "Latest Updates & Drivers Available Now: Optimize Your HP LaserJet P160n6d for Windows Systems"
-date: 2025-01-04T18:32:22.642Z
-updated: 2025-01-10T20:01:41.596Z
+date: 2025-01-15T17:08:32.515Z
+updated: 2025-01-22T16:12:21.762Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
@@ -46,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update printer driver automatically
 
@@ -61,23 +73,19 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3: Update printer driver in Device Manager
 
@@ -95,24 +103,16 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
@@ -139,20 +139,24 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[Updated] 2024 Approved Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-discover-the-ideal-screencasting-software-for-teachers/"><u>[Updated] Discover the Ideal Screencasting Software for Teachers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-3d-luts-complete-guide/"><u>[Updated] Mastering 3D LUTs Complete Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/behringer-audio-interface-drivers-direct-download-links-available/"><u>Behringer Audio Interface Drivers - Direct Download Links Available!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-set-up-hp-scanning-software-on-your-windows-pc-step-by-step-guide/"><u>Download & Set Up HP Scanning Software on Your Windows PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-amd-graphics-drivers-on-windows-latest-versions/"><u>Download AMD Graphics Drivers on Windows: Latest Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-xp-245-printer-software-compatible-with-windows-7-8-and-10/"><u>Download Epson XP-245 Printer Software Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nubia-z50-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nubia Z50 Ultra For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-save-your-favorite-episodes-downloading-audio-from-audioboom/"><u>How to Save Your Favorite Episodes: Downloading Audio From Audioboom</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-color-laserjet-m452dn-official-and-fast-printer-drivers-available-now/"><u>HP Color LaserJet M452dn - Official & Fast Printer Drivers Available Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-zte-nubia-flip-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock ZTE Nubia Flip 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-free-acer-wifi-drivers-easy-to-download-and-instantly-work/"><u>Quick Setup: Free Acer WiFi Drivers - Easy to Download & Instantly Work!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android-for-2024/"><u>Top-Rated Mobile Video Editors for iOS & Android for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-epson-l3150-printer-drivers-on-windows-step-by-step-guide-win1087/"><u>Update Your Epson L3150 Printer Drivers on Windows – Step-by-Step Guide (Win10/8/7)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[Updated] 2024 Approved Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-comparison-vsdc-screen-recorder-vs-other-leading-solutions/"><u>[Updated] 2024 Approved The Ultimate Comparison VSDC Screen Recorder vs Other Leading Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-5-captivating-videos-from-the-world-of-fb/"><u>[Updated] In 2024, Top 5 Captivating Videos From the World of FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-capture-tool-for-windows-10-professional/"><u>[Updated] In 2024, Ultimate Capture Tool for Windows 10 - Professional</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a78-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A78 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-h80i-v2-liquid-cpu-cooler-installation-drivers-download/"><u>Corsair H80i V2 Liquid CPU Cooler Installation Drivers - Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978946400-easy-guide-to-updating-your-vga-drivers-fetch-them-here/"><u>Easy Guide to Updating Your VGA Drivers – Fetch Them Here!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-download-realtek-alc-audio-driver-for-windows-10/"><u>Effortless Installation: Download RealTek ALC Audio Driver for Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-canon-inkjet-printer-software-mf743cdw-get-the-latest-windows-drivers/"><u>Free Canon Inkjet Printer Software (MF743CDW) - Get the Latest Windows Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12-pro-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12 Pro 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-startech-driver-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>How to Fix StarTech Driver Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-cutting-edge-brother-hl-c2240-driver-on-your-windows-device/"><u>Install Cutting-Edge Brother HL-C2240 Driver on Your Windows Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fixes-overcoming-common-challenges-in-i2c-hid-device-driver-management/"><u>Quick Fixes: Overcoming Common Challenges in I2C HID Device Driver Management</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-failed-gdx-setup-on-pc/"><u>Repaired Failed GDX Setup on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-tecno-pova-5-frp-by-drfone-android/"><u>The Updated Method to Bypass Tecno Pova 5 FRP</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tp-link-wifi-adapter-drivers-updated-version-now-available-for-windows-1087/"><u>TP-Link WiFi Adapter Drivers: Updated Version Now Available for Windows 10/8/7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-se-2022-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone SE (2022)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Simplified Driver Upgrade for Synaptics PS/2 Touchpads - Improve Functionality Instantly
-date: 2024-09-01T00:52:25.385Z
-updated: 2024-09-02T00:52:25.385Z
+date: 2025-01-16T16:42:03.352Z
+updated: 2025-01-22T16:15:33.360Z
 tags:
   - win11
   - win10
@@ -43,14 +43,19 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-226.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-226.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Synaptics PS/2 Port Touchpad driver for now, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-227.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -58,9 +63,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Option 2: Manually update your Synaptics PS/2 Port Touchpad driver
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
@@ -68,6 +70,10 @@ OR
 ### Update your driver via official websites
 
  Synaptics have made an announcement on their official website that the corresponding drivers for TouchPad devices are “customized and supported by notebook manufacturers to meet specific driver requirements for their individual products.” So if you want to download the driver from official websites and then install it by yourself, you’ll need to visit the site of your notebook manufacturer. For instance, if you’re using a Dell laptop, you should go directly to Dell’s website and download the driver from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Update your driver via Device Manager
 
@@ -81,41 +87,28 @@ Here’re the steps to update your driver via Device Manager:
 
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
 
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-231.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Search automatically for updated driver software** .
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-232.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Wait till the download and installation process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-233.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-234.png)
 
  6) Click **Close** when it’s all done.
@@ -135,8 +128,6 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +135,17 @@ Here’re the steps to update your driver via Device Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-horizontal-or-vertical-crafting-the-best-fb-video-posts-for-2024/"><u>[New] Horizontal or Vertical Crafting the Best FB Video Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-masterclass-advanced-techniques-for-video-commentary-embedding/"><u>[Updated] YouTube Masterclass Advanced Techniques for Video Commentary Embedding</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-strategies-to-acquire-top-notch-hdr-cameras/"><u>2024 Approved Strategies to Acquire Top-Notch HDR Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-format-transformation-convert-3gp-mov-avi-and-more-with-movavi-video-converter/"><u>Effortless Format Transformation: Convert 3GP, MOV, AVI & More with Movavi Video Converter</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-laserjet-p1606dn-printer-drivers-for-windows-free-download-and-update-instructions/"><u>HP LaserJet P1606dn Printer Drivers for Windows: Free Download & Update Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-and-updating-brother-mfc-7860dw-drivers-for-optimal-windows-performance/"><u>Installing and Updating Brother MFC-7860DW Drivers for Optimal Windows Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/instant-access-to-samsung-c460-driver-downloads-easy-steps-inside/"><u>Instant Access to Samsung C460 Driver Downloads - Easy Steps Inside</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/retrieve-accidentally-erased-files-a-guide-to-rescuing-data-from-an-outside-storage-unit-using-dual-techniques/"><u>Retrieve Accidentally Erased Files: A Guide to Rescuing Data From an Outside Storage Unit Using Dual Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/skydrives-frugal-option-minimal-price-maximum-space/"><u>Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-epson-wf-7720-printer-drivers-in-windows-operating-systems/"><u>Step-by-Step Guide: Updating Your Epson WF-7720 Printer Drivers in Windows Operating Systems</u></a></li>
+</ul></div>
 

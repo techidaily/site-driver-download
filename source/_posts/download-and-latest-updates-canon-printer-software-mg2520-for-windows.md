@@ -1,7 +1,7 @@
 ---
 title: "Download & Latest Updates: Canon Printer Software (MG2520) for Windows"
-date: 2025-01-11T06:16:47.056Z
-updated: 2025-01-16T07:10:19.466Z
+date: 2025-01-18T18:35:59.339Z
+updated: 2025-01-22T16:52:44.910Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Update printer driver manually
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
@@ -69,15 +69,15 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -96,7 +96,7 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it.
@@ -107,13 +107,13 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -139,24 +139,24 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aximize-engagement-discover-the-right-youtube-thumbnail-size/"><u>[New] Maximize Engagement Discover the Right YouTube Thumbnail Size</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-complete-breakdown-of-googles-podcast-system/"><u>[Updated] A Complete Breakdown of Google's Podcast System</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>[Updated] In 2024, Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-list-5-superior-webcams-with-sound-capture/"><u>2024 Approved Essential List 5 Superior Webcams with Sound Capture</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-official-oculus-headset-drivers-for-windows-operating-systems/"><u>Download Official Oculus Headset Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-guide-seamless-steps-for-ripping-and-duplicating-your-dvd-onto-a-hard-drive/"><u>Easy Guide: Seamless Steps for Ripping & Duplicating Your DVD Onto a Hard Drive</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-when-geforce-experience-fails-to-load-settings-correctly/"><u>Effective Solutions for When GeForce Experience Fails to Load Settings Correctly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/end-the-self-removal-spree-resolve-nvidia-driver-issue/"><u>End the Self-Removal Spree: Resolve Nvidia Driver Issue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-performance-free-nvidia-rtx-2060-super-drivers-tailored-for-windows-11-download/"><u>Enhance Performance: Free NVIDIA RTX 2060 Super Drivers Tailored for Windows 11 Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722973295338-get-your-latest-m-audio-fast-track-driver-for-win-117881-now/"><u>Get Your Latest M-Audio Fast Track Driver for Win 11/7/8/8.1 Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-rtx-2060-super-drivers-compatible-with-windows-11-free-download/"><u>Get Your RTX 2060 Super Drivers Compatible with Windows 11 - Free Download</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-maximizing-video-sharing-adding-imovie-clips-to-vimeo/"><u>In 2024, Maximizing Video Sharing Adding iMovie Clips to Vimeo</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210347796-9782226391520-le-souffle-du-chi/"><u>Le Souffle du Chi | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-nvidia-geforce-rtx-2070-graphics-card-drivers-compatible-with-windows-1187/"><u>Newest NVIDIA GeForce RTX 2070 Graphics Card Drivers Compatible with Windows 11/8/7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-simple-guide-installing-the-right-keyboard-drivers-for-your-windows-7-pc/"><u>Quick and Simple Guide: Installing the Right Keyboard Drivers for Your Windows 7 PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/reverse-screen-angle-for-win7/"><u>Reverse Screen Angle for Win7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-speedy-way-to-new-and-improved-scansnap-s110-groove-with-effortless-driver-updates/"><u>The Speedy Way to New and Improved ScanSnap S110 Groove with Effortless Driver Updates</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-or-download-new-samsung-printer-drivers-for-seamless-windows-compatibility-get-them-here/"><u>Update or Download New Samsung Printer Drivers for Seamless Windows Compatibility – Get Them Here!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722962697640-upgrade-your-game-with-the-newest-amd-vega-driver-versions-user-friendly-tutorial-inside/"><u>Upgrade Your Game with the Newest AMD Vega Driver Versions - User-Friendly Tutorial Inside!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-maximize-your-visuals-on-zoom-the-definitive-guide/"><u>[New] In 2024, Maximize Your Visuals on Zoom – The Definitive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-optimize-your-social-media-presence-with-mobile-based-live-videos/"><u>[New] Optimize Your Social Media Presence with Mobile-Based Live Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-selfies-on-instagram-a-guide/"><u>[Updated] Mastering Selfies on Instagram A Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-drivers-update-for-windows-8-free-downloads-available-now/"><u>AMD Radeon Drivers Update for Windows 8 – FREE Downloads Available Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-xp-430-printer-drivers-on-windows-a-comprehensive-guide/"><u>Download and Install Epson XP-430 Printer Drivers on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-solutions-for-resolving-silent-screens-fixing-your-netflix-audio-problems/"><u>Easy Solutions for Resolving Silent Screens: Fixing Your Netflix Audio Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-features-and-capabilities-of-the-telegram-chat-app/"><u>Exploring the Features and Capabilities of the Telegram Chat App</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-drivers-secure-your-compatibility-with-win-1087/"><u>Get the Newest Nvidia Quadro RTX 8000 Drivers: Secure Your Compatibility with Win 10/8/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-properly-download-and-update-your-canon-mf85er0-c-printer-drivers-for-various-windows-versions/"><u>How to Properly Download and Update Your Canon MF85er0 C Printer Drivers for Various Windows Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-pcs-graphics-card-software-on-windows-complete-tutorial/"><u>How to Update Your PC's Graphics Card Software on Windows – Complete Tutorial</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-new-driver-update-for-your-all-in-one-hp-deskjet-3755-on-windows-pcs-versions-10-8-and-7/"><u>Install the New Driver Update for Your All-in-One HP DeskJet 3755 on Windows PCs (Versions 10, 8 & 7)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-the-setup-of-obs-and-streamlabs-for-mac-users-for-2024/"><u>Navigating the Setup of OBS & Streamlabs for Mac Users for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-access-to-downloading-your-hp-envy-nv-5055s-essential-drivers/"><u>Quick Access to Downloading Your HP Envy Nv 5055'S Essential Drivers</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/renaming-files-on-windows-pcs-made-simple-a-guide-by-yl-computing/"><u>Renaming Files on Windows PCs Made Simple - A Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-customizing-your-windows-11-taskbar-color/"><u>Step-by-Step Guide: Customizing Your Windows 11 Taskbar Color</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-resolution-fixing-intel-dptf-driver-installation-errors/"><u>Successful Resolution: Fixing Intel DPTF Driver Installation Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-x90s-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo X90S Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-gaming-performance-with-the-new-nvidia-graphics-card-drivers-install-here/"><u>Upgrade Gaming Performance with the New NVIDIA Graphics Card Drivers – Install Here!</u></a></li>
 </ul></div>
 

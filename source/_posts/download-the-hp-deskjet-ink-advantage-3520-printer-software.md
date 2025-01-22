@@ -1,7 +1,7 @@
 ---
 title: Download the HP Deskjet Ink Advantage 3520 Printer Software
-date: 2024-09-05T05:06:40.650Z
-updated: 2024-09-06T05:06:40.650Z
+date: 2025-01-16T18:33:22.286Z
+updated: 2025-01-22T16:41:07.055Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Update your driver manually
 
  Printer manufacturers will keep updating drivers to fix bugs or improve stability. You can download the latest printer driver from their websites and install it manually, but this requires some patience and computer skills. Follow the steps below to update the HP DeskJet 2652 driver manually.
@@ -35,18 +39,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type**HP DeskJet 2652** in the search box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1-2-1.jpg)
@@ -56,17 +48,9 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
 
  If this method doesn’t work for you, there is an easier and quicker option.
@@ -87,18 +71,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the HP DeskJet 2600 series driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -125,41 +97,29 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Double-click**Printers** to see the devices under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click**HP DeskJet 2652** , and click**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there is any new update, Windows will directly download and install it. Then, reboot your computer for the changes to take effect. Otherwise, it will show you that the best drivers for your device are already installed.
 
 ---
@@ -175,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +142,23 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-initial-recording-analysis-a-critique/"><u>[New] In 2024, Initial Recording Analysis A Critique</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-ae-text-styles-for-impact/"><u>[Updated] Innovative AE Text Styles for Impact</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smooth-segmentation-4-easy-fades-explained/"><u>[Updated] Smooth Segmentation 4 Easy Fades Explained</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971737599-download-free-asrock-ab350-pro4-driver-package-for-windows-instantly/"><u>Download Free ASRock AB350 Pro4 Driver Package for Windows - Instantly!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhance-user-experience-and-conversions-using-cookiebot-solutions/"><u>Enhance User Experience and Conversions Using Cookiebot Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-procedure-to-get-linksys-ea2500-driver-working-with-ubuntu/"><u>Fast & Simple Procedure to Get Linksys EA2500 Driver Working with Ubuntu</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-ultimate-guide-to-the-startech-usb-to-vga-adapter-software/"><u>Free Download: Ultimate Guide to the StarTech USB-to-VGA Adapter Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-1080-graphics-card-drivers-for-windows-10-quick-and-easy/"><u>Get the Latest NVIDIA 1080 Graphics Card Drivers for Windows 10 - Quick and Easy</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-video-text-upgrades-for-professionals/"><u>In 2024, Top 10 Video Text Upgrades for Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-apples-new-ai-powered-m3-macbook-air-tech-for-everyone-has-finally-arrived-zdnet-insights/"><u>In-Depth Look at Apple's New AI-Powered M3 MacBook Air: Tech for Everyone Has Finally Arrived | ZDNET Insights</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-integration-download-and-setup-drivers-for-your-hp-envy-5661/"><u>Seamless Integration: Download and Setup Drivers for Your HP Envy 566^1</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-download-guide-for-the-latest-qualcomm-atheros-ar938x-device-drivers-at-no-charge/"><u>Step-by-Step Download Guide for the Latest Qualcomm Atheros AR938X Device Drivers at No Charge</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nokia-g42-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nokia G42 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978772885-troubleshooting-made-simple-find-and-download-sandisk-ssd-drivers-now/"><u>Troubleshooting Made Simple: Find & Download Sandisk SSD Drivers Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-11-pros-window-secrets/"><u>Unlocking 11 Pro's Window Secrets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/vivid-visionary-views-premium-4k-screen-choices/"><u>Vivid Visionary Views Premium 4K Screen Choices</u></a></li>
+</ul></div>
 

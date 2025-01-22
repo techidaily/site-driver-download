@@ -1,7 +1,7 @@
 ---
 title: Update to the Most Recent Drivers for Gigabyte's WB867D Chipset - Safe and Secure
-date: 2025-01-11T20:19:26.875Z
-updated: 2025-01-16T07:23:34.982Z
+date: 2025-01-19T18:39:41.483Z
+updated: 2025-01-22T16:54:54.797Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -39,15 +43,11 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -106,24 +106,21 @@ thumbnail: https://thmb.techidaily.com/28c82805d5aad2753ba2e86c5bd215ad19bda09a5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-embedding-on-screen-text-on-youtube-clips-for-2024/"><u>[New] Guide to Embedding On-Screen Text on YouTube Clips for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-top-10-global-voyages-for-discovery-enthusiasts/"><u>[New] In 2024, Top 10 Global Voyages for Discovery Enthusiasts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-dual-method-approach-for-instagram-reel-downloads/"><u>[Updated] In 2024, A Dual Method Approach for Instagram Reel Downloads</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-ultimate-selection-5-elite-webcams-with-audio-features/"><u>2024 Approved The Ultimate Selection 5 Elite Webcams With Audio Features</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-atheros-network-adapter-drivers-for-windows-pcs/"><u>Download and Install Atheros Network Adapter Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensuring-peak-performance-updating-drivers-on-your-toshiba-laptop-with-windows-operating-system/"><u>Ensuring Peak Performance: Updating Drivers on Your Toshiba Laptop with Windows Operating System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975426218-get-your-device-connected-download-toshiba-bluetooth-drivers-now/"><u>Get Your Device Connected - Download Toshiba Bluetooth Drivers Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-pro-8740-software-for-pcs-running-on-win11win10win8/"><u>Get Your HP Officejet Pro 8740 Software for PCs Running on Win11/Win10/Win8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-guide-to-updating-your-synaptics-ps2-touchpad-drivers/"><u>Hassle-Free Guide to Updating Your Synaptics PS/2 Touchpad Drivers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone SE (2022) to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-premium-line-up-top-5-slow-motion-models/"><u>In 2024, Premium Line-Up Top 5 Slow Motion Models</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-t420-drivers-download-and-update-for-windows-easily/"><u>Lenovo T420 Drivers Download & Update for Windows [Easily]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/loop-lovers-guide-instagrams-best-for-repeat-viewers-for-2024/"><u>Loop Lovers Guide Instagram's Best for Repeat Viewers for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/official-intel-iris-xe-drivers-for-pcs-with-windows-11-secure-download-option/"><u>Official Intel Iris Xe Drivers for PCs with Windows 11 - Secure Download Option</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/quick-tip-easily-navigate-to-your-pcs-device-manager-in-windows-10-digital-trends-with-abc/"><u>Quick Tip: Easily Navigate to Your PC's Device Manager in Windows 10 - Digital Trends with ABC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/sas-software-updates-and-downloads-compatible-with-windows-10-8-or-e7-systems/"><u>SAS Software Updates & Downloads: Compatible with Windows 10, 8 or E7 Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sparkling-access-methods-for-new-users-for-2024/"><u>Sparkling Access Methods for New Users for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/techniques-enabling-malware-delivery-via-scripting-insights-from-malwarefox/"><u>Techniques Enabling Malware Delivery via Scripting: Insights From MalwareFox</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-or-install-drivers-for-hp-officejet-pro-all-in-one-compatible-with-multiple-windows-os-versions/"><u>Update or Install Drivers for HP Officejet Pro All-in-One - Compatible with Multiple Windows OS Versions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-optimization-peak-times-for-maximum-impact/"><u>[New] YouTube Optimization Peak Times for Maximum Impact</u></a></li>
+<li><a href="https://driver-download.techidaily.com/accessibility-analysis-ensures-the-greatest-number-of-residents-can-benefit-from-the-new-park/"><u>Accessibility Analysis Ensures the Greatest Number of Residents Can Benefit From the New Park.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/challenger-ai-how-claude-eclipses-chatgpt-in-4-major-ways/"><u>Challenger AI - How Claude Eclipses ChatGPT in 4 Major Ways</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-laptops-showcase-at-ifa-2023/"><u>Cutting-Edge Laptops Showcase at IFA 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-methods-for-drone-video-refinement/"><u>Cutting-Edge Methods for Drone Video Refinement</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-deskjet-3702-printer-drivers-latest-updates-available/"><u>Download HP DeskJet 3702 Printer Drivers - Latest Updates Available</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-updating-your-windows-pcs-fingerprint-drivers/"><u>Easy Guide to Downloading and Updating Your Windows PC's Fingerprint Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-toshibas-official-bluetooth-drivers-for-your-device/"><u>Easy Installation of Toshiba's Official Bluetooth Drivers for Your Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-samsung-960-evo-m2-ssd-on-a-windows-pc-complete-guide/"><u>How to Install Samsung 960 EVO M.2 SSD on a Windows PC: Complete Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-resolve-windows-10-failure-in-detecting-external-drives-and-peripherals/"><u>How to Resolve Windows 10 Failure in Detecting External Drives and Peripherals</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-logitech-brio-webcam-driver-for-windows-7-8-or-10-free-download-guide/"><u>How to Update Your Logitech Brio Webcam Driver for Windows 7, 8 or 10 - Free Download Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://media-tips.techidaily.com/is-viewing-4k-signals-via-over-the-air-broadcast-feasible-a-detailed-insight/"><u>Is Viewing 4K Signals via Over-the-Air Broadcast Feasible? A Detailed Insight</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranked-iphone-16-and-16-pro-protective-sleeves-thoroughly-reviewed-by-tech-experts/"><u>Top-Ranked iPhone 16 & 16 Pro Protective Sleeves : Thoroughly Reviewed by Tech Experts</u></a></li>
 </ul></div>
 

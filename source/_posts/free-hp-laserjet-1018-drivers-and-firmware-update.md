@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2025-01-12T07:28:51.813Z
-updated: 2025-01-16T11:33:38.862Z
+date: 2025-01-17T18:13:14.424Z
+updated: 2025-01-22T16:17:28.999Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
@@ -49,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Software, Drivers and Firmware** .
@@ -75,16 +79,12 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -105,18 +105,20 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-zoom-settings-for-top-notch-audio-capture-for-2024/"><u>[New] Navigating ZOOM Settings for Top-Notch Audio Capture for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-filters-for-smooth-streaming-sessions/"><u>[New] Prime Filters for Smooth Streaming Sessions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-compatibility-download-the-newest-canon-pixma-mg2522-drivers-here/"><u>Ensure Compatibility: Download the Newest Canon PIXMA MG2522 Drivers Here</u></a></li>
-<li><a href="https://driver-download.techidaily.com/find-and-install-compatible-mouse-drivers-for-windows-7-systems/"><u>Find and Install Compatible Mouse Drivers for Windows 7 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-overcome-usb-connection-problems-for-hp-260ci-wireless-internet-adapter/"><u>How to Overcome USB Connection Problems for HP 260Ci Wireless Internet Adapter</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-upgrade-enhanced-compatibility-and-performance-dell-2330ddn-monochrome-laser-printer-software-update/"><u>Latest Upgrade: Enhanced Compatibility & Performance - Dell 2330D/Dn Monochrome Laser Printer Software Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/poco-data-recovery-recover-lost-data-from-poco-c55-by-fonelab-android-recover-data/"><u>Poco Data Recovery – recover lost data from Poco C55</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-hp-beats-sound-card-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving HP Beats Sound Card Problems on Windows 11, 8 & 7 - A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-hp-device-maintenance-software-and-driver-support/"><u>Ultimate Guide to HP Device Maintenance: Software & Driver Support</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/top-10-seo-kompanij-v-prage-polnyj-spisok-professionalnyh-specialistov-po-optimizacii-dlya-chehii/"><u>Топ-10 SEO-Компаний В Праге: Полный Список Профессиональных Специалистов По Оптимизации Для Чехии</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mpeg-flv/"><u>ウェブ上でのフリーかつ簡単なMPEG FLVコンバートツール - ムヴァヴィ</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-discords-digital-portraiture/"><u>[New] In 2024, The Ultimate Guide to Discord's Digital Portraiture</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-vr-eyewear-selection-for-drone-contests/"><u>[Updated] 2024 Approved Ultimate VR Eyewear Selection for Drone Contests</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-holistic-motion-comprehensiveness-review/"><u>[Updated] In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-direct-playback-connecting-fb-vids-to-tvs/"><u>2024 Approved Direct Playback Connecting FB Vids to TVs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-steps-to-unblock-your-windows-pin/"><u>Easy Steps to Unblock Your Windows PIN</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-top-notch-performance-download-the-newly-updated-nvidia-geforce-210-drivers-for-windows-11-devices/"><u>Ensure Top-Notch Performance: Download the Newly Updated Nvidia GeForce 210 Drivers for Windows 11 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-l3110-software-upgrade-compatible-drivers-for-windows-11107-free-download/"><u>Epson L3110 Software Upgrade: Compatible Drivers for Windows 11/10/7 - Free Download</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru/"><u>Exploring the Top Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-critical-graphics-driver-problems-essential-solutions-and-warnings/"><u>Fixing Critical Graphics Driver Problems - Essential Solutions & Warnings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-download-toshiba-printer-drivers-in-windows/"><u>How to Download Toshiba Printer Drivers in Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-from-twitters-tube-to-your-whatsapp-buddy-list/"><u>In 2024, From Twitter's Tube to Your WhatsApp Buddy List</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>In 2024, The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-installation-for-your-netgear-wireless-card-quick-downloads-and-tips/"><u>Latest Driver Installation for Your NETGEAR Wireless Card: Quick Downloads and Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revitalize-your-keyboards-touchpad-a-fast-and-easy-guide-to-updating-synaptics-drivers-on-ps-2-port/"><u>Revitalize Your Keyboard's Touchpad: A Fast and Easy Guide to Updating Synaptics Drivers on PS/ 2 Port</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-amd-radeon-hd-graphics-card-with-new-drivers-for-windows/"><u>Update Your AMD Radeon HD Graphics Card with New Drivers for Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of Thrustmaster TS RacePad F90 Joystick Drivers – Instant Download Options Available
-date: 2025-01-13T03:20:05.363Z
-updated: 2025-01-16T04:11:26.636Z
+date: 2025-01-15T16:18:12.893Z
+updated: 2025-01-22T18:07:12.720Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
  If you see **Advanced Micro Devices, Inc driver update for AMD SMBus** in Windows Update, just**DON’T** install the update via Windows Update. Since it could very well just fail and cause further problems . Here we show you 2 safe and easy options to**update your AMD SMBus driver** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 options to update AMD SMBus drivers
 
 1. **[Update your AMD SMBus driver automatically (Recommended)](https://www.drivereasy.com/knowledge/advanced-micro-devices-inc-driver-update-for-amd-smbus-solved/#O1)**
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your **SMBus driver driver** automatically (Recommended)
@@ -47,19 +43,19 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update your**AMD** **SMBus**  driver manually
@@ -73,15 +69,19 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174777cee5f.jpg)
 3. Under **Latest AMD Drivers and Software** , locate **AMD Chipset, AHCI, USB 3.0 and RAID Drivers** , click**the bit version** that corresponds with**your own Windows OS** (even if you’re using the**AMD X399 Chipset** ).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174e63eec18.png)
 4. Click**DOWNLOAD** in the first result to make sure you download the latest**AMD Chipset** **Drivers** version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174cf9e1f05.png)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your computer for the changes to take effect.
 
@@ -106,14 +106,22 @@ thumbnail: https://thmb.techidaily.com/95319fa7650bd05795af1fb33fe5b5cd95af24d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-chose-the-best-live-platform/"><u>[New] Ultimate Guide to Chose the Best Live Platform</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-fists-vs-followers-choosing-the-champion/"><u>[Updated] 2024 Approved Fists vs Followers Choosing the Champion</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secure-success-in-win11-meetings-with-advanced-zooming-techniques/"><u>2024 Approved Secure Success in Win11 Meetings with Advanced Zooming Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-vdl-screen-capturers-critique-in-depth-look/"><u>2024 Approved VDL Screen Capturer's Critique In-Depth Look</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-updated-hp-laserjet-p1102dw-printing-software-for-windows-users/"><u>Easy Installation of Updated HP LaserJet P1102dw Printing Software for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974209948-how-to-successfully-download-your-broadcom-wifi-drivers-a-step-by-step-guide/"><u>How to Successfully Download Your Broadcom WiFi Drivers - A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-fixes-getting-the-logitech-f710-to-work-with-your-pcs-operating-system/"><u>Step-by-Step Fixes: Getting the Logitech F710 to Work with Your PC's Operating System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969777813-this-simplifies-to/"><u>This Simplifies To</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>Updated 2024 Approved Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-balancing-iphone-hd-video-with-premiere-pros-exposure-control/"><u>[New] 2024 Approved Balancing iPhone HD Video with Premiere Pro’s Exposure Control</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-leverage-your-influence-top-10-igtv-video-tactics-for-brands/"><u>[New] In 2024, Leverage Your Influence Top 10 IGTV Video Tactics for Brands</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/bring-back-missing-watch-playlist-icon-for-2024/"><u>Bring Back Missing Watch Playlist Icon for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-setup-logitech-brio-webcam-software-on-pcs-with-windows-10-8-and-7/"><u>Download and Setup Logitech Brio Webcam Software on PCs with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-tips-for-fresh-installation-of-display-adapters-drivers-in-windows-os/"><u>Easy Tips for Fresh Installation of Display Adapters' Drivers in Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effective-solutions-to-fix-ralink-rt3290-wifi-drivers-in-various-windows-environments-xpvista/"><u>Effective Solutions to Fix Ralink RT3290 WiFi Drivers in Various Windows Environments (XP/Vista)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-msi-sound-driver-downloads-for-optimal-windows-performance/"><u>Essential MSI Sound Driver Downloads for Optimal Windows Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-startech-vga-drivers-for-usb-graphics-adapters-get-your-version-here/"><u>Free StarTech VGA Drivers for USB Graphics Adapters – Get Your Version Here!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-15-pro-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 15 Pro with 3 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-a70-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel A70 to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tools-that-enhance-your-travel-videos/"><u>In 2024, Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-epson-artisan-amo-1430-drivers-on-windows-11108-secure-your-printing-experience/"><u>Install Epson Artisan Amo 1430 Drivers on Windows 11/10/8 – Secure Your Printing Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-enhancements-in-the-latest-version-of-logitech-extreme-3d/"><u>Newest Enhancements in the Latest Version of Logitech Extreme 3D!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/photography-editing-tips-for-making-stunning-photos/"><u>Photography Editing Tips for Making Stunning Photos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/tl-wn722n-adapter-unrecognized-on-windows-troubleshooting-guide/"><u>TL-WN722N Adapter Unrecognized on Windows - Troubleshooting Guide</u></a></li>
 </ul></div>
 
