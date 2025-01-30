@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of NVIDIA 1080 Graphics Drivers on Your Windows 11 PC
-date: 2025-01-17T18:21:34.887Z
-updated: 2025-01-22T17:28:20.569Z
+date: 2025-01-22T19:05:18.614Z
+updated: 2025-01-29T21:17:07.563Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
  Note: the screenshots below come from Windows 10, and methods apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the BCM20702A0 driver manually
@@ -51,28 +51,20 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your Bluetooth adapter (sometimes it may display as**Unknown device** ), right click on your device, and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Browser my computer for driver software** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd679066ae58.jpg)
 5. Follow the on-screen instructions to finish the update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This method is time-consuming. If it doesn’t work for you, don’t worry. You can try[Method 2](https://tools.techidaily.com/drivereasy/download/) to do it easily and quickly..
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the BCM20702A0 driver automatically
@@ -88,9 +80,17 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20a9e6befd.jpg)
 3. Click the**Update** button next to the flagged device to automatically download the correct version of the driver (you can do this with the**Free** version). Then install the driver in your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba20b16bf7b8.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: if you have any problems while using Driver Easy, feel free to contact our support team at**<support@drivereasy.com>** . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -112,18 +112,15 @@ If you want to download the**BCM20702A0 driver** for your Bluetooth adapter, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-step-by-step-approach-for-thumbnail-creation-professionals/"><u>[New] In 2024, A Step-By-Step Approach for Thumbnail Creation Professionals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-swift-sketching-for-fortnite-game-titles/"><u>[New] Swift Sketching for Fortnite Game Titles</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickly-change-the-pace-of-videos-in-your-instagram-feed/"><u>2024 Approved Quickly Change the Pace of Videos in Your Instagram Feed</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-brother-mfc-7860dw-all-in-one-printer-drivers-for-windows-computers-today/"><u>Download Updated Brother MFC-7860DW All-in-One Printer Drivers for Windows Computers Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-download-of-acer-predator-xb271h-monitor-drivers/"><u>Fast & Simple Download of Acer Predator XB271H Monitor Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nokia C12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://driver-download.techidaily.com/killer-wi-fi-drivers-download-now-solution-included/"><u>Killer Wi-Fi Drivers Download Now - Solution Included</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-downloading-of-latest-hid-keyboard-drivers-with-step-by-step-instructions/"><u>Quick & Easy Downloading of Latest HID Keyboard Drivers with Step-by-Step Instructions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/rtx-2e70-super-graphics-card-update-pack-free-download-for-pcs-running-windows-1110/"><u>RTX 2E70 Super Graphics Card Update Pack: Free Download for PCs Running Windows 11/10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c53-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C53 Device</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-reno-10-pro-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo Reno 10 Pro 5G without backup.</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-system-with-the-newest-drivers-for-geforce-rtx-3080-ti-windows-1087-edition-download/"><u>Upgrade Your System with the Newest Drivers for GeForce RTX 3080 Ti – Windows 10/8/7 Edition Download</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-action-camera-buying-for-the-absolute-novice-2023-guide/"><u>2024 Approved Action Camera Buying for the Absolute Novice - 2023 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5-most-prominent-driverless-car-companies-to-watch-in-2024-teslas-dominance-as-the-no1-autonomous-vehicle-manufacturer/"><u>5 Most Prominent Driverless Car Companies to Watch in 202#4 Tesla's Dominance as the No.1 Autonomous Vehicle Manufacturer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y55s-5g-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-upgrade-samsung-ssd-960-evo-drives-on-windows-latest-guide/"><u>Download & Upgrade Samsung SSD 960 EVO Drives on Windows - Latest Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-surface-book-2-drivers-with-ease-download-and-update-steps-inside/"><u>Get the Latest Surface Book 2 Drivers with Ease - Download & Update Steps Inside</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-version-of-dell-display-adapters-quickly-and-safely-online/"><u>Get the Latest Version of Dell Display Adapters Quickly & Safely Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-18-quirky-tiktok-laughs-to-relish/"><u>In 2024, 18 Quirky TikTok Laughs to Relish</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-utilizing-b-roll-to-enrich-narrative-arcs/"><u>In 2024, Utilizing B-Roll to Enrich Narrative Arcs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Moto E13 FRP</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-drivers-for-logitech-hd-pro-cx-webcam-enhance-your-video-calling-on-windows-11-today/"><u>Updated Drivers for Logitech HD Pro CX Webcam: Enhance Your Video Calling on Windows 11 Today!</u></a></li>
 </ul></div>
 

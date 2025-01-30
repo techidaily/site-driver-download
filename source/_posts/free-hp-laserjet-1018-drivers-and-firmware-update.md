@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2025-01-17T18:13:14.424Z
-updated: 2025-01-22T16:17:28.999Z
+date: 2025-01-23T03:09:57.775Z
+updated: 2025-01-30T01:35:39.855Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If you’d like to download or update your HP LaserJet 1018 driver, you’ve come to the right place. After reading this, you’ll know exactly what to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  Here are 2 methods you can try to update the driver; just select the one you need.
@@ -27,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
@@ -48,17 +52,9 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -71,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Software, Drivers and Firmware** .
@@ -79,12 +75,16 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -105,20 +105,14 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-discords-digital-portraiture/"><u>[New] In 2024, The Ultimate Guide to Discord's Digital Portraiture</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ultimate-vr-eyewear-selection-for-drone-contests/"><u>[Updated] 2024 Approved Ultimate VR Eyewear Selection for Drone Contests</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-holistic-motion-comprehensiveness-review/"><u>[Updated] In 2024, Holistic Motion Comprehensiveness Review</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-direct-playback-connecting-fb-vids-to-tvs/"><u>2024 Approved Direct Playback Connecting FB Vids to TVs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-steps-to-unblock-your-windows-pin/"><u>Easy Steps to Unblock Your Windows PIN</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-top-notch-performance-download-the-newly-updated-nvidia-geforce-210-drivers-for-windows-11-devices/"><u>Ensure Top-Notch Performance: Download the Newly Updated Nvidia GeForce 210 Drivers for Windows 11 Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/epson-l3110-software-upgrade-compatible-drivers-for-windows-11107-free-download/"><u>Epson L3110 Software Upgrade: Compatible Drivers for Windows 11/10/7 - Free Download</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-benefits-of-owning-an-apple-watch-insights-from-a-leading-wearable-tech-guru/"><u>Exploring the Top Benefits of Owning an Apple Watch: Insights From a Leading Wearable Tech Guru</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-critical-graphics-driver-problems-essential-solutions-and-warnings/"><u>Fixing Critical Graphics Driver Problems - Essential Solutions & Warnings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-toshiba-printer-drivers-in-windows/"><u>How to Download Toshiba Printer Drivers in Windows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-from-twitters-tube-to-your-whatsapp-buddy-list/"><u>In 2024, From Twitter's Tube to Your WhatsApp Buddy List</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-selecting-9-superior-streamscape-filters/"><u>In 2024, The Ultimate Guide to Selecting 9 Superior Streamscape Filters</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-driver-installation-for-your-netgear-wireless-card-quick-downloads-and-tips/"><u>Latest Driver Installation for Your NETGEAR Wireless Card: Quick Downloads and Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/revitalize-your-keyboards-touchpad-a-fast-and-easy-guide-to-updating-synaptics-drivers-on-ps-2-port/"><u>Revitalize Your Keyboard's Touchpad: A Fast and Easy Guide to Updating Synaptics Drivers on PS/ 2 Port</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-amd-radeon-hd-graphics-card-with-new-drivers-for-windows/"><u>Update Your AMD Radeon HD Graphics Card with New Drivers for Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-score-your-youtube-content-with-these-free-sounds/"><u>[Updated] 2024 Approved Score Your YouTube Content With These Free Sounds</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/combat-times-toll-on-your-old-computer-uncover-free-fixes-and-enhancements-for-enduring-windows-asterity-insights-by-zdnet/"><u>Combat Time's Toll on Your Old Computer: Uncover Free Fixes and Enhancements for Enduring Windows Asterity | Insights by ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-25-prime-festive-season-ipad-discounts-your-ultimate-guide-to-saving-big-powered/"><u>Discover 25 Prime Festive Season iPad Discounts - Your Ultimate Guide to Saving Big, Powered</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-nvidia-rtx-2060-super-gpu-drivers-for-windows-1011-systems/"><u>Download Updated NVIDIA RTX 2060 Super GPU Drivers for Windows 10/11 Systems</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-selfie-impact-on-instagram-the-zoom-guide-for-2024/"><u>Enhancing Selfie Impact on Instagram The Zoom Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-started-with-asus-rog-strix-z37am-motherboard-easy-guide-to-downloading-necessary-drivers/"><u>Getting Started with ASUS ROG Strix Z37am Motherboard: Easy Guide to Downloading Necessary Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964262062-governments-can-address-the-underprovision-of-public-goods-by-taxing-citizens-and-providing-these-goods-collectively/"><u>Governments Can Address the Underprovision of Public Goods by Taxing Citizens and Providing These Goods Collectively.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-elitebook-x360-1030-g2-latest-system-drivers-download/"><u>HP EliteBook X360 1030 G2 - Latest System Drivers Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
 </ul></div>
 

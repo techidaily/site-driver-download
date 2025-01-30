@@ -1,7 +1,7 @@
 ---
 title: "Updating and Downloading Essential Drivers for Your Lenovo IdeaPad eBook 100 on a Windows 10 PC: A Comprehensive Tutorial"
-date: 2024-09-10T13:47:21.474Z
-updated: 2024-09-11T13:47:21.474Z
+date: 2025-01-26T23:43:44.784Z
+updated: 2025-01-29T17:35:02.044Z
 tags:
   - win11
   - win10
@@ -27,19 +27,9 @@ OR
 
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find the exactly right driver online, download it and install it step by step.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ## Option 1 – Automatically update the AMD RX 6900 XT driver (recommended)
 
@@ -56,59 +46,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  It’s always easy and time-saving to update your device drivers with Driver Easy. If you’re familiar with computer hardware, you could also try the manual method below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ## Option 2 – Download and install the driver manually
 
@@ -119,41 +74,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-1.jpg)
 3. Choose the correct operating system and click the**Download** button next to your desired driver.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6900xt-2.jpg)
 4. After the download finishes, double-click the file and follow the wizard to install the driver.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  Restart your computer and test the powerhouse performance of AMD RX 6900 XT with an up-to-date driver.
 
@@ -171,8 +97,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,12 +104,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-easy-path-to-popularity-two-tactics-for-youtube-fame/"><u>[Updated] Easy Path to Popularity Two Tactics for YouTube Fame</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-quieter-recordings-basic-or-advanced-techniques/"><u>2024 Approved Mastering Quieter Recordings - Basic or Advanced Techniques</u></a></li>
+<li><a href="https://article-posts.techidaily.com/beginning-a-successful-item-evaluation-video-series-for-2024/"><u>Beginning a Successful Item Evaluation Video Series for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-updates-epson-wf-3520-printer-drivers-for-windows/"><u>Download and Install Updates: Epson WF-3520 Printer Drivers for Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-intel-iris-xe-graphics-g7-driver-version-for-windows-11/"><u>Download Intel® Iris Xe Graphics G7 Driver Version for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-sound-blaster-z-drivers-quick-guide-for-windows-11-users/"><u>Download Sound Blaster Z Drivers: Quick Guide for Windows 11 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-guide-repairing-a-nonfunctional-samsung-blu-ray-player-efficiently/"><u>Expert Guide: Repairing a Nonfunctional Samsung Blu-Ray Player Efficiently</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-connectivity-with-new-killer-e2500-drivers-secure-your-free-download-now/"><u>Fast Connectivity with New [Killer] E2500 Drivers - Secure Your Free Download Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959369611-get-the-latest-msi-z370-a-pro-driver-update-free-downloads-available-now/"><u>Get the Latest MSI Z370-A Pro Driver Update – Free Downloads Available Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-magic-v2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Magic V2 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721962910474-is-accessing-chatgpt-compatible-with-virtual-private-networks-find-out-here/"><u>Is Accessing ChatGPT Compatible With Virtual Private Networks? Find Out Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-no-watermark-no-problem-free-and-paid-solutions-for-filmora-for-2024/"><u>New No Watermark, No Problem Free and Paid Solutions for Filmora for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966516527-quick-fix-usb-cam-drivers-securely-download-for-immediate-use/"><u>Quick-Fix USB Cam Drivers - Securely Download for Immediate Use!</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/restart-in-a-flash-easy-tips-for-refreshing-windows-10-or-11-using-the-command-prompt/"><u>Restart in a Flash: Easy Tips for Refreshing Windows 10 or 11 Using the Command Prompt</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-strategy-behind-automatic-youtube-playback-on-fb/"><u>The Strategy Behind Automatic YouTube Playback on FB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-for-smoothing-out-cyberpunk-2077s-performance-issues-fixing-lag-and-stutter/"><u>Tips for Smoothing Out Cyberpunk 2077'S Performance Issues: Fixing Lag and Stutter</u></a></li>
+</ul></div>
 

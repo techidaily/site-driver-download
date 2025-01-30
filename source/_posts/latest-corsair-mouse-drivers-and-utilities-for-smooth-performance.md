@@ -1,7 +1,7 @@
 ---
 title: Latest Corsair Mouse Drivers & Utilities for Smooth Performance
-date: 2024-09-10T13:47:24.040Z
-updated: 2024-09-11T13:47:24.040Z
+date: 2025-01-29T01:48:14.320Z
+updated: 2025-01-29T22:22:04.537Z
 tags:
   - win11
   - win10
@@ -17,19 +17,9 @@ thumbnail: https://thmb.techidaily.com/ce0abe7bceafa506ef01b02e0cca98d1b8784a398
 
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ## 2 ways to install the RTX 2080 SUPER driver
 
@@ -38,26 +28,6 @@ The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA ti
 OR
 
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
@@ -68,35 +38,16 @@ OR
 1. Visit the[driver download page](https://www.nvidia.com/Download/index.aspx) of the NVIDIA website. Then search for your video card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
@@ -107,35 +58,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -153,8 +85,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,12 +92,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-unmanned-aerial-vehicles-up-for-grabs/"><u>[New] 2024 Approved Elite Unmanned Aerial Vehicles Up for Grabs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unlocking-the-secrets-of-duplicating-your-tiktok-aura-for-2024/"><u>[New] Unlocking the Secrets of Duplicating Your TikTok Aura for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-key-tactics-procuring-premium-media-backdrops-with-ease/"><u>[Updated] 2024 Approved Key Tactics Procuring Premium Media Backdrops with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-videorecording-mastery-with-screencapture-x/"><u>[Updated] VideoRecording Mastery with ScreenCapture X</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-innovative-list-of-top-10-affordable-video-chat-platforms-for-companies-and-institutions/"><u>2024 Approved Innovative List of Top 10 Affordable Video Chat Platforms for Companies & Institutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dont-miss-out-discover-the-finest-prime-day-bargains-for-apple-products-exclusive-list-and-deals/"><u>Don't Miss Out! Discover the Finest Prime Day Bargains for Apple Products - Exclusive List & Deals</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-rtx-2060-super-drivers-compatible-with-windows-11/"><u>Download NVIDIA RTX 2060 Super Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-version-of-usb-30-networking-device-driver-for-microsoft-windows-systems/"><u>Download the Newest Version of USB 3.0 Networking Device Driver for Microsoft Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-brother-hl-s3170cdw-driver-downloads/"><u>Effortless Installation: Brother HL-S3170CDW Driver Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-sas-software-windows-compatible-free-downloads/"><u>Get the Newest SAS Software: Windows Compatible – Free Downloads</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-killer-e2200-network-cards-latest-gigabit-ethernet-drivers-here/"><u>Get Your Killer E2200 Network Card's Latest Gigabit Ethernet Drivers Here!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-hot-40-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Hot 40 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-composing-captivating-podcast-narratives/"><u>In 2024, Composing Captivating Podcast Narratives</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revel-in-every-smile-tail-wag-petcube-bites-2/"><u>Revel in Every Smile, Tail Wag: Petcube Bites 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-obtaining-and-installing-the-newest-epson-et-3760-drivers-on-pcs-with-windows-operating-system/"><u>Step-by-Step Instructions for Obtaining and Installing the Newest Epson ET-3760 Drivers on PCs with Windows Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tapping-into-dream-careers-with-artificial-intelligence/"><u>Tapping Into Dream Careers with Artificial Intelligence</u></a></li>
+</ul></div>
 

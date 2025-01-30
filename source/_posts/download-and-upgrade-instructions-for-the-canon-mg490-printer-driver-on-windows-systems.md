@@ -1,7 +1,7 @@
 ---
 title: Download & Upgrade Instructions for the Canon MG490 Printer Driver on Windows Systems
-date: 2025-01-15T17:16:35.924Z
-updated: 2025-01-22T17:14:22.410Z
+date: 2025-01-28T04:59:27.754Z
+updated: 2025-01-29T19:19:25.215Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ It’s essential to keep the drivers for your Canon products up to date so as to
  In this post, we’re going to show you 2 safe and easy ways to get the latest driver for your **Canon** products .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Choose the way you prefer
@@ -29,6 +29,10 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 
 1. [**Update your Canon driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/canon-drivers-download-update-for-windows-easily/#O1)
 2. [**Update your Canon driver manually**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1: Update your Canon driver automatically (Recommended)**
 
@@ -44,7 +48,7 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
@@ -53,10 +57,6 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Canon driver manually**
 
@@ -73,18 +73,18 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
@@ -110,24 +110,22 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-innovative-techniques-in-digital-display-recording-for-2024/"><u>[New] Innovative Techniques in Digital Display Recording for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pinnacle-ps2-simulators-for-ios-systems/"><u>[Updated] 2024 Approved Pinnacle PS2 Simulators for iOS Systems</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-infinix-hot-40i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Hot 40i Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/boost-your-gaming-rig-downloading-and-installing-compatible-drivers-for-the-msi-b350-toms-tomahawk-on-windows-11-and-7/"><u>Boost Your Gaming Rig - Downloading & Installing Compatible Drivers for the MSI B350 TOM'S TOMAHAWK on Windows 11 and 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-tutorial-on-how-to-refresh-your-webcams-software-on-windows-11/"><u>Easy Tutorial on How to Refresh Your Webcam's Software on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-update-get-your-realtek-asio-driver-for-windows-11-today/"><u>Effortless Update: Get Your Realtek Asio Driver for Windows 11 Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-asus-realtek-audio-drivers-improve-your-systems-sound-today/"><u>Free ASUS Realtek Audio Drivers: Improve Your System's Sound Today</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-download-and-install-iphone-support-drivers-for-windows-11/"><u>How to Download and Install iPhone Support Drivers for Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-canon-mf783cdw-driver-for-windows-operating-systems/"><u>How to Install the Latest Canon MF7ˈ83CDW Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-xiaomi-14-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Xiaomi 14 Device SIM</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>In 2024, Pro Tools for Creatives Comprehensively Evaluating AE Plugins</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-driver-support-enhance-your-dell-g15-laptop-experience-on-windows-systems/"><u>Latest Driver Support: Enhance Your Dell G15 Laptop Experience on Windows Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/limited-time-dji-drone-visual-enhancements-no-pay-required-for-2024/"><u>Limited-Time DJI Drone Visual Enhancements No Pay Required for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/recently-launched-free-realtek-audiobluetooth-driver-update-for-windows-users/"><u>Recently Launched: Free Realtek Audio/Bluetooth Driver Update for Windows Users</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728504272298-ssdwindows-1011/"><u>SSD上逐步升級：Windows 10/11的外置磁盤轉移指南</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-finest-gopro-complementary-items-for-2024/"><u>The Finest Gopro Complementary Items for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-attention-grabber-composer/"><u>Top Attention Grabber Composer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-how-to-install-missing-basic-printer-and-scanning-software-in-windows/"><u>Update: How to Install Missing Basic Printer and Scanning Software in Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/webex-microphone-failures-heres-how-to-troubleshoot-and-restore-audio-in-2nry-2024/"><u>Webex Microphone Failures? Here's How to Troubleshoot & Restore Audio in 2Nry 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-piecing-together-a-memorable-trailer-moment/"><u>[New] Piecing Together a Memorable Trailer Moment</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity-for-2024/"><u>[New] Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-trending-image-memes-unveiling-the-real-story-for-2024/"><u>[New] Trending Image Memes Unveiling the Real Story for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>[Updated] 2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-20-unrestricted-zero-cost-pubg-snapshits/"><u>[Updated] Top 20 Unrestricted, Zero-Cost PUBG Snapshits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-business-presentation-goldmine-free-and-premium-slide-show-tools/"><u>2024 Approved Business Presentation Goldmine Free & Premium Slide Show Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-pathway-to-proficientyoucamuse/"><u>Beginner's Pathway to ProficientYouCamUse</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-instructions-for-obtaining-the-newest-drivers-for-your-canon-printer-model-mg2900/"><u>Easy Instructions for Obtaining the Newest Drivers for Your Canon Printer Model MG2900</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-guide-for-your-intel-7260-wireless-driver/"><u>Effortless Installation Guide for Your Intel 7260 Wireless Driver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects-for-2024/"><u>Elevate Design 15 Must-Have Plugins for After Effects for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-asus-vg2ebe-monitor-under-windows-with-ease/"><u>Get the Newest Drivers for Asus VG2ebe Monitor Under Windows with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-hp-z440-graphics-card-drivers-free-downloads/"><u>How to Get the Latest HP Z440 Graphics Card Drivers - Free Downloads!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pioneering-pixels-select-the-leading-video-editors-for-big-sur/"><u>In 2024, Pioneering Pixels Select the Leading Video Editors for Big Sur</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mediatek-chipset-drivers-download-and-install-usb-vcom-driver-now/"><u>MediaTek Chipset Drivers: Download and Install USB VCOM Driver Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-upgrading-to-the-latest-nvidia-mx150-graphics-drivers-on-windows-machines/"><u>Step-by-Step Guide: Upgrading to the Latest Nvidia MX150 Graphics Drivers on Windows Machines</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamlined-procedure-to-get-the-newest-synaptics-drivers-on-windows/"><u>Streamlined Procedure to Get the Newest Synaptics Drivers on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-get-new-brother-hl-l2300d-printer-software-now/"><u>Update or Get New Brother HL-L2300D Printer Software Now!</u></a></li>
 </ul></div>
 

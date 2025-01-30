@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2025-01-18T18:40:10.500Z
-updated: 2025-01-22T16:50:21.836Z
+date: 2025-01-25T20:37:51.140Z
+updated: 2025-01-29T16:03:40.468Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update your Intel Thunderbolt Controller driver
 
 There are two ways you can update your driver:
@@ -30,7 +34,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -40,7 +44,7 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -48,7 +52,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
@@ -64,11 +68,7 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -99,20 +99,18 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comprehending-variants-in-windows-movie-maker-software/"><u>[New] Comprehending Variants in Windows Movie Maker Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-instantly-hide-faces-with-picscanner-tricks/"><u>[New] Instantly Hide Faces with PicScanner Tricks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-maintaining-softness-fading-effects-in-fl-studio-mixes-for-2024/"><u>[New] Maintaining Softness Fading Effects in FL Studio Mixes for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-selecting-the-ideal-ringtone-for-your-pixel/"><u>2024 Approved Selecting the Ideal Ringtone for Your Pixel</u></a></li>
-<li><a href="https://driver-download.techidaily.com/audio-technica-device-optimization-how-to-fetch-new-driver-packages/"><u>Audio-Technica Device Optimization: How to Fetch New Driver Packages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-truly-enjoy-the-depth-of-dolby-atmos-sound-in-your-home-theater/"><u>Can You Truly Enjoy the Depth of Dolby Atmos Sound in Your Home Theater?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ive-command-center-studio-for-youtubers-for-2024/"><u>Creative Command Center Studio for YouTubers for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-epson-es-400-scandriver-for-windows-compatible-with-all-versions/"><u>Download & Install Epson ES-400 ScanDriver for Windows - Compatible with All Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensuring-optimal-performance-toshiba-dynabook-driver-update-guide-for-windows-users/"><u>Ensuring Optimal Performance: Toshiba Dynabook Driver Update Guide for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969941038-fresh-graphics-driver-release-nvidias-rtx-1e-super-drivers-for-windows-1011-download-now/"><u>Fresh Graphics Driver Release: NVIDIA's RTX 1E Super Drivers for Windows 10/11 - Download Now!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-and-install-new-firmware-brother-hl-l2370dw-driver-guide/"><u>Get & Install New Firmware: Brother HL-L2370DW Driver Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-fix-how-to-resolve-no-battery-detected-issues-swiftly/"><u>Immediate Fix: How to Resolve 'No Battery Detected' Issues Swiftly</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-15-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 15 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-dell-d3100-driver-updates-fast-and-simple-download-process/"><u>Latest DELL D3100 Driver Updates: Fast and Simple Download Process</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-realtek-hd-graphics-drivers-solutions-and-tips/"><u>Troubleshooting Realtek HD Graphics Drivers: Solutions & Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-insiders-look-at-capturing-roblox-games-for-macos-users/"><u>[Updated] 2024 Approved The Insider's Look at Capturing Roblox Games for macOS Users</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-crafting-innovative-fb-videos-unique-ad-creation-techniques/"><u>[Updated] Crafting Innovative FB Videos Unique Ad Creation Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-primer-on-establishing-innovative-facebook-gatherings/"><u>A Primer on Establishing Innovative Facebook Gatherings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/achieving-peak-audience-interaction-with-wirecast-on-facebook/"><u>Achieving Peak Audience Interaction with Wirecast on Facebook</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2700dw-printer-drivers-free-download-and-installation-guide-for-windows-pcs/"><u>Brother L2700DW Printer Drivers: Free Download & Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-epson-ds-530-printer-software-on-win11-64-bit-fresh-release/"><u>Easy Guide to Installing Epson DS-530 Printer Software on Win11 (64-Bit) | Fresh Release</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-of-razer-mice-for-windows-users-step-by-step-instructions/"><u>Effortless Setup of Razer Mice for Windows Users – Step by Step Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-perfect-match-msi-z370-a-pro-chipset-and-graphics-card-software-bundles/"><u>Get the Perfect Match: MSI Z370-A PRO Chipset & Graphics Card Software Bundles</u></a></li>
+<li><a href="https://driver-download.techidaily.com/grab-your-samsung-m2070fw-drivers-instantly-quick-guide-for-smooth-operations/"><u>Grab Your Samsung M2070FW Drivers Instantly: Quick Guide for Smooth Operations</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-and-update-sas-driver-on-your-windows-pc-windows-11-8-7/"><u>How to Get and Update SAS Driver on Your Windows PC (Windows 11, 8, 7)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-preventing-age-of-wonders-planetfall-game-crashes-on-pc/"><u>Troubleshooting Steps for Preventing Age of Wonders: Planetfall Game Crashes on PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unparalleled-costless-pixel-perfection-software-for-2024/"><u>Unparalleled, Costless Pixel Perfection Software for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-810-download-and-install-tp-link-wi-fi-driver-free/"><u>Win 8/10: Download and Install TP Link Wi-Fi Driver FREE</u></a></li>
 </ul></div>
 

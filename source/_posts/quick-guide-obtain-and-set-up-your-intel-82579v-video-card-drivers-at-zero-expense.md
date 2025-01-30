@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Obtain & Set Up Your Intel 82579V Video Card Drivers at Zero Expense"
-date: 2025-01-21T18:35:57.694Z
-updated: 2025-01-22T16:17:37.532Z
+date: 2025-01-26T21:13:45.247Z
+updated: 2025-01-30T01:16:26.517Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ft232r-usb-uart-driver-download-easily-quickly/#o2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1: Download and install the FT232R USB UART driver manually
@@ -36,7 +36,7 @@ OR
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Automatically update the FT232R USB UART driver
@@ -53,14 +53,14 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update drivers](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6f20bd3d7.jpg)  
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,20 +86,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-artistic-zoomers-handbook-a-filters-journey/"><u>[New] 2024 Approved The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>[New] Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
-<li><a href="https://driver-download.techidaily.com/approach-evaluate-how-these-devices-interact-with-structural-elements-during-an-earthquake/"><u>Approach: Evaluate How These Devices Interact with Structural Elements During an Earthquake</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-update-drivers-optimizing-your-amd-radeon-rx-6800-performance-on-various-windows-versions/"><u>Download and Update Drivers: Optimizing Your AMD Radeon RX 6800 Performance on Various Windows Versions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-realtek-rtl81cu-wireless-network-adapter-on-windows-11-and-7/"><u>Download Updated Drivers for Realtek RTL81#CU Wireless Network Adapter on Windows 11 & 7</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-correctly-install-and-update-hp-monitor-drivers-for-smooth-functionality-in-windows-10-8-or-7/"><u>How to Correctly Install & Update HP Monitor Drivers for Smooth Functionality in Windows 10, 8 or 7</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-10-best-voice-modification-apps-for-vtubing-success/"><u>In 2024, 10 Best Voice Modification Apps for VTubing Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-solitary-speaker-issue-solution-steps/"><u>In 2024, Solitary Speaker Issue Solution Steps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/secure-your-device-today-discover-why-ios-153-is-a-must-have-update/"><u>Secure Your Device Today: Discover Why iOS 15.3 Is a Must-Have Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-easy-guide-to-scansnap-drivers-for-windows-pcs/"><u>Step-by-Step: Easy Guide to ScanSnap Drivers for Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-resource-downloading-and-setting-up-brother-l2540dw-drivers-for-windows-users/"><u>Ultimate Resource: Downloading and Setting Up Brother L2540DW Drivers for Windows Users</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-hp-laptops-device-drivers-for-windows-with-easy-steps/"><u>Update Your HP Laptop's Device Drivers for Windows with Easy Steps!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elite-e-learning-platforms-beyond-udemy-explored/"><u>[New] 2024 Approved Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-inside-camstudios-updated-screen-recorder-techniques-for-2024/"><u>[New] Inside CamStudio's Updated Screen Recorder Techniques for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-make-canva-collages/"><u>2024 Approved How to Make Canva Collages</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-guide-to-the-best-headsets-and-goggles-in-metaverse/"><u>A Guide to the Best Headsets and Goggles in Metaverse</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-to-installing-steelseries-mouse-drivers-download-now/"><u>Complete Guide to Installing SteelSeries Mouse Drivers – Download Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-activate-your-acer-wireless-drivers-fast-easy-and-complimentary/"><u>Download and Activate Your Acer Wireless Drivers - Fast, Easy, and Complimentary!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/drivers-for-epson-scanner-download/"><u>Drivers for Epson Scanner Download</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/future-proof-file-storage-essential-cloud-services-revealed/"><u>Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-pl2303-usb-to-serial-adapter-drivers-for-windows-users/"><u>Get the Latest PL2303 USB-to-Serial Adapter Drivers for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-officejet-pro-er-driver-for-your-pc-step-by-step-download-and-setup-instructions/"><u>Get the Newest HP OfficeJet Pro Er Driver for Your PC: Step-by-Step Download & Setup Instructions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mf4500-printer-software-free-download/"><u>Get Your Canon MF4500 Printer Software - Free Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/la-recuperation-unifiee-en-detail-definitions-fonctions-et-astuces-pour-une-utilisation-optimale/"><u>La Récupération Unifiée en Détail - Définitions, Fonctions Et Astuces Pour Une Utilisation Optimale</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-driving-force-gt-driver-download-for-windows-71011/"><u>Logitech Driving Force GT Driver Download for Windows 7/10/11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-face-blur-mastery-a-step-by-step-guide-to-free-video-editing-tools-for-2024/"><u>New Face Blur Mastery A Step-by-Step Guide to Free Video Editing Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-free-youtube-channels-for-exceptional-art-creation-for-2024/"><u>Top 10 FREE YouTube Channels for Exceptional Art Creation for 2024</u></a></li>
 </ul></div>
 

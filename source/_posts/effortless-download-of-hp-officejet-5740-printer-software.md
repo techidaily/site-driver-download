@@ -1,7 +1,7 @@
 ---
 title: Effortless Download of HP OfficeJet 5740 Printer Software!
-date: 2024-09-10T13:44:42.507Z
-updated: 2024-09-11T13:44:42.507Z
+date: 2025-01-23T16:01:16.915Z
+updated: 2025-01-30T01:28:54.792Z
 tags:
   - win11
   - win10
@@ -17,20 +17,6 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a08ed497d8.jpg)It’s always important to update the driver for your **HP ENVY 5660** printer so as to keep it in tip-top shape and prevent all kinds of unexpected computer issues (like system crashes).  In this post, we’re showing you 2 easy ways to get the latest **HP ENVY 5660**  drivers. Check them out…
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -38,19 +24,9 @@ thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615
 1. **[Update HP ENVY 5660 driver automatically(Recommended)](https://www.drivereasy.com/knowledge/hp-envy-5660-driver-download-install-easily/#O1)**
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
@@ -60,36 +36,21 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
-
-
+---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-
-
-
-
----
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -97,35 +58,14 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 5. Restart your computer for the changes to take effect.
 
@@ -141,8 +81,6 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,12 +88,22 @@ If you’re not confident playing around with drivers manually, you can do it au
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-revolutionize-gaming-sounds-ps5ps4-edition/"><u>[New] 2024 Approved Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-announce-your-first-social-giving-drive/"><u>[New] How to Announce Your First Social Giving Drive</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-becoming-a-top-youtuber-with-gaming-livestreams/"><u>[Updated] 2024 Approved Becoming a Top YouTuber with Gaming Livestreams</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-harmonizing-vision-and-voice-the-ultimate-guide/"><u>[Updated] Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-proven-techniques-to-convert-and-download-pinterest-video-audio/"><u>2024 Approved Proven Techniques to Convert and Download Pinterest Video Audio</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crafting-an-unforgettable-tech-resume-expert-tips-from-zdnet/"><u>Crafting an Unforgettable Tech Resume: Expert Tips From ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloading-and-setting-up-your-epson-xp-2n5-driver-on-windows-os-versions/"><u>Downloading and Setting Up Your Epson XP-2n5 Driver on Windows OS Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-iphone-drivers-for-windows-11-users/"><u>Easy Installation of iPhone Drivers for Windows 11 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-step-by-step-tutorial-to-get-your-epson-et-4550-driver-running-on-a-pc-with-windows-os/"><u>Easy Step-by-Step Tutorial to Get Your Epson ET-4550 Driver Running on a PC with Windows OS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Xiaomi Redmi Note 12T Pro.</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fastest-8-capture-tools-unveiled/"><u>Fastest 8 Capture Tools Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962025555-install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-drm/"><u>IPhone DRM解除アプリ一斉紹介：すべてのユーザーが楽しめる簡単操作</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-mpow-bluetooth-driver-updates-for-enhanced-performance-on-windows-platforms-11-8-and-7/"><u>New Release: MPOW Bluetooth Driver Updates for Enhanced Performance on Windows Platforms (11, 8 & 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-smooth-installation-of-newest-surface-driver-updates/"><u>Step-by-Step: Smooth Installation of Newest Surface Driver Updates</u></a></li>
+</ul></div>
 
