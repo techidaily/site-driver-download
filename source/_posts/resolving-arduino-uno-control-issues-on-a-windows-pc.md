@@ -1,7 +1,7 @@
 ---
 title: Resolving Arduino Uno Control Issues on a Windows PC
-date: 2024-09-09T17:14:26.284Z
-updated: 2024-09-16T19:34:09.130Z
+date: 2025-02-08T23:17:21.649Z
+updated: 2025-02-11T01:33:17.245Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -43,10 +47,20 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
@@ -54,10 +68,7 @@ OR
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -76,10 +87,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -101,5 +109,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-6-figure-views-prime-hashtag-strategies-for-success-for-2024/"><u>[New] 6-Figure Views Prime Hashtag Strategies for Success for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-civi-3-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Civi 3 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/build-a-game-masterpiece-with-these-crucial-parts/"><u>Build a Game Masterpiece with These Crucial Parts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-the-unresponsive-spacekey-problem-on-windows-11/"><u>Diagnosing and Fixing the Unresponsive Spacekey Problem on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-of-brother-hl-l2380dw-color-laser-multifunction-printer-drivers-for-window-users/"><u>Easy Download of Brother HL-L2380DW Color Laser Multifunction Printer Drivers for Window Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-downloading-the-right-m-audio-fast-track-driver-for-your-operating-system/"><u>Easy Installation Guide - Downloading the Right M-Audio Fast Track Driver for Your Operating System</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-nullified-in-wincom-framework/"><u>Error Nullified in WinCOM Framework</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-logitech-k400-plus-drivers-now-click-to-download/"><u>Installing the Latest Logitech K400 Plus Drivers Now - Click to Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-obs-gaming-screens-blackout-issue-solutions-and-best-practices/"><u>Mastering OBS Gaming Screens - Blackout Issue Solutions and Best Practices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/revamping-visuals-a-beginners-tutorial-for-graphic-driver-update-on-windows-11/"><u>Revamping Visuals: A Beginner's Tutorial for Graphic Driver Update on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-updating-brother-hl-l2370dw-printer-drivers-download-now/"><u>Step-by-Step Instructions for Updating Brother HL-L2370DW Printer Drivers - Download Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/transitioning-from-fbx-to-advanced-gametime-loggers-for-2024/"><u>Transitioning From FBX to Advanced Gametime Loggers for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-drivers-available-now-m-audio-fast-track-for-windows-operating-systems-win117881/"><u>Updated Drivers Available Now: M-Audio Fast Track for Windows Operating Systems (Win11/7/8/8.1)</u></a></li>
+</ul></div>
 

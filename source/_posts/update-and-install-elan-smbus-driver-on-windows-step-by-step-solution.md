@@ -1,7 +1,7 @@
 ---
 title: "Update and Install ELAN SMBus Driver on Windows: Step-by-Step Solution"
-date: 2024-09-18T18:08:24.461Z
-updated: 2024-09-21T19:10:49.922Z
+date: 2025-02-05T20:42:42.805Z
+updated: 2025-02-10T22:38:32.197Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/63775cec08bea1f18045b716f908366237290c85d
 Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t worry, you’re not alone. This is probably a driver issue so you should try updating your Ralink RT3290 driver to the latest version.
 
  Unfortunately it’s rather hard for a computer newbie to find and download the correct driver, not to mention install it manually on PC. So here we’ll show you how to update your Ralink RT3290 driver**step by step** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to download and update your Ralink RT3290 driver**
 
@@ -42,9 +46,17 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -53,6 +65,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 **Option 1** can be applied to all versions of Windows. Still, if you opt to download and update your Ralink RT3290 driver manually, please read on and try Option 2 (it only works for Windows 8 and Windows 7).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
@@ -67,6 +83,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
@@ -126,12 +146,20 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beauty-behind-the-screen-color-correction-insights/"><u>[New] 2024 Approved Beauty Behind the Screen Color Correction Insights</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-ideas-for-customized-gif-art/"><u>[Updated] In 2024, Innovative Ideas for Customized GIF Art</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-professional-opinions-best-9-digital-microphone-capture-gear/"><u>[Updated] In 2024, Professional Opinions Best 9 Digital Microphone Capture Gear</u></a></li>
+<li><a href="https://driver-download.techidaily.com/accelerate-your-webcam-experience-with-fast-and-easy-to-download-drivers/"><u>Accelerate Your Webcam Experience with Fast and Easy to Download Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-pcs-speed-easy-intel-cpu-driver-downloads-inside/"><u>Boost Your PC's Speed: Easy Intel CPU Driver Downloads Inside</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/camera-face-off-pixel-extreme-vs-iphone-15-who-wins-and-who-shocks-in-photographic-battle/"><u>Camera Face-Off: Pixel eXtreme Vs. IPhone 15 - Who Wins and Who Shocks in Photographic Battle?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973969916-get-the-latest-intel-hd-graphics-4400-drivers-now-available-for-download/"><u>Get the Latest Intel HD Graphics 4400 Drivers - Now Available for Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Honor X50 GT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-get-the-latest-driver-for-your-hid-keyboard-in-no-time/"><u>Quick Fix: Get the Latest Driver for Your HID Keyboard in No Time!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/secure-download-updated-asus-bt500-bluetooth-driver-for-windows-11-10-and-8-users/"><u>Secure Download: Updated Asus BT500 Bluetooth Driver for Windows 11, 10 & 8 Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-game-crashes-in-windows-computers/"><u>Troubleshooting Techniques: Resolving Game Crashes in Windows Computers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-or-install-sas-drivers-on-windows-compatible-with-windows-11-8-and-7/"><u>Update or Install SAS Drivers on Windows - Compatible with Windows 11, 8 and 7</u></a></li>
+</ul></div>
 

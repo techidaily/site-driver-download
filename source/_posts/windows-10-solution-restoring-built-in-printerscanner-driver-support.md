@@ -1,7 +1,7 @@
 ---
 title: "Windows 10 Solution: Restoring Built-In Printer/Scanner Driver Support"
-date: 2025-01-26T20:00:56.618Z
-updated: 2025-01-30T05:08:26.302Z
+date: 2025-02-06T04:49:40.843Z
+updated: 2025-02-10T19:51:27.544Z
 tags:
   - win11
   - win10
@@ -17,12 +17,16 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
 As you may have noticed, since Microsoft October 2018 Update, Windows 10 no longer includes**basic printer and scanner drivers** in Windows installation media, which is one of the big changes with Windows 10 version 1809 update. But don’t panic! You can get the right drivers for your printers and scanners with the solutions in this post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does Windows 10 remove inbox printer and scanner drivers?
 
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install the drivers for printers and scanners?
@@ -33,7 +37,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the printer and scanner drivers manually
@@ -55,7 +59,7 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download the printer and scanner drivers automatically
@@ -71,16 +75,12 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -109,18 +109,18 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-elevating-channel-excellence-with-ideas-and-vision/"><u>[Updated] 2024 Approved Elevating Channel Excellence with Ideas & Vision</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-retro-social-media-revelations-mastering-outdated-fb-functionality-for-2024/"><u>[Updated] Retro Social Media Revelations Mastering Outdated FB Functionality for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/avoid-compatibility-issues-guide-to-the-latest-microsoft-mouse-driver-installation-on-windows-devices/"><u>Avoid Compatibility Issues: Guide to the Latest Microsoft Mouse Driver Installation on Windows Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mg3600-driver-download-and-update/"><u>Canon MG3600 Driver Download & Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/connect-with-ease-where-to-find-and-how-to-install-usb-c-drivers-on-windows-10-platforms/"><u>Connect with Ease: Where to Find and How to Install USB-C Drivers on Windows 10 Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-build-funny-images-kapwings-meme-studio/"><u>In 2024, Build Funny Images Kapwing’s Meme Studio</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/owc-mercury-pro-critique-leading-drive-quality-and-premier-benchmarks-achieved/"><u>OWC Mercury Pro Critique: Leading Drive Quality and Premier Benchmarks Achieved</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pros-hunters-rate-action-camera-winners/"><u>Pros Hunters Rate Action Camera Winners</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-downloading-and-updating-nvidia-gtx-780-drivers-on-your-windows-system-easily/"><u>Step-by-Step Guide: Downloading & Updating NVIDIA GTX 780 Drivers on Your Windows System Easily</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/tips-on-how-to-distribute-your-interactions-with-chatgpt-online/"><u>Tips on How to Distribute Your Interactions with ChatGPT Online</u></a></li>
-<li><a href="https://driver-download.techidaily.com/top-charts-today-on-groove-stay-up-to-date-with-current-hit-songs-that-are-sure-to-keep-your-spirits-high/"><u>Top Charts Today on Groove: Stay Up-to-Date with Current Hit Songs that Are Sure to Keep Your Spirits High.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-video-files-resolve-playback-error-22403-now/"><u>Troubleshooting Video Files - Resolve Playback Error 22403 Now</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-inspire-chuckles-designing-memes-on-kapwing/"><u>[New] In 2024, Inspire Chuckles – Designing Memes on Kapwing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-step-by-step-installation-tutorial-linksys-wusb6300-network-adapter-drivers/"><u>Complete Step-by-Step Installation Tutorial: Linksys WUSB6300 Network Adapter Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-installing-acer-predator-xb271h-graphics-drivers/"><u>Fast and Simple Guide: Installing Acer Predator XB271H Graphics Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-equipped-with-the-latest-epson-artisan-1430-drivers-compatible-with-windows-11108/"><u>Get Equipped with the Latest Epson Artisan 1430 Drivers - Compatible With Windows 11/10/8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-official-sades-headset-drivers-fast-guaranteed-safety-on-windows-os/"><u>Get Your Official Sades Headset Drivers Fast: Guaranteed Safety on Windows OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-f5-pro-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco F5 Pro 5G Phone Screen?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-achieving-peak-engagement-with-strategic-reddit-posting/"><u>In 2024, Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-honor-x50-gt-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Honor X50 GT Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-eos-d530-firmware-upgrade-get-the-new-driver/"><u>Latest Canon EOS D530 Firmware Upgrade: Get the New Driver</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/mastering-visual-content-on-ig-stories-insights-into-perfect-post-sizes-and-formats/"><u>Mastering Visual Content on IG Stories: Insights Into Perfect Post Sizes and Formats</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-best-voice-changer-apps-for-iphone-and-android/"><u>New 2024 Approved Best Voice Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simplified-installation-of-asus-monitor-drivers-beginner-friendly-guide/"><u>Simplified Installation of ASUS Monitor Drivers – Beginner-Friendly Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-wacom-cintiq-graphics-tablet-fast-install-guide/"><u>Update Your Wacom CintiQ Graphics Tablet: Fast Install Guide</u></a></li>
 </ul></div>
 

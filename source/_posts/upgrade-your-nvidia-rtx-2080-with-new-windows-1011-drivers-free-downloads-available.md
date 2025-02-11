@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Nvidia RTX 2080 with New Windows 10/11 Drivers - Free Downloads Available
-date: 2025-01-07T16:51:20.748Z
-updated: 2025-01-10T20:04:21.196Z
+date: 2025-02-04T21:38:21.497Z
+updated: 2025-02-10T23:24:19.063Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 ways to install the RTX 2080 SUPER driver
@@ -28,10 +28,6 @@ The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA ti
 OR
 
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
@@ -44,17 +40,17 @@ OR
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
@@ -68,6 +64,10 @@ OR
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,22 +94,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-nighttime-portrait-etiquette-dos-and-donts/"><u>[New] 2024 Approved Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-comprehensive-list-audio-pace-modification-tools/"><u>[Updated] In 2024, Comprehensive List Audio Pace Modification Tools</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/comprehensive-review-navigating-adobe-cloud-plus-comparing-rivals-for-2024/"><u>Comprehensive Review Navigating Adobe Cloud + Comparing Rivals for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-amd-ryzen-driver-updates-and-downloads-for-optimal-performance/"><u>Effortless AMD Ryzen Driver Updates & Downloads for Optimal Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978875056-effortless-download-and-update-of-surface-book-2s-drivers-get-started-now/"><u>Effortless Download & Update of Surface Book 2'S Drivers – Get Started Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/essential-guide-getting-broadcoms-official-bluetooth-drivers-for-your-windows-system-1187/"><u>Essential Guide: Getting Broadcom's Official Bluetooth Drivers for Your Windows System (11/8/7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722970493716-hassle-free-and-rapid-downloading-of-samsung-nvme-drivers-your-essential-how-to-resource/"><u>Hassle-Free and Rapid Downloading of Samsung NVMe Drivers - Your Essential How-To Resource!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-techniques-for-outstanding-gopro-vlogs/"><u>In 2024, Top Techniques for Outstanding GoPro Vlogs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-new-hp-scanjet-drivers-compatible-with-windows-10-8-and-ebx-secure-your-printer/"><u>Install New HP Scanjet Drivers Compatible with Windows 10, 8 & Ebx | Secure Your Printer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-logiteche-racing-wheel-driver-software-for-windows-7-8-and-10-free-download/"><u>Latest Logiteche Racing Wheel Driver Software for Windows 7, 8 & 10 - Free Download</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-your-pcs-sound-with-asus-realtek-audio-driver-free/"><u>Quick Fix Your PC's Sound with ASUS Realtek Audio Driver – FREE!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-transition-instructions-for-installing-new-software-on-samsung-televisions/"><u>Seamless Transition: Instructions for Installing New Software on Samsung Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-shopping-tips-navigating-the-process-of-picking-out-and-procuring-home-televisions/"><u>Smart Shopping Tips: Navigating the Process of Picking Out and Procuring Home Televisions</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/solusi-perangkoan-dan-cara-otomatis-untuk-memulihkan-berkas-dari-hard-disk-menurut-kegiatan-format/"><u>Solusi Perangkoan Dan Cara Otomatis Untuk Memulihkan Berkas Dari Hard Disk Menurut Kegiatan Format!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-fixing-dts-audio-not-supported-on-your-selected-output-device/"><u>Troubleshooting: Fixing 'DTS Audio Not Supported' On Your Selected Output Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-dynamic-color-grading-using-ae-luts/"><u>[New] Dynamic Color Grading Using AE LUTs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-revolutionizing-vr-experiences-with-newest-game-engines-for-2024/"><u>[New] Revolutionizing VR Experiences with Newest Game Engines for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/data-overload-infographics-and-surprising-yt-stats-for-2024/"><u>2017 Data Overload Infographics & Surprising YT Stats for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acer-network-adapter-driver-free-software-downloads/"><u>Acer Network Adapter Driver - FREE Software Downloads</u></a></li>
+<li><a href="https://fox-making.techidaily.com/activating-or-deactivating-windows-features-via-control-panel-expert-guide/"><u>Activating or Deactivating Windows Features via Control Panel - Expert Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-video-codec-packs-for-modern-operating-systems-including-windows-11-10-81-and-earlier-versions/"><u>Best Free Video Codec Packs for Modern Operating Systems Including Windows 11, 10, 8.1, and Earlier Versions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-setup-comprehensive-driver-installation-guide-for-samsung-c460/"><u>Effortless Setup: Comprehensive Driver Installation Guide for Samsung C46^0</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-lenovo-bluetooth-drivers-for-windows-710-fast-easy-installation-guaranteed/"><u>Get the Latest Lenovo Bluetooth Drivers for Windows 7/10: Fast, Easy Installation Guaranteed</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-corsair-logitech-k55-mouse-drivers-free-download/"><u>Get the Newest Corsair Logitech K55 Mouse Drivers – Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-logitech-m325-up-to-date-with-a-hassle-free-driver-download/"><u>Get Your Logitech M325 Up-to-Date with a Hassle-Free Driver Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fix-connectivity-errors-with-your-samsung-all-in-one-printer-in-windows-solutions-explored/"><u>How to Fix Connectivity Errors with Your Samsung All-in-One Printer in Windows - Solutions Explored</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-your-pc-with-intels-iris-plus-graphics-driver-version-655-on-windows-11/"><u>How to Update Your PC with Intel's Iris Plus Graphics Driver Version 655 on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-graphics-and-chipset-drivers-for-your-dell-inspiron-15-running-windows-10/"><u>Latest Graphics & Chipset Drivers for Your Dell Inspiron 15 Running Windows 10</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-change-aspect-ratio-in-imovie/"><u>New In 2024, How to Change Aspect Ratio in iMovie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-issues-fixing-the-endless-loop-of-blender-crashes-on-computers/"><u>Overcoming Common Issues: Fixing the Endless Loop of Blender Crashes on Computers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-razer-microphone-problems-with-these-easy-to-follow-steps/"><u>Solve Razer Microphone Problems with These Easy-to-Follow Steps</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/step-by-step-guide-to-tweaking-display-options-in-windows-control-panel-yl-software-solutions/"><u>Step-by-Step Guide to Tweaking Display Options in Windows Control Panel - YL Software Solutions</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/step-by-step-guide-how-to-effortlessly-register-your-premium-installation-tool/"><u>Step-by-Step Guide: How to Effortlessly Register Your Premium Installation Tool</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-resolving-windows-10-usb-detection-issues/"><u>Troubleshooting Guide: Resolving Windows 10 USB Detection Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest GPU Drivers for Lenovo Legion 5 Pro, Model 16ACH6H - Get Them Here!
-date: 2025-01-24T20:00:14.170Z
-updated: 2025-01-30T05:08:07.056Z
+date: 2025-02-04T00:55:42.401Z
+updated: 2025-02-10T23:57:34.742Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 [2: Update your keyboard drivers](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1: Install the Logitech G HUB software
 
  Logitech G HUB is a software platform to help users set up a keyboard of the brand. If the software is not automatically installed when you first connect the keyboard to your computer, then your keyboard may not work or would only have limited functions. Follow the steps below to find and install it from the official website:
@@ -32,24 +36,16 @@ Logitech G910 not working? You may need to download the software for further con
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/02-1-1200x811.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  03 Click the**G910 image** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_10-29-22-1200x955.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  04 Click**Support** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/03-1200x783.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  05 Click**Downloads** .
 
@@ -58,10 +54,6 @@ Logitech G910 not working? You may need to download the software for further con
  06 Click**Download Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/05-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  07 Open the Downloads folder and you will find the installer. If you’re using a Chrome browser, click**Show in folder** .
 
@@ -78,7 +70,7 @@ Logitech G910 not working? You may need to download the software for further con
  Now your keyboard should be ready to use! Full keyboard functionality and customization would also be available with the Logitech software, give it a try!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2: Update your keyboard drivers
@@ -88,7 +80,7 @@ Logitech G910 not working? You may need to download the software for further con
  There are two ways you can get the right drivers for your keyboard: automatically or manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Automatically (Recommended!)
@@ -105,6 +97,10 @@ Logitech G910 not working? You may need to download the software for further con
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-15_12-07-56-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  03 Click the**Update** button next to a flagged keyboard driver to automatically download the correct version of this driver (you can do this with the FREE version). Manual installation, however, is required. Please refer to Option 2 below to see how to install the driver.
 
 Or
@@ -114,10 +110,6 @@ Or
 Check your keyboard to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: via Device Manager
 
@@ -131,6 +123,10 @@ Check your keyboard to see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-14_17-44-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  03 Select**Keyboards** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-05-19.jpg)
@@ -138,6 +134,10 @@ Check your keyboard to see if it works.
  04 Right-click**HID Keyboard Device** and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-08-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  HID Keyboard Device refers to a generic keyboard that uses a Microsoft driver. If you see your Logitech G910 displayed here instead, just right click it and select Update driver.
 
@@ -158,7 +158,7 @@ Check your keyboard to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-19_17-19-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  09 Click**Browse** . Look for the driver you downloaded in the previous steps. Select it and click**Open** .
@@ -192,18 +192,22 @@ Now check your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-movavi-video-editor-plus-update-2024/"><u>[New] The Ultimate Guide to Movavi Video Editor Plus Update 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[New] Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-dispatching-dreadful-green-screen-distortion-on-mac-editing-sessions/"><u>[Updated] Dispatching Dreadful Green Screen Distortion on Mac-Editing Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/10-innovative-ai-software-for-professional-email-writing/"><u>10 Innovative AI Software for Professional Email Writing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/asus-bt500-bluetooth-device-installing-and-updating-drivers-on-win11win10win8/"><u>Asus BT500 Bluetooth Device: Installing and Updating Drivers on Win11/Win10/Win8</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-and-simple-download-of-amd-ryzen-5-2600-graphics-drivers/"><u>Fast and Simple Download of AMD Ryzen 5 2600 Graphics Drivers</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-ryzen-chipset-software/"><u>Get the Latest AMD Ryzen Chipset Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-htc-phone-that-is-locked-by-drfone-android/"><u>How to Reset a HTC Phone that is Locked?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-console-emulation-choosing-the-top-5-for-windows/"><u>In 2024, Premium Console Emulation Choosing the Top 5 for Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-hp-scanjet-software-updates-for-enhanced-performance-on-windows-pcs/"><u>Latest HP Scanjet Software Updates for Enhanced Performance on Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/logitech-mx-series-mouse-drivers-compatible-with-multiple-windows-versions-download-now/"><u>Logitech MX-Series Mouse Drivers: Compatible with Multiple Windows Versions – Download Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-fixes-for-common-windows-update-failure-the-ultimate-remedy-for-error-0x8024200d-completed/"><u>Mastering Fixes for Common Windows Update Failure - The Ultimate Remedy for Error 0X8024200D [COMPLETED]</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-turning-on-bluetooth-functionality-in-windows-7/"><u>Step-by-Step Tutorial for Turning On Bluetooth Functionality in Windows 7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-yuneec-typhoon-h-examined-a-drone-review-perspective/"><u>[New] 2024 Approved Yuneec Typhoon H Examined A Drone Review Perspective</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-hp-officejet-pro-8720-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP OfficeJet Pro 8720 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-wireless-cards-rtl8188cu-supporting-windows-xp-7-and-11-systems/"><u>Download Updated Drivers for Wireless Cards (RTL8188CU) Supporting Windows XP, 7 & 11 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-gaming-graphics-download-the-official-nvidia-drivers-for-rtx-3070-ti-on-windows-1087/"><u>Enhance Gaming Graphics: Download the Official NVIDIA Drivers for RTX 3070 Ti on Windows 10/8/7</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/expert-tips-on-how-to-eliminate-imports-pictures-and-videos-on-an-iphone-device/"><u>Expert Tips on How To Eliminate Imports Pictures & Videos On An iPhone Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-prompt-engineering-job-outlook-and-potential/"><u>Exploring the World of AI Prompt Engineering: Job Outlook & Potential</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-samsung-printer-drivers-download-install-on-windows/"><u>Free Samsung Printer Drivers Download: Install on Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-epson-wf-7710-up-and-running-on-win11win10-free-driver-download/"><u>Get Your Epson WF-7710 Up and Running on Win11/Win10 - Free Driver Download!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-speech-to-text-conversion-with-ms-word/"><u>In 2024, Mastering Speech-to-Text Conversion with MS Word</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972087814-nvidia-quadro-rtx-4000-driver-downloads-available-secure-your-free-update-here/"><u>NVIDIA Quadro RTX 4000 Driver Downloads Available! Secure Your Free Update Here!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/record-android-internal-voice-4-easy-rootless-techniques/"><u>Record Android Internal Voice 4 Easy, Rootless Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-850-evo-ssd-driving-software-installation-files/"><u>Samsung 850 EVO SSD Driving Software Installation Files</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simplified-methods-for-obtaining-and-refreshing-your-synaptics-touchpad-drivers/"><u>Simplified Methods for Obtaining & Refreshing Your Synaptics Touchpad Drivers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-language-challenge-mastering-hardest-global-languages/"><u>The Ultimate Language Challenge: Mastering Hardest Global Languages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-to-prevent-robocop-rogue-city-from-crashing-during-gameplay-on-a-pc/"><u>Tips to Prevent 'Robocop: Rogue City' From Crashing During Gameplay on a PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-footage/"><u>Updated In 2024, Beyond Quik Exploring the Best PC Video Editing Software for GoPro Footage</u></a></li>
 </ul></div>
 

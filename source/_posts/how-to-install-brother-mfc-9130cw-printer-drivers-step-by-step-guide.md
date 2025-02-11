@@ -1,7 +1,7 @@
 ---
 title: How to Install Brother MFC-9130CW Printer Drivers - Step by Step Guide
-date: 2025-01-23T05:59:16.769Z
-updated: 2025-01-29T23:32:53.482Z
+date: 2025-02-04T22:06:47.930Z
+updated: 2025-02-10T19:32:50.556Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c2e04fc7d.jpg)
 
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update driver for Epson WF 3620 printer
 
@@ -37,18 +41,18 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After uninstalling, you can now download the printer driver from official website.
@@ -59,11 +63,15 @@ Follow these steps:
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -80,16 +88,8 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer to take effect.
 
@@ -128,22 +128,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-leading-apps-to-create-professional-youtube-intros-for-2024/"><u>[New] 5 Leading Apps to Create Professional YouTube Intros for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-fun-at-no-cost-top-quality-gratuitous-meme-templates/"><u>[New] In 2024, Fun at No Cost Top Quality, Gratuitous Meme Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-websites-for-modern-letterforms/"><u>[New] Pioneering Websites for Modern Letterforms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-chromebooks-and-hp-perfect-your-video-capture/"><u>[Updated] Chromebooks and HP Perfect Your Video Capture</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/2024s-parent-pick-best-8-monitoring-platforms-for-kids/"><u>2024'S Parent-Pick: Best 8 Monitoring Platforms for Kids</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-nova-y71-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Nova Y71</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-updated-killer-wireless-nic-card-driver-version-1535/"><u>Download and Install Updated Killer Wireless NIC Card Driver Version 1535</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722977002527-download-intels-top-tier-nvme-drivers-quick-simple-steps-inside/"><u>Download Intel's Top-Tier NVMe Drivers - Quick, Simple Steps Inside!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-wacom-driver-setup-quick-downloads-for-immediate-use/"><u>Effortless Wacom Driver Setup: Quick Downloads for Immediate Use</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-unmatched-portfolio-boosters-top-free-3d-texts/"><u>In 2024, Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
-<li><a href="https://driver-download.techidaily.com/optimized-dell-smo8810-acpi-controller-latest-driver-solutions-available-now/"><u>Optimized Dell SMO8810 ACPI Controller - Latest Driver Solutions Available Now</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-wacom-intuos-pro-drivers-on-windows-11/"><u>Simple Steps: Installing the Wacom Intuos Pro Drivers on Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-installing-the-wacom-intuos-pro-drivers-for-optimal-performance-in-windows-11/"><u>Step-by-Step: Installing the Wacom Intuos Pro Drivers for Optimal Performance in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tp-link-wireless-adapter-driver-update-latest-version-now-available-for-windows-1187-systems/"><u>TP-Link Wireless Adapter Driver Update - Latest Version Now Available for Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-plugandplay-serial-port-driver-software-pl2nk303-free-download/"><u>Updated Plug&Play Serial Port Driver Software (PL2nk303) - Free Download</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-feature-music-on-instant-stories/"><u>[Updated] In 2024, How to Feature Music on Instant Stories</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-macos-11-big-sur-compatibility-guide/"><u>2024 Approved MacOS 11 Big Sur Compatibility Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-gpu-drivers-for-rtx-2070-super-on-windows-11/"><u>Download and Update GPU Drivers for RTX 2070 Super on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-when-microsofts-default-browser-crashes-or-freezes/"><u>Easy Fixes for When Microsoft's Default Browser Crashes or Freezes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-firmware-for-your-logitech-g430-to-enhance-audio-performance/"><u>Get the Latest Firmware for Your Logitech G430 to Enhance Audio Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guia-paso-a-paso-grabar-tu-propia-introduccion-con-movavi-editador-de-youtube/"><u>Guía Paso a Paso: Grabar Tu Propia Introducción Con Movavi Editador De YouTube</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-download-and-set-up-usb-c-hardware-support-on-windows-10-systems/"><u>How to Easily Download and Set Up USB-C Hardware Support on Windows 10 Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-g2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo G2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-updated-nvidia-quadro-rtx-s-driver-pack-compatible-with-win-10-8-and-7-systems/"><u>Install Updated Nvidia Quadro RTX S Driver Pack - Compatible with Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-2070-driver-update-optimized-performance-on-windows-1187/"><u>NVIDIA Geforce RTX 2070 Driver Update: Optimized Performance on Windows 11/8/7</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-by-step-tutorial-for-crafting-a-top-tier-gamers-paradise-techradar/"><u>Step-by-Step Tutorial for Crafting a Top-Tier Gamer's Paradise | TechRadar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-ensuring-the-tl-wn7n-nic-works-with-windows-systems/"><u>Troubleshooting Guide: Ensuring the TL-WN7n NIC Works with Windows Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-the-most-stellar-yt-gamers-intros-no-cost-high-quality-in-2024/"><u>Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality, In 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-hp-scanjet-printer-software-for-windows-11-download-now/"><u>Update Your HP Scanjet Printer Software for Windows 11 - [Download Now]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: AMD GPIO Controller Drivers - Free Downloads Available Now!
-date: 2024-09-12T18:20:30.994Z
-updated: 2024-09-16T20:24:42.757Z
+date: 2025-02-03T18:41:42.841Z
+updated: 2025-02-11T02:58:11.961Z
 tags:
   - win11
   - win10
@@ -40,7 +40,15 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/DE-canon-ts3322.jpg)
 4. After updating your Canon PIXMA TS3322 driver, restart your PC for the trick to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2 – Manually Download & Update the TS3322 driver
 
@@ -50,10 +58,25 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
 2. Move your cursor to**Support** and select**SOFTWARE & DRIVERS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver1.jpg)
 3. Scroll down the page and select**Printer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver2.1.jpg)
 4. Select the device**PIXMA** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver3.jpg)
 5. Select the device model**TS Series > PIXMA TS3322**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver4.jpg)
 6. Check if the website’s detected Operating System and Version match your PC. If not, choose the right ones from the drop-down list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/canon-driver5.jpg)
@@ -81,18 +104,19 @@ When your Canon PIXMA TS3322 printer has issues like**frequent crashes, error no
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup/"><u>[New] From Cameras to OBS A Step-by-Step Mac & PC Broadcast Setup</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-free-fb-hd-videos-step-by-step/"><u>2024 Approved Free FB HD Videos Step-by-Step</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-your-amd-ryzen-update-5-2500u-performance-with-easy-driver-update-methods/"><u>Boost Your AMD Ryzen [UPDATE] 5 2500U Performance with Easy Driver Update Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-every-corner-our-top-picks-for-best-11-bridge-cameras-for-2024/"><u>Capturing Every Corner Our Top Picks for Best 11 Bridge Cameras for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-the-most-recent-driver-update-for-your-hp-laserjet-p1007-printer-now/"><u>Find and Install the Most Recent Driver Update for Your HP LaserJet P1007 Printer Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-overcome-connectivity-issues-with-network-adapters-in-windows-7-fixed/"><u>How to Overcome Connectivity Issues with Network Adapters in Windows 지7 [FIXED]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-way-to-update-or-download-your-dell-dell-d3100-printers-software/"><u>Quick & Easy Way to Update or Download Your DELL Dell D3100 Printer's Software</u></a></li>
+<li><a href="https://discover-great.techidaily.com/schritte-zur-wiederherstellung-einer-beschadigten-ntfs-datentragerpartition-auf-deutsch/"><u>Schritte Zur Wiederherstellung Einer Beschädigten NTFS-Datenträgerpartition Auf Deutsch.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamlining-videographs-for-instagram-via-mac/"><u>Streamlining Videographs for Instagram via Mac</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-solution-for-downloading-and-installing-a-dell-mouse-driver/"><u>Ultimate Solution for Downloading & Installing a Dell Mouse Driver</u></a></li>
+</ul></div>
 

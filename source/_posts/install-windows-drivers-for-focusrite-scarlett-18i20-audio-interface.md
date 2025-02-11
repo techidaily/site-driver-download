@@ -1,7 +1,7 @@
 ---
 title: Install Windows Drivers for Focusrite Scarlett 18I20 Audio Interface
-date: 2024-12-27T16:47:44.725Z
-updated: 2025-01-04T01:08:49.585Z
+date: 2025-02-06T05:24:51.917Z
+updated: 2025-02-10T17:36:09.583Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 It’s always important to update the driver for your **Focusrite Scarlett** **18i20** to make sure it works in tip-top shape and improve your overall computer performance. In this post, we’re showing you 2 easy ways to get the latest **Focusrite Scarlett** **18i20** drivers. Check them out…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To download & install **Focusrite Scarlett** 18i20**driver**
@@ -29,10 +29,6 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 2. **[Download & install Focusrite Scarlett 18i20 driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update **Focusrite Scarlett 18i20**  automatically (Recommended)
 
@@ -47,7 +43,7 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-easy-update-now.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -57,7 +53,7 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update **Focusrite Scarlett 18i2** 0 driver manually
@@ -70,10 +66,15 @@ Here is how to update the driver manually:
 
 1. Go to[](https://focusrite.com/) **[Focusrite’s official website](https://focusrite.com/)**  , click**SUPPORT** \>**DOWNLOADS** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20.jpg)
 2. Select your **model type** from the drop-down menus, then in the list of results, select the one for Windows and click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Double-click on the file and follow the wizard to finish the install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Restart** your computer for the changes to take effect.
@@ -99,21 +100,22 @@ Here is how to update the driver manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-industry-standards-selecting-prime-gear-for-ultimate-4k-results/"><u>[New] Industry Standards Selecting Prime Gear for Ultimate 4K Results</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-palette-of-airborne-mechanics-for-2024/"><u>[New] The Palette of Airborne Mechanics for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-critical-look-at-sns-hdrs-potential-and-alternatives/"><u>[Updated] A Critical Look at SNS HDR's Potential & Alternatives</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-cutting-edge-analysis-editpro-x-video-editor-2023/"><u>2024 Approved Cutting-Edge Analysis EditPro X - Video Editor 2023</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-eyepoint-expertise-essay/"><u>2024 Approved Eyepoint Expertise Essay</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-swapping-streams-saving-songs-cross-service-shuffling/"><u>2024 Approved Swapping Streams, Saving Songs Cross-Service Shuffling</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-latest-nvidia-rtx-3080-drivers-for-windows-operating-systems/"><u>Download Latest NVIDIA RTX 3#080 Drivers for Windows Operating Systems</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-canon-mf4500-all-in-one-printer-driver-step-by-step-downloads/"><u>Free Canon MF4500 All-in-One Printer Driver: Step by Step Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-updated-hp-laserjet-p1007-printer-drivers-and-software-upgrades/"><u>Free Download: Updated HP LaserJet P1007 Printer Drivers & Software Upgrades</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/game-glitching-windows-system-falters-in-play/"><u>Game Glitching: Windows System Falters in Play</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722974080424-get-the-latest-eveo-bluetooth-driver-here/"><u>Get the Latest EVEO Bluetooth Driver Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/imovie-why-does-it-alter-my-videos-in-2024/"><u>IMovie Why Does It Alter My Videos, In 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-drivers-for-hp-deskjet-ink-advantage-3520-ready-to-install/"><u>Latest Drivers for HP Deskjet Ink Advantage 3520 Ready to Install</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722978083865-overcoming-logitech-f71nt-migrate-to-windows-111087-heres-your-fix/"><u>Overcoming Logitech F71n't Migrate to Windows 11/10/8/7? Here's Your Fix</u></a></li>
-<li><a href="https://driver-download.techidaily.com/streamlined-methods-to-update-your-dell-g7-video-card-drivers-in-no-time/"><u>Streamlined Methods to Update Your Dell G7 Video Card Drivers in No Time</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-extended-computer-mats-the-ultimate-guide/"><u>Top-Rated Extended Computer Mats - The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oes-quick-subscribe-strategy-boost-audience-growth-in-2024/"><u>[New] Does Quick-Subscribe Strategy Boost Audience Growth, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-effortless-screen-recording-on-modern-pcs/"><u>[New] Effortless Screen Recording on Modern PCs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-in-video-earnings-techno-gamers-guide/"><u>[New] In 2024, In-Video Earnings Techno Gamers' Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigate-new-horizons-with-these-10-travel-vids/"><u>[Updated] 2024 Approved Navigate New Horizons with These 10 Travel Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[Updated] Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/accelerating-your-pcs-performance-effective-cleanup-tips-insights-by-yl-computing/"><u>Accelerating Your PC's Performance: Effective Cleanup Tips - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-visibility-selecting-the-right-youtube-thumbnail-dimensions-for-2024/"><u>Boost Visibility Selecting the Right YouTube Thumbnail Dimensions for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-2700-printer-drivers-download-2024-update/"><u>HP DeskJet 2700 Printer Drivers Download | 2024 Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-poco-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Poco X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-decoding-the-art-of-time-lapses-a-comprehensible-guide-with-gopro/"><u>In 2024, Decoding the Art of Time Lapses A Comprehensible Guide with GoPro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-updated-insignia-bluetooth-device-drivers-on-your-pc-with-windows-os/"><u>Installing Updated Insignia Bluetooth Device Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-blue-snowball-driver-updates-for-windows-pcs-what-you-need-to-know/"><u>Latest Blue Snowball Driver Updates for Windows PCs: What You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g29-steering-wheel-free-software-downloads-for-win-10-11-and-7-users/"><u>Logitech G29 Steering Wheel: Free Software Downloads for Win 10, 11, and 7 Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimizing-your-pc-with-new-amd-driver-updates-on-windows-10117-what-you-need-to-know/"><u>Optimizing Your PC with New AMD Driver Updates on Windows 10/11/7 – What You Need to Know</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-installation-guide-downloading-zexmte-bluetooth-adapter-driver-windows-compatible/"><u>Quick Installation Guide: Downloading Zexmtē Bluetooth Adapter Driver (Windows Compatible)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-the-western-digital-smart-explorer-ses-usb-driver-on-windows-8-and-newer/"><u>Step-by-Step Guide: Installing the Western Digital Smart Explorer (SES) USB Driver on Windows 8 and Newer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-to-get-your-lenovo-x1-carbon-up-and-running-on-windows-10-and-7/"><u>Step-by-Step Tutorial to Get Your Lenovo X1 Carbon Up and Running on Windows 10 & 7!</u></a></li>
 </ul></div>
 

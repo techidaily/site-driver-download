@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: How To Properly Set Up Your Dell Mouse On Any PC"
-date: 2024-09-13T18:46:57.502Z
-updated: 2024-09-16T17:39:17.157Z
+date: 2025-02-10T01:14:45.669Z
+updated: 2025-02-11T00:54:47.536Z
 tags:
   - win11
   - win10
@@ -26,9 +26,18 @@ thumbnail: https://thmb.techidaily.com/7bb012b92de4ee113b8b2224a3e1b18d05f55b62d
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**msinfo32** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-69.png)
 2. Here pops up the**System Information** window. On the**System Summary** tab, in the details pane, look for**System Manufacturer** and**System Model** , then take note of their**Value** – that’s precisely the make and model of your motherboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, as shown below, the motherboard manufacturer should be Dell and the device model should be Vostro 270.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-70.png)
 3. Close the window when you finish noting down the information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -46,6 +55,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  Motherboard manufacturers such as Intel keep updating their motherboard SSD Controller drivers. To get them, you need to go to their official websites, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.  
@@ -57,16 +70,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the SATA Controller driver
@@ -83,16 +87,7 @@ OR
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -129,5 +124,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/istorical-explorations-10-must-see-educational-channels-on-yt-for-2024/"><u>[New] Historical Explorations - 10 Must-See Educational Channels on YT for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vimeos-edge-over-youtube-what-the-data-says/"><u>[Updated] Vimeo’s Edge Over YouTube? What the Data Says</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/automated-maintenance-alert-set-up-weekly-reboots-on-your-samsung-galaxy-device/"><u>Automated Maintenance Alert: Set Up Weekly Reboots on Your Samsung Galaxy Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029359181-bilibili/"><u>Bilibili動画のダウンロードと保存がうまくいかない方法：修正手順</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-why-many-dismiss-windows-11-now/"><u>Decoding Why Many Dismiss Windows 11 Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/dell-sm-bus-controller-firmware-upgrade-guide/"><u>Dell SM Bus Controller Firmware Upgrade Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvme-driver-downloads-and-installation-instructions-for-windows-users/"><u>NVMe Driver Downloads and Installation Instructions for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963606159-razer-blade-17-driver-update-guide-for-windows-users-improve-gaming-and-work-efficiency-with-the-latest-software/"><u>Razer Blade 17 Driver Update Guide for Windows Users: Improve Gaming & Work Efficiency with the Latest Software</u></a></li>
+<li><a href="https://driver-download.techidaily.com/safe-lenovo-thinkpad-driver-downloads-installation-instructions-for-optimal-performance/"><u>Safe Lenovo ThinkPad Driver Downloads: Installation Instructions for Optimal Performance</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-freezing-issue-on-your-macbook-air/"><u>Step-by-Step Guide: Resolving the Freezing Issue on Your MacBook Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swiftly-recover-icon-positions-in-windows-10/"><u>Swiftly Recover Icon Positions in Windows 10</u></a></li>
+</ul></div>
 

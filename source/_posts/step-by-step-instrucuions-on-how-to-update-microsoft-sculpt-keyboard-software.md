@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instrucuions on How to Update Microsoft Sculpt Keyboard Software
-date: 2024-09-14T20:09:43.783Z
-updated: 2024-09-16T19:01:14.055Z
+date: 2025-02-07T20:47:49.381Z
+updated: 2025-02-10T16:41:30.601Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 [**Download Drivers with just 2 Clicks**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Download the Drivers from NVIDIA Manually**
 
  Ensure that you download the correct version, as incorrect version of the driver would cause incompatibility issue. Following steps are for your reference.
@@ -29,15 +33,27 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![NVIDIA Drivers](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ccd935a0f0a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Under Option 1, select “Product Type” to**GeForce** , “Product Series” to**GeForce 10 Series** , “Product” to**Geforce GTX 1080** , then select the Operating System to the specific version that you are using (Windows 10 32-bit or Windows 10 64-bit). If you are not sure what Windows version that you have, see[How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
 
  4\. Click on**DOWNLOAD** button then follow the on-screen instructions to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
@@ -48,6 +64,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 1\. Click **Scan Now**  button. Then Driver Easy will scan your computer within 20 seconds and find new drivers for your instantly.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Click**Update** button to download the driver that you wish to install.
 
@@ -68,18 +88,24 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-integrating-facebook-video-into-home-screen-apps/"><u>[New] 2024 Approved Integrating Facebook Video Into Home Screen Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-picks-essential-tools-to-play-ps1-games-on-your-computer/"><u>[New] 2024 Approved Top Picks - Essential Tools to Play PS1 Games on Your Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2-ways-to-loop-a-youtube-video-on-tv/"><u>[Updated] 2 Ways to Loop a YouTube Video On TV</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-secure-apps-for-hidden-instagram-stories/"><u>[Updated] 2024 Approved Secure Apps for Hidden Instagram Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-deep-dive-into-videomovavi-11s-features-and-performance-for-2024/"><u>[Updated] Deep Dive Into VideoMovavi 11'S Features & Performance for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-data-corruption-solutions-for-win11s-filesystem/"><u>Conquering Data Corruption: Solutions for Win11's Filesystem</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-steelseries-drivers-on-your-windows-pc-step-by-step-guide/"><u>Download & Install SteelSeries Drivers on Your Windows PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-epson-stylus-nx420-driver-for-latest-windows-operating-systems-windows-7-8-and-10/"><u>Download and Install Epson Stylus NX420 Driver for Latest Windows Operating Systems (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722967390378-download-updated-usb-camera-drivers-for-seamless-video-capture-experience/"><u>Download Updated USB Camera Drivers for Seamless Video Capture Experience.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-logitech-c270-video-camera-driver-for-enhanced-streaming-on-windows-10-and-11/"><u>Easy Installation of Logitech C270 Video Camera Driver for Enhanced Streaming on Windows 10 and 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-and-safe-installation-how-to-update-your-corsair-keyboard-drivers-on-windows/"><u>Free and Safe Installation: How to Update Your CORSAIR Keyboard Drivers on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hastenothalt-slowmotion-tape-for-2024/"><u>HasteNotHalt SlowMotion Tape for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-logitech-sound-drivers-on-your-pc-running-windows-versions-11-7-or-8/"><u>Installing Logitech Sound Drivers on Your PC Running Windows Versions 11, 7, or 8</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-raid-controller-driver-updates-and-downloads-for-various-windows-versions/"><u>Latest Intel RAID Controller Driver Updates & Downloads for Various Windows Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-fatal-error-ark-a-comprehensive-guide/"><u>Resolving 'Fatal Error ARK': A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-updating-your-lenovos-bios-and-driver-settings/"><u>Simple Steps: Updating Your Lenovo's BIOS and Driver Settings</u></a></li>
+</ul></div>
 

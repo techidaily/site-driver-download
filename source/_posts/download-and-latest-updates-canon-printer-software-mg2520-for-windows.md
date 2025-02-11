@@ -1,7 +1,7 @@
 ---
 title: "Download & Latest Updates: Canon Printer Software (MG2520) for Windows"
-date: 2025-01-23T05:02:01.080Z
-updated: 2025-01-30T02:11:47.565Z
+date: 2025-02-06T20:46:55.118Z
+updated: 2025-02-10T16:25:51.249Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MG2520 driver
 
 1. [Update printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -39,20 +43,20 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update printer driver automatically
@@ -76,16 +80,12 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaca85fc07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MG2520 printer driver, right?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3: Update printer driver in Device Manager
 
@@ -104,7 +104,7 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
@@ -139,18 +139,14 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>[New] In 2024, Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nfallible-way-to-forbid-youtubes-snappy-videos-for-2024/"><u>[New] Infallible Way to Forbid YouTube's Snappy Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-precision-capture-with-videoleaps-zoom-feature-for-2024/"><u>[Updated] Precision Capture with Videoleap's Zoom Feature for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/amd-vega-graphics-card-download-new-drivers-and-elevate-your-game/"><u>AMD Vega Graphics Card: Download New Drivers and Elevate Your Game!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-walkthrough-installation-of-logitech-mx-master-driver-programs/"><u>Complete Walkthrough: Installation of Logitech MX Master Driver Programs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/crafting-your-weekly-schedule-with-google-meet/"><u>Crafting Your Weekly Schedule with Google Meet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-epson-workforce-ds-30-printer-driver-compatible-with-windows-10-8-and-e/"><u>Download Epson WorkForce DS-30 Printer Driver - Compatible with Windows 10, 8 & E</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-version-of-dells-thunderbolt-tb16-port-expander-drivers/"><u>Get the Newest Version of Dell's Thunderbolt TB16 Port Expander Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A15 4G?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/revitalize-your-reels-selecting-the-best-5-enhancers-for-2024/"><u>Revitalize Your Reels Selecting the Best 5 Enhancers for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-honor-x7b-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor X7b FRP</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/tveranddvd-2024/"><u>TVer画面録画&動画DVDへの変換 - 2024新手順ガイド</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-extract-and-save-still-images-from-movies-in-windows-photos/"><u>[Updated] Extract and Save Still Images From Movies in Windows Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-vega-64-driver-installation-and-update-steps-for-windows-users-the-ultimate-how-to-guide/"><u>AMD Vega 64 Driver Installation and Update Steps for Windows Users: The Ultimate How-To Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-i-traded-my-high-end-ar-devices-for-more-value-check-out-these-budget-friendly-xr-solutions-at-zdnet/"><u>How I Traded My High-End AR Devices for More Value - Check Out These Budget-Friendly XR Solutions at ZDNET!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-handle-dbghelpdll-is-missing-errors-and-get-back-online/"><u>How to Correctly Handle 'dBghelp.dll Is Missing Errors' & Get Back Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-racing-wheel-support-software-downloads-compatible-with-windows-operating-systems-win-11-10-7/"><u>Logitech Racing Wheel Support – Software Downloads Compatible with Windows Operating Systems (Win 11, 10, 7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-gtx-1660-driver-enhancement-master-the-fast-and-easy-update-process/"><u>Seamless GTX 1660 Driver Enhancement: Master the Fast and Easy Update Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-resolving-graphics-card-driver-problems/"><u>Troubleshooting Guide: Resolving Graphics Card Driver Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862830058-xiaomi-g34wqi-34-inch-180hz-monitor-unveiled-fantastic-graphics-contrast-and-budget-friendly-for-gaming-enthusiasts/"><u>Xiaomi G34WQi 34-Inch 180Hz Monitor Unveiled! Fantastic Graphics, Contrast & Budget-Friendly for Gaming Enthusiasts</u></a></li>
 </ul></div>
 

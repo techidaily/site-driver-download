@@ -1,7 +1,7 @@
 ---
 title: Install Up-to-Date Graphics Card Drivers for GTX 980 Ti
-date: 2025-01-16T16:06:50.200Z
-updated: 2025-01-22T18:42:36.068Z
+date: 2025-02-06T21:41:38.148Z
+updated: 2025-02-10T22:38:37.625Z
 tags:
   - win11
   - win10
@@ -105,25 +105,23 @@ Then restart your computer if you want.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-10-games-comparable-to-grand-theft-auto-v/"><u>[Updated] 2024 Approved Essential 10 Games Comparable to Grand Theft Auto V</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-prolific-productions-top-10-text-techniques-to-captivate-viewers/"><u>[Updated] Prolific Productions Top 10 Text Techniques to Captivate Viewers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-mac-masterpiece-studio-audio-guide-for-2024/"><u>[Updated] The Mac Masterpiece Studio Audio Guide for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-master-classic-ps2-games-on-android-with-our-top-picks/"><u>2024 Approved Master Classic PS2 Games on Android with Our Top Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-megadron-mastery-industrys-top-heavy-loaders/"><u>2024 Approved Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/authoritative-ranking-top-power-inverter-systems-to-look-out-for/"><u>Authoritative Ranking: Top Power Inverter Systems to Look Out For</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canoscan-lide-120-free-driver-download-and-software-update-guide/"><u>CanoScan LiDE 120 - Free Driver Download & Software Update Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-canon-mf8200c-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon MF8200C Printer Drivers: Compatible with Windows 7, 8.1, and 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-zebra-gkgk420dhttpssupportzebracomproductsbarcode-printerssoftware-drivers-driver-downloads-for-immediate-use/"><u>Effortless Zebra GK^[GK420d](https://support.zebra.com/products/barcode-printers/software-drivers) Driver Downloads for Immediate Use</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-experience-with-freshly-released-nvidia-rtx-2n80-super-driver-packs-windows-compatibility-guaranteed/"><u>Enhance Your Experience with Freshly Released NVIDIA RTX 2N80 Super Driver Packs - Windows Compatibility Guaranteed!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hassle-free-update-guide-for-surface-book-drivers-quick-download-steps-inside/"><u>Hassle-Free Update Guide for Surface Book Drivers - Quick Download Steps Inside</u></a></li>
-<li><a href="https://review-topics.techidaily.com/realme-bypass-tools-to-bypass-lock-screen-realme-narzo-n53-by-drfone-android-unlock-android-unlock/"><u>Realme Bypass Tools to Bypass Lock Screen(Realme Narzo N53)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-setup-of-intels-ac-31n60-wi-fi-adapter-latest-driver-update-tutorial/"><u>Seamless Setup of Intel's AC 31N60 Wi-Fi Adapter - Latest Driver Update Tutorial</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211472921-9798330457786-shadows-of-a-secret/"><u>Shadows of a Secret | Free Book</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-fresh-driver-download-for-insignia-bluetooth-adapters-in-windows/"><u>Step-by-Step Guide: Fresh Driver Download for Insignia Bluetooth Adapters in Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-cutting-edge-cinema-10-famous-films-edited-with-final-cut-pro-for-2024/"><u>Updated Cutting-Edge Cinema 10 Famous Films Edited with Final Cut Pro for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instagram-glitch-reverse-angle-video-mystery/"><u>[New] Instagram Glitch Reverse-Angle Video Mystery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-perfect-windows-photos-implementing-sound-and-visual-filters-guide-for-2024/"><u>[New] Perfect Windows Photos Implementing Sound & Visual Filters Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-infuse-vibrancy-in-presentations-via-audio/"><u>2024 Approved Infuse Vibrancy in Presentations via Audio</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mg2520-driver-downloads-and-firmware-updates-for-optimal-performance-on-windows-systems/"><u>Canon MG2520 Driver Downloads & Firmware Updates for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-brother-mfc-7360n-drivers-quickly-for-windows-operating-systems-10-8-and-7/"><u>Download & Install the Latest Brother MFC-7360N Drivers Quickly for Windows Operating Systems (10, 8, and 7)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723204055633-effortless-ways-to-fix-your-overwatch-voice-chat-woes-today/"><u>Effortless Ways to Fix Your Overwatch Voice Chat Woes Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-dota-2-microphone-issues-a-comprehensive-guide/"><u>Fixing Dota 2 Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-download-and-update-ralink-driver-packages-for-your-windows-pc/"><u>How to Successfully Download and Update Ralink Driver Packages for Your Windows PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-effortlessly-engage-with-an-array-of-available-youtube-content/"><u>In 2024, Effortlessly Engage with an Array of Available YouTube Content</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722962025555-install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-pcs-gaming-experience-fresh-download-razer-drivers-for-windows-operating-systems-10-8-7-xp-vista/"><u>Keep Your PC's Gaming Experience Fresh: Download Razer Drivers for Windows Operating Systems (10, 8, 7, XP, Vista)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-enhancements-in-logitech-extreme-3d-pro-gaming-mouse-drivers/"><u>Latest Enhancements in Logitech Extreme 3D PRO Gaming Mouse Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/unlocking-seamless-printing-hp-laserjet-p2035-driver-troubleshooting-on-windows/"><u>Unlocking Seamless Printing: HP LaserJet P2035 Driver Troubleshooting on Windows</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

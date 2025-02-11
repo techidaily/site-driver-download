@@ -1,7 +1,7 @@
 ---
 title: Compatible with Windows 11/10/8? Download the Latest HP OfficeJet Pro
-date: 2024-09-09T18:26:27.543Z
-updated: 2024-09-16T18:22:18.863Z
+date: 2025-02-10T05:03:43.820Z
+updated: 2025-02-10T20:23:09.235Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** On the Device Manager window, right-click**Brother HL 2280DW** again, and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5.jpg)
@@ -82,10 +86,18 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Manually
 
@@ -95,27 +107,21 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select your operating system and the right version. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the driver you need and download it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Open the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -137,5 +143,26 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-in-game-captures-of-lol-tips-for-three-techniques/"><u>[New] 2024 Approved In-Game Captures of LOL Tips for Three Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unlock-free-tunes-steps-for-youtube-content-creators/"><u>[New] 2024 Approved Unlock Free Tunes Steps for YouTube Content Creators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>[New] In 2024, Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>[Updated] The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://driver-download.techidaily.com/access-improved-stability-and-speed-for-msi-x470-with-updated-drivers/"><u>Access Improved Stability & Speed for MSI X470 With Updated Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/acer-aspire-driver-downloads-for-windows-pcs-how-to/"><u>Acer Aspire Driver Downloads for Windows PCs - How To</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-driver-package-for-brother-mfc-l2740dw-compatible-with-all-windows-versions-download-now/"><u>Complete Driver Package for Brother MFC-L2740DW - Compatible with All Windows Versions, Download Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-drive-seamless-integration-with-targus-docking-station-drivers/"><u>Download & Drive: Seamless Integration with Targus Docking Station Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-x7-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo Find X7?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971461522-incorerpt-quotes-from-siegels-research-as-titles-for-different-sections-of-the-assembly-instructions-eg-the-key-here-was/"><u>Incorerpt Quotes From Siegel's Research as Titles for Different Sections of the Assembly Instructions (E.g., The Key Here Was...)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-updates-for-intel-integrated-graphics-on-windows-11-devices/"><u>Latest Updates for Intel Integrated Graphics on Windows 11 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/no-cost-no-hassle-get-your-windows-8-with-officially-supported-amd-graphics-drivers/"><u>No Cost, No Hassle! Get Your Windows 8 with Officially-Supported AMD Graphics Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-microsoft-audio-device-updates-available-for-quick-install-on-windows-machines/"><u>Official Microsoft Audio Device Updates Available for Quick Install on Windows Machines</u></a></li>
+<li><a href="https://fox-within.techidaily.com/story-2-the-overestimation-of-angioplasty-with-stent-placement/"><u>Story 2: The Overestimation of Angioplasty with Stent Placement</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-ch340g-chip-drivers-install-and-updates-for-windows-11/"><u>Ultimate Guide: CH340G Chip Drivers Install & Updates for Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-power-of-photo-rescue-free-fixer-apps-for-damaged-photographs-online/"><u>Unlock the Power of Photo Rescue: Free Fixer Apps for Damaged Photographs Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-leading-6-mac-video-grabber-apps-for-2024/"><u>Unveiling the Leading 6 Mac Video Grabber Apps for 2024</u></a></li>
+</ul></div>
 
