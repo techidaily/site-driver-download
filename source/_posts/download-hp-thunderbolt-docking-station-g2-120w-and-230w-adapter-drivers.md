@@ -1,7 +1,7 @@
 ---
 title: "Download HP Thunderbolt Docking Station G2: 120W & 230W Adapter Drivers"
-date: 2025-02-06T01:34:33.869Z
-updated: 2025-02-10T23:46:41.019Z
+date: 2025-02-25T02:47:04.240Z
+updated: 2025-03-01T02:32:16.733Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 
 Are you looking for the**Intel Thunderbolt Controller drivers** ? If the answer is “yes,” then you’ve come to the right place. As we all know, drivers are essential to your devices but the process of downloading and installing drivers can be quite fiddly sometimes. Don’t worry, here we’ll show you how to update your Intel Thunderbolt Controller driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update your Intel Thunderbolt Controller driver
 
 There are two ways you can update your driver:
@@ -33,27 +29,15 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -66,10 +50,6 @@ There are two ways you can update your driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -99,16 +79,19 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ypassing-blockbusters-2023-indie-favorites-for-2024/"><u>[New] Bypassing Blockbusters 2023 Indie Favorites for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-tutorial-transforming-video-content-into-captivating-animated-gifs/"><u>[New] In 2024, Tutorial Transforming Video Content Into Captivating Animated GIFS</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-in-depth-skype-call-recordings/"><u>[New] In 2024, Unlocking the Potential In-Depth Skype Call Recordings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>[New] The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
-<li><a href="https://driver-download.techidaily.com/diy-how-to-seamlessly-update-and-download-dell-screen-driver-packages/"><u>DIY: How to Seamlessly Update and Download Dell Screen Driver Packages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-picks-best-sound-cards-to-elevate-your-computers-audiovisual-experience/"><u>Expert Picks: Best Sound Cards to Elevate Your Computer's Audiovisual Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-newest-hp-laserjet-p1606dn-windows-compatible-printing-software-installed-today/"><u>Get Your Newest HP LaserJet P1606dn Windows-Compatible Printing Software Installed Today!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-aoc-graphics-card-drivers-for-windows-10118-free-download-and-guide/"><u>Latest AOC Graphics Card Drivers for Windows 10/11/8 - Free Download & Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-guide-get-the-latest-amd-ryzen-5-2400g-graphics-card-drivers/"><u>Quick Setup Guide: Get the Latest AMD Ryzen 5 2400G Graphics Card Drivers</u></a></li>
-<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-arduino-uno-connection-difficulties-in-windows-environment/"><u>Troubleshooting Arduino Uno Connection Difficulties in Windows Environment</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-conquer-snapchats-boomerang-challenges-easily/"><u>[Updated] 2024 Approved Conquer Snapchat's Boomerang Challenges Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-turn-viewers-into-vendors-yielding-wealth-with-youtube-analytics/"><u>[Updated] In 2024, Turn Viewers Into Vendors Yielding Wealth with YouTube Analytics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snapcutmaster-insights-full-scrutiny/"><u>[Updated] SnapCutMaster Insights – Full Scrutiny</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-photosynth-pros-a-quick-snapchat-peek/"><u>2024 Approved Photosynth Pros A Quick Snapchat Peek</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/beam-into-collaborative-spaces-within-tiktok-for-2024/"><u>Beam Into Collaborative Spaces Within TikTok for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-windows-drivers-for-epson-et-2750-printer/"><u>Download the Latest Windows Drivers for Epson ET-2750 Printer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-drivers-for-nvidia-geforce-rtx-2060-on-windows-111087-free/"><u>Download the Newest Drivers for NVIDIA GeForce RTX 2060 on Windows 11/10/8/7 - FREE</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-downloading-epson-wf-2750-drivers/"><u>Easy Installation Guide: Downloading Epson WF-2750 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-updating-your-realtek-hardware-with-windows-10-compatible-drivers/"><u>Guide to Updating Your Realtek Hardware with Windows 10 Compatible Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-optimize-amd-vega-64-performance-driver-updates-and-installation-tips-for-windows-users/"><u>How to Optimize AMD Vega 64 Performance – Driver Updates & Installation Tips for Windows Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-a2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi A2 Phone? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-installing-updated-drivers-on-your-windows-pc-for-amd-vega-64-graphics-card/"><u>Step-by-Step Guide to Installing Updated Drivers on Your Windows PC for AMD Vega 64 Graphics Card</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-windows-pc-broadcast-toolkit-for-live-tv-capture-for-2024/"><u>The Ultimate Windows PC Broadcast Toolkit for Live TV Capture for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722963051877-troubleshoot-your-connection-latest-wireless-driver-fixes-and-downloads/"><u>Troubleshoot Your Connection: Latest Wireless Driver Fixes & Downloads</u></a></li>
 </ul></div>
 

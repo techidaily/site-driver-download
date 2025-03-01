@@ -1,7 +1,7 @@
 ---
 title: Free HP LaserJet 1018 Drivers and Firmware Update
-date: 2025-02-09T17:53:24.961Z
-updated: 2025-02-10T19:17:16.797Z
+date: 2025-02-27T02:02:37.730Z
+updated: 2025-03-01T02:14:35.704Z
 tags:
   - win11
   - win10
@@ -19,20 +19,12 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
  If you’d like to download or update your HP LaserJet 1018 driver, you’ve come to the right place. After reading this, you’ll know exactly what to do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these methods
 
  Here are 2 methods you can try to update the driver; just select the one you need.
 
 * **[Method 1 – Automatically update the HP LaserJet 1018 driver (Recommended)](https://www.drivereasy.com/knowledge/hp-laserjet-1018-driver-download-for-windows-7-8-10/#a)**
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
 
@@ -48,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
@@ -59,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2 – Download and install the driver manually
 
@@ -73,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 **2)**  Type **laserjet 1018** on the search box, then click your product from the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-232-1024x310.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Click **Software, Drivers and Firmware** .
 
@@ -105,17 +85,22 @@ thumbnail: https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-step-by-step-guide-to-zoom-use-on-windows-pcs-win10/"><u>[New] 2024 Approved A Step-by-Step Guide to Zoom Use on Windows PCs (Win10)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-visual-revolution-how-to-upgrade-your-snapchat-photos/"><u>[Updated] A Visual Revolution How to Upgrade Your Snapchat Photos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-switching-up-your-iphones-call-sound-effectively/"><u>[Updated] In 2024, Switching up Your iPhone's Call Sound Effectively</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-dell-networking-drivers-compatible-with-windows-7/"><u>Download the Latest Dell Networking Drivers Compatible with Windows 7</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-blackout-in-windows-11-after-fall-update/"><u>Ending Blackout in Windows 11 After Fall Update</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-your-canon-mp280-drivers-on-windows-10-or-earlier-versions/"><u>How to Get Your Canon MP280 Drivers on Windows 10 or Earlier Versions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y100t-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo Y100t?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/masterful-descriptions-for-impactful-podcast-intros-for-2024/"><u>Masterful Descriptions for Impactful Podcast Intros for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/pcpodcast/"><u>PCやスマートフォンで簡単にPodcast レコーディングのコツ</u></a></li>
-<li><a href="https://driver-download.techidaily.com/realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-11-and-7-free-download/"><u>Realtek RTL8188CU Wi-Fi Drivers Compatible with Windows 11 & 7 - Free Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/sm-bus-controller-downloads-compatible-drivers-for-windows-users-win-11-win-10-win-8-and-win-7/"><u>SM Bus Controller Downloads: Compatible Drivers for Windows Users (Win 11, Win 10, Win 8 & Win 7)</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-amd-graphics-drivers-on-windows-10-11-and-7-step-by-step-guide/"><u>Upgrading AMD Graphics Drivers on Windows 10, 11 & 7: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-guide-to-share-igtv-with-minimal-hassle/"><u>[New] In 2024, Guide to Share IGTV with Minimal Hassle</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expertise-in-speech-conversion-mastering-googles-method/"><u>[Updated] 2024 Approved Expertise in Speech Conversion Mastering Google’s Method</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smooth-panoramas-state-of-the-art-tracker-tech/"><u>[Updated] Smooth Panoramas State-of-the-Art Tracker Tech</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-essence-of-crossfading-soundtracks-for-2024/"><u>[Updated] The Essence of Crossfading Soundtracks for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-note-50-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme Note 50 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mf8500c-printer-drivers-free-download-guide-for-windows-operating-systems/"><u>Canon MF8500C Printer Drivers: Free Download Guide for Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/decoding-and-fixing-failed-intel-dptf-driver-installations-a-comprehensive-solution/"><u>Decoding and Fixing Failed Intel DPTF Driver Installations – A Comprehensive Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-guide-crafting-your-own-homemade-projector-screen/"><u>DIY Guide: Crafting Your Own Homemade Projector Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-sandisk-drivers-on-windows-10-guide-and-free-download/"><u>Effortless Installation of SanDisk Drivers on Windows 10: Guide & Free Download</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964754541-ethical-harvesting-practices-to-ensure-sustainability-of-ophiocordyceps-sinensis-populations-in-the-wild/"><u>Ethical Harvesting Practices to Ensure Sustainability of Ophiocordyceps Sinensis Populations in the Wild.</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-windows-compatible-drivers-for-your-hp-officejet-4650-printer-today/"><u>Get the Newest Windows-Compatible Drivers for Your HP Officejet 4650 Printer Today!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-hp-deskjet-3755-printer-software-packs-for-windows-operating-systems/"><u>Latest HP DeskJet 3755 Printer Software Packs For Windows Operating Systems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/surface-book-2-fresh-driver-downloads-and-effortless-update-tutorials/"><u>Surface Book 2: Fresh Driver Downloads & Effortless Update Tutorials</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-network-attached-storage-solutions-in-2eighty-four-a-comprehensive-guide/"><u>Top Network Attached Storage Solutions in 2Eighty-Four: A Comprehensive Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-resolving-ntfssys-failure-in-windows-11-bsod/"><u>Troubleshooting and Resolving ntfs.sys Failure in Windows 11 BSOD</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-nvidia-gtx-1650-super-drivers-on-windows-fresh-release/"><u>Update Your NVIDIA® GTX 1650 SUPER Drivers on Windows - Fresh Release</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mountain Range Custom Pointer Control Program
-date: 2025-02-07T16:56:54.601Z
-updated: 2025-02-11T00:31:58.503Z
+date: 2025-02-23T16:31:26.147Z
+updated: 2025-03-01T01:25:16.107Z
 tags:
   - win11
   - win10
@@ -29,27 +29,15 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the Intel Thunderbolt Controller drivers. To get them, you need to go to the **[Intel Support](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fus%2Fen%2F04%2Fdrivers%2Fdriversdetails%3Fdriverid%3D0xcpp)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-484-1024x211.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel Thunderbolt Controller driver
 
@@ -62,14 +50,6 @@ There are two ways you can update your driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Intel Thunderbolt Controller driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-482.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -99,18 +79,22 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-the-short-video-sphere-the-roadmap-for-profitable-tiktok-marketing/"><u>[Updated] 2024 Approved Mastering the Short-Video Sphere The Roadmap for Profitable TikTok Marketing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-peering-into-youtube-interactive-threads/"><u>2024 Approved Peering Into YouTube Interactive Threads</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-your-signal-strength-with-the-durable-netgear-nighthawk-x6s-extender/"><u>Boost Your Signal Strength with the Durable Netgear Nighthawk X6S Extender</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-a-smarter-way-to-find-answers-microsofts-bing-gets-an-innovative-ai-upgrade/"><u>Discover a Smarter Way to Find Answers: Microsoft's Bing Gets an Innovative AI Upgrade</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722960092280-enhance-your-audio-experience-with-new-m-audio-drivers-win-117881-ready/"><u>Enhance Your Audio Experience with New M-Audio Drivers – Win 11/7/8/8.1 Ready!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-download-and-install-for-your-brother-mfc-7860dw-printer-on-windows-systems/"><u>Get the Newest Drivers: Download and Install for Your Brother MFC-7860DW Printer on Windows Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-v30-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme V30 Phone that is Locked?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-razer-drivers-step-by-step-guide-for-windows-11-8-7-and-xpvista-users/"><u>Installing Razer Drivers - Step-by-Step Guide for Windows 11, 8, 7 & XP/Vista Users</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp4-conversion-tutorial-changing-your-videos-to-mp4-format-on-macos/"><u>MP4 Conversion Tutorial: Changing Your Videos to Mp4 Format on macOS</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-guide-for-your-intel-centrino-n-6205-wireless-networking-card-drivers/"><u>Quick Setup Guide for Your Intel Centrino N 6205 Wireless Networking Card Drivers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-ultimate-guide-for-premiere-pro-full-screen-viewing/"><u>The Ultimate Guide for Premiere Pro Full Screen Viewing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-a15-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy A15 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://driver-download.techidaily.com/usb-webcam-driver-setup-made-easy-fast-download-options/"><u>USB Webcam Driver Setup Made Easy - Fast Download Options</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-amplify-imagery-with-simple-grading-tricks/"><u>[New] Amplify Imagery with Simple Grading Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pausecapture-stop-and-save-live-image/"><u>[New] PauseCapture Stop & Save Live Image</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-6-figure-visibility-on-youtube-via-optimal-hashtags/"><u>[Updated] Unlock 6-Figure Visibility on YouTube via Optimal Hashtags</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>2024 Approved [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-tutorial-acquiring-and-installing-the-newest-huion-tablet-drivers-for-windows-machines/"><u>Comprehensive Tutorial: Acquiring and Installing the Newest Huion Tablet Drivers for Windows Machines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-stunning-ai-imagery-leveraging-dall-e-with-chatgpt-v4/"><u>Creating Stunning AI Imagery: Leveraging DALL-E with ChatGPT V4</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-newest-amd-radeon-pro-w5700-drivers-compatible-with-windows-11107/"><u>Download the Newest AMD Radeon Pro W5700 Drivers Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-xbox-accessory-controller-drivers-solutions-for-windows-10-8-and-7/"><u>Fixing Xbox Accessory Controller Drivers: Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-c55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme C55 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-now-secure-your-intel-centrino-n-6205-wi-fi-card-with-updated-drivers/"><u>Install Now: Secure Your Intel Centrino N 6205 Wi-Fi Card with Updated Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-canon-mg490-windows-driver-installation-instructions-and-updates/"><u>Latest Canon MG490 Windows Driver Installation Instructions & Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimal-gaming-experience-with-bless-unleashed-fixing-high-latency-problems-for-smoother-play-on-your-computer/"><u>Optimal Gaming Experience with Bless Unleashed: Fixing High Latency Problems for Smoother Play on Your Computer</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-usb-nanodrivers-on-windows-os-versions-10-7-and-8/"><u>Step-by-Step Guide: Updating Your USB nanoDRIVERS on Windows OS Versions (10, 7, & 8)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-ultimate-list-of-10-free-avi-joiner-software-for-windows-and-mac-for-2024/"><u>The Ultimate List of 10 Free AVI Joiner Software for Windows and Mac for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-installing-hp-envy-5660-drivers/"><u>Ultimate Guide to Downloading and Installing HP Envy 5660 Drivers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-pc-the-ultimate-guide-to-new-targus-displaylink-drivers-for-windows-versions/"><u>Update Your PC - The Ultimate Guide to New Targus DisplayLink Drivers for Windows Versions</u></a></li>
 </ul></div>
 
